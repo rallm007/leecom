@@ -1,0 +1,11 @@
+
+.history-items {
+    background: url("../images/nl/history-items-nl.jpg")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/nl/history-items-nl.jpg*/ no-repeat;
+	height: 4348px;
+	margin: -9px 0 0 3px;
+	width: 620px
+}
+
+#panel-nav .language > a{
+    background-position: -210px -194px;
+}

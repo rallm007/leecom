@@ -1,0 +1,56 @@
+
+#panel-nav .language > a{
+	background-position: -227px 2px;
+}
+
+.history-items {
+    background: url("../images/fr/history-items-fr.jpg")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/fr/history-items-fr.jpg*/ no-repeat;
+	height: 4348px;
+	margin: -9px 0 0 3px;
+	width: 620px
+}
+
+/* accessories detail */
+/*.accessories_detail_right .button.ci2-extendable.open_distr_finder {
+	padding-left: 10px;
+	width: 290px
+}*/
+.accessories_detail_right .product-act-nav li > a {
+	line-height: 14px;
+}
+.accessories_detail_right .product-act-nav li.distributor a {
+	text-align:center;
+	width: 100px
+}
+
+/* added-to-cart layer */
+
+#added-to-cart .buttons .button.grey{
+	width: 170px !important
+}
+
+/* login layer */
+
+#login-box .distr-register .button {
+	padding-left: 5px !important;
+	width: 245px !important
+}
+
+/* checkout */
+
+.checkout-items-table tr.voucher .button{
+	width: 175px !important
+}
+.checkout-bottom-buttons .button.grey-left{
+	width: 160px
+}
+.checkout-bottom-buttons .button.grey-left.w180{
+	width: 190px
+}
+
+/* MyJuwel */
+
+.myjuwel .button.green{
+	width: 250px !important
+	
+}

@@ -1,0 +1,89 @@
+/*
+ * CSS Styles that are needed by jScrollPane for it to operate correctly.
+ *
+ * Include this stylesheet in your site or copy and paste the styles below into your stylesheet - jScrollPane
+ * may not operate correctly without them.
+ */
+
+.jspContainer{overflow: hidden;position: relative}
+.jspPane{position: absolute}
+
+.jspVerticalBar
+{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 10px;
+	height: 100%;
+}
+.jspVerticalBar *{
+	margin: 0;
+	padding: 0;
+}
+
+.jspCap{display: block; width:10px}
+	.jspCapTop{background: url("../images/all/scrollbar/scrollbar-top.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/scrollbar/scrollbar-top.png*/ no-repeat left top; height: 3px}
+	.jspCapBottom{background: url("../images/all/scrollbar/scrollbar-btm.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/scrollbar/scrollbar-btm.png*/ no-repeat left top; height: 2px}
+
+.jspTrack{
+	background: url("../images/all/scrollbar/scrollbar-bg.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/scrollbar/scrollbar-bg.png*/ repeat-y left top;
+	position: relative;
+}
+
+.jspDrag{
+	background: #c8ccce url("../images/all/scrollbar/drag-grip.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/scrollbar/drag-grip.png*/ no-repeat center center;
+	position: relative;
+	top: 0;
+	left: 0;
+	cursor: pointer;
+}
+	.jspDragTop, .jspDragBottom{position: absolute; width: 10px}
+	.jspDragTop{background: url("../images/all/scrollbar/drag-top.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/scrollbar/drag-top.png*/ no-repeat left top; height:3px; top: -3px;}
+	.jspDragBottom{background:url("../images/all/scrollbar/drag-btm.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/scrollbar/drag-btm.png*/ no-repeat left bottom; height:2px; bottom: -2px;}
+.jspHorizontalBar .jspTrack,
+.jspHorizontalBar .jspDrag{
+	float: left;
+	height: 100%;
+}
+
+.jspArrow{
+	background: #50506d;
+	text-indent: -20000px;
+	display: block;
+	cursor: pointer;
+}
+
+.jspArrow.jspDisabled{
+	cursor: default;
+	background: #80808d;
+}
+
+.jspVerticalBar .jspArrow
+{
+	height: 16px;
+}
+
+.jspHorizontalBar .jspArrow
+{
+	width: 16px;
+	float: left;
+	height: 100%;
+}
+
+.jspVerticalBar .jspArrow:focus
+{
+	outline: none;
+}
+
+.jspCorner
+{
+	background: #eeeef4;
+	float: left;
+	height: 100%;
+}
+
+/* Yuk! CSS Hack for IE6 3 pixel bug :( */
+* html .jspCorner
+{
+	margin: 0 -3px 0 0;
+}

@@ -1,0 +1,527 @@
+.ie7 a.arrow-link,
+.ie7 #breadcrumb-bottom ul,
+.ie7 #breadcrumb-bottom ul li,
+.ie7 #footer .inline-nav li,
+.ie7 #footer ul.payment li,
+.ie7 .stage-slider-pagination a,
+.ie7 .accessories_detail_right .small,
+.ie7 #distr_finder .infoBox .infobox_bottom span{
+	display: inline;
+	zoom: 1
+}
+.ie7 .button{
+	display: block
+}
+.ie7 .stage-slider-pagination a{
+	display: block;
+	float: left;
+}
+
+.ie7 .tab-teaser-technical a.arrow-link{
+	position: absolute;
+	float: none;
+	top: 12px;
+	right: 20px
+}
+
+/* main - nav */
+.ie7 .main-nav > ul > li:hover{
+	cursor: pointer
+}
+
+.ie7 .before, .ie7 .after{/* fixes the :before (.before) & :after (.after) - behavior */
+	display: block;
+	padding:0;
+	margin: 0;
+	position: absolute;
+}
+
+.ie7 .main-nav > ul > li.active > a .before,
+.ie7 .main-nav > ul > li:hover > a .before{
+	background: url("../images/all/main-nav-sprite.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/main-nav-sprite.png*/ no-repeat left -56px;
+	height: 46px;
+	position: absolute;
+	left: -13px;
+	top: 0;
+	width: 13px;
+}
+.ie7 .main-nav > ul > li:hover > a .before{
+	background-position: left -170px;
+}
+
+/* -----  main-nav --- flyout  ----- */
+
+.ie7 .main-nav .flyout .left li{
+	display: block;
+	height: 30px;
+	margin-top: -3px;
+}
+
+.main-nav .flyout .left a:hover .before{
+	background: transparent url("../images/all/main-nav-sprite.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/main-nav-sprite.png*/ no-repeat right -77px;
+	display:block !important;
+	height: 12px;
+	left: 142px !important;
+	top: 10px;
+	width: 7px
+}
+
+.ie7 .main-nav .flyout .right .right-before{/* right bg (green-blue) */
+	background: url("../images/all/product-flyout-bg-right.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/product-flyout-bg-right.png*/ no-repeat 0px 0px;
+	height: 308px;
+	right: -8px;
+	top: 0px;
+	padding-bottom: 8px;
+	width: 23px;
+}
+.main-nav .products .drop .before,
+.main-nav .products .drop .after{
+	display: none
+}
+.main-nav .flyout .left .left-after,
+.main-nav .flyout .right .right-after,
+.main-nav .flyout .left .left-before,
+.main-nav .flyout .right .right-before{
+	display: block;
+	padding:0;
+	margin: 0;
+	position: absolute;
+}
+.main-nav .flyout .left .left-before{
+	background: url("../images/all/product-flyout-bg-left.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/product-flyout-bg-left.png*/ no-repeat 0px 0px;
+	height: 308px;
+	padding-bottom: 8px;
+	left: -17px;
+	top: 0;
+	width: 17px
+}
+
+.main-nav .flyout .left .left-after,
+.main-nav .flyout .right .right-after{
+	background: url("../images/all/product-flyout-bg-bottom.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/product-flyout-bg-bottom.png*/ repeat-x 0px 0px;
+	height: 8px;
+	left: 0;
+	top: 308px;
+	width: 100%
+}
+
+.main-nav .flyout .right .right-after{
+	width: 545px
+}
+
+.main-nav .flyout.closed .right .right-after{
+	width: 0px
+}
+
+.ie7 .main-nav .flyout .sizes{
+	float: none;
+	overflow: hidden
+}
+
+/* ***** panel nav ***** */
+
+#panel-nav{
+	z-index: 200
+}
+/* icons */
+#panel-nav .icon .before{
+	background: url("../images/all/panel-nav-sprite.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/panel-nav-sprite.png*/ no-repeat -2px -2px;
+	height: 19px;
+	left: 2px;
+	top: -2px;
+	width: 19px;
+}
+#panel-nav.logged-in .my-juwel .icon .before{
+	background-position: -2px -26px
+}
+#panel-nav .cart > .after{/* right divider before cart */
+	background: url("../images/all/nav-dot-divider.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/nav-dot-divider.png*/ no-repeat right center;
+	height: 16px;
+	left: -10px;
+	top: 8px;
+	width: 1px
+}
+
+#panel-nav .cart .icon .before{
+	background-position: -32px -1px;
+	width: 23px
+}
+#panel-nav .cart.filled .icon .before{
+	background-position: -32px -24px
+}
+
+/* drop-arrow */
+#panel-nav li.has-drop > a .after{
+	background: url("../images/all/panel-nav-sprite.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/panel-nav-sprite.png*/ no-repeat -2px -45px;
+	height: 4px;
+	right: -14px;
+	top: 6px;
+	width: 7px
+}
+#panel-nav li.my-juwel > a .after{
+	right: -18px;
+}
+#panel-nav li.language > a .after{
+	right: 8px
+}
+
+#panel-nav .main-panel .has-drop:hover > .before{/* left shadow-border */
+	background: url("../images/all/panel-nav-sprite.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/panel-nav-sprite.png*/ no-repeat left -165px;
+	height: 28px;
+	left: -8px;
+	top: 0;
+	width: 8px
+}
+#panel-nav .drop span.before{
+	margin: 0;
+	padding: 0
+}
+
+#panel-nav .my-juwel .drop a:first-child .before{/* lock */
+	background: url("../images/all/panel-nav-sprite.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/panel-nav-sprite.png*/ no-repeat right -1px;
+	height: 14px;
+	right: 9px;
+	top: 7px;
+	width: 14px
+}
+#panel-nav.logged-in .my-juwel .drop a:first-child .before{
+	 background-position: right -30px
+}
+#panel-nav .language .drop a .before{
+	background:  url("../images/all/panel-nav-sprite.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/panel-nav-sprite.png*/ no-repeat -195px -1px;
+	height: 11px;
+	left: 10px;
+	top: 8px;
+	width: 16px
+}
+#panel-nav .language .drop a.en_GB .before{
+	background-position: -195px -18px
+}
+#panel-nav .language .drop a.fr_FR .before{
+	background-position: -232px -1px
+}
+/* ---- breadcrumb ----- */
+
+.breadcrumb li .before{/* slash after item */
+	height: 12px;
+	right: 2px;
+	top: -1px;
+	width: 7px;
+}
+.breadcrumb li:first-child .before,
+.breadcrumb li:last-child .before{/* no slash after first and last item */
+	display: none
+}
+
+/* ---- Tabs ----- */
+.content-tabs .ui-tabs-nav li{
+
+}
+.content-tabs .ui-tabs-nav li.ui-state-hover{
+
+}
+.content-tabs .ui-tabs-nav li.ui-tabs-selected {
+
+}
+
+/* ----- Homepage ----- */
+/*.ie7 #home-stage-pagination .before{
+	background: url(../images/all/home-stage-pagination-sprite.png) no-repeat left -35px;
+	height: 31px;
+	left: -7px;
+	top: 0;
+	width: 10px
+}*/
+
+.home-teaser-big.new .teaser-img .before{
+	background: url("../images/all/icon_new.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/icon_new.png*/ repeat-x;
+	height: 52px;
+	right: -10px;
+	top: 22px;
+	width: 52px;
+}
+
+
+/* ---- assessories overview ----- */
+
+.ie7 .accessories-teaser div{
+	cursor: pointer
+}
+
+
+/* ----- product-detail-page ----- */
+.ie7 .stage-nav{
+	z-index: 1000
+}
+.ie7 .stage-nav span{
+	cursor: pointer
+}
+.product-detail-stage{z-index:1}
+.product-detail-stage .caroufredsel_wrapper{z-index:1}
+.product-detail-stage .right{z-index:1}
+.product-detail-stage .product-image{z-index:2}
+.product-thumbnail-navi{
+	z-index: 2;
+	zoom: 1;
+}
+.product-thumbnail-navi .inner-wrapper{
+	overflow: hidden;
+	position: relative
+}
+.product-detail-stage .stage-top-wrapper .stage-slider-pagination{
+	position: relative;
+	zoom:1;
+
+}
+/*.product-detail-stage .product-image{
+	z-index: 100
+}*/
+
+.variations-slider .before{/* left background */
+	background: url("../images/all/variations-slider_left-bg.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/variations-slider_left-bg.png*/ no-repeat;
+	height: 10px;
+	left: -16px;
+	top: 3px;
+	width: 17px
+}
+.variations-slider .after{/* right background */
+	background: url("../images/all/variations-slider_right-bg.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/variations-slider_right-bg.png*/ no-repeat;
+	height: 10px;
+	right: -17px;
+	top: 3px;
+	width: 17px
+}
+
+/* ----- assessories-detail-page ----- */
+.accessories_detail-thumb-nav .overview-drop .before,
+.accessories_detail-thumb-nav .overview-drop .after{
+	right: 0px;
+	width: 100%
+}
+.accessories_detail-thumb-nav .overview-drop .before{
+	background: url("../images/all/accessories_overview-drop_top.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/accessories_overview-drop_top.png*/ no-repeat;
+	height: 25px;
+	top: -25px
+}
+.accessories_detail-thumb-nav .overview-drop .after{
+	background: url("../images/all/accessories_overview-drop_bottom.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/accessories_overview-drop_bottom.png*/ no-repeat;
+	height: 12px;
+	bottom: -12px
+}
+
+.accessories_detail_right .compatibility{
+	float: right;
+	margin-top: 24px;
+}
+.accessories_detail_right .compatibility.right{
+	margin-top: 12px;
+}
+
+.accessories_detail_images{z-index: 20; position: relative}
+
+.tab-teaser .slide-toggle h4{
+	padding-top: 9px
+}
+.tab-teaser .slide-toggle h4 .before{
+	background: url("../images/all/slide-toggle_sprite.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/slide-toggle_sprite.png*/ no-repeat 0px 0px;
+	height: 12px;
+	left: 15px;
+	top: 12px;
+	width: 11px
+}
+.tab-teaser .slide-toggle h4:hover .before{
+	background-position: 0px -20px;
+}
+.tab-teaser .slide-toggle h4.active .before,
+.tab-teaser .slide-toggle h4.active:hover .before{
+	background-position: left -38px;
+}
+
+
+/* buttons */
+
+.button.grey-left .before,
+.button.green-right .before,
+.button.grey .before,
+.button.grey-small .before,
+.button.light-grey-right .before,
+.button.green .before,
+.button.ci3-extendable .before,
+.button.ci2-extendable .before{
+	background: #fff url("../images/all/button-sprite.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/button-sprite.png*/ no-repeat 0 -548px;
+	display: block;
+	float:right;
+	height: 35px;
+	position: relative;
+}
+
+	.button.ci3-extendable .before{
+		background-position: right -220px;
+		height: 31px;
+		margin: -7px 0 0 0;
+		width: 57px
+	}
+	.button.ci3-extendable:hover .before{
+		background-position: right -271px;
+	}
+	.button.grey .before,
+	.button.green .before{
+		background-position: right -658px;
+		margin: -25px 0 0 0 !important;
+		width: 3px
+	}
+	.button.grey:hover .before{background-position: right -713px}
+
+	.button.green .before{background-position: right -911px}
+	.button.green:hover .before{background-position: right -966px}
+
+	.button.grey-small .before{
+		background-position: right -768px;
+		height: 23px;
+		margin: -20px 0 0 0;
+		width: 3px
+	}
+	.button.grey-small:hover .before{
+		background-position: right -768px;
+	}
+
+	.button.grey-left .before{
+		background-position: 0 -548px;
+		float: left;
+		margin: -25px 0px 0 0;
+		width: 14px
+	}
+	.button.grey-left:hover .before{
+		background-position: 0 -603px;
+	}
+
+	.button.green-right .before{
+		background-position: right -438px;
+		margin: -25px -2px 0 0;
+		width: 14px
+	}
+	.button.green-right:hover .before{
+		background-position: right -493px;
+	}
+	#login-box .distr-register .button.green-right .before{background-color: #f4f7f9}
+
+	.button.light-grey-right .before,
+	.button.light-grey-right:hover .before{
+		background-position: right -856px;
+		margin: -25px -2px 0 0;
+		width: 14px
+	}
+	.button.ci2-extendable .before{
+		background: #fff url("../images/all/button-sprite2.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/button-sprite2.png*/ no-repeat right 0;
+		margin: -25px 0 0 0;
+		width: 55px
+	}
+	.button.ci2-extendable:hover .before{
+		background-position: right -55px;
+	}
+	
+	.button.ci3-extendable .before{
+		background-position: right -220px;
+		height: 31px;
+		margin: -23px 0 0 0;
+		width: 57px
+	}
+	.button.ci3-extendable:hover .before{
+		background-position: right -271px;
+	}
+
+	/* checkout process */
+
+	.checkout-process li .after{
+		background: url("../images/all/checkout-process-sprite.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/checkout-process-sprite.png*/ no-repeat left 0px;
+		height: 40px;
+		right: -14px;
+		top: 0;
+		width: 14px;
+	}
+	/*.checkout-process li{z-index: 10}*/
+	.checkout-process li.active .after{
+		background-position: left -60px
+	}
+
+	/* forms */
+	.form-select{z-index: 10}
+
+	.form-select.error .before{
+		background: transparent url("../images/all/forms/select_error.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/forms/select_error.png*/ no-repeat 0 0;
+		height: 29px;
+		right: -47px;
+		top: 25px;
+		width: 40px
+	}
+
+	/* MyJuwel */
+	.slide-toggle.big-toggle h4 .closed, .slide-toggle.big-toggle h4 .open{position: absolute; right: 60px; top: 12px; float: none}
+	.slide-toggle.big-toggle h4 .before{top: 15px}
+
+	/* produktkarussell */
+	.product-overview-wrapper{ position: relative; z-index: 10}
+	.stage-slider-pagination a div{text-indent: 0}
+
+	.product-overview .item .line-info .before,
+	.product-overview .item .line-info .after{
+		background: transparent url("../images/all/product-overview_select-popup_sprite.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/product-overview_select-popup_sprite.png*/ no-repeat;
+		top: 0;
+		width: 16px;
+		height: 199px
+	}
+	.product-overview .item .line-info .before{
+		left: -16px;
+	}
+	.product-overview .item .line-info .after{
+		background-position: 0 -200px;
+		right: -16px
+	}
+		.product-overview .item .line-info .inner .before{
+			background: transparent url("../images/all/product-overview_select-popup_arrow.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/product-overview_select-popup_arrow.png*/ no-repeat;
+			top: -6px;
+			left: 50%;
+			width: 40px;
+			height: 12px;
+			margin-left: -10px
+		}
+
+	/* service- > glossary */
+	ul.alphabet li.active{z-index: 1}
+	.ie7 .slide-toggle.blue-arrows h4{padding-top: 0}
+	.slide-toggle.blue-arrows h4 .before,
+	.slide-toggle.blue-arrows h4:hover .before{
+		background: transparent url("../images/all/blue_arrows_sprite.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/blue_arrows_sprite.png*/ no-repeat left top;
+		top: 3px;
+		left: 0;
+	}
+	.slide-toggle.blue-arrows h4.active .before,
+	.slide-toggle.blue-arrows h4.active:hover .before{
+		background-position:left -24px;
+		top: 3px;
+		left: -2px;
+	}
+
+	/* Händlersuche */
+	#distr_finder .distance-slider .before{ /* left circle */
+		background: url("../images/all/distr_finder-sprite.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/distr_finder-sprite.png*/ no-repeat left -484px;
+		height: 12px;
+		left: -13px;
+		top: -5px;
+		width: 12px
+	}
+	#distr_finder .distance-slider .after{ /* right circle */
+		background: url("../images/all/distr_finder-sprite.png")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/distr_finder-sprite.png*/ no-repeat -159px -478px;
+		height: 25px;
+		right: -26px;
+		top: -11px;
+		width: 25px
+	}
+	#distr_finder .results .scrollcontent .jspPane{
+		margin-left: 0px !important;
+	}
+	#distr_finder .infoBox img{
+		position: absolute !important;
+		top: 0 !important;
+		right: 0 !important
+	}

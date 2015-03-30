@@ -1,0 +1,23 @@
+/* SVN $Id: en-GB.css 819 2012-06-12 15:48:53Z m.oltmanns $ */
+/* SVN $Rev: 819 $ */
+/* Links & Buttons */
+
+
+#panel-nav .language > a{
+	background-position: -227px -15px;
+}
+
+.history-items {
+    background: url("../images/ru/history-items-ru.jpg")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/ru/history-items-ru.jpg*/ no-repeat;
+	height: 4348px;
+	margin: -9px 0 0 3px;
+	width: 620px
+}
+
+.bt-ru {
+    margin-top: -7px;
+}
+
+.accessories_detail_top .price-block {
+	display: none;
+}
