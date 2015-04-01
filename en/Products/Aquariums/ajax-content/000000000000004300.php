@@ -8,7 +8,7 @@
 
             <div class="tab-teaser-prod_details top clearfix">
             	<div class="grid_8">
-                	<h2>A real classic: JUWEL RIO 125 Aquarium</h2>
+                	<h2>A real classic: JUWEL RIO 180 Aquarium</h2>
                 	<p>The RIO 125 is the smallest aquarium in the RIO range. With its compact surface area of 81 x 36 cm and classic rectangular design, the RIO 125 will fit perfectly into any design scheme.<br>
 Its safety base frame ensures especially safe positioning and allows you to set up your aquarium easily, with no need for special supports.<br>
 Painstaking workmanship from Germany, top-quality materials and perfectly tuned technology guarantee the very best of quality and safety, meaning a long service life for your RIO 125.<br>
