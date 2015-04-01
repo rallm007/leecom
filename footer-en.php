@@ -6,42 +6,43 @@
 			<div class="col products">
         	<h4>Products</h4>		
 										
-										<ul>
-																							<li><a href="../Rio-Line/Rio-125-black.php#!juwel-000000000000001300">Rio Line</a></li>
-																							<li><a href="Vision-180-black.php#!juwel-000000000000009300">Vision Line</a></li>
-																							<li><a href="../Trigon-Line/Trigon-190-black.php#!juwel-000000000000016300">Trigon Line</a></li>
-																							<li><a href="../Lido-Line/Lido-120-black.php#!juwel-000000000000011300">Lido Line</a></li>
-																							<li><a href="../Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600">Rekord Line</a></li>
-																							<li><a href="../Vio-Line/Vio-40-black-Int.php#!juwel-000000000000020040">Vio Line</a></li>
-																							<li><a href="../Korall/Korall-60-Int.php#!juwel-000000000000023860">Korall</a></li>
-										</ul>
-							
-										<ul>
-																							<li><a href="../../More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Day-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">Lighting</a></li>
-																							<li><a href="../../More/Filtration/Filter-Media/bioPad-S-Super-Comp-S-Poly-Pad-Bioflow-Super-Compact-Super.php">Filtration</a></li>
-																							<li><a href="../../More/Decoration/Cliff-Dark/Background-Cliff-Dark-oxid.php">Decoration</a></li>
-																							<li><a href="../../More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php">Accessories</a></li>
-																							<li><a href="../../More/Marine/Skimmer/Juwel-SeaSkim-INT.php">Marine</a></li>
-										</ul>
-									</div>
+				<ul>
+					<li><a href="../Rio-Line/Rio-125-black.php#!juwel-000000000000001300">XP Line</a></li>
+					<li><a href="Vision-180-black.php#!juwel-000000000000009300">XC Line</a></li>
+					<li><a href="../Trigon-Line/Trigon-190-black.php#!juwel-000000000000016300">XT Line</a></li>
+					<li><a href="../Lido-Line/Lido-120-black.php#!juwel-000000000000011300">XE Line</a></li>
+					<li><a href="../Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600">迷你缸</a></li>
+					<li><a href="../Vio-Line/Vio-40-black-Int.php#!juwel-000000000000020040">XF Line</a></li>
+					<li><a href="../Korall/Korall-60-Int.php#!juwel-000000000000023860">XQ Line</a></li>
+				</ul>
+	
+				<ul>
+					<li><a href="../../More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Day-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">LED Light</a></li>
+					<li><a href="../../More/Filtration/Filter-Media/bioPad-S-Super-Comp-S-Poly-Pad-Bioflow-Super-Compact-Super.php">Filter</a></li>
+					<li><a href="../../More/Decoration/Cliff-Dark/Background-Cliff-Dark-oxid.php">Air Pump</a></li>
+					<li><a href="../../More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php">Accessories</a></li>
+					<li><a href="../../More/Marine/Skimmer/Juwel-SeaSkim-INT.php">磁擦</a></li>
+                    <li><a href="../../More/Marine/Skimmer/Juwel-SeaSkim-INT.php">Insulation Rod</a></li>
+				</ul>
+			</div>
 					        
                 <div class="col">
         	<h4>Company</h4>
         			
 				<ul>
-                                   	                   							<li><a href="../../../Company/index.php">About Us</a></li>
-                   	                	            </ul>
+                    <li><a href="../../../Company/index.php">About Us</a></li>
+                   	</ul>
 					</div>
 							                        		        
                 <div class="col">
         	<h4>Service</h4>
         			
 				<ul>
-                                   	                   		<li><a href="../../../Service/FAQ/index.php" onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Servicecenter']);">FAQ</a></li>
-                   	                	            </ul>
-					</div>
+                    <li><a href="../../../Service/FAQ/index.php" onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Servicecenter']);">FAQ</a></li>
+                </ul>
+		</div>
 							        
-        		<div class="col right">
+        <div class="col right">
         	<h4>Subscribe Newsletter</h4>
             <div class="newsletter">
 				<form action="https://www.juwel-aquarium.de/en/Products/Aquariums/Vision-Line/Vision-180-black.php#!juwel-000000000000009300" method="post">
@@ -63,11 +64,10 @@
         <div class="bottom-col clearfix">
 
         	<ul class="payment display-none">
-			            	
                 <li class="ir mastercard">MasterCard</li>
                 <li class="ir visa">Visa</li>
                 <li class="ir elv">ELV</li>
-                        </ul>
+            </ul>
             <ul class="inline-nav clearfix">
             	<li><a href="../../../../index.php-lang=1&cl=alist&cnid=destatic2.php">Cancellation</a></li>
                 <li><a href="../../../../index.php-lang=1&cl=alist&cnid=destatic3.php">Privacy policy</a></li>
@@ -79,7 +79,7 @@
                         UK assortment
                     </a>
                 </li>
-                        </ul>
+            </ul>
         </div>
     </div>
     <div id="footer-bottom">
@@ -240,62 +240,6 @@ Annemarie KÃ¶hlmoos, Lars Larsen, Wolfgang DÃ¼rmeyer</p></td></tr></tbody></
 	        </div>
 	    </div>
 	</div>
-
-<!-- Login -->
-<div id="login-box">
-    <div class="box-head"><h2>Dealer Area</h2></div>
-        <div class="clearfix login-form">
-        <div class="grid_4 alpha register-teaser">
-            <div class="inner">
-                <h3>I am already a customer</h3>
-                <form class="jqtransformx login-form" id="login" name="login" action="https://www.juwel-aquarium.de/en/Products/Aquariums/Vision-Line/Vision-180-black.php#!juwel-000000000000009300" method="post">
-		            <input type="hidden" name="stoken" value="100BBA8B"><input type="hidden" name="force_sid" value="">
-<input type="hidden" name="lang" value="1">
-		            <input type="hidden" name="cnid" value="00000000041">
-<input type="hidden" name="listtype" value="list">
-<input type="hidden" name="ldtype" value="infogrid">
-
-		            <input type="hidden" name="fnc" value="login_noredirect">
-		            <input type="hidden" name="cl" value="details">
-		            <input type="hidden" name="pgNr" value="0">
-		            <input type="hidden" name="CustomError" value="loginBoxErrors">
-		            		                		                <input type="hidden" name="anid" value="000000000000009300">
-		                                <div class="form-row form-text required">
-                        <label>Username/E-mail*</label>
-						<input id="loginEmail" type="text" name="lgn_usr" value="" class="textbox">
-                    </div>
-                    <div class="form-row form-text required">
-                        <label>Password*</label>
-                        <input id="loginPasword" type="password" name="lgn_pwd" class="textbox passwordbox" value="">
-                    </div>
-                    <div class="form-row form-checkbox">
-                        <input type="checkbox"><label>Stay logged in</label>
-
-                    </div>
-                    <button type="submit" class="button green-right w180">Log In</button>
-                </form>
-                <span class="forgot-pass">
-                    <span>Forgotten your password?</span>
-                    <a href="../../../../index.php-lang=1&cl=forgotpwd.php" class="green">Request a new password</a>
-                </span>
-
-            </div>
-        </div>
-        <div class="grid_4 omega register-teaser">
-            <div class="inner">
-            	                <div class="distr-register">
-                    <p>You are a dealer and would like to order from JUWEL Aquarium?</p>
-
-                    <a href="../../../../index.php-lang=1&cl=register&srb2b=1.php" class="button green-right w240">Register as a dealer</a>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end Login -->
-
-	
-	
 
 <script type="text/javascript">
 <!--
