@@ -3,9 +3,7 @@
 <div id="footer">
     <div class="page_margins bg">
 			<div class="col products">
-        	<h4>Products</h4>		
-										
-<<<<<<< HEAD
+        	<h4>Products</h4>
 										<ul>
 																							<li><a href="<?php echo $site_url;?>en//Rio-Line/Rio-125-black.php#!juwel-000000000000001300">Rio Line</a></li>
 																							<li><a href="Vision-180-black.php#!juwel-000000000000009300">Vision Line</a></li>
@@ -23,7 +21,6 @@
 																							<li><a href="../../More/Marine/Skimmer/Juwel-SeaSkim-INT.php">Marine</a></li>
 										</ul>
 									</div>
-=======
 				<ul>
 					<li><a href="../Rio-Line/Rio-125-black.php#!juwel-000000000000001300">XP Line</a></li>
 					<li><a href="Vision-180-black.php#!juwel-000000000000009300">XC Line</a></li>
@@ -42,9 +39,7 @@
 					<li><a href="../../More/Marine/Skimmer/Juwel-SeaSkim-INT.php">磁擦</a></li>
                     <li><a href="../../More/Marine/Skimmer/Juwel-SeaSkim-INT.php">Insulation Rod</a></li>
 				</ul>
-			</div>
->>>>>>> cce6751ef7036bb0d2ffcf98f2af73f9bf3d59cd
-					        
+			</div> 
                 <div class="col">
         	<h4>Company</h4>
         			
@@ -56,7 +51,6 @@
                 <div class="col">
         	<h4>Service</h4>
 				<ul>
-<<<<<<< HEAD
                                    	                   		<li><a href="../../../Service/FAQ/index.php" onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Servicecenter']);">FAQ</a></li>
                    	                	            </ul>
 					</div>   
@@ -67,7 +61,6 @@
                 <li style="width: 240px;"><a>联系电话：0776-36636366</a></li>
                 <li style="width: 240px;"><a>电子邮箱：leecom@leecom.com</a></li>
             </ul>
-=======
                     <li><a href="../../../Service/FAQ/index.php" onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Servicecenter']);">FAQ</a></li>
                 </ul>
 		</div>
@@ -90,7 +83,6 @@
             <div class="facebook clearfix">
                 <h4 class="ir"><a href="javascript:if(confirm('http://www.facebook.com/Juwel.Aquarium  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ËüÊÇÒ»¸öÓò»òÂ·¾¶Íâ²¿±»ÉèÖÃÎªËüµÄÆôÊ¼µØÖ·µÄµØÖ·¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='http://www.facebook.com/Juwel.Aquarium'">Juwel on Facebook</a></h4>
             </div>
->>>>>>> cce6751ef7036bb0d2ffcf98f2af73f9bf3d59cd
         </div>
         <div class="bottom-col clearfix">
         	<ul class="payment display-none">
@@ -103,8 +95,6 @@
                 <li><a href="../../../../index.php-lang=1&cl=alist&cnid=destatic3.php">Privacy policy</a></li>
                 <li><a href="../../../../index.php-lang=1&cl=alist&cnid=destatic4.php">Guarantee policy</a></li>
             </ul>
-<<<<<<< HEAD
-=======
             <ul class="inline-nav clearfix left-separator">
                 <li>
                     <a class="flag-gb" href="javascript:if(confirm('http://www.juwel-aquarium.co.uk/  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ËüÊÇÒ»¸öÓò»òÂ·¾¶Íâ²¿±»ÉèÖÃÎªËüµÄÆôÊ¼µØÖ·µÄµØÖ·¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='http://www.juwel-aquarium.co.uk/'">
@@ -112,7 +102,6 @@
                     </a>
                 </li>
             </ul>
->>>>>>> cce6751ef7036bb0d2ffcf98f2af73f9bf3d59cd
         </div>
     </div>
     <div id="footer-bottom">
