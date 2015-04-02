@@ -123,15 +123,16 @@ var _gaq = _gaq || [];
 			<ul>
 					<li class="head"><h4>More</h4></li>
 									<!-- Weiteres -->
-					<li><a href="<?php echo $site_url.'en/Products';?>/More/Lighting/index.php" id="00000000261">Lighting</a></li>
+					<li><a href="<?php echo $site_url.'en/Products';?>/More/Lighting/index.php" id="00000000261">LED Light</a></li>
 									<!-- Weiteres -->
-					<li><a href="../../More/Filtration/index.php" id="00000000281">Filtration</a></li>
+					<li><a href="<?php echo $site_url.'en/Products';?>/More/Filtration/index.php" id="00000000281">Filter</a></li>
 									<!-- Weiteres -->
-					<li><a href="../../More/Decoration/index.php" id="00000000291">Decoration</a></li>
+					<li><a href="<?php echo $site_url.'en/Products';?>/More/Decoration/index.php" id="00000000291">Air Pump</a></li>
 									<!-- Weiteres -->
-					<li><a href="../../More/Accessories/index.php" id="00000000301">Accessories</a></li>
+					<li><a href="<?php echo $site_url.'en/Products';?>/More/Accessories/index.php" id="00000000301">Accessories</a></li>
 									<!-- Weiteres -->
-					<li><a href="../../More/Marine/index.php" id="00000000311">Marine</a></li>
+					<li><a href="<?php echo $site_url.'en/Products';?>/More/Marine/index.php" id="00000000311">磁擦</a></li>
+					<li><a href="<?php echo $site_url.'en/Products';?>/More/Marine/index.php" id="00000000311">Insulation Rod</a></li>
 			</ul>
 			<ul>			
 						
@@ -294,20 +295,20 @@ var _gaq = _gaq || [];
 													<li class="company has-drop">
 							<div class="drop">
 					<ul>
-						<li><a href="../../../Company/index.php">About Us</a></li>
+						<li><a href="<?php echo $site_url.'en';?>/Company/index.php">About Us</a></li>
                     </ul>
     	            <div class="drop-btm"></div>
 	            </div>			
-					<a href="../../../Company/index.php"><span>Company</span></a>
+					<a href="<?php echo $site_url.'en';?>/Company/index.php"><span>Company</span></a>
 					</li>
 					<li class="service has-drop">
 							<div class="drop">
 					<ul>
-					    <li><a onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Servicecenter']);" href="../../../Service/FAQ/index.php">FAQ</a></li>
+					    <li><a onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Servicecenter']);" href="<?php echo $site_url.'en';?>/Service/FAQ/index.php">FAQ</a></li>
                     </ul>
     	            <div class="drop-btm"></div>
 	            </div>			
-					<a href="<?php echo $site_url;?>index.php-lang=1&amp;cl=alist&amp;cnid=deservice1.php"><span>Service</span></a>
+					<a href="<?php echo $site_url.'en';?>/Service/FAQ/index.php"><span>Service</span></a>
 					</li>
 					<li class="contact">
 						<a href="<?php echo $site_url;?>index.php-lang=1&amp;cl=contact.php"><span>Contact</span></a>

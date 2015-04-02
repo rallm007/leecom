@@ -2,10 +2,6 @@
 
 <!-- Main-Area -->
 <div id="main">
-						
-
-	
-
 
 <div class="simple-stage">
 		<div class="page_margins inner_stage" style="background-image:url(<?php echo $site_url;?>out/pictures/master/category/subheader/00000000301.png)">
@@ -16,7 +12,7 @@
 <!-- Flyout Thumbnail-Navigation-->
 <div class="product-thumbnail-navi accessories_detail-thumb-nav clearfix">
 	<div class="page_margins ">
-		<h1 class="tk-myriad-pro tk-light">Automatic Feeder</h1>
+		<h1 class="tk-myriad-pro tk-light">Aqua Clean</h1>
 		    </div>
 </div>
 <!-- end Flyout Thumbnail-Navigation-->
@@ -32,8 +28,8 @@
         <li>You are here:</li>
         			    				    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>en/Products/" title="Products">Products</a></li>
 			            			    				    <li><a href="../index.php" tppabs="<?php echo $site_url;?>en/Products/More/Accessories/" title="Accessories">Accessories</a></li>
-			            			    				    <li><a href="EasyFeed-Automatic-Feeder.php" tppabs="<?php echo $site_url;?>en/Products/More/Accessories/Automatic-Feeder/" title="Automatic Feeder">Automatic Feeder</a></li>
-			                            <li>EasyFeed -Automatic Feeder</li>
+			            			    				    <li><a href="Aqua-Clean-Gravel-and-filter-cleaner.php" tppabs="<?php echo $site_url;?>en/Products/More/Accessories/Aqua-Clean/" title="Aqua Clean">Aqua Clean</a></li>
+			                            <li>Aqua Clean -Gravel and filter cleaner</li>
 			</ul>
 </div>	
 	        <!-- Links - Navigation und Teaser-Content -->
@@ -42,15 +38,15 @@
             
 <ul class="sub-nav">
 			
-    <li class="active">    	
+    <li>    	
         <span>Automatic Feeder</span>
 		    
 
 		                <ul>
 	        <li class="active">
 	        	        <ul>
-	            <li class="active">
-	                <a href="EasyFeed-Automatic-Feeder.php" tppabs="<?php echo $site_url;?>en/Products/More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php">EasyFeed -Automatic Feeder</a>	                
+	            <li>
+	                <a href="../Automatic-Feeder/EasyFeed-Automatic-Feeder.php" tppabs="<?php echo $site_url;?>en/Products/More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php">EasyFeed -Automatic Feeder</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -87,15 +83,15 @@
         </ul>
 				    </li>
 			
-    <li>    	
+    <li class="active">    	
         <span>Aqua Clean</span>
 		    
 
 		                <ul>
 	        <li class="active">
 	        	        <ul>
-	            <li>
-	                <a href="../Aqua-Clean/Aqua-Clean-Gravel-and-filter-cleaner.php" tppabs="<?php echo $site_url;?>en/Products/More/Accessories/Aqua-Clean/Aqua-Clean-Gravel-and-filter-cleaner.php">Aqua Clean -Gravel and filter cleaner</a>	                
+	            <li class="active">
+	                <a href="Aqua-Clean-Gravel-and-filter-cleaner.php" tppabs="<?php echo $site_url;?>en/Products/More/Accessories/Aqua-Clean/Aqua-Clean-Gravel-and-filter-cleaner.php">Aqua Clean -Gravel and filter cleaner</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -177,26 +173,20 @@
               																									
 <div class="tabs product-images">
     <div id="image-1">
-    	<a href="../../../../../out/pictures/master/product/main/zoom/1/89000.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/89000.jpg" class="cloud-zoom">
-    		<img src="../../../../../out/pictures/master/product/main/detail/1/89000.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/detail/1/89000.png" alt="" width="278" height="278">
+    	<a href="../../../../../out/pictures/master/product/main/zoom/1/87020.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/87020.jpg" class="cloud-zoom">
+    		<img src="../../../../../out/pictures/master/product/main/detail/1/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/detail/1/87020.png" alt="" width="278" height="278">
         </a>
     </div>
     <div id="image-2">
-    	<a href="../../../../../out/pictures/master/product/main/zoom/2/89000.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/zoom/2/89000.jpg" class="cloud-zoom">
-    		<img src="../../../../../out/pictures/master/product/main/detail/2/89000.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/detail/2/89000.png" alt="" width="278" height="278">
-        </a>
-    </div>
-    <div id="image-3">
-    	<a href="../../../../../out/pictures/master/product/main/zoom/4/89000.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/zoom/4/89000.jpg" class="cloud-zoom">
-    		<img src="../../../../../out/pictures/master/product/main/detail/4/89000.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/detail/4/89000.png" alt="" width="278" height="278">
+    	<a href="../../../../../out/pictures/master/product/main/zoom/2/87020.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/zoom/2/87020.jpg" class="cloud-zoom">
+    		<img src="../../../../../out/pictures/master/product/main/detail/2/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/detail/2/87020.png" alt="" width="278" height="278">
         </a>
     </div>
      <!-- Bilder-Navigation -->
      <div class="clearfix">
      	            <ul class="product-images-nav clearfix">
-                            <li><a href="#image-1"><img src="../../../../../out/pictures/master/product/main/thumb/1/89000.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/thumb/1/89000.png" alt=""></a></li>
-			                <li><a href="#image-2"><img src="../../../../../out/pictures/master/product/main/thumb/2/89000.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/thumb/2/89000.png" alt=""></a></li>
-			                <li><a href="#image-3"><img src="../../../../../out/pictures/master/product/main/thumb/4/89000.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/thumb/4/89000.png" alt=""></a></li>
+                            <li><a href="#image-1"><img src="../../../../../out/pictures/master/product/main/thumb/1/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/thumb/1/87020.png" alt=""></a></li>
+			                <li><a href="#image-2"><img src="../../../../../out/pictures/master/product/main/thumb/2/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/thumb/2/87020.png" alt=""></a></li>
 			            </ul>
 		    </div>
     <!-- ende -> Tab-Navigation -->
@@ -229,20 +219,20 @@
     }(document, 'script', 'facebook-jssdk'));
 </script>
 
-<h2 class="tk-myriad-pro tk-light">EasyFeed -Automatic Feeder</h2>
-<p class="desc">The JUWEL automatic feeder is the perfect addition to your aquarium. Every JUWEL aquarium is already equipped for the easy assembly of this automatic feeder, making it ready for use immediately.</p>
+<h2 class="tk-myriad-pro tk-light">Aqua Clean -Gravel and filter cleaner</h2>
+<p class="desc">JUWEL Aqua Clean is the ideal tool for cleaning your Juwel internal filter and the ground material of your Juwel aquarium.</p>
 
-<form class="loadVariant oxProductForm" action="../../../../../fi000003.php-lang=1&-stoken=6f40c9ca&force_sid=&lang=1&cnid=00000001351&listtype=list&ldtype=infogrid&cl=details&aid=000000000000089000&anid=000000000000089000&parentid=000000000000089000&panid=&fnc=tobasket.php" tppabs="<?php echo $site_url;?>index.php?lang=1&?stoken=6F40C9CA&force_sid=&lang=1&cnid=00000001351&listtype=list&ldtype=infogrid&cl=details&aid=000000000000089000&anid=000000000000089000&parentid=000000000000089000&panid=&fnc=tobasket" method="post">
-	<input type="hidden" name="stoken" value="6F40C9CA"><input type="hidden" name="force_sid" value="">
+<form class="loadVariant oxProductForm" action="../../../../../fi000028.php-lang=1&-stoken=8ecf99f2&force_sid=&lang=1&cnid=00000001051&listtype=list&ldtype=infogrid&cl=details&aid=000000000000087020&anid=000000000000087020&parentid=000000000000087020&panid=&fnc=tobasket.php" tppabs="<?php echo $site_url;?>index.php?lang=1&?stoken=8ECF99F2&force_sid=&lang=1&cnid=00000001051&listtype=list&ldtype=infogrid&cl=details&aid=000000000000087020&anid=000000000000087020&parentid=000000000000087020&panid=&fnc=tobasket" method="post">
+	<input type="hidden" name="stoken" value="8ECF99F2"><input type="hidden" name="force_sid" value="">
 <input type="hidden" name="lang" value="1">
-	<input type="hidden" name="cnid" value="00000001351">
+	<input type="hidden" name="cnid" value="00000001051">
 <input type="hidden" name="listtype" value="list">
 <input type="hidden" name="ldtype" value="infogrid">
 
 	<input type="hidden" name="cl" value="details">
-	<input type="hidden" name="aid" value="000000000000089000">
-	<input type="hidden" name="anid" value="000000000000089000">
-	<input type="hidden" name="parentid" value="000000000000089000">
+	<input type="hidden" name="aid" value="000000000000087020">
+	<input type="hidden" name="anid" value="000000000000087020">
+	<input type="hidden" name="parentid" value="000000000000087020">
 	<input type="hidden" name="panid" value="">
 	<input type="hidden" name="fnc" value="tobasket">
 
@@ -250,7 +240,7 @@
 		</div>
 
 	</form>
-        	<span class="small"><strong>Order number</strong> 89000</span>
+        	<span class="small"><strong>Order number</strong> 87020</span>
 	<div class="buy clearfix">
 	    <a class="button ci2-extendable open_distr_finder">Your nearest dealer</a>
 	</div>
@@ -262,9 +252,9 @@
         <li class="share">
             <a>share</a>
             <div class="bubble">
-            	            	                <a class="mail" href="mailto:recipient@domain.com?subject=Juwel%20Aquarium%20-%20EasyFeed%20-Automatic%20Feeder">E-Mail</a>
+            	            	                <a class="mail" href="mailto:recipient@domain.com?subject=Juwel%20Aquarium%20-%20Aqua%20Clean%20-Gravel%20and%20filter%20cleaner">E-Mail</a>
 
-                                <div class="fb-send" data-href="EasyFeed-Automatic-Feeder.php" tppabs="<?php echo $site_url;?>en/Products/More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php"></div>
+                                <div class="fb-send" data-href="Aqua-Clean-Gravel-and-filter-cleaner.php" tppabs="<?php echo $site_url;?>en/Products/More/Accessories/Aqua-Clean/Aqua-Clean-Gravel-and-filter-cleaner.php"></div>
                             </div>
          </li>
     </ul>
@@ -284,11 +274,15 @@
 									
 
 		<div class="tab-teaser accessories_detail-prod_detail">
-			<h3>JUWEL Automatic Feeder</h3>
-            <p>The JUWEL automatic feeder can be used in any aquarium. Using the right mounting support, it can be fitted particularly simply and quickly to any JUWEL aquarium.</p>
-<p>It can be programmed for two feeding cycles a day and allows you to feed your fish at intervals of six hours. The volume of the adjustable feed container is designed for up to 60 feeds. Feed in pellet form is ideal for use in automatic feeders.</p>
-<p>For environments with particularly high humidity, the JUWEL automatic feeder is designed so that the drum can be ventilated using an ordinary air pump.</p>
-<p>The JUWEL automatic feeder is supplied with batteries.</p>
+			<h3>JUWEL AQUA CLEAN</h3>
+            <p>JUWEL Aqua Clean is the ideal tool for cleaning your Juwel internal filter and the ground material of your Juwel aquarium.</p>
+<p>Aqua Clean is suitable for aquariums with a height of up to 60 cm thanks to intake tubes that may be individually combined.</p>
+<p>Utilising a special attachment, JUWEL Aqua Clean enables the convenient cleaning of your internal filter, even in areas that are difficult to reach, in addition to the simple cleaning of the ground material.</p>
+<p>The Quickstart system activates the water flow using gentle shaking movements and the dirt is transported into the bucket without any inconvenient suction.</p>
+<p>An integrated shut-off valve stops the flow of water if needed and consequently enables an easy interruption of the cleaning.</p>
+<p>JUWEL Aqua Clean may be fastened in a simple manner to the bucket and aquarium thanks to the enclosed clips.</p>
+<p>&nbsp;</p>
+<p>JUWEL Aqua Clean, available from your specialist retailer!</p>
 		</div>
 	        			
 					
@@ -300,39 +294,29 @@
                     <tr>
                         <td class="icon artikelnummer">&nbsp;</td>
                         <td class="topic">Product code</td>
-                        <td>89000</td>
+                        <td>87020</td>
                     </tr>                                
                     <tr>
                         <td class="icon produkt">&nbsp;</td>
                         <td class="topic">Product</td>
-                        <td>EasyFeed -Automatic Feeder</td>
+                        <td>Aqua Clean -Gravel and filter cleaner</td>
                     </tr>
                                     
                                   
 
-                                                                    <tr>
-                        <td class="icon measure">&nbsp;</td>
-                        <td class="topic">Measurements</td>
-                        <td>15 x 7 x 7 cm</td>
+                                                        <tr>
+                        <td class="icon laenge">&nbsp;</td>
+                        <td class="topic">Length</td>
+                        <td>160 cm</td>
                     </tr>
-			                                                                                                                                            
+			                                                                                                                                                        
 
                                 
                                 
                                 
-                                <tr>
-                        <td class="icon lieferumfang">&nbsp;</td>
-                        <td class="topic">Included in delivery</td>
-                        <td>2 x Mignon AA</td>
-                    </tr>
-			                    
+                                
                                                             			
-                                            <tr>
-                        <td class="icon batterietyp">&nbsp;</td>
-                        <td class="topic">Battery type</td>
-                        <td>Mignon AA</td>
-                    </tr>
-			            		</tbody>
+                                    		</tbody>
 	</table>
 </div>              					
 
@@ -344,24 +328,13 @@
 					
 																																			
 										
-														<div class="tab-teaser">
-						<h3>Requently asked questions for this product</h3>
-							<div class="slide-toggle">
-																														
-																		<h4 onclick="_gaq.push(['_trackEvent', 'FAQs', 'click', 'What guarantee comes with my JUWEL Aquarium?']);"><p>1. What guarantee comes with my JUWEL Aquarium?</p></h4>
-									<div>We guarantee all of our products for 2 years from the date of purchase. Filter sponges and fluorescent tubes as well as all components that are subject to normal wear, e.g. the impeller of the pump, are excluded from the guarantee.
-Any guarantee claim must be substantiated with a valid proof of purchase.
-</div>
-												               </div>
-						<a href="../../../../../index.php-lang=1&cl=alist&cnid=deservice1.php" tppabs="<?php echo $site_url;?>index.php?lang=1&cl=alist&cnid=deservice1" class="arrow-link reverse" onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Support']);" >More FAQs</a>
-					</div>			
 									
 																    	<div class="tab-teaser">
 			        	<h3>Downloads</h3>
 			            <ul class="files hlist">
 			            				            	
-			            				            					            				            					            		<li><a href="../../../../../out/media/en/Futterautomat.pdf" tppabs="<?php echo $site_url;?>out/media/en/Futterautomat.pdf" target="_blank" onclick="ga('send', 'event', 'Downloads', 'click', 'Manual Automatic Feeder');">Manual Automatic Feeder<span>( PDF, 0.18 MB )</span></a></li>
-			            					            				            					            				            					            				            					            				            					            				            </ul>
+			            				            					            		<li><a href="javascript:if(confirm('http://admin.juwel-aquarium.de/out/media/Aqua_clean_s.pdf  \n\n该文件无法用 Teleport Ultra 下载, 因为 它是一个域或路径外部被设置为它的启始地址的地址。  \n\n你想在服务器上打开它?'))window.location='http://admin.juwel-aquarium.de/out/media/Aqua_clean_s.pdf'" tppabs="http://admin.juwel-aquarium.de/out/media/Aqua_clean_s.pdf" target="_blank" onclick="ga('send', 'event', 'Downloads', 'click', 'Manual Aqua Clean');">Manual Aqua Clean<span>( PDF, 1.74 MB )</span></a></li>
+			            					            				            					            				            					            				            </ul>
 			            <a class="arrow-link" href="../../../../../index.php-lang=1&cl=alist&cnid=deservice2.php" tppabs="<?php echo $site_url;?>index.php?lang=1&cl=alist&cnid=deservice2" onclick="_gaq.push(['_trackEvent', 'Downloadquelle', 'click', 'Detailseite']);">More Downloads</a>
 			        </div>
 		        									
@@ -405,7 +378,7 @@ Any guarantee claim must be substantiated with a valid proof of purchase.
 		    <div class="scrollcontent tinyscroll">
 		        <div class="article-heading clearfix">
 		            <div class="image fl">
-		                <img src="../../../../../out/pictures/master/product/4/89000.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/4/89000.png">
+		                <img src="../../../../../out/pictures/master/product/4/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/4/87020.png">
 		            </div>
 		            <h2 class="tk-myriad-pro tk-light fl"></h2>
 		        </div>
@@ -418,7 +391,7 @@ Any guarantee claim must be substantiated with a valid proof of purchase.
 		            </thead>
 		            <tbody>
 																		<tr>
-								<td>EasyFeed -Automatic Feeder</td>
+								<td>Aqua Clean -Gravel and filter cleaner</td>
 								<td>
 														                    <span>Rio 125  ,																																							                        <div class="tooltip">
 					                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/01300.png)">
@@ -427,11 +400,11 @@ Any guarantee claim must be substantiated with a valid proof of purchase.
 												<span class="dimensions">81 x 36 x 50 cm</span>
 											</div>
 										</span>
-														                    <span>Vio  ,																																							                        <div class="tooltip">
-					                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/20040.png)">
-					                               	<span class="product-title green">Vio </span>
+														                    <span>Korall Coldwater   ,																																							                        <div class="tooltip">
+					                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/23860.png)">
+					                               	<span class="product-title green">Korall Coldwater  </span>
 												</div>
-												<span class="dimensions">40 x 26 x 30 cm</span>
+												<span class="dimensions">61 x 31 x 38 cm</span>
 											</div>
 										</span>
 														                    <span>Rekord 800  ,																																							                        <div class="tooltip">
@@ -462,18 +435,18 @@ Any guarantee claim must be substantiated with a valid proof of purchase.
 												<span class="dimensions">61 x 41 x 58 cm</span>
 											</div>
 										</span>
-														                    <span>Trigon 190  ,																																							                        <div class="tooltip">
-					                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/16300.png)">
-					                               	<span class="product-title green">Trigon 190 </span>
-												</div>
-												<span class="dimensions">98,5 x 70 x 60 cm</span>
-											</div>
-										</span>
 														                    <span>Trigon 350  ,																																							                        <div class="tooltip">
 					                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/15300.png)">
 					                               	<span class="product-title green">Trigon 350 </span>
 												</div>
 												<span class="dimensions">123 x 87 x 65 cm</span>
+											</div>
+										</span>
+														                    <span>Trigon 190  ,																																							                        <div class="tooltip">
+					                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/16300.png)">
+					                               	<span class="product-title green">Trigon 190 </span>
+												</div>
+												<span class="dimensions">98,5 x 70 x 60 cm</span>
 											</div>
 										</span>
 														                    <span>Vision 450  ,																																							                        <div class="tooltip">
@@ -525,11 +498,11 @@ Any guarantee claim must be substantiated with a valid proof of purchase.
 												<span class="dimensions">101 x 41 x 50 cm</span>
 											</div>
 										</span>
-														                    <span>Korall Coldwater  																																							                        <div class="tooltip">
-					                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/23860.png)">
-					                               	<span class="product-title green">Korall Coldwater  </span>
+														                    <span>Vio 																																							                        <div class="tooltip">
+					                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/20040.png)">
+					                               	<span class="product-title green">Vio </span>
 												</div>
-												<span class="dimensions">61 x 31 x 38 cm</span>
+												<span class="dimensions">40 x 26 x 30 cm</span>
 											</div>
 										</span>
 																	</td>
@@ -543,38 +516,30 @@ Any guarantee claim must be substantiated with a valid proof of purchase.
 
 						<!-- Bilder Galerie -->
 		<div class="gallery-box">
-		    <h2 class="tk-myriad-pro tk-regular">EasyFeed -Automatic Feeder</h2>
+		    <h2 class="tk-myriad-pro tk-regular">Aqua Clean -Gravel and filter cleaner</h2>
 		    <div class="gallery-slider">
 						        <div class="gallery-item">
 		            <div class="wrapper">
-		                <a href="../../../../../out/pictures/master/product/gallery/zoom/1/89000.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/89000.jpg" class="cloud-zoom">
-		                    <img src="../../../../../out/pictures/master/product/gallery/detail/1/89000.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/89000.png" alt="">
+		                <a href="../../../../../out/pictures/master/product/gallery/zoom/1/87020.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/87020.jpg" class="cloud-zoom">
+		                    <img src="../../../../../out/pictures/master/product/gallery/detail/1/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/87020.png" alt="">
 		                </a>
-		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/89000.png)"></a>
+		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/87020.png)"></a>
 		            </div>
 		        </div>
 						        <div class="gallery-item">
 		            <div class="wrapper">
-		                <a href="../../../../../out/pictures/master/product/gallery/zoom/2/89000.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/89000.jpg" class="cloud-zoom">
-		                    <img src="../../../../../out/pictures/master/product/gallery/detail/2/89000.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/89000.png" alt="">
+		                <a href="../../../../../out/pictures/master/product/gallery/zoom/2/87020.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/87020.jpg" class="cloud-zoom">
+		                    <img src="../../../../../out/pictures/master/product/gallery/detail/2/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/87020.png" alt="">
 		                </a>
-		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/89000.png)"></a>
+		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/87020.png)"></a>
 		            </div>
 		        </div>
 						        <div class="gallery-item">
 		            <div class="wrapper">
-		                <a href="../../../../../out/pictures/master/product/gallery/zoom/3/89000.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/3/89000.jpg" class="cloud-zoom">
-		                    <img src="../../../../../out/pictures/master/product/gallery/detail/3/89000.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/3/89000.png" alt="">
+		                <a href="../../../../../out/pictures/master/product/gallery/zoom/3/87020.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/3/87020.jpg" class="cloud-zoom">
+		                    <img src="../../../../../out/pictures/master/product/gallery/detail/3/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/3/87020.png" alt="">
 		                </a>
-		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/3/89000.png)"></a>
-		            </div>
-		        </div>
-						        <div class="gallery-item">
-		            <div class="wrapper">
-		                <a href="../../../../../out/pictures/master/product/gallery/zoom/4/89000.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/4/89000.jpg" class="cloud-zoom">
-		                    <img src="../../../../../out/pictures/master/product/gallery/detail/4/89000.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/4/89000.png" alt="">
-		                </a>
-		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/4/89000.png)"></a>
+		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/3/87020.png)"></a>
 		            </div>
 		        </div>
 						    </div>
@@ -599,7 +564,7 @@ Any guarantee claim must be substantiated with a valid proof of purchase.
         <ul>
 						    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>en/Products/" title="Products">Products</a></li>
 			    						    <li><a href="../index.php" tppabs="<?php echo $site_url;?>en/Products/More/Accessories/" title="Accessories">Accessories</a></li>
-			    						    <li><a href="EasyFeed-Automatic-Feeder.php" tppabs="<?php echo $site_url;?>en/Products/More/Accessories/Automatic-Feeder/" title="Automatic Feeder">Automatic Feeder</a></li>
+			    						    <li><a href="Aqua-Clean-Gravel-and-filter-cleaner.php" tppabs="<?php echo $site_url;?>en/Products/More/Accessories/Aqua-Clean/" title="Aqua Clean">Aqua Clean</a></li>
 			    			        </ul>                        
     </div>
 </div>

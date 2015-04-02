@@ -4,86 +4,44 @@
     <div class="page_margins bg">
 			<div class="col products">
         	<h4>Products</h4>
-										<ul>
-																							<li><a href="<?php echo $site_url;?>en//Rio-Line/Rio-125-black.php#!juwel-000000000000001300">Rio Line</a></li>
-																							<li><a href="Vision-180-black.php#!juwel-000000000000009300">Vision Line</a></li>
-																							<li><a href="../Trigon-Line/Trigon-190-black.php#!juwel-000000000000016300">Trigon Line</a></li>
-																							<li><a href="../Lido-Line/Lido-120-black.php#!juwel-000000000000011300">Lido Line</a></li>
-																							<li><a href="../Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600">Rekord Line</a></li>
-																							<li><a href="../Vio-Line/Vio-40-black-Int.php#!juwel-000000000000020040">Vio Line</a></li>
-																							<li><a href="../Korall/Korall-60-Int.php#!juwel-000000000000023860">Korall</a></li>
-										</ul>
-										<ul>
-																							<li><a href="../../More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Day-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">Lighting</a></li>
-																							<li><a href="../../More/Filtration/Filter-Media/bioPad-S-Super-Comp-S-Poly-Pad-Bioflow-Super-Compact-Super.php">Filtration</a></li>
-																							<li><a href="../../More/Decoration/Cliff-Dark/Background-Cliff-Dark-oxid.php">Decoration</a></li>
-																							<li><a href="../../More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php">Accessories</a></li>
-																							<li><a href="../../More/Marine/Skimmer/Juwel-SeaSkim-INT.php">Marine</a></li>
-										</ul>
-									</div>
 				<ul>
-					<li><a href="../Rio-Line/Rio-125-black.php#!juwel-000000000000001300">XP Line</a></li>
-					<li><a href="Vision-180-black.php#!juwel-000000000000009300">XC Line</a></li>
-					<li><a href="../Trigon-Line/Trigon-190-black.php#!juwel-000000000000016300">XT Line</a></li>
-					<li><a href="../Lido-Line/Lido-120-black.php#!juwel-000000000000011300">XE Line</a></li>
-					<li><a href="../Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600">迷你缸</a></li>
-					<li><a href="../Vio-Line/Vio-40-black-Int.php#!juwel-000000000000020040">XF Line</a></li>
-					<li><a href="../Korall/Korall-60-Int.php#!juwel-000000000000023860">XQ Line</a></li>
+					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Rio-Line/Rio-125-black.php#!juwel-000000000000001300">XP Line</a></li>
+					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Vision-180-black.php#!juwel-000000000000009300">XC Line</a></li>
+					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Trigon-Line/Trigon-190-black.php#!juwel-000000000000016300">XT Line</a></li>
+					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Lido-Line/Lido-120-black.php#!juwel-000000000000011300">XE Line</a></li>
+					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600">迷你缸</a></li>
+					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Vio-Line/Vio-40-black-Int.php#!juwel-000000000000020040">XF Line</a></li>
+					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Korall/Korall-60-Int.php#!juwel-000000000000023860">XQ Line</a></li>
 				</ul>
-	
 				<ul>
-					<li><a href="../../More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Day-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">LED Light</a></li>
-					<li><a href="../../More/Filtration/Filter-Media/bioPad-S-Super-Comp-S-Poly-Pad-Bioflow-Super-Compact-Super.php">Filter</a></li>
-					<li><a href="../../More/Decoration/Cliff-Dark/Background-Cliff-Dark-oxid.php">Air Pump</a></li>
-					<li><a href="../../More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php">Accessories</a></li>
-					<li><a href="../../More/Marine/Skimmer/Juwel-SeaSkim-INT.php">磁擦</a></li>
-                    <li><a href="../../More/Marine/Skimmer/Juwel-SeaSkim-INT.php">Insulation Rod</a></li>
+					<li><a href="<?php echo $site_url.'en/Products';?>/More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Day-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">LED Light</a></li>
+					<li><a href="<?php echo $site_url.'en/Products';?>/More/Filtration/Filter-Media/bioPad-S-Super-Comp-S-Poly-Pad-Bioflow-Super-Compact-Super.php">Filter</a></li>
+					<li><a href="<?php echo $site_url.'en/Products';?>/More/Decoration/Cliff-Dark/Background-Cliff-Dark-oxid.php">Air Pump</a></li>
+					<li><a href="<?php echo $site_url.'en/Products';?>/More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php">Accessories</a></li>
+					<li><a href="<?php echo $site_url.'en/Products';?>/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">磁擦</a></li>
+                    <li><a href="<?php echo $site_url.'en/Products';?>/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">Insulation Rod</a></li>
 				</ul>
 			</div> 
                 <div class="col">
         	<h4>Company</h4>
-        			
 				<ul>
-                    <li><a href="../../../Company/index.php">About Us</a></li>
+                    <li><a href="<?php echo $site_url.'en';?>/Company/index.php">About Us</a></li>
                    	</ul>
-					</div>
-							                        		        
+					</div>                       		        
                 <div class="col">
         	<h4>Service</h4>
 				<ul>
-                                   	                   		<li><a href="../../../Service/FAQ/index.php" onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Servicecenter']);">FAQ</a></li>
-                   	                	            </ul>
-					</div>   
-        		<div class="col">
+                    <li><a href="<?php echo $site_url.'en';?>/Service/FAQ/index.php" onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Servicecenter']);">FAQ</a></li>
+                </ul>
+		</div>   
+        <div class="col" style="width: 240px;">
         	<h4>Contact</h4>
             <ul>
 				<li><a>广州日创</a></li>
-                <li style="width: 240px;"><a>联系电话：0776-36636366</a></li>
-                <li style="width: 240px;"><a>电子邮箱：leecom@leecom.com</a></li>
+                <li><a>Telephone：0776-36636366</a></li>
+                <li><a>Email：leecom@leecom.com</a></li>
             </ul>
-                    <li><a href="../../../Service/FAQ/index.php" onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Servicecenter']);">FAQ</a></li>
-                </ul>
 		</div>
-							        
-        <div class="col right">
-        	<h4>Subscribe Newsletter</h4>
-            <div class="newsletter">
-				<form action="https://www.juwel-aquarium.de/en/Products/Aquariums/Vision-Line/Vision-180-black.php#!juwel-000000000000009300" method="post">
-				    <input type="hidden" name="stoken" value="100BBA8B"><input type="hidden" name="force_sid" value="">
-<input type="hidden" name="lang" value="1">
-				    <input type="hidden" name="fnc" value="fill">
-				    <input type="hidden" name="cl" value="newsletter">
-				    				        				        <input type="hidden" name="anid" value="000000000000009300">
-				                    	<fieldset>
-                    	<input type="text" name="editval[oxuser__oxusername]" title="Subscribe Newsletter" value="Your E-Mail">
-                        <button type="submit">Send</button>
-                    </fieldset>
-                </form>
-            </div>
-            <div class="facebook clearfix">
-                <h4 class="ir"><a href="javascript:if(confirm('http://www.facebook.com/Juwel.Aquarium  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ËüÊÇÒ»¸öÓò»òÂ·¾¶Íâ²¿±»ÉèÖÃÎªËüµÄÆôÊ¼µØÖ·µÄµØÖ·¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='http://www.facebook.com/Juwel.Aquarium'">Juwel on Facebook</a></h4>
-            </div>
-        </div>
         <div class="bottom-col clearfix">
         	<ul class="payment display-none">
                 <li class="ir mastercard">MasterCard</li>
@@ -91,16 +49,9 @@
                 <li class="ir elv">ELV</li>
             </ul>
             <ul class="inline-nav clearfix">
-            	<li><a href="../../../../index.php-lang=1&cl=alist&cnid=destatic2.php">Cancellation</a></li>
-                <li><a href="../../../../index.php-lang=1&cl=alist&cnid=destatic3.php">Privacy policy</a></li>
-                <li><a href="../../../../index.php-lang=1&cl=alist&cnid=destatic4.php">Guarantee policy</a></li>
-            </ul>
-            <ul class="inline-nav clearfix left-separator">
-                <li>
-                    <a class="flag-gb" href="javascript:if(confirm('http://www.juwel-aquarium.co.uk/  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ËüÊÇÒ»¸öÓò»òÂ·¾¶Íâ²¿±»ÉèÖÃÎªËüµÄÆôÊ¼µØÖ·µÄµØÖ·¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='http://www.juwel-aquarium.co.uk/'">
-                        UK assortment
-                    </a>
-                </li>
+            	<li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic2.php">Cancellation</a></li>
+                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic3.php">Privacy policy</a></li>
+                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic4.php">Guarantee policy</a></li>
             </ul>
         </div>
     </div>
@@ -109,10 +60,9 @@
         	<div class="ir"></div>
             <span>2015 LEECOM - All rights reserved</span>
             <ul class="inline-nav">
-            	<li><a href="#" id="handler-finder-footer">Store finder</a></li>
-                <li><a href="../../../../index.php-lang=1&cl=contact.php">Contact</a></li>
-                <li><a href="../../../../index.php-lang=1&cl=alist&cnid=destatic1.php">Imprint</a></li>
-                <li><a href="../../../../index.php-lang=1&cl=alist&cnid=destatic5.php">Businessterms</a></li>
+                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=contact.php">Contact</a></li>
+                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic1.php">Imprint</a></li>
+                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic5.php">Businessterms</a></li>
             </ul>
         </div>
     </div>
@@ -274,9 +224,9 @@ $(function(){
 
 		var sData = "cl=srajax&fnc=findHandler&tpl=srfindhandler.tpl&lat="+oLocation.lat()+"&lon="+oLocation.lng()+"&distance="+distance+"&iofficial="+iOfficial+"&iseawater="+iSeawater;
 		if( 'https:' == document.location.protocol ) {
-			var sUrl = "https://www.juwel-aquarium.de/en/Products/Aquariums/Vision-Line/Vision-180-black.php#!juwel-000000000000009300";
+			var sUrl = "<?php echo $site_url;?>en/Products/Aquariums/Vision-Line/Vision-180-black.php#!juwel-000000000000009300";
 		} else {
-			var sUrl = "../../../../index.php-lang=1&.php"/*tpa=http://www.juwel-aquarium.de/index.php?lang=1&*/;
+			var sUrl = "<?php echo $site_url;?>index.php-lang=1&.php"/*tpa=http://www.juwel-aquarium.de/index.php?lang=1&*/;
 		}
 		if( oLocation != null && distance > 0 ) {
 		    $.ajax({
@@ -300,9 +250,9 @@ $(function(){
     getCountryInfoPage = function( country ){
 
         if( 'https:' == document.location.protocol ) {
-            var sUrl = "https://www.juwel-aquarium.de/en/Products/Aquariums/Vision-Line/Vision-180-black.php#!juwel-000000000000009300";
+            var sUrl = "<?php echo $site_url;?>en/Products/Aquariums/Vision-Line/Vision-180-black.php#!juwel-000000000000009300";
         } else {
-            var sUrl = "../../../../index.php-lang=1&.php"/*tpa=http://www.juwel-aquarium.de/index.php?lang=1&*/;
+            var sUrl = "<?php echo $site_url;?>index.php-lang=1&.php"/*tpa=http://www.juwel-aquarium.de/index.php?lang=1&*/;
         }
         var data = '';
         if( oAddress != null ) {
@@ -329,9 +279,9 @@ $(function(){
     getNoMapCountriesOxid = function(){
 
         if( 'https:' == document.location.protocol ) {
-            var sUrl = "https://www.juwel-aquarium.de/en/Products/Aquariums/Vision-Line/Vision-180-black.php#!juwel-000000000000009300";
+            var sUrl = "<?php echo $site_url;?>en/Products/Aquariums/Vision-Line/Vision-180-black.php#!juwel-000000000000009300";
         } else {
-            var sUrl = "../../../../index.php-lang=1&.php"/*tpa=http://www.juwel-aquarium.de/index.php?lang=1&*/;
+            var sUrl = "<?php echo $site_url;?>index.php-lang=1&.php"/*tpa=http://www.juwel-aquarium.de/index.php?lang=1&*/;
         }
         var data = '';
 
@@ -453,147 +403,4 @@ function attachInstructionText(marker, text) {
 
 //-->
 </script>
-
-<div id="distr_finder" class="clearfix">
-	<!-- Head-Bereich mit Box-Ãœberschrift -->
-    <div class="box-head">
-    	<h2 class="tk-myriad-pro tk-regular">Find your dealer</h2>
-
-        <!-- zum testen  - Aufrufen der unterschiedlichen Ansichten -->
-        <div style="position: absolute; right: 150px; top: 33px; color: white !important">
-        	        </div>
-        <!-- ende-> zum testen -->
-    </div>
-    <!-- ende-> Head-Bereich mit Box-Ãœberschrift -->
-
-    <!-- Haupt-Bereich -->
-    <div class="distr_finder_main clearfix">
-    	<!-- linker Bereich -->
-        <div class="left_col fl">
-        	<!-- linke Spalte oben -->
-        	<div class="left_top">
-            	<!-- Suche -->
-            	<div class="left_search">
-                	<p>Your location</p>
-					<form onSubmit="onSearch(); return false;" action="#">
-																																	<input id="srlanguage" type="hidden" value="en" name="lang">
-																																																																	                        <input id="sraddress" type="text" value="">
-                        <button class="button green">Search</button>
-                    </form>
-                </div>
-            	<!-- ende-> Suche -->
-
-                <!-- linker Main-Bereich der die Unterschiedlichen DIVs enthÃ¤lt - je nach Zustand austauschbar -->
-                <div class="left_main">
-                	<!-- Start Message  -->
-
-                    <div class="start">
-                    	<p class="tk-myriad-pro tk-bold">
-                    		Please choose above your location
-                        </p>
-                    </div>
-
-                    <!-- ende-> Start Message  -->
-
-                    <!-- Ergebnis-Optionen -->
-                    <div class="result_options" id="result_options">
-                    	<p>Do you mean:</p>
-                        <ul id="more_results">
-                        </ul>
-                    </div>
-                    <!-- ende-> Ergebnis-Optionen -->
-
-                    <!-- Ergebnis-Optionen -->
-                    <div class="result_options" id="zero_result">
-                    	<p>No results</p>
-                        <ul id="more_results">
-                        </ul>
-                    </div>
-                    <!-- ende-> Ergebnis-Optionen -->
-
-                    <!-- Ergebnisse und Routenplaner -->
-                    <div class="results" id="results">
-                    	<!-- Entfernungs-Slider -->
-                    	<div class="distance-slider-area clearfix">
-                        	<span class="title fl">Search radius:</span>
-                            <div class="distance-slider fl" data-max-range="50"></div>
-                        </div>
-                        <!-- ende-> Entfernungs-Slider -->
-
-                        <!-- Tab-Container -->
-                    	<div class="tabs">
-                        	<!-- Navigation der Tab-Container -->
-                        	<ul class="clearfix">
-                                <li><a href="#tab-distr" onClick="onSearch();">Dealer</a></li>
-                                <li><a href="#tab-route" onClick="calcRoute( sSelectedDistance );">Route</a></li>
-                            </ul>
-                            <!-- ende-> Navigation der Tab-Container -->
-
-                            <!-- Tab mit Auflistung der verschiedenen HÃ¤ndler als Suchergebnis -->
-                            <div id="tab-distr" class="scrollcontent">
-                                	<ul class="result-list" id="handler_results">
-										                                    </ul>
-                            </div>
-                            <!-- ende-> Tab mit Auflistung der verschiedenen HÃ¤ndler als Suchergebnis -->
-
-                            <!-- Tab mit Ergebnis der Routenplanung -->
-                            <div id="tab-route" class="scrollcontent">
-                                <ul class="result-list" id="route_result">
-                                									</ul>
-                            </div>
-                            <!-- ende-> Ergebnisse und Routenplaner -->
-
-                        </div>
-                        <!-- ende-> Tab-Container -->
-                    </div>
-                    <!-- ende-> Ergebnisse und Routenplaner -->
-
-                </div>
-               	<!-- ende-> linker Main-Bereich -->
-
-                <!-- Toggle-Box (HÃ¤ndler-Registrieren) -->
-                <div class="distr_register">
-                    <span class="close_register"></span>
-                    <h5>Let your customers find you!</h5>
-                    <p>Are you an existing retailer of JUWEL products and want to be shown in the dealer finder? If so, then contact us.</p>
-                                            <a class="button green" href="../../../../index.php-lang=1&cl=contact.php">Contact Us</a>
-                                    </div>
-                <!-- ende-> Toggle-Box (HÃ¤ndler-Registrieren) -->
-
-            </div>
-            <!-- ende-> linke Spalte oben -->
-
-            <div class="left_bottom">
-            	You are a dealer?
-            </div>
-
-        </div>
-        <!-- ende-> linker Bereich -->
-
-        <!-- rechter Bereich -->
-        <div class="right_col fl">
-
-        	<!-- Div mit Karte -->
-        	<div id="distr_map"></div>
-            <!-- ende Div mit Karte -->
-
-            <!-- rechts unten (unter Karte) Filter -->
-            <div class="right_bottom clearfix">
-
-                <form class="distr_filter_form">
-                	<span class="title">Filter these results:</span>
-                                            <input id="srofficial" type="hidden" name="authorized">
-                    
-                    <div class="seawater de clearfix" id="srdivseawater">
-                        <input id="srseawater" type="checkbox" name="seawater">
-                        <label for="seawater">Marine Department</label>
-                    </div>
-
-                </form>
-
-            </div>
-             <!-- ende rechts unten (unter Karte) Filter -->
-        </div>
-    </div>
-    <!-- ende-> Main-Breich -->
-</div></div><!-- Footer-Area -->
+</div><!-- Footer-Area -->
