@@ -2,12 +2,11 @@
 
 <div id="footer">
     <div class="page_margins bg">
-      	  	  
 			<div class="col products">
         	<h4>Products</h4>		
 										
 										<ul>
-																							<li><a href="../Rio-Line/Rio-125-black.php#!juwel-000000000000001300">Rio Line</a></li>
+																							<li><a href="<?php echo $site_url;?>en//Rio-Line/Rio-125-black.php#!juwel-000000000000001300">Rio Line</a></li>
 																							<li><a href="Vision-180-black.php#!juwel-000000000000009300">Vision Line</a></li>
 																							<li><a href="../Trigon-Line/Trigon-190-black.php#!juwel-000000000000016300">Trigon Line</a></li>
 																							<li><a href="../Lido-Line/Lido-120-black.php#!juwel-000000000000011300">Lido Line</a></li>
@@ -15,7 +14,6 @@
 																							<li><a href="../Vio-Line/Vio-40-black-Int.php#!juwel-000000000000020040">Vio Line</a></li>
 																							<li><a href="../Korall/Korall-60-Int.php#!juwel-000000000000023860">Korall</a></li>
 										</ul>
-							
 										<ul>
 																							<li><a href="../../More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Day-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">Lighting</a></li>
 																							<li><a href="../../More/Filtration/Filter-Media/bioPad-S-Super-Comp-S-Poly-Pad-Bioflow-Super-Compact-Super.php">Filtration</a></li>
@@ -35,35 +33,20 @@
 							                        		        
                 <div class="col">
         	<h4>Service</h4>
-        			
 				<ul>
                                    	                   		<li><a href="../../../Service/FAQ/index.php" onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Servicecenter']);">FAQ</a></li>
                    	                	            </ul>
-					</div>
-							        
-        		<div class="col right">
-        	<h4>Subscribe Newsletter</h4>
-            <div class="newsletter">
-				<form action="https://www.juwel-aquarium.de/en/Products/Aquariums/Vision-Line/Vision-180-black.php#!juwel-000000000000009300" method="post">
-				    <input type="hidden" name="stoken" value="100BBA8B"><input type="hidden" name="force_sid" value="">
-<input type="hidden" name="lang" value="1">
-				    <input type="hidden" name="fnc" value="fill">
-				    <input type="hidden" name="cl" value="newsletter">
-				    				        				        <input type="hidden" name="anid" value="000000000000009300">
-				                    	<fieldset>
-                    	<input type="text" name="editval[oxuser__oxusername]" title="Subscribe Newsletter" value="Your E-Mail">
-                        <button type="submit">Send</button>
-                    </fieldset>
-                </form>
-            </div>
-            <div class="facebook clearfix">
-                <h4 class="ir"><a href="javascript:if(confirm('http://www.facebook.com/Juwel.Aquarium  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ËüÊÇÒ»¸öÓò»òÂ·¾¶Íâ²¿±»ÉèÖÃÎªËüµÄÆôÊ¼µØÖ·µÄµØÖ·¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='http://www.facebook.com/Juwel.Aquarium'">Juwel on Facebook</a></h4>
-            </div>
+					</div>   
+        		<div class="col">
+        	<h4>Contact</h4>
+            <ul>
+				<li><a>广州日创</a></li>
+                <li style="width: 240px;"><a>联系电话：0776-36636366</a></li>
+                <li style="width: 240px;"><a>电子邮箱：leecom@leecom.com</a></li>
+            </ul>
         </div>
         <div class="bottom-col clearfix">
-
         	<ul class="payment display-none">
-			            	
                 <li class="ir mastercard">MasterCard</li>
                 <li class="ir visa">Visa</li>
                 <li class="ir elv">ELV</li>
@@ -73,19 +56,12 @@
                 <li><a href="../../../../index.php-lang=1&cl=alist&cnid=destatic3.php">Privacy policy</a></li>
                 <li><a href="../../../../index.php-lang=1&cl=alist&cnid=destatic4.php">Guarantee policy</a></li>
             </ul>
-            <ul class="inline-nav clearfix left-separator">
-                <li>
-                    <a class="flag-gb" href="javascript:if(confirm('http://www.juwel-aquarium.co.uk/  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ËüÊÇÒ»¸öÓò»òÂ·¾¶Íâ²¿±»ÉèÖÃÎªËüµÄÆôÊ¼µØÖ·µÄµØÖ·¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='http://www.juwel-aquarium.co.uk/'">
-                        UK assortment
-                    </a>
-                </li>
-                        </ul>
         </div>
     </div>
     <div id="footer-bottom">
         <div class="page_margins">
         	<div class="ir"></div>
-            <span>2012 JUWEL Aquarium GmbH &amp; Co. KG - All rights reserved</span>
+            <span>2015 LEECOM - All rights reserved</span>
             <ul class="inline-nav">
             	<li><a href="#" id="handler-finder-footer">Store finder</a></li>
                 <li><a href="../../../../index.php-lang=1&cl=contact.php">Contact</a></li>
