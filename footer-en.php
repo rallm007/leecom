@@ -37,9 +37,9 @@
         <div class="col" style="width: 240px;">
         	<h4>Contact</h4>
             <ul>
-				<li><a>广州日创</a></li>
-                <li><a>Telephone：0776-36636366</a></li>
-                <li><a>Email：leecom@leecom.com</a></li>
+				<li><a>广州日创橡塑电器有限公司</a></li>
+                <li><a>Telephone：+86-20-34691002</a></li>
+                <li><a>Email：simon.lee@LEECOM.cn</a></li>
             </ul>
 		</div>
         <div class="bottom-col clearfix">

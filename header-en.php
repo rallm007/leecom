@@ -89,7 +89,7 @@ var _gaq = _gaq || [];
     <div class="drop">
         <ul>
                     <li><a onclick="_gaq.push(['_trackEvent', 'Sprachselektor', 'click', 'Français']);" hreflang="fr" href="<?php echo $site_url;?>fr/Produits/Aquariums/Rio-Line/Rio-125-noir.php#!juwel-000000000000001300" title="Français" class="fr_FR">中文</a></li>
-                    <li><a onclick="_gaq.push(['_trackEvent', 'Sprachselektor', 'click', 'English']);" hreflang="en" href="Rio-125-black.php#!juwel-000000000000001300" title="English" class="en_GB">English</a></li>
+                    <li><a onclick="_gaq.push(['_trackEvent', 'Sprachselektor', 'click', 'English']);" hreflang="en" href="<?php echo $site_url;?>en/Products/Aquariums/Rio-Line/Rio-125-black.php#!juwel-000000000000001300" title="English" class="en_GB">English</a></li>
         </ul>
         <div class="drop-btm"></div>
     </div>
