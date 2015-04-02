@@ -14,28 +14,7 @@
                 <p>The Vio 40 from JUWEL Aquarium creates<br />
  a large glimpse of a fascinating underwater <br />
 world despite its low volume.</p>
-                <a class="button ci-shadow" href="javascript:if(confirm('<?php echo $site_url;?>en/Products/Aquariums/Vio-Line/  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ²»¿ÉÓÃ, »ò·ÅÆúÁËÏÂÔØ, »òÏîÄ¿¼´½«Í£Ö¹¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='<?php echo $site_url;?>en/Products/Aquariums/Vio-Line/'" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Pure Lifestyle']);">Read more</a>
-            </div>
-        </div>
-    		<div class="item" style="background-color:#ffffff; background-image:url('out/pictures/promo/carbax_new_en.jpg');">
-                            <div class="page_margins item-content">
-                            <h2 class="tk-myriad-pro tk-light">A new dimension!</h2>
-                <h3 class="tk-myriad-pro tk-semibold">Carbax charcoal filter</h3>
-                <p>Carbax sets new standards in aquarium<br />
- filtering with active charcoal. Its excellent <br />
-absorption properties ensure crystal-clear <br />
-water in your aquarium.<br /></p>
-                <a class="button ci-shadow" href="javascript:if(confirm('<?php echo $site_url;?>en/Products/More/Filtration/Filter-Media/Carbax-M-Compact-Active-charcoal-M-Bioflow-3-0-Compact.php  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ²»¿ÉÓÃ, »ò·ÅÆúÁËÏÂÔØ, »òÏîÄ¿¼´½«Í£Ö¹¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='<?php echo $site_url;?>en/Products/More/Filtration/Filter-Media/Carbax-M-Compact-Active-charcoal-M-Bioflow-3-0-Compact.php'" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'A new dimension!']);">Read More</a>
-            </div>
-        </div>
-    		<div class="item" style="background-color:#ffffff; background-image:url('out/pictures/promo/juwel_rio400_weiss_2014(1).jpg');">
-                            <div class="page_margins item-content">
-                            <h2 class="tk-myriad-pro tk-light">New Colour</h2>
-                <h3 class="tk-myriad-pro tk-semibold">Rio 400 white</h3>
-                <p>From now on, our Rio 400 <br />
-and all other aquariums are <br />
-available in classic white.<br /></p>
-                <a class="button ci-shadow" href="en/Products/Aquariums/Rio-Line/Rio-125-black.php#!juwel-000000000000005400" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'New Colour']);">Read more</a>
+                <a class="button ci-shadow" href="<?php echo $site_url;?>en/Products/Aquariums/Vio-Line/Vio-40-black-Int.php" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Pure Lifestyle']);">Read more</a>
             </div>
         </div>
     		<div class="item" style="background-color:#ffffff; background-image:url('out/pictures/promo/juwel_buehne_rekord_700(2).jpg');">
@@ -46,7 +25,7 @@ available in classic white.<br /></p>
 world designed, varied and imaginative.<br />
 Then start now with a rekord 700 in<br />
 the world of JUWEL Aquariums.</p>
-                <a class="button ci-shadow" href="javascript:if(confirm('<?php echo $site_url;?>Rekord-600-black-Int.php  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ²»¿ÉÓÃ, »ò·ÅÆúÁËÏÂÔØ, »òÏîÄ¿¼´½«Í£Ö¹¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='<?php echo $site_url;?>Rekord-600-black-Int.php#!juwel-000000000000021740'" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Your underwater world']);">Read more</a>
+                <a class="button ci-shadow" href="<?php echo $site_url;?>en/Products/Aquariums/Rekord-Line/Rekord-600-black-Int.php" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Your underwater world']);">Read more</a>
             </div>
         </div>
     		<div class="item" style="background-color:#ffffff; background-image:url('out/pictures/promo/home_slider_1(2).jpg');">
@@ -56,16 +35,7 @@ the world of JUWEL Aquariums.</p>
                 <p>Use the JUWEL Skimmer 3.0 and Marine tubes<br />
 to turn your JUWEL Aquarium into a saltwater <br />
 aquarium in next to no time.</p>
-                <a class="button ci-shadow" href="javascript:if(confirm('<?php echo $site_url;?>en/Products/More/Marine/Skimmer/  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ²»¿ÉÓÃ, »ò·ÅÆúÁËÏÂÔØ, »òÏîÄ¿¼´½«Í£Ö¹¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='<?php echo $site_url;?>en/Products/More/Marine/Skimmer/'" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Marine']);">Read more</a>
-            </div>
-        </div>
-    		<div class="item" style="background-color:#ffffff; background-image:url('out/pictures/promo/rio_240_buehne(1).jpg');">
-                            <div class="page_margins item-content">
-                            <h2 class="tk-myriad-pro tk-light">New Colour</h2>
-                <h3 class="tk-myriad-pro tk-semibold">RIO 240 white</h3>
-                <p>The JUWEL aquarium RIO 240 is also<br />
-available in modern white.</p>
-                <a class="button ci-shadow" href="en/Products/Aquariums/Rio-Line/Rio-240-black.php-force_sid=kh1sr4d87d4bcva6qteesv9mj4.php#juwel-000000000000003300" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'New Colour']);">Read more</a>
+                <a class="button ci-shadow" href="<?php echo $site_url;?>en/Products/More/Marine/Skimmer/Juwel-SeaSkim-INT.php" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Marine']);">Read more</a>
             </div>
         </div>
         </div>
@@ -93,7 +63,7 @@ available in modern white.</p>
         <div class="grid_3 omega teaser-content">
             <h3>Brochure 2014/2015</h3>
             <p>Experience modern living in aquarium environment.</p>
-            <a class="arrow-link" href="javascript:if(confirm('<?php echo $site_url;?>out/media/brochure/2014/gb/index.php  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ²»¿ÉÓÃ, »ò·ÅÆúÁËÏÂÔØ, »òÏîÄ¿¼´½«Í£Ö¹¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='<?php echo $site_url;?>out/media/brochure/2014/gb/index.php'" title="Discover Now" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Brochure 2014/2015']);">Discover Now</a>
+            <a class="arrow-link" href="" title="Discover Now">Discover Now</a>
         </div>
     </div>
 	<div class="grid_6 alpha home-teaser-big"><!-- um den "NEW"-StÃ¶rer anzuzeigen hier die class "new" setzen -->
@@ -103,39 +73,11 @@ available in modern white.</p>
         <div class="grid_3 omega teaser-content">
             <h3>Automatic Feeder</h3>
             <p><span id="result_box" class="short_text" lang="en"><span class="hps">Very practical</span> <span class="hps">and</span> <span class="hps">easy</span> <span class="hps">to use.</span></span></p>
-            <a class="arrow-link" href="javascript:if(confirm('<?php echo $site_url;?>en/Products/More/Accessories/Automatic-Feeder/  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ²»¿ÉÓÃ, »ò·ÅÆúÁËÏÂÔØ, »òÏîÄ¿¼´½«Í£Ö¹¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='<?php echo $site_url;?>en/Products/More/Accessories/Automatic-Feeder/'" title="Automatic Feeder" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Automatic Feeder']);">Automatic Feeder</a>
+            <a class="arrow-link" href="<?php echo $site_url;?>en/Products/More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php" title="Automatic Feeder" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Automatic Feeder']);">Automatic Feeder</a>
         </div>
     </div>
          </div>
          <!-- 3er Teaser -->
-
-         <div class="clearfix home-teaser-wrap">
-                              <div class="grid_4 alpha home-teaser-small">
-                    <div class="teaser-content border" style="background-image:url('out/pictures/promo/1(1).png');">
-                        <h3>Chronicle</h3>
-                        <p>Experience the JUWEL Chronicle</p>
-                        <a class="arrow-link" href="en/Company/Chronicle/index.php" title="Read more" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Chronicle']);">Read more</a>
-                    </div>
-                </div>
-                              <div class="grid_4 alpha home-teaser-small">
-                    <div class="teaser-content border" style="background-image:url('out/pictures/promo/teaser_3_newsletter.jpg');">
-                        <h3>Newsletter</h3>
-                        <p>Stay up to date with the JUWEL newsletter.</p>
-                        <a class="arrow-link" href="index.php-lang=1&cl=newsletter.php" title="Sign In for Newsletter" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Newsletter']);">Sign In for Newsletter</a>
-                    </div>
-                </div>
-                              <div class="grid_4 alpha home-teaser-small">
-                    <div class="teaser-content border" style="background-image:url('out/pictures/promo/teaser_3_1.jpg');">
-                        <h3>Dealer Finder</h3>
-                        <p>Find Your nearest JUWEL Aquarium Dealer.                      </p>
-                        <a class="arrow-link" href="javascript:openStoreFinder();" title="Find Dealer" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Dealer Finder']);">Find Dealer</a>
-                    </div>
-                </div>
-                 	</div>
-        <!-- News-Box -->
-        <div class="home-news clear">
-        	<p><font size="2">From now on all our aquariums are available in modern white.</font> <font face="Verdana"><span><a href="index.php-lang=1&cl=alist&cnid=decontent5&scontentid=d7v62b47a285f9608513ce8abf8ce391.php" title="">Read more</a></span></font></p>
-        </div>
     </div>
 </div>
 <script>
