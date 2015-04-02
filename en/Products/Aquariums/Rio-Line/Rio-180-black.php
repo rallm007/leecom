@@ -29,23 +29,23 @@
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
                                 																																																																																							                    <a href="#juwel-000000000000001300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="../../../../out/pictures/master/product/7/01300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/7/01300.png" alt="Rio 125 ">
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/01300.png" alt="Rio 125 ">
                         Rio 125 
                     </a>
                 																																																																																							                    <a href="#juwel-000000000000004300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="../../../../out/pictures/master/product/7/04300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/7/04300.png" alt="Rio 180 ">
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/04300.png" alt="Rio 180 ">
                         Rio 180 
                     </a>
                 																																																																																							                    <a href="#juwel-000000000000003300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="../../../../out/pictures/master/product/7/03300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/7/03300.png" alt="Rio 240 ">
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/03300.png" alt="Rio 240 ">
                         Rio 240 
                     </a>
                 																																																																																							                    <a href="#juwel-000000000000007300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="../../../../out/pictures/master/product/7/07300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/7/07300.png" alt="Rio 300 ">
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/07300.png" alt="Rio 300 ">
                         Rio 300 
                     </a>
                 																																																																																							                    <a href="#juwel-000000000000005300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="../../../../out/pictures/master/product/7/05300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/7/05300.png" alt="Rio 400 ">
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/05300.png" alt="Rio 400 ">
                         Rio 400 
                     </a>
                                                 </div>
@@ -80,23 +80,23 @@
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000001300" title="JUWEL® Aquarium | Rio 125 black">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/01300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/01300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/01300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/01300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/01300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/01300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000001400" title="JUWEL® Aquarium | Rio 125 white">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/01400.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/01400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/01400.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/01400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/01400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/01400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000001550" title="JUWEL® Aquarium | Rio 125 beech">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/01550.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/01550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/01550.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/01550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/01550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/01550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000001700" title="JUWEL® Aquarium | Rio 125 dark wood">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/01700.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/01700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/01700.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/01700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/01700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/01700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
@@ -109,8 +109,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Rio-125-black.php#!juwel-000000000000001300" tppabs="http://www.juwel-aquarium.de/en/Products/Aquariums/Rio-Line/Rio-125-black.php#!juwel-000000000000001300" title="Rio 125 black"><img src="../../../../out/pictures/master/global/2/1.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Rio-125-white.php#!juwel-000000000000001400" tppabs="http://www.juwel-aquarium.de/en/Products/Aquariums/Rio-Line/Rio-125-white.php#!juwel-000000000000001400" title="Rio 125 white"><img src="../../../../out/pictures/master/global/2/4.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Rio-125-black.php#!juwel-000000000000001300" title="Rio 125 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Rio-125-white.php#!juwel-000000000000001400" title="Rio 125 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -125,7 +125,7 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="../../../../out/pictures/master/product/8/01300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/8/01300.png" alt="Rio 125 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/01300.png" alt="Rio 125 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
@@ -136,70 +136,70 @@
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/1/01300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/1/01300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/1/01300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/1/01300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/01300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/01300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/1/01300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/01300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/2/01300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/2/01300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/2/01300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/2/01300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/01300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/01300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/2/01300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/01300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/3/01300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/3/01300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/3/01300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/3/01300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/3/01300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/3/01300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/3/01300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/3/01300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/4/01300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/4/01300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/4/01300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/4/01300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/4/01300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/4/01300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/4/01300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/4/01300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/5/01300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/5/01300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/5/01300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/5/01300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/5/01300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/5/01300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/5/01300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/5/01300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/7/01300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/7/01300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/7/01300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/7/01300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/7/01300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/7/01300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/7/01300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/7/01300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/9/01300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/9/01300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/9/01300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/9/01300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/9/01300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/9/01300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/9/01300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/9/01300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
@@ -229,23 +229,23 @@
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000004300" title="JUWEL® Aquarium | Rio 180 black">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/04300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/04300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/04300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/04300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/04300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/04300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000004400" title="JUWEL® Aquarium | Rio 180 white">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/04400.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/04400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/04400.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/04400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/04400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/04400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000004550" title="JUWEL® Aquarium | Rio 180 beech">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/04550.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/04550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/04550.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/04550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/04550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/04550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000004700" title="JUWEL® Aquarium | Rio 180 dark wood">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/04700.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/04700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/04700.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/04700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/04700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/04700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
@@ -258,8 +258,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Rio-180-black.php#!juwel-000000000000004300" tppabs="http://www.juwel-aquarium.de/en/Products/Aquariums/Rio-Line/Rio-180-black.php#!juwel-000000000000004300" title="Rio 180 black"><img src="../../../../out/pictures/master/global/2/1.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Rio-180-white.php#!juwel-000000000000004400" tppabs="http://www.juwel-aquarium.de/en/Products/Aquariums/Rio-Line/Rio-180-white.php#!juwel-000000000000004400" title="Rio 180 white"><img src="../../../../out/pictures/master/global/2/4.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Rio-180-black.php#!juwel-000000000000004300" title="Rio 180 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Rio-180-white.php#!juwel-000000000000004400" title="Rio 180 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			 </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -274,7 +274,7 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="../../../../out/pictures/master/product/8/04300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/8/04300.png" alt="Rio 180 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/04300.png" alt="Rio 180 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
@@ -285,80 +285,80 @@
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/1/04300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/1/04300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/1/04300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/1/04300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/04300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/04300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/1/04300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/04300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/2/04300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/2/04300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/2/04300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/2/04300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/04300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/04300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/2/04300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/04300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/3/04300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/3/04300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/3/04300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/3/04300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/3/04300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/3/04300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/3/04300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/3/04300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/4/04300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/4/04300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/4/04300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/4/04300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/4/04300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/4/04300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/4/04300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/4/04300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/5/04300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/5/04300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/5/04300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/5/04300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/5/04300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/5/04300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/5/04300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/5/04300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/6/04300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/6/04300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/6/04300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/6/04300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/6/04300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/6/04300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/6/04300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/6/04300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/7/04300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/7/04300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/7/04300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/7/04300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/7/04300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/7/04300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/7/04300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/7/04300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/8/04300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/8/04300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/8/04300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/8/04300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/8/04300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/8/04300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/8/04300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/8/04300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
@@ -388,23 +388,23 @@
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000003300" title="JUWEL® Aquarium | Rio 240 black">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/03300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/03300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/03300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/03300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/03300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/03300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000003400" title="JUWEL® Aquarium | Rio 240 white">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/03400.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/03400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/03400.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/03400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/03400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/03400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000003550" title="JUWEL® Aquarium | Rio 240 beech">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/03550.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/03550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/03550.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/03550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/03550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/03550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000003700" title="JUWEL® Aquarium | Rio 240 dark wood">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/03700.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/03700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/03700.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/03700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/03700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/03700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
@@ -417,8 +417,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Rio-240-black.php#!juwel-000000000000003300" tppabs="http://www.juwel-aquarium.de/en/Products/Aquariums/Rio-Line/Rio-240-black.php#!juwel-000000000000003300" title="Rio 240 black"><img src="../../../../out/pictures/master/global/2/1.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Rio-240-white.php#!juwel-000000000000003400" tppabs="http://www.juwel-aquarium.de/en/Products/Aquariums/Rio-Line/Rio-240-white.php#!juwel-000000000000003400" title="Rio 240 white"><img src="../../../../out/pictures/master/global/2/4.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Rio-240-black.php#!juwel-000000000000003300" title="Rio 240 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Rio-240-white.php#!juwel-000000000000003400" title="Rio 240 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -433,7 +433,7 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="../../../../out/pictures/master/product/8/03300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/8/03300.png" alt="Rio 240 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/03300.png" alt="Rio 240 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
@@ -444,60 +444,60 @@
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/1/03300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/1/03300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/1/03300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/1/03300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/03300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/03300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/1/03300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/03300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/2/03300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/2/03300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/2/03300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/2/03300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/03300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/03300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/2/03300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/03300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/3/03300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/3/03300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/3/03300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/3/03300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/3/03300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/3/03300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/3/03300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/3/03300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/4/03300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/4/03300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/4/03300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/4/03300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/4/03300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/4/03300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/4/03300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/4/03300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/5/03300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/5/03300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/5/03300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/5/03300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/5/03300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/5/03300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/5/03300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/5/03300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/6/03300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/6/03300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/6/03300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/6/03300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/6/03300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/6/03300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/6/03300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/6/03300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
@@ -527,23 +527,23 @@
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000007300" title="JUWEL® Aquarium | Rio 300 black">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/07300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/07300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/07300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/07300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/07300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/07300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000007400" title="JUWEL® Aquarium | Rio 300 white">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/07400.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/07400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/07400.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/07400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/07400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/07400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000007550" title="JUWEL® Aquarium | Rio 300 beech">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/07550.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/07550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/07550.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/07550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/07550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/07550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000007700" title="JUWEL® Aquarium | Rio 300 dark wood">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/07700.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/07700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/07700.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/07700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/07700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/07700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
@@ -556,8 +556,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Rio-300-black-Rio-300-Black.php#!juwel-000000000000007300" tppabs="http://www.juwel-aquarium.de/en/Products/Aquariums/Rio-Line/Rio-300-black-Rio-300-Black.php#!juwel-000000000000007300" title="Rio 300 black"><img src="../../../../out/pictures/master/global/2/1.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Rio-300-white.php#!juwel-000000000000007400" tppabs="http://www.juwel-aquarium.de/en/Products/Aquariums/Rio-Line/Rio-300-white.php#!juwel-000000000000007400" title="Rio 300 white"><img src="../../../../out/pictures/master/global/2/4.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Rio-300-black-Rio-300-Black.php#!juwel-000000000000007300" title="Rio 300 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Rio-300-white.php#!juwel-000000000000007400" title="Rio 300 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -572,7 +572,7 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="../../../../out/pictures/master/product/8/07300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/8/07300.png" alt="Rio 300 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/07300.png" alt="Rio 300 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
@@ -583,60 +583,60 @@
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/1/07300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/1/07300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/1/07300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/1/07300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/07300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/07300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/1/07300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/07300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/2/07300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/2/07300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/2/07300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/2/07300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/07300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/07300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/2/07300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/07300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/3/07300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/3/07300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/3/07300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/3/07300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/3/07300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/3/07300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/3/07300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/3/07300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/4/07300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/4/07300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/4/07300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/4/07300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/4/07300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/4/07300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/4/07300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/4/07300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/5/07300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/5/07300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/5/07300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/5/07300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/5/07300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/5/07300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/5/07300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/5/07300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/6/07300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/6/07300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/6/07300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/6/07300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/6/07300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/6/07300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/6/07300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/6/07300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
@@ -666,23 +666,23 @@
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000005300" title="JUWEL® Aquarium | Rio 400 black">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/05300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/05300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/05300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/05300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/05300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/05300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000005400" title="JUWEL® Aquarium | Rio 400 white">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/05400.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/05400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/05400.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/05400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/05400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/05400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000005550" title="JUWEL® Aquarium | Rio 400 beech">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/05550.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/05550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/05550.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/05550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/05550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/05550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000005700" title="JUWEL® Aquarium | Rio 400 dark wood">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/05700.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/main/zoom/1/05700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/05700.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/1/05700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/05700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/05700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
@@ -695,8 +695,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Rio-400-black.php#!juwel-000000000000005300" tppabs="http://www.juwel-aquarium.de/en/Products/Aquariums/Rio-Line/Rio-400-black.php#!juwel-000000000000005300" title="Rio 400 black"><img src="../../../../out/pictures/master/global/2/1.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Rio-400-white.php#!juwel-000000000000005400" tppabs="http://www.juwel-aquarium.de/en/Products/Aquariums/Rio-Line/Rio-400-white.php#!juwel-000000000000005400" title="Rio 400 white"><img src="../../../../out/pictures/master/global/2/4.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Rio-400-black.php#!juwel-000000000000005300" title="Rio 400 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Rio-400-white.php#!juwel-000000000000005400" title="Rio 400 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -711,7 +711,7 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="../../../../out/pictures/master/product/8/05300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/8/05300.png" alt="Rio 400 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/05300.png" alt="Rio 400 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
@@ -722,60 +722,60 @@
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/1/05300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/1/05300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/1/05300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/1/05300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/05300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/05300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/1/05300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/05300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/2/05300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/2/05300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/2/05300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/2/05300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/05300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/05300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/2/05300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/05300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/3/05300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/3/05300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/3/05300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/3/05300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/3/05300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/3/05300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/3/05300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/3/05300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/4/05300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/4/05300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/4/05300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/4/05300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/4/05300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/4/05300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/4/05300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/4/05300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/5/05300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/5/05300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/5/05300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/5/05300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/5/05300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/5/05300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/5/05300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/5/05300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/6/05300.jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/zoom/6/05300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/6/05300.png" tppabs="http://www.juwel-aquarium.de/out/pictures/master/product/gallery/detail/6/05300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/6/05300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/6/05300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/6/05300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/6/05300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
@@ -813,7 +813,7 @@
 		loader.show()			   // loader einblenden
 
 		// url für Request
-		// var url = 'http://www.juwel-aquarium.de/partials/produkt-detail/ajax-content/ajax.php/'
+		// var url = '<?php echo $site_url;?>partials/produkt-detail/ajax-content/ajax.php/'
 		var sData = "cl=srajax&fnc=getArticleContent&tpl=srarticlecontent.tpl&anid=" + iArtId + "";
 
 		//data: {artId: iArtId},
@@ -821,7 +821,7 @@
 		if(window.location.protocol.indexOf("https") >= 0) {
 			var sUrl = "https://www.juwel-aquarium.de/en/Products/Aquariums/Rio-Line/Rio-180-black.php#!juwel-000000000000004300cl=srajax";
 		} else {
-			var sUrl = "../../../../index.php-lang=1&cl=srajax.php"/*tpa=http://www.juwel-aquarium.de/index.php?lang=1&cl=srajax*/; 
+			var sUrl = "../../../../index.php-lang=1&cl=srajax.php"/*tpa=<?php echo $site_url;?>index.php?lang=1&cl=srajax*/; 
 		}
 
 		// ajax request
@@ -881,8 +881,8 @@
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../index.php" tppabs="http://www.juwel-aquarium.de/en/Products/" title="Products">Products</a></li>
-			    						    <li><a href="Rio-125-black.php" tppabs="http://www.juwel-aquarium.de/en/Products/Aquariums/Rio-Line/" title="Rio Line">Rio Line</a></li>
+						    <li><a href="../../index.php" title="Products">Products</a></li>
+			    						    <li><a href="Rio-125-black.php" title="Rio Line">Rio Line</a></li>
 			    			        </ul>                        
     </div>
 </div>

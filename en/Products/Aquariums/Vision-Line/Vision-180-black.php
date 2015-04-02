@@ -29,15 +29,15 @@
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
                                 																																																																																							                    <a href="#juwel-000000000000009300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="../../../../out/pictures/master/product/7/09300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/7/09300.png" alt="Vision 180 ">
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/09300.png" alt="Vision 180 ">
                         Vision 180 
                     </a>
                 																																																																																							                    <a href="#juwel-000000000000006800" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="../../../../out/pictures/master/product/7/06800.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/7/06800.png" alt="Vision 260 ">
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/06800.png" alt="Vision 260 ">
                         Vision 260 
                     </a>
                 																																																																																							                    <a href="#juwel-000000000000010300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="../../../../out/pictures/master/product/7/10300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/7/10300.png" alt="Vision 450 ">
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/10300.png" alt="Vision 450 ">
                         Vision 450 
                     </a>
                                                 </div>
@@ -72,23 +72,23 @@
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000009300" title="JUWEL® Aquarium | Vision 180 black">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/09300.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/main/zoom/1/09300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/09300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/1/09300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/09300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/09300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000009400" title="JUWEL® Aquarium | Vision 180 white">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/09400.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/main/zoom/1/09400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/09400.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/1/09400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/09400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/09400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000009550" title="JUWEL® Aquarium | Vision 180 beech">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/09550.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/main/zoom/1/09550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/09550.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/1/09550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/09550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/09550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000009700" title="JUWEL® Aquarium | Vision 180 dark wood">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/09700.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/main/zoom/1/09700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/09700.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/1/09700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/09700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/09700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
@@ -101,8 +101,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Vision-180-black.php#!juwel-000000000000009300" tppabs="<?php echo $site_url;?>/en/Products/Aquariums/Vision-Line/Vision-180-black.php#!juwel-000000000000009300" title="Vision 180 black"><img src="../../../../out/pictures/master/global/2/1.png" tppabs="<?php echo $site_url;?>/out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Vision-180-white.php#!juwel-000000000000009400" tppabs="<?php echo $site_url;?>/en/Products/Aquariums/Vision-Line/Vision-180-white.php#!juwel-000000000000009400" title="Vision 180 white"><img src="../../../../out/pictures/master/global/2/4.png" tppabs="<?php echo $site_url;?>/out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Vision-180-black.php#!juwel-000000000000009300" title="Vision 180 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Vision-180-white.php#!juwel-000000000000009400" title="Vision 180 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -117,7 +117,7 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="../../../../out/pictures/master/product/8/09300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/8/09300.png" alt="Vision 180 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/09300.png" alt="Vision 180 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
@@ -128,60 +128,60 @@
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/1/09300.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/1/09300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/1/09300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/1/09300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/09300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/09300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/1/09300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/09300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/2/09300.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/2/09300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/2/09300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/2/09300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/09300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/09300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/2/09300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/09300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/3/09300.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/3/09300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/3/09300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/3/09300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/3/09300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/3/09300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/3/09300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/3/09300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/4/09300.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/4/09300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/4/09300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/4/09300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/4/09300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/4/09300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/4/09300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/4/09300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/6/09300.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/6/09300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/6/09300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/6/09300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/6/09300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/6/09300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/6/09300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/6/09300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/7/09300.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/7/09300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/7/09300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/7/09300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/7/09300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/7/09300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/7/09300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/7/09300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
@@ -211,23 +211,23 @@
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000006800" title="JUWEL® Aquarium | Vision 260 black">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/06800.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/main/zoom/1/06800.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/06800.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/1/06800.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/06800.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/06800.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000006400" title="JUWEL® Aquarium | Vision 260 white">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/06400.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/main/zoom/1/06400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/06400.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/1/06400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/06400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/06400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000006550" title="JUWEL® Aquarium | Vision 260 beech">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/06550.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/main/zoom/1/06550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/06550.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/1/06550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/06550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/06550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000006700" title="JUWEL® Aquarium | Vision 260 dark wood">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/06700.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/main/zoom/1/06700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/06700.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/1/06700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/06700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/06700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
@@ -240,8 +240,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Vision-260-black.php#!juwel-000000000000006800" tppabs="<?php echo $site_url;?>/en/Products/Aquariums/Vision-Line/Vision-260-black.php#!juwel-000000000000006800" title="Vision 260 black"><img src="../../../../out/pictures/master/global/2/1.png" tppabs="<?php echo $site_url;?>/out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Vision-260-white.php#!juwel-000000000000006400" tppabs="<?php echo $site_url;?>/en/Products/Aquariums/Vision-Line/Vision-260-white.php#!juwel-000000000000006400" title="Vision 260 white"><img src="../../../../out/pictures/master/global/2/4.png" tppabs="<?php echo $site_url;?>/out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Vision-260-black.php#!juwel-000000000000006800" title="Vision 260 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Vision-260-white.php#!juwel-000000000000006400" title="Vision 260 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -256,7 +256,7 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="../../../../out/pictures/master/product/8/06800.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/8/06800.png" alt="Vision 260 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/06800.png" alt="Vision 260 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
@@ -267,50 +267,50 @@
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/1/06800.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/1/06800.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/1/06800.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/1/06800.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/06800.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/06800.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/1/06800.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/06800.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/2/06800.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/2/06800.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/2/06800.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/2/06800.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/06800.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/06800.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/2/06800.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/06800.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/3/06800.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/3/06800.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/3/06800.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/3/06800.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/3/06800.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/3/06800.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/3/06800.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/3/06800.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/5/06800.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/5/06800.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/5/06800.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/5/06800.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/5/06800.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/5/06800.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/5/06800.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/5/06800.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/6/06800.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/6/06800.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/6/06800.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/6/06800.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/6/06800.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/6/06800.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/6/06800.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/6/06800.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
@@ -340,23 +340,23 @@
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000010300" title="JUWEL® Aquarium | Vision 450 black">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/10300.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/main/zoom/1/10300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/10300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/1/10300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/10300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/10300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000010400" title="JUWEL® Aquarium | Vision 450 white">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/10400.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/main/zoom/1/10400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/10400.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/1/10400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/10400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/10400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000010550" title="JUWEL® Aquarium | Vision 450 beech">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/10550.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/main/zoom/1/10550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/10550.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/1/10550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/10550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/10550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000010700" title="JUWEL® Aquarium | Vision 450 dark wood">
-	                        <a href="../../../../out/pictures/master/product/main/zoom/1/10700.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/main/zoom/1/10700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="../../../../out/pictures/master/product/1/10700.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/1/10700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/10700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/10700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
@@ -369,8 +369,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Vision-450-black.php#!juwel-000000000000010300" tppabs="<?php echo $site_url;?>/en/Products/Aquariums/Vision-Line/Vision-450-black.php#!juwel-000000000000010300" title="Vision 450 black"><img src="../../../../out/pictures/master/global/2/1.png" tppabs="<?php echo $site_url;?>/out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Vision-450-white.php#!juwel-000000000000010400" tppabs="<?php echo $site_url;?>/en/Products/Aquariums/Vision-Line/Vision-450-white.php#!juwel-000000000000010400" title="Vision 450 white"><img src="../../../../out/pictures/master/global/2/4.png" tppabs="<?php echo $site_url;?>/out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Vision-450-black.php#!juwel-000000000000010300" title="Vision 450 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Vision-450-white.php#!juwel-000000000000010400" title="Vision 450 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -385,7 +385,7 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="../../../../out/pictures/master/product/8/10300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/8/10300.png" alt="Vision 450 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/10300.png" alt="Vision 450 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
@@ -396,50 +396,50 @@
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/1/10300.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/1/10300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/1/10300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/1/10300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/10300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/10300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/1/10300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/10300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/2/10300.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/2/10300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/2/10300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/2/10300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/10300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/10300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/2/10300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/10300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/3/10300.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/3/10300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/3/10300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/3/10300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/3/10300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/3/10300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/3/10300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/3/10300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/5/10300.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/5/10300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/5/10300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/5/10300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/5/10300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/5/10300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/5/10300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/5/10300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="../../../../out/pictures/master/product/gallery/zoom/6/10300.jpg" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/zoom/6/10300.jpg" class="cloud-zoom">
-		                                    <img data-src="../../../../out/pictures/master/product/gallery/detail/6/10300.png" tppabs="<?php echo $site_url;?>/out/pictures/master/product/gallery/detail/6/10300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/6/10300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/6/10300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>/out/pictures/master/product/gallery/thumb/6/10300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/6/10300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
@@ -477,7 +477,7 @@
 		loader.show()			   // loader einblenden
 
 		// url für Request
-		// var url = '<?php echo $site_url;?>/partials/produkt-detail/ajax-content/ajax.php/'
+		// var url = '<?php echo $site_url;?>partials/produkt-detail/ajax-content/ajax.php/'
 		var sData = "cl=srajax&fnc=getArticleContent&tpl=srarticlecontent.tpl&anid=" + iArtId + "";
 
 		//data: {artId: iArtId},
@@ -485,7 +485,7 @@
 		if(window.location.protocol.indexOf("https") >= 0) {
 			var sUrl = "https://www.juwel-aquarium.de/en/Products/Aquariums/Vision-Line/Vision-180-black.php#!juwel-000000000000009300cl=srajax";
 		} else {
-			var sUrl = "../../../../index.php-lang=1&cl=srajax.php"/*tpa=<?php echo $site_url;?>/index.php?lang=1&cl=srajax*/; 
+			var sUrl = "../../../../index.php-lang=1&cl=srajax.php"/*tpa=<?php echo $site_url;?>index.php?lang=1&cl=srajax*/; 
 		}
 
 		// ajax request
@@ -545,8 +545,8 @@
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../index.php" tppabs="<?php echo $site_url;?>/en/Products/" title="Products">Products</a></li>
-			    						    <li><a href="Vision-180-black.php" tppabs="<?php echo $site_url;?>/en/Products/Aquariums/Vision-Line/" title="Vision Line">Vision Line</a></li>
+						    <li><a href="../../index.php" title="Products">Products</a></li>
+			    						    <li><a href="Vision-180-black.php" title="Vision Line">Vision Line</a></li>
 			    			        </ul>                        
     </div>
 </div>
