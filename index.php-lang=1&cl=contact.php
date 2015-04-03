@@ -36,14 +36,14 @@ $(function(){
 	  };
 	  // custom marker-icon
 	  var icon = new google.maps.MarkerImage(
-		'out/juwel/src/images/all/maps/juwel_map_marker.png'/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/maps/juwel_map_marker.png*/,
+		'out/juwel/src/images/all/maps/juwel_map_marker.png',
 		new google.maps.Size(73,82),
 		new google.maps.Point(0,0),
 		new google.maps.Point(37,82)
 	  );
 	  // Schatten für Icon
 	  var shadow = new google.maps.MarkerImage(
-		'out/juwel/src/images/all/maps/shadow.png'/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/maps/shadow.png*/,
+		'out/juwel/src/images/all/maps/shadow.png',
 		 new google.maps.Size(122,82),
 		 new google.maps.Point(0,0),
 		 new google.maps.Point(37,82)
@@ -116,13 +116,13 @@ $(function(){
 				Deutschland                </p>
 <h4 class="tk-myriad-pro tk-semibold green">Customer service</h4>
 <div class="tk-myriad-pro tk-semibold tel">
-+49 (0)4261 9379 32*            </div>
++86-20-34691002            </div>
 <div class="tk-myriad-pro tk-semibold fax">
 +49 (0) 4261 9379 856</div>
 <div class="tk-myriad-pro tk-semibold email">
-            	service@juwel-aquarium.de <!-- service@juwel-aquarium.de  -->           </div>
+            	simon.lee@LEECOM.cn           </div>
 <div class="contact_faq">
-<p class="lh20">Find quick answers to frequently asked questions in our question and answer (FAQ) section</p> <a class="arrow-link" href="index.php-lang=1&force_sid=rourg7mdqqqm5ppt19cs5hlfm7&cl=alist&cnid=deservice1.php" tppabs="https://www.juwel-aquarium.de/index.php?lang=1&force_sid=rourg7mdqqqm5ppt19cs5hlfm7&cl=alist&cnid=deservice1" title="FAQ">FAQ</a>      </div>
+<p class="lh20">Find quick answers to frequently asked questions in our question and answer (FAQ) section</p> <a class="arrow-link" href="<?php echo $site_url.'en/Service/FAQ/index.php';?>" title="FAQ">FAQ</a>      </div>
 </div>
 			
         </div>
@@ -141,7 +141,7 @@ $(function(){
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="index.php-lang=1&cl=contact.php" tppabs="http://www.juwel-aquarium.de/index.php?lang=1&cl=contact" title="Contact">Contact</a></li>
+						    <li><a href="index.php-lang=1&cl=contact.php" title="Contact">Contact</a></li>
 			    			        </ul>                        
     </div>
 </div>

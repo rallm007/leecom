@@ -5,7 +5,7 @@
 			<div class="col products">
         	<h4>Products</h4>
 				<ul>
-					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Rio-Line/Rio-125-black.php#!juwel-000000000000001300">XP Line</a></li>
+					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XP-Line/Rio-125-black.php#!juwel-000000000000001300">XP Line</a></li>
 					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Vision-180-black.php#!juwel-000000000000009300">XC Line</a></li>
 					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Trigon-Line/Trigon-190-black.php#!juwel-000000000000016300">XT Line</a></li>
 					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Lido-Line/Lido-120-black.php#!juwel-000000000000011300">XE Line</a></li>

@@ -18,7 +18,7 @@
     <meta property="og:description" content="Rio 125 black -" />
     <meta property="og:type" content="og:product" />
     <meta property="og:image" content="<?php echo $site_url;?>out/pictures/master/product/1/01300.png" />
-    <link rel="shortcut icon" href="<?php echo $site_url;?>favicon.ico">
+    <link rel="shortcut icon" href="<?php echo $site_url;?>out/pictures/master/global/1/favicon.ico">
     <link rel="stylesheet" href="<?php echo $site_url;?>out/juwel/src/css/styles.css">
 	<link rel="stylesheet" href="<?php echo $site_url;?>out/juwel/src/css/en-GB.css">
 	<link rel="stylesheet" href="<?php echo $site_url;?>out/juwel/src/css/colorbox.css">
@@ -88,8 +88,8 @@ var _gaq = _gaq || [];
     <a>Language</a>
     <div class="drop">
         <ul>
-                    <li><a onclick="_gaq.push(['_trackEvent', 'Sprachselektor', 'click', 'Français']);" hreflang="fr" href="<?php echo $site_url;?>fr/Produits/Aquariums/Rio-Line/Rio-125-noir.php#!juwel-000000000000001300" title="Français" class="fr_FR">中文</a></li>
-                    <li><a onclick="_gaq.push(['_trackEvent', 'Sprachselektor', 'click', 'English']);" hreflang="en" href="<?php echo $site_url;?>en/Products/Aquariums/Rio-Line/Rio-125-black.php#!juwel-000000000000001300" title="English" class="en_GB">English</a></li>
+                    <li><a onclick="_gaq.push(['_trackEvent', 'Sprachselektor', 'click', 'Français']);" hreflang="fr" href="<?php echo $site_url;?>fr/Produits/Aquariums/XP-Line/Rio-125-noir.php#!juwel-000000000000001300" title="Français" class="fr_FR">中文</a></li>
+                    <li><a onclick="_gaq.push(['_trackEvent', 'Sprachselektor', 'click', 'English']);" hreflang="en" href="<?php echo $site_url;?>en/Products/Aquariums/XP-Line/Rio-125-black.php#!juwel-000000000000001300" title="English" class="en_GB">English</a></li>
         </ul>
         <div class="drop-btm"></div>
     </div>
@@ -106,7 +106,7 @@ var _gaq = _gaq || [];
 	                        <ul>
 								<li class="head"><h4>Aquariums</h4></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Rio-Line/Rio-125-black.php#!juwel-000000000000001300" id="00000000031">XP Line</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XP-Line/Rio-125-black.php#!juwel-000000000000001300" id="00000000031">XP Line</a></li>
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Vision-Line/Vision-180-black.php#!juwel-000000000000009300" id="00000000041">XC Line</a></li>
 						<!-- Aquarien -->

@@ -25,19 +25,19 @@ Painstaking workmanship from Germany, top-quality materials and perfectly tuned 
             	<ul>
                 	<li class="high-lite">
                     	<h3>JUWEL High-Lite</h3>
-                        <a href="../../../../out/pictures/generated/srcms/1/618_342_80/#light" class="arrow-link bottom reverse scroll-link">Read more</a>
+                        <a href="#light" class="arrow-link bottom reverse scroll-link">Read more</a>
                     </li>
                     <li class="filter">
                     	<h3>Filter System</h3>
-                        <a href="../../../../out/pictures/generated/srcms/1/618_342_80/#filter" class="arrow-link bottom reverse scroll-link">Read more</a>
+                        <a href="#filter" class="arrow-link bottom reverse scroll-link">Read more</a>
                     </li>
                     <li class="heater">
                     	<h3>Heater</h3>
-                        <a href="../../../../out/pictures/generated/srcms/1/618_342_80/#filter" class="arrow-link bottom reverse scroll-link">Read more</a>
+                        <a href="#filter" class="arrow-link bottom reverse scroll-link">Read more</a>
                     </li>
                     <li class="floorunit">
                     	<h3>Cabinet</h3>
-                        <a href="../../../../out/pictures/generated/srcms/1/618_342_80/#floorunit" class="arrow-link bottom reverse scroll-link">Read more</a>
+                        <a href="#floorunit" class="arrow-link bottom reverse scroll-link">Read more</a>
                     </li>
                 </ul>
             </div>

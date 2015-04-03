@@ -29,7 +29,7 @@
 				                <div class="line-info">
 				                    <div class="inner clearfix">
 				                    					                    	
-				                        <a href="Aquariums/Rio-Line/Rio-125-black.php#!juwel-000000000000001300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/XP-Line/Rio-125-black.php#!juwel-000000000000001300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/01300.png" alt="Rio 125 ">				                        	
 				                        	<span>Rio 125 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
@@ -38,7 +38,7 @@
 				                            					                            </div>        
 				                        </a>				                    		
 				                    					                    	
-				                        <a href="Aquariums/Rio-Line/Rio-180-black.php#!juwel-000000000000004300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/XP-Line/Rio-180-black.php#!juwel-000000000000004300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/04300.png" alt="Rio 180 ">				                        	
 				                        	<span>Rio 180 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
@@ -47,7 +47,7 @@
 				                            					                            </div>        
 				                        </a>				                    		
 				                    					                    	
-				                        <a href="Aquariums/Rio-Line/Rio-240-black.php#!juwel-000000000000003300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/XP-Line/Rio-240-black.php#!juwel-000000000000003300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/03300.png" alt="Rio 240 ">				                        	
 				                        	<span>Rio 240 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
@@ -56,7 +56,7 @@
 				                            					                            </div>        
 				                        </a>				                    		
 				                    					                    	
-				                        <a href="Aquariums/Rio-Line/Rio-300-black-Rio-300-Black.php#!juwel-000000000000007300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/XP-Line/Rio-300-black-Rio-300-Black.php#!juwel-000000000000007300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/07300.png" alt="Rio 300 ">				                        	
 				                        	<span>Rio 300 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
@@ -65,7 +65,7 @@
 				                            					                            </div>        
 				                        </a>				                    		
 				                    					                    	
-				                        <a href="Aquariums/Rio-Line/Rio-400-black.php#!juwel-000000000000005300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/XP-Line/Rio-400-black.php#!juwel-000000000000005300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/05300.png" alt="Rio 400 ">				                        	
 				                        	<span>Rio 400 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->

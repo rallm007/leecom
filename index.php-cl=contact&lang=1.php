@@ -132,7 +132,7 @@ var _gaq = _gaq || [];
 											<li class="head"><h4>Aquariums</h4></li>
 											
 									<!-- Aquarien -->
-																										<li><a id="00000000031" href="en/Products/Aquariums/Rio-Line/Rio-125-black.html#!juwel-000000000000001300" tppabs="<?php echo $site_url;?>en/Products/Aquariums/Rio-Line/Rio-125-black.html#!juwel-000000000000001300">Rio Line</a></li>				
+																										<li><a id="00000000031" href="en/Products/Aquariums/XP-Line/Rio-125-black.html#!juwel-000000000000001300" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XP-Line/Rio-125-black.html#!juwel-000000000000001300">Rio Line</a></li>				
 												
 					
 									<!-- Aquarien -->

@@ -45,7 +45,7 @@
 </div>
 
 <!-- Stage & Slider -->
-<div class="product-detail-stage" style="background-color:#00508c; background-image:url(out/juwel/src/images/all/content-product-detail-stage_bgImage.jpg)"><!-- Hier kann der "Haupt-Hintergrund" gesetzt werden -->
+<div class="product-detail-stage" style="background-color:#00508c; background-image:url(<?php echo $site_url;?>out/juwel/src/images/all/content-product-detail-stage_bgImage.jpg)"><!-- Hier kann der "Haupt-Hintergrund" gesetzt werden -->
 	<!-- Slider Pagination (wird durch js generiert) -->
     <div class="page_margins stage-top-wrapper">
     	<div class="stage-slider-pagination"></div>
