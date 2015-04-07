@@ -525,9 +525,9 @@ Any guarantee claim must be substantiated with a valid proof of purchase.
 												<span class="dimensions">101 x 41 x 50 cm</span>
 											</div>
 										</span>
-														                    <span>Korall Coldwater  																																							                        <div class="tooltip">
+														                    <span>XQ-Line Coldwater  																																							                        <div class="tooltip">
 					                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/23860.png)">
-					                               	<span class="product-title green">Korall Coldwater  </span>
+					                               	<span class="product-title green">XQ-Line Coldwater  </span>
 												</div>
 												<span class="dimensions">61 x 31 x 38 cm</span>
 											</div>

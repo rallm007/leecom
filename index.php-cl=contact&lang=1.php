@@ -136,15 +136,15 @@ var _gaq = _gaq || [];
 												
 					
 									<!-- Aquarien -->
-																										<li><a id="00000000041" href="en/Products/Aquariums/Vision-Line/Vision-180-black.html#!juwel-000000000000009300" tppabs="<?php echo $site_url;?>en/Products/Aquariums/Vision-Line/Vision-180-black.html#!juwel-000000000000009300">Vision Line</a></li>				
+																										<li><a id="00000000041" href="en/Products/Aquariums/XC-Line/Vision-180-black.html#!juwel-000000000000009300" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XC-Line/Vision-180-black.html#!juwel-000000000000009300">Vision Line</a></li>				
 												
 					
 									<!-- Aquarien -->
-																										<li><a id="00000000051" href="en/Products/Aquariums/Trigon-Line/Trigon-190-black.html#!juwel-000000000000016300" tppabs="<?php echo $site_url;?>en/Products/Aquariums/Trigon-Line/Trigon-190-black.html#!juwel-000000000000016300">Trigon Line</a></li>				
+																										<li><a id="00000000051" href="en/Products/Aquariums/XT-Line/Trigon-190-black.html#!juwel-000000000000016300" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XT-Line/Trigon-190-black.html#!juwel-000000000000016300">Trigon Line</a></li>				
 												
 					
 									<!-- Aquarien -->
-																										<li><a id="00000000061" href="en/Products/Aquariums/Lido-Line/Lido-120-black.html#!juwel-000000000000011300" tppabs="<?php echo $site_url;?>en/Products/Aquariums/Lido-Line/Lido-120-black.html#!juwel-000000000000011300">Lido Line</a></li>				
+																										<li><a id="00000000061" href="en/Products/Aquariums/XE-Line/Lido-120-black.html#!juwel-000000000000011300" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XE-Line/Lido-120-black.html#!juwel-000000000000011300">Lido Line</a></li>				
 												
 					
 									<!-- Aquarien -->
@@ -152,11 +152,11 @@ var _gaq = _gaq || [];
 												
 					
 									<!-- Aquarien -->
-																										<li><a id="00000001271" href="en/Products/Aquariums/Vio-Line/Vio-40-black-Int.html#!juwel-000000000000020040" tppabs="<?php echo $site_url;?>en/Products/Aquariums/Vio-Line/Vio-40-black-Int.html#!juwel-000000000000020040">Vio Line</a></li>				
+																										<li><a id="00000001271" href="en/Products/Aquariums/XF-Line/Vio-40-black-Int.html#!juwel-000000000000020040" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XF-Line/Vio-40-black-Int.html#!juwel-000000000000020040">Vio Line</a></li>				
 												
 					
 									<!-- Aquarien -->
-																										<li><a id="00000001281" href="en/Products/Aquariums/Korall/Korall-60-Int.html#!juwel-000000000000023860" tppabs="<?php echo $site_url;?>en/Products/Aquariums/Korall/Korall-60-Int.html#!juwel-000000000000023860">Korall</a></li>				
+																										<li><a id="00000001281" href="en/Products/Aquariums/XQ-Line/XQ-Line-60-Int.html#!juwel-000000000000023860" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XQ-Line/XQ-Line-60-Int.html#!juwel-000000000000023860">XQ-Line</a></li>				
 												
 								
 			                               
@@ -367,10 +367,10 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div id="info-00000001281" class="product-info clearfix">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img src="out/pictures/master/product/2/23860.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/2/23860.jpg" alt="Korall">
+                                    	<img src="out/pictures/master/product/2/23860.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/2/23860.jpg" alt="XQ-Line">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">Korall</span></h4>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XQ-Line</span></h4>
 	                                    <h5>Basic Line</h5>
 	                                    <p>The KORALL is a stepping stone into fish keeping at an unbeatable price.</p>
 	                                    <ul class="decor fl">
@@ -378,7 +378,7 @@ var _gaq = _gaq || [];
 		                                    	<li><img src="out/pictures/master/global/1/1.png" tppabs="<?php echo $site_url;?>out/pictures/master/global/1/1.png" alt=""></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/23860.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/23860.jpg" alt="Korall Coldwater  "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/23860.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/23860.jpg" alt="XQ-Line Coldwater  "></li>
 	                                    				                                    		            	
 	                                    		                                    </ul>                                    
 	                                </div>

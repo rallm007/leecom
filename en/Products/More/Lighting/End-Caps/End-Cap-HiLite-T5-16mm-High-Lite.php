@@ -122,7 +122,7 @@
 	        </ul>    
 	        	        <ul>
 	            <li>
-	                <a href="../Lighting-Systems/Korallux-60-int-Korallux-60.php" tppabs="<?php echo $site_url;?>en/Products/More/Lighting/Lighting-Systems/Korallux-60-int-Korallux-60.php">Korallux </a>	                
+	                <a href="../Lighting-Systems/XQ-Lineux-60-int-XQ-Lineux-60.php" tppabs="<?php echo $site_url;?>en/Products/More/Lighting/Lighting-Systems/XQ-Lineux-60-int-XQ-Lineux-60.php">XQ-Lineux </a>	                
 	            </li>
 	        </ul>    
 	        	        <ul>
@@ -495,9 +495,9 @@
 																																<tr>
 										<td>26 mm</td>
 										<td>
-																		                    <span>Korall Coldwater   ,																																															                        <div class="tooltip">
+																		                    <span>XQ-Line Coldwater   ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/23860.png)">
-							                               	<span class="product-title green">Korall Coldwater  </span>
+							                               	<span class="product-title green">XQ-Line Coldwater  </span>
 														</div>
 														<span class="dimensions">61 x 31 x 38 cm</span>
 													</div>

@@ -167,7 +167,7 @@
 		//data: {artId: iArtId},
 		
 		if(window.location.protocol.indexOf("https") >= 0) {
-			var sUrl = "https://www.juwel-aquarium.de/en/Products/Aquariums/Vio-Line/Vio-40-black-Int.php#!juwel-000000000000020040cl=srajax";
+			var sUrl = "https://www.juwel-aquarium.de/en/Products/Aquariums/XF-Line/Vio-40-black-Int.php#!juwel-000000000000020040cl=srajax";
 		} else {
 			var sUrl = "../../../../index.php-lang=1&cl=srajax.php"/*tpa=<?php echo $site_url;?>index.php?lang=1&cl=srajax*/; 
 		}

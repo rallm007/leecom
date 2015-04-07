@@ -69,6 +69,16 @@ var _gaq = _gaq || [];
     if ( jQuery.browser.msie && jQuery.browser.version == 6.0) {
         window.location = "<?php echo $site_url;?>ie6.php";
     }
+
+    function goto_cn() {
+    	var _url = (this.location.href).replace('en','cn');
+    	this.location.href = _url.replace('lang=1','lang=2');
+    }
+
+    function goto_en() {
+    	var _url = (this.location.href).replace('cn','en');
+    	this.location.href = _url.replace('lang=2','lang=1');
+    }
 </script>
 </head>
   <!-- OXID eShop Professional Edition, Version 4, Shopping Cart System (c) OXID eSales AG 2003 - 2015 - http://www.oxid-esales.com -->
@@ -88,8 +98,8 @@ var _gaq = _gaq || [];
     <a>Language</a>
     <div class="drop">
         <ul>
-                    <li><a onclick="_gaq.push(['_trackEvent', 'Sprachselektor', 'click', 'Français']);" hreflang="fr" href="<?php echo $site_url;?>fr/Produits/Aquariums/XP-Line/Rio-125-noir.php#!juwel-000000000000001300" title="Français" class="fr_FR">中文</a></li>
-                    <li><a onclick="_gaq.push(['_trackEvent', 'Sprachselektor', 'click', 'English']);" hreflang="en" href="<?php echo $site_url;?>en/Products/Aquariums/XP-Line/Rio-125-black.php#!juwel-000000000000001300" title="English" class="en_GB">English</a></li>
+                    <li><a onclick="goto_cn()" hreflang="cn" href="javascript:void(0)" title="中文" class="fr_FR">中文</a></li>
+                    <li><a onclick="goto_en()" hreflang="en" href="javascript:void(0)" title="English" class="en_GB">English</a></li>
         </ul>
         <div class="drop-btm"></div>
     </div>
@@ -108,17 +118,17 @@ var _gaq = _gaq || [];
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XP-Line/Rio-125-black.php#!juwel-000000000000001300" id="00000000031">XP Line</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Vision-Line/Vision-180-black.php#!juwel-000000000000009300" id="00000000041">XC Line</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XC-Line/Vision-180-black.php#!juwel-000000000000009300" id="00000000041">XC Line</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Trigon-Line/Trigon-190-black.php#!juwel-000000000000016300" id="00000000051">XT Line</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XT-Line/Trigon-190-black.php#!juwel-000000000000016300" id="00000000051">XT Line</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Lido-Line/Lido-120-black.php#!juwel-000000000000011300" id="00000000061">XE Line</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XE-Line/Lido-120-black.php#!juwel-000000000000011300" id="00000000061">XE Line</a></li>
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600" id="00000000071">迷你缸</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Vio-Line/Vio-40-black-Int.php#!juwel-000000000000020040" id="00000001271">XF Line</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XF-Line/Vio-40-black-Int.php#!juwel-000000000000020040" id="00000001271">XF Line</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Korall/Korall-60-Int.php#!juwel-000000000000023860" id="00000001281">XQ Line</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860" id="00000001281">XQ Line</a></li>
 			</ul>
 			<ul>
 					<li class="head"><h4>More</h4></li>
@@ -254,10 +264,10 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div class="product-info clearfix" id="info-00000001281" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="Korall" src="<?php echo $site_url;?>out/pictures/master/product/2/23860.jpg">
+                                    	<img alt="XQ-Line" src="<?php echo $site_url;?>out/pictures/master/product/2/23860.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">Korall</span></h4>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XQ-Line</span></h4>
 	                                    <h5>Basic Line</h5>
 	                                    <p>The KORALL is a stepping stone into fish keeping at an unbeatable price.</p>
 	                                    <ul class="decor fl">
