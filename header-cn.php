@@ -78,7 +78,7 @@ var _gaq = _gaq || [];
     function goto_en() {
     	var _url = (this.location.href).replace('cn','en');
     	_url2 = _url.replace('lang=2','lang=1');
-    	if(this.location.href = _url2) {
+    	if(this.location.href == _url2) {
     		this.location.href = "<?php echo $site_url;?>"+"index.php-lang=1&.php";
     	} else {
     		this.location.href = _url2;
