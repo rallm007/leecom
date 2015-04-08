@@ -36,14 +36,14 @@ $(function(){
 	  };
 	  // custom marker-icon
 	  var icon = new google.maps.MarkerImage(
-		'out/juwel/src/images/all/maps/juwel_map_marker.png'/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/maps/juwel_map_marker.png*/,
+		'out/juwel/src/images/all/maps/juwel_map_marker.png',
 		new google.maps.Size(73,82),
 		new google.maps.Point(0,0),
 		new google.maps.Point(37,82)
 	  );
 	  // Schatten für Icon
 	  var shadow = new google.maps.MarkerImage(
-		'out/juwel/src/images/all/maps/shadow.png'/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/maps/shadow.png*/,
+		'out/juwel/src/images/all/maps/shadow.png',
 		 new google.maps.Size(122,82),
 		 new google.maps.Point(0,0),
 		 new google.maps.Point(37,82)
@@ -73,68 +73,31 @@ $(function(){
     	<!-- Breadcrumb -->
     	<div class="breadcrumb nav clearfix">
             <ul class="fl">
-                <li>Vous êtes ici:</li>
+                <li>You are here:</li>
                 <li>Contact</li>
             </ul>
         </div>
-        <h1>Votre interlocuteur JUWEL Aquarium</h1>
+        <h1>Your contact to Juwel Aquarium</h1>
     	<div class="grid_7 alpha">
         	<p class="introduction">
-		    			    			    		Les questions et suggestions de nos clients sont toujours les bienvenues. C'est pourquoi les collaborateurs de notre service clients restent à votre disposition à tout moment. <br> Écrivez-nous simplement et nous nous efforcerons de répondre à votre demande dans un délai de deux jours.<br><br>S'il vous plaît noter que les demandes peuvent être répondu uniquement en anglais ou en allemand.
+		    			    			    		Questions and suggestions from our customers are always welcome. That's why our Service team are always on hand to help you. Write and tell us what is on your mind. We will endeavour to process your enquiry within two working days.<br><br>Please note that inquiries can be answered only in English or German.
 			    	            </p>
 															
 		    				           	
 
-<form class="jqtransform" action="https://www.juwel-aquarium.de/index.php?lang=2&force_sid=rourg7mdqqqm5ppt19cs5hlfm7&" method="POST">
+<form class="jqtransform" action="<?php echo $site_url;?>index.php?lang=2&force_sid=rourg7mdqqqm5ppt19cs5hlfm7&" method="POST">
     <div>
         <input type="hidden" name="fnc" value="send"/>
         <input type="hidden" name="cl" value="contact"/>
-                <input type="hidden" name="c_mach" value="rou1b734cce781ad9384068d4a486ad9"/>
+                <input type="hidden" name="c_mach" value="rou1a1cedce7bcf61ef3b33f01ce452e"/>
     </div>
 	<!-- Formularfelder -->
     <div class="clearfix">
         <label for="00Nb0000009Olwe" style="display:none; visibility:hidden">
-            SR_FORM_CONTACT_HIDDEN_NOSPAM
+            Don't change the value of this field or it won't be processed!
             <input type="text" name="00Nb0000009Olwe" value="notspam" />
         </label>
-        <div class="form-row form-text clear required">
-			<label>Civilité:*</label>
-            <select name="editval[oxuser__oxsal]">
-	<option>Veuillez sélectionner</option>
-    <option value="MR">M</option>
-    <option value="MRS">Mme</option>
-</select>        </div>
-        <div class="form-row form-text fl required">
-			<label>Prénom:*</label>
-			<input type="text" class="w260" maxlength="255" name="editval[oxuser__oxfname]" size="20" value="">
-        </div>
-        <div class="form-row form-text fl required margin">
-			<label>Nom:*</label>
-			<input type="text" class="w260" maxlength="255" size="20" name="editval[oxuser__oxlname]" value="">
-        </div>
-        <div class="form-row form-text clear">
-			<label class="clearfix">E-mail:*</label>
-			<input type="text" class="w540" maxlength="80" size="20" name="editval[oxuser__oxusername]" value="">
-        </div>
-        <div class="form-row form-text clear">
-			<label class="clearfix">Objet:*</label>
-			<input type="text" class="w540" maxlength="80" size="20" name="c_subject" value="">
-        </div>
-        <div class="form-row form-text required">
-            <label>Code de vérification:*</label>
-                                        <label class="captcha-copy--contact">Code:</label>
-                <img class="captcha-image--contact" id="verifyImageUrl" src="core/utils/verificationimg.php-e_mac=ox_DRNdXUULXEJE.png" tppabs="http://www.juwel-aquarium.de/core/utils/verificationimg.php?e_mac=ox_DRNdXUULXEJE" alt="">
-                        <input type="text" field="verify" name="c_mac" value="">
-        </div>
-        <div class="form-row form-textarea required">
-			<label>Message:*</label>
-			<textarea rows="10" cols="34" name="c_message" placeholder="Veuillez formuler votre demande uniquement en allemand ou en anglais!"></textarea>
-        </div>
-    </div>
-    <!-- ende-> Formularfelder -->
-    <div class="form-bottom-buttons clearfix">
-        <strong class="required-info-txt fl">* <br>Veuillez remplir tous les champs portant un *</strong>
-        <button class="button green w130 fr">Envoyer</button>
+        
     </div>
 </form>
 
@@ -151,20 +114,16 @@ $(function(){
 
         		27356 Rotenburg / Wümme<br />
 				Deutschland                </p>
-<h4 class="tk-myriad-pro tk-semibold green">Service clients</h4>
+<h4 class="tk-myriad-pro tk-semibold green">Customer service</h4>
 <div class="tk-myriad-pro tk-semibold tel">
-            	+49 (0)4261 9379 32*</div>
++86-20-34691002            </div>
 <div class="tk-myriad-pro tk-semibold fax">
-            	+49 (0) 4261 9379 856</div>
++49 (0) 4261 9379 856</div>
 <div class="tk-myriad-pro tk-semibold email">
-            	service@juwel-aquarium.de <!-- service@juwel-aquarium.de  -->           </div>
+            	simon.lee@LEECOM.cn           </div>
 <div class="contact_faq">
-<p class="lh20">Trouvez rapidement la réponse aux questions les plus fréquemment posées dans notre section FAQ</p> <a class="arrow-link" href="index.php-lang=2&force_sid=rourg7mdqqqm5ppt19cs5hlfm7&cl=alist&cnid=deservice1.php" tppabs="https://www.juwel-aquarium.de/index.php?lang=2&force_sid=rourg7mdqqqm5ppt19cs5hlfm7&cl=alist&cnid=deservice1" title="Questions et réponses">Questions et réponses</a>      </div>
-<div class="contact_newsletter">
-<p class="lh20">Abonnez-vous maintenant à notre newsletter pour rester informé sur les dernières nouveautés.</p><a class="arrow-link" href="index.php-lang=2&force_sid=rourg7mdqqqm5ppt19cs5hlfm7&cl=newsletter.php" tppabs="https://www.juwel-aquarium.de/index.php?lang=2&force_sid=rourg7mdqqqm5ppt19cs5hlfm7&cl=newsletter" title="Accès à l'abonnement à la newsletter">Accès à l'abonnement à la newsletter</a>      </div>
-<div class="footnote"><font size="1"><span class="star"> <font size="2">*(du lundi au jeudi, 8:00-17:00, vendredi, 8:00-16:00) </font></span></font><!--
-<p><(du lundi au jeudi, 8:00-17:00, vendredi, 8:00-16:00) 14 ct/min depuis un téléphone fixe en Allemagne, les prix depuis un portable peuvent varier</p><span class="star"> **</span>
-<p>  gratuit --> </div>
+<p class="lh20">Find quick answers to frequently asked questions in our question and answer (FAQ) section</p> <a class="arrow-link" href="<?php echo $site_url.'cn/Service/FAQ/index.php';?>" title="FAQ">FAQ</a>      </div>
+</div>
 			
         </div>
     </div>
@@ -182,11 +141,11 @@ $(function(){
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="index.php-lang=2&cl=contact.php" tppabs="http://www.juwel-aquarium.de/index.php?lang=2&cl=contact" title="contact">contact</a></li>
+						    <li><a href="index.php-lang=2&cl=contact.php" title="Contact">Contact</a></li>
 			    			        </ul>                        
     </div>
 </div>
-<?php include($_SERVER['DOCUMENT_ROOT']."/leecom/footer-cn.php");?>
+<?php echo include($_SERVER['DOCUMENT_ROOT'].'/leecom/footer-cn.php');?>
             
 	<div id="sroverlay" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999999999999999;display: none;"></div>
 </body>

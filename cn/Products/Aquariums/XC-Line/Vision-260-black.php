@@ -24,21 +24,21 @@
 <div class="product-thumbnail-navi clearfix closed">
 	<div class="page_margins">
     	<div class="inner-wrapper">
-            <h1 class="tk-myriad-pro tk-light">Vision Line</h1>
+            <h1 class="tk-myriad-pro tk-light">XC系列</h1>
             <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">Prev</a>
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
                                 																																																																																							                    <a href="#juwel-000000000000009300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/09300.png" alt="Vision 180 ">
-                        Vision 180 
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/09300.png" alt="XC 180 ">
+                        XC 180 
                     </a>
                 																																																																																							                    <a href="#juwel-000000000000006800" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/06800.png" alt="Vision 260 ">
-                        Vision 260 
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/06800.png" alt="XC 260 ">
+                        XC 260 
                     </a>
                 																																																																																							                    <a href="#juwel-000000000000010300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/10300.png" alt="Vision 450 ">
-                        Vision 450 
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/10300.png" alt="XC 450 ">
+                        XC 450 
                     </a>
                                                 </div>
             </div>
@@ -63,46 +63,36 @@
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
-	                        <li>You are here:</li>
-	                        <li>Vision Line</li>
-	                        <li>Vision 180 </li>
+	                        <li>您的位置:</li>
+	                        <li>XC系列</li>
+	                        <li>XC 180 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000009300" title="JUWEL® Aquarium | Vision 180 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000009300" title="LEECOM | XC 180 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/09300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/09300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000009400" title="JUWEL® Aquarium | Vision 180 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000009400" title="LEECOM | XC 180 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/09400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/09400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
-	                        </a>
-	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000009550" title="JUWEL® Aquarium | Vision 180 beech">
-	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/09550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/09550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
-	                        </a>
-	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000009700" title="JUWEL® Aquarium | Vision 180 dark wood">
-	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/09700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/09700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">Vision 180 </span></h2><!-- varianten headline -->
-	                    <p>Experience the aquarium fascination from a new perspective. A Vision accentuates the optical depth through its curved front panel and offers surprising views of your underwater world.</p>
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC 180 </span></h2><!-- varianten headline -->
+	                    <p>Experience the aquarium fascination from a new perspective. A XC accentuates the optical depth through its curved front panel and offers surprising views of your underwater world.</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Vision-180-black.php#!juwel-000000000000009300" title="Vision 180 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Vision-180-white.php#!juwel-000000000000009400" title="Vision 180 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-180-black.php#!juwel-000000000000009300" title="XC 180 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-180-white.php#!juwel-000000000000009400" title="XC 180 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -117,13 +107,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/09300.png" alt="Vision 180 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/09300.png" alt="XC 180 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">Vision 180 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XC 180 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -202,46 +192,36 @@
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
-	                        <li>You are here:</li>
-	                        <li>Vision Line</li>
-	                        <li>Vision 260 </li>
+	                        <li>您的位置:</li>
+	                        <li>XC系列</li>
+	                        <li>XC 260 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000006800" title="JUWEL® Aquarium | Vision 260 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000006800" title="LEECOM | XC 260 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/06800.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/06800.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000006400" title="JUWEL® Aquarium | Vision 260 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000006400" title="LEECOM | XC 260 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/06400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/06400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
-	                        </a>
-	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000006550" title="JUWEL® Aquarium | Vision 260 beech">
-	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/06550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/06550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
-	                        </a>
-	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000006700" title="JUWEL® Aquarium | Vision 260 dark wood">
-	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/06700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/06700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">Vision 260 </span></h2><!-- varianten headline -->
-	                    <p>Experience the aquarium fascination from a new perspective. A Vision accentuates the optical depth through its curved front panel and offers surprising views of your underwater world.</p>
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC 260 </span></h2><!-- varianten headline -->
+	                    <p>Experience the aquarium fascination from a new perspective. A XC accentuates the optical depth through its curved front panel and offers surprising views of your underwater world.</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Vision-260-black.php#!juwel-000000000000006800" title="Vision 260 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Vision-260-white.php#!juwel-000000000000006400" title="Vision 260 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-260-black.php#!juwel-000000000000006800" title="XC 260 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-260-white.php#!juwel-000000000000006400" title="XC 260 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -256,13 +236,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/06800.png" alt="Vision 260 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/06800.png" alt="XC 260 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">Vision 260 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XC 260 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -331,46 +311,36 @@
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
-	                        <li>You are here:</li>
-	                        <li>Vision Line</li>
-	                        <li>Vision 450 </li>
+	                        <li>您的位置:</li>
+	                        <li>XC系列</li>
+	                        <li>XC 450 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000010300" title="JUWEL® Aquarium | Vision 450 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000010300" title="LEECOM | XC 450 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/10300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/10300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000010400" title="JUWEL® Aquarium | Vision 450 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000010400" title="LEECOM | XC 450 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/10400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/10400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
-	                        </a>
-	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000010550" title="JUWEL® Aquarium | Vision 450 beech">
-	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/10550.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/10550.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
-	                        </a>
-	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000010700" title="JUWEL® Aquarium | Vision 450 dark wood">
-	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/10700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/10700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">Vision 450 </span></h2><!-- varianten headline -->
-	                    <p>Experience the aquarium fascination from a new perspective. A Vision accentuates the optical depth through its curved front panel and offers surprising views of your underwater world.</p>
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC 450 </span></h2><!-- varianten headline -->
+	                    <p>Experience the aquarium fascination from a new perspective. A XC accentuates the optical depth through its curved front panel and offers surprising views of your underwater world.</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Vision-450-black.php#!juwel-000000000000010300" title="Vision 450 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Vision-450-white.php#!juwel-000000000000010400" title="Vision 450 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-450-black.php#!juwel-000000000000010300" title="XC 450 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-450-white.php#!juwel-000000000000010400" title="XC 450 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -385,13 +355,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/10300.png" alt="Vision 450 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/10300.png" alt="XC 450 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">Vision 450 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XC 450 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -483,9 +453,9 @@
 		//data: {artId: iArtId},
 		
 		if(window.location.protocol.indexOf("https") >= 0) {
-			var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XC-Line/Vision-260-black.php#!juwel-000000000000006800cl=srajax";
+			var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XC-Line/XC-260-black.php#!juwel-000000000000006800cl=srajax";
 		} else {
-			var sUrl = "../../../../index.php-lang=1&cl=srajax.php"/*tpa=<?php echo $site_url;?>index.php?lang=1&cl=srajax*/; 
+			var sUrl = "../ajax-content/" + iArtId + ".php";
 		}
 
 		// ajax request
@@ -531,7 +501,7 @@
     </div>
 	  <div id="product-loading-content"></div>
         <div class="go-top clear clearfix">
-        	<a class="arrow-link top fr scroll-link" href="#header">Go to top</a>
+        	<a class="arrow-link top fr scroll-link" href="#header">回到页首</a>
         </div>
     </div>
 </div>	
@@ -546,7 +516,7 @@
     <div class="page_margins">
         <ul>
 						    <li><a href="../../index.php" title="Products">Products</a></li>
-			    						    <li><a href="Vision-180-black.php" title="Vision Line">Vision Line</a></li>
+			    						    <li><a href="XC-180-black.php" title="XC系列">XC系列</a></li>
 			    			        </ul>                        
     </div>
 </div>

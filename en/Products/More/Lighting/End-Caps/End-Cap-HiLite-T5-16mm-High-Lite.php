@@ -413,79 +413,79 @@
 																																									<tr>
 										<td>16mm High-Lite</td>
 										<td>
-																		                    <span>Rio 125  ,																																															                        <div class="tooltip">
+																		                    <span>XP 125  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/01300.png)">
-							                               	<span class="product-title green">Rio 125 </span>
+							                               	<span class="product-title green">XP 125 </span>
 														</div>
 														<span class="dimensions">81 x 36 x 50 cm</span>
 													</div>
 												</span>
-																		                    <span>Trigon 190  ,																																															                        <div class="tooltip">
+																		                    <span>XT 190  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/16300.png)">
-							                               	<span class="product-title green">Trigon 190 </span>
+							                               	<span class="product-title green">XT 190 </span>
 														</div>
 														<span class="dimensions">98,5 x 70 x 60 cm</span>
 													</div>
 												</span>
-																		                    <span>Vision 450  ,																																															                        <div class="tooltip">
+																		                    <span>XC 450  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/10300.png)">
-							                               	<span class="product-title green">Vision 450 </span>
+							                               	<span class="product-title green">XC 450 </span>
 														</div>
 														<span class="dimensions">151 x 61 x64 cm</span>
 													</div>
 												</span>
-																		                    <span>Vision 260  ,																																															                        <div class="tooltip">
+																		                    <span>XC 260  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/06800.png)">
-							                               	<span class="product-title green">Vision 260 </span>
+							                               	<span class="product-title green">XC 260 </span>
 														</div>
 														<span class="dimensions">121 x 46 x 64 cm</span>
 													</div>
 												</span>
-																		                    <span>Vision 180  ,																																															                        <div class="tooltip">
+																		                    <span>XC 180  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/09300.png)">
-							                               	<span class="product-title green">Vision 180 </span>
+							                               	<span class="product-title green">XC 180 </span>
 														</div>
 														<span class="dimensions">92 x 41 x 55 cm</span>
 													</div>
 												</span>
-																		                    <span>Lido 120  ,																																															                        <div class="tooltip">
+																		                    <span>XE 120  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/11300.png)">
-							                               	<span class="product-title green">Lido 120 </span>
+							                               	<span class="product-title green">XE 120 </span>
 														</div>
 														<span class="dimensions">61 x 41 x 58 cm</span>
 													</div>
 												</span>
-																		                    <span>Rio 400  ,																																															                        <div class="tooltip">
+																		                    <span>XP 400  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/05300.png)">
-							                               	<span class="product-title green">Rio 400 </span>
+							                               	<span class="product-title green">XP 400 </span>
 														</div>
 														<span class="dimensions">151 x 51 x66 cm</span>
 													</div>
 												</span>
-																		                    <span>Rio 300  ,																																															                        <div class="tooltip">
+																		                    <span>XP 300  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/07300.png)">
-							                               	<span class="product-title green">Rio 300 </span>
+							                               	<span class="product-title green">XP 300 </span>
 														</div>
 														<span class="dimensions">121 x50 x 66 cm</span>
 													</div>
 												</span>
-																		                    <span>Rio 240  ,																																															                        <div class="tooltip">
+																		                    <span>XP 240  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/03300.png)">
-							                               	<span class="product-title green">Rio 240 </span>
+							                               	<span class="product-title green">XP 240 </span>
 														</div>
 														<span class="dimensions">121 x 41 x 55 cm</span>
 													</div>
 												</span>
-																		                    <span>Rio 180  ,																																															                        <div class="tooltip">
+																		                    <span>XP 180  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/04300.png)">
-							                               	<span class="product-title green">Rio 180 </span>
+							                               	<span class="product-title green">XP 180 </span>
 														</div>
 														<span class="dimensions">101 x 41 x 50 cm</span>
 													</div>
 												</span>
-																		                    <span>Trigon 350 																																															                        <div class="tooltip">
+																		                    <span>XT 350 																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/15300.png)">
-							                               	<span class="product-title green">Trigon 350 </span>
+							                               	<span class="product-title green">XT 350 </span>
 														</div>
 														<span class="dimensions">123 x 87 x 65 cm</span>
 													</div>

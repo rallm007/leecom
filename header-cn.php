@@ -10,12 +10,12 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=1024" />
-    <meta name="description" content="Rio 125 black -">
+    <meta name="description" content="XP 125 black -">
     <meta name="keywords" content="rio, 125, black, products, aquariums, line">
 	<meta property="og:locale" content="fr_FR" />
     <meta property="fb:app_id" content="532575290153827" />
     <meta property="og:title" content="LEECOM" />
-    <meta property="og:description" content="Rio 125 black -" />
+    <meta property="og:description" content="XP 125 black -" />
     <meta property="og:type" content="og:product" />
     <meta property="og:image" content="<?php echo $site_url;?>out/pictures/master/product/1/01300.png" />
     <link rel="shortcut icon" href="<?php echo $site_url;?>out/pictures/master/global/1/favicon.ico">
@@ -115,23 +115,23 @@ var _gaq = _gaq || [];
 						<div class="main-nav nav clearfix">
 	<ul>
 							<li class="products has-drop">
-	           	<a href="<?php echo $site_url.'cn/Products/';?>index.php"><span>产品</span></a>
+	           	<a href="<?php echo $site_url.'cn/Products/';?>index.php"><span>产品展示</span></a>
 	               	<div class="drop flyout closed clearfix">
 	                  	<div class="grid_5 left">
 	                        <ul>
-								<li class="head"><h4>水族缸</h4></li>
+								<li class="head"><h4>水族箱</h4></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XP-Line/Rio-125-black.php#!juwel-000000000000001300" id="00000000031">XP系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XP-Line/XP-125-black.php#!juwel-000000000000001300" id="00000000031">XP系列</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XC-Line/Vision-180-black.php#!juwel-000000000000009300" id="00000000041">XC系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XC-Line/XC-180-black.php#!juwel-000000000000009300" id="00000000041">XC系列</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XT-Line/Trigon-190-black.php#!juwel-000000000000016300" id="00000000051">XT系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-000000000000016300" id="00000000051">XT系列</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XE-Line/Lido-120-black.php#!juwel-000000000000011300" id="00000000061">XE系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-000000000000011300" id="00000000061">XE系列</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600" id="00000000071">迷你缸</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600" id="00000000071">XK迷你鱼缸系列</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/Vio-40-black-Int.php#!juwel-000000000000020040" id="00000001271">XF系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040" id="00000001271">XF系列</a></li>
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860" id="00000001281">XQ系列</a></li>
 			</ul>
@@ -140,7 +140,7 @@ var _gaq = _gaq || [];
 									<!-- Weiteres -->
 					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Lighting/index.php" id="00000000261">LED灯</a></li>
 									<!-- Weiteres -->
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Filtration/index.php" id="00000000281">过滤器</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Filtration/index.php" id="00000000281">过滤系列</a></li>
 									<!-- Weiteres -->
 					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Decoration/index.php" id="00000000291">气泵</a></li>
 									<!-- Weiteres -->
@@ -156,12 +156,12 @@ var _gaq = _gaq || [];
 		                		    <div class="product-info clearfix" id="info-00000000031" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="Rio系列" src="<?php echo $site_url;?>out/pictures/master/product/2/01300.jpg">
+                                    	<img alt="XP系列" src="<?php echo $site_url;?>out/pictures/master/product/2/01300.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
 	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XP系列</span></h4>
-	                                    <h5>经典系列</h5>
-	                                    <p>Timeless design, perfected technology and meticulous workmanship. A RIO aquarium from JUWEL discreetly accentuates the underwater world that you have arranged.</p>
+	                                    <h5>永久的经典</h5>
+	                                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词</p>
 	                                    <ul class="decor fl">
 	                                    			                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
@@ -175,12 +175,12 @@ var _gaq = _gaq || [];
 		                		    <div class="product-info clearfix" id="info-00000000041" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="Vision系列" src="<?php echo $site_url;?>out/pictures/master/product/2/09300.jpg">
+                                    	<img alt="XC系列" src="<?php echo $site_url;?>out/pictures/master/product/2/09300.jpg">
                                     	</div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">Vision系列</span></h4>
-	                                    <h5>Exclusive系列</h5>
-	                                    <p>Experience the aquarium fascination from a new perspective. A VISION accentuates the optical depth through its curved front panel and offers surprising views of your underwater world.</p>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XC系列</span></h4>
+	                                    <h5>简约的美丽</h5>
+	                                    <p>高雅却不张扬，奢华却不累赘，不经意营造一种浪漫而独具魅力的气息。</p>
 	                                    <ul class="decor fl">
 	                                    			                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
@@ -194,12 +194,12 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div class="product-info clearfix" id="info-00000000051" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="Trigon系列" src="<?php echo $site_url;?>out/pictures/master/product/2/16300.jpg">
+                                    	<img alt="XT系列" src="<?php echo $site_url;?>out/pictures/master/product/2/16300.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">Trigon系列</span></h4>
-	                                    <h5>Special系列</h5>
-	                                    <p>TRIGON aquariums turn every corner of the room  into a decorative eye-catcher.</p>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XT系列</span></h4>
+	                                    <h5>简约的美丽</h5>
+	                                    <p>高雅却不张扬，奢华却不累赘，不经意营造一种浪漫而独具魅力的气息。</p>
 	                                    <ul class="decor fl">
 	                                    			                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
@@ -213,12 +213,12 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div class="product-info clearfix" id="info-00000000061" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="Lido系列" src="<?php echo $site_url;?>out/pictures/master/product/2/11300.jpg">
+                                    	<img alt="XE系列" src="<?php echo $site_url;?>out/pictures/master/product/2/11300.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">Lido系列</span></h4>
-	                                    <h5>Elegant系列</h5>
-	                                    <p>Our LIDO elegantly fits into any surrounding due to its discreet design. You will be surprised by its elegance and compatibility.</p>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XE系列</span></h4>
+	                                    <h5>永恒的色调</h5>
+	                                    <p>黑白永远是主流的经典色调，正如我们的XE系列如此永恒、经久不衰。</p>
 	                                    <ul class="decor fl">
 	                                    			                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
@@ -235,9 +235,9 @@ var _gaq = _gaq || [];
                                     	<img alt="Rekord系列" src="<?php echo $site_url;?>out/pictures/master/product/2/21600.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">Rekord系列</span></h4>
-	                                    <h5>Starter系列</h5>
-	                                    <p>Our fully compatible entry-level aquarium is your ideal starting point. Discover the fascination and variety of your own underwater world with our REKORD. </p>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XK迷你鱼缸系列</span></h4>
+	                                    <h5>世界是洁净透明的</h5>
+	                                    <p>世界顶级浮法玻璃，通透大气，打造透明的世界，每一个棱角，每一道线条都追求完美。</p>
 	                                    <ul class="decor fl">
 	                                    			                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
@@ -251,12 +251,12 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div class="product-info clearfix" id="info-00000001271" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="Vio系列" src="<?php echo $site_url;?>out/pictures/master/product/2/20040.jpg">
+                                    	<img alt="XF系列" src="<?php echo $site_url;?>out/pictures/master/product/2/20040.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">Vio系列</span></h4>
-	                                    <h5>Lifestyle系列</h5>
-	                                    <p>The VIO 40 LED from JUWEL Aquarium creates a large glimpse of a fascinating underwater world despite its low volume.</p>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XF系列</span></h4>
+	                                    <h5>桌面小精灵</h5>
+	                                    <p>节能、环保，轻松加水投饲，精巧、简约，尤其适合办公室、家居的桌面摆设。</p>
 	                                    <ul class="decor fl">
 	                                    			                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
@@ -272,9 +272,9 @@ var _gaq = _gaq || [];
                                     	<img alt="XQ-Line" src="<?php echo $site_url;?>out/pictures/master/product/2/23860.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XQ-Line</span></h4>
-	                                    <h5>Basic系列</h5>
-	                                    <p>The KORALL is a stepping stone into fish keeping at an unbeatable price.</p>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XQ系列</span></h4>
+	                                    <h5>带上你的宠宝，畅游吧</h5>
+	                                    <p>自由自在，轻松出行，享受自由，享受自在</p>
 	                                    <ul class="decor fl">
 	                                    			                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
@@ -314,7 +314,7 @@ var _gaq = _gaq || [];
                     </ul>
     	            <div class="drop-btm"></div>
 	            </div>			
-					<a href="<?php echo $site_url.'cn';?>/Company/index.php"><span>公司</span></a>
+					<a href="<?php echo $site_url.'cn';?>/Company/index.php"><span>公司简介</span></a>
 					</li>
 					<li class="service has-drop">
 							<div class="drop">
@@ -323,10 +323,10 @@ var _gaq = _gaq || [];
                     </ul>
     	            <div class="drop-btm"></div>
 	            </div>			
-					<a href="<?php echo $site_url.'cn';?>/Service/FAQ/index.php"><span>服务</span></a>
+					<a href="<?php echo $site_url.'cn';?>/Service/FAQ/index.php"><span>服务中心</span></a>
 					</li>
 					<li class="contact">
-						<a href="<?php echo $site_url;?>index.php-lang=2&amp;cl=contact.php"><span>联系</span></a>
+						<a href="<?php echo $site_url;?>index.php-lang=2&amp;cl=contact.php"><span>联系我们</span></a>
 					</li>
 			</ul>
 </div>  		        <!-- end main navigation-->

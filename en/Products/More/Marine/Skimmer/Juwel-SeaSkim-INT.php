@@ -239,7 +239,7 @@ All components of the SeaSkim are integrated into the housing and there are no h
 <div class="prod_detail_2columns_left"><img style="margin-top: -54px; margin-bottom: 0" src="../../../../../out/juwel/src/images/all/productdetails/seaskim06_left.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim06_left.jpg" alt="" /></div>
 <div class="prod_detail_2columns_right">
 <h5>Compatible opening in the cover for mounting in all JUWEL aquariums.</h5>
-All of the aquariums in the Rio, Vision, Lido and Trigon lines already have the matching opening in the cover and are therefore ideally prepared for seawater operation.<br />
+All of the aquariums in the XP, XC, XE and XT lines already have the matching opening in the cover and are therefore ideally prepared for seawater operation.<br />
 <a class="arrow-link top scroll-link" href="#fb-root">Go To Top</a></div>
 <div class="prod_detail_2columns_clear"></div></div>
 	        			

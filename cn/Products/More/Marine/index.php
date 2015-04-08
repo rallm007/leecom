@@ -15,7 +15,7 @@
     	        <div class="oh">
     	<div class="breadcrumb accessories-detail nav clearfix">
     <ul class="fl">
-        <li>You are here:</li>
+        <li>您的位置:</li>
         			    				    <li><a href="../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">Products</a></li>
 			            			    				    <li><a href="index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/" title="Marine">Marine</a></li>
 			                    	</ul>
@@ -37,7 +37,7 @@
 		        		        </div>
         
         <div class="go-top clear clearfix">
-        	<a class="arrow-link top fr scroll-link" href="#header">Go to top</a>
+        	<a class="arrow-link top fr scroll-link" href="#header">回到页首</a>
         </div>
     </div>
 </div>

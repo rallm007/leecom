@@ -99,7 +99,7 @@ T5 and T8 are not interchangeable. </p></div>
 								<div><p>The end caps that hold the tubes in place should be changed whenever you replace the tubes or annually which ever comes first. These end caps contain vital seals that prevent water ingress into the light unit itself.
 </p></div>
 																							<h5 onclick="_gaq.push(['_trackEvent', 'FAQs', 'click', 'Can I convert my aquarium to T5 High-Lite?']);">7. Can I convert my aquarium to T5 High-Lite?</h5>
-								<div><p>Any JUWEL Aquarium that utilises a Multilux light unit (central black bar), i.e. all aquariums of the series Lido, Rio, Vision, Trigon, Panorama and Delta, may be converted by simply replacing the old light unit with a new T5 High-Lite version. </p></div>
+								<div><p>Any JUWEL Aquarium that utilises a Multilux light unit (central black bar), i.e. all aquariums of the series XE, XP, XC, XT, Panorama and Delta, may be converted by simply replacing the old light unit with a new T5 High-Lite version. </p></div>
 																							<h5 onclick="_gaq.push(['_trackEvent', 'FAQs', 'click', 'What is so special about the T5 High-Lite lighting?']);">8. What is so special about the T5 High-Lite lighting?</h5>
 								<div><p>When we first looked at T5 lighting the biggest issue was that they were not commercially available in standard sizes for our industry. This would leave parts of the aquarium unlit which was not acceptable to us. This left us no choice but to develop this technology into the common aquarium dimensions in order to ensure the complete illumination over the entire length of the aquariums.
 As a result, we are able to completely illuminate the entire area of our aquariums with lengths of 60, 80, 100, 120 and 150 cm with high levels of illumination.
@@ -113,7 +113,7 @@ T5 technology only operates with modern electronic ballasts ensuring the highest
 The filter is matched to the aquarium volume for optimum performance
 
 The capacity of the filter pump is designed for two or more times the throughput per hour
-(e.g. Rio 180 = 180 litres with a pump capacity of 600 l/hr)
+(e.g. XP 180 = 180 litres with a pump capacity of 600 l/hr)
 
 This large and structured filter volume in all our systems provides a safe and stable environment for the livestock along with ease of maintenance.
 The various structured media within the JUWEL internal filter system is optimised to biologically break down pollutants within the aquarium.

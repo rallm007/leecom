@@ -10,11 +10,11 @@
 			<div class="item" style="background-color:#ffffff; background-image:url('out/pictures/promo/led_buehne.jpg');">
                             <div class="page_margins item-content">
                             <h2 class="tk-myriad-pro tk-light">Pure Lifestyle</h2>
-                <h3 class="tk-myriad-pro tk-semibold">Vio 40</h3>
-                <p>The Vio 40 from JUWEL Aquarium creates<br />
+                <h3 class="tk-myriad-pro tk-semibold">XF 40</h3>
+                <p>The XF 40 from JUWEL Aquarium creates<br />
  a large glimpse of a fascinating underwater <br />
 world despite its low volume.</p>
-                <a class="button ci-shadow" href="<?php echo $site_url;?>en/Products/Aquariums/XF-Line/Vio-40-black-Int.php" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Pure Lifestyle']);">Read more</a>
+                <a class="button ci-shadow" href="<?php echo $site_url;?>en/Products/Aquariums/XF-Line/XF-40-black-Int.php" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Pure Lifestyle']);">Read more</a>
             </div>
         </div>
     		<div class="item" style="background-color:#ffffff; background-image:url('out/pictures/promo/juwel_buehne_rekord_700(2).jpg');">

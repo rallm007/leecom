@@ -24,7 +24,7 @@
 <div class="product-thumbnail-navi clearfix closed">
 	<div class="page_margins">
     	<div class="inner-wrapper">
-            <h1 class="tk-myriad-pro tk-light">Rekord Line</h1>
+            <h1 class="tk-myriad-pro tk-light">Rekord系列</h1>
             <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">Prev</a>
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
@@ -63,20 +63,20 @@
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
-	                        <li>You are here:</li>
-	                        <li>Rekord Line</li>
+	                        <li>您的位置:</li>
+	                        <li>Rekord系列</li>
 	                        <li>Rekord 600 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021600" title="JUWEL® Aquarium | Rekord 600 black Int.">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021600" title="LEECOM | Rekord 600 black Int.">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21600.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21600.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021640" title="JUWEL® Aquarium | Rekord 600 white Int.">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021640" title="LEECOM | Rekord 600 white Int.">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21640.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21640.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -86,7 +86,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">Rekord 600 </span></h2><!-- varianten headline -->
-	                    <p>Our fully compatible entry-level aquarium is your ideal starting point. Discover the fascination and variety of your own underwater world with our Rekord. </p>
+	                    <p>世界顶级浮法玻璃，通透大气，打造透明的世界，每一个棱角，每一道线条都追求完美。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -212,20 +212,20 @@
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
-	                        <li>You are here:</li>
-	                        <li>Rekord Line</li>
+	                        <li>您的位置:</li>
+	                        <li>Rekord系列</li>
 	                        <li>Rekord 700 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021700" title="JUWEL® Aquarium | Rekord 700 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021700" title="LEECOM | Rekord 700 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021740" title="JUWEL® Aquarium | Rekord 700 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021740" title="LEECOM | Rekord 700 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21740.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21740.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -235,7 +235,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">Rekord 700 </span></h2><!-- varianten headline -->
-	                    <p>Our fully compatible entry-level aquarium is your ideal starting point. Discover the fascination and variety of your own underwater world with our Rekord. </p>
+	                    <p>世界顶级浮法玻璃，通透大气，打造透明的世界，每一个棱角，每一道线条都追求完美。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -371,15 +371,15 @@
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
-	                        <li>You are here:</li>
-	                        <li>Rekord Line</li>
+	                        <li>您的位置:</li>
+	                        <li>Rekord系列</li>
 	                        <li>Rekord 800 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021800" title="JUWEL® Aquarium | Rekord 800 Int.">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021800" title="LEECOM | Rekord 800 Int.">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21800.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21800.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -389,7 +389,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">Rekord 800 </span></h2><!-- varianten headline -->
-	                    <p>Our fully compatible entry-level aquarium is your ideal starting point. Discover the fascination and variety of your own underwater world with our Rekord. </p>
+	                    <p>世界顶级浮法玻璃，通透大气，打造透明的世界，每一个棱角，每一道线条都追求完美。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -519,7 +519,7 @@
 		if(window.location.protocol.indexOf("https") >= 0) {
 			var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600cl=srajax";
 		} else {
-			var sUrl = "../../../../index.php-lang=1&cl=srajax.php"/*tpa=<?php echo $site_url;?>index.php?lang=1&cl=srajax*/; 
+			var sUrl = "../ajax-content/" + iArtId + ".php";
 		}
 
 		// ajax request
@@ -565,7 +565,7 @@
     </div>
 	  <div id="product-loading-content"></div>
         <div class="go-top clear clearfix">
-        	<a class="arrow-link top fr scroll-link" href="#header">Go to top</a>
+        	<a class="arrow-link top fr scroll-link" href="#header">回到页首</a>
         </div>
     </div>
 </div>	
@@ -580,7 +580,7 @@
     <div class="page_margins">
         <ul>
 						    <li><a href="../../index.php" title="Products">Products</a></li>
-			    						    <li><a href="Rekord-600-black-Int.php" title="Rekord Line">Rekord Line</a></li>
+			    						    <li><a href="Rekord-600-black-Int.php" title="Rekord系列">Rekord系列</a></li>
 			    			        </ul>                        
     </div>
 </div>

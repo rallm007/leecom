@@ -1,7 +1,7 @@
 <div class="tabs content-tabs full ui-tabs ui-widget ui-widget-content ui-corner-all">
 	<ul class="clearfix ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all quantity-3">
-		<li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">Product details</a></li>
-		<li class="ui-state-default ui-corner-top"><a href="#tabs-2">Technical data</a></li>
+		<li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">产品详情</a></li>
+		<li class="ui-state-default ui-corner-top"><a href="#tabs-2">技术参数</a></li>
 	</ul>
 	<div id="tabs-1" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
 			
@@ -9,10 +9,8 @@
             <div class="tab-teaser-prod_details top clearfix">
             	<div class="grid_8">
                 	<h2>A real classic: JUWEL RIO 240 Aquarium</h2>
-                	<p>The RIO 125 is the smallest aquarium in the RIO range. With its compact surface area of 81 x 36 cm and classic rectangular design, the RIO 125 will fit perfectly into any design scheme.<br>
-Its safety base frame ensures especially safe positioning and allows you to set up your aquarium easily, with no need for special supports.<br>
-Painstaking workmanship from Germany, top-quality materials and perfectly tuned technology guarantee the very best of quality and safety, meaning a long service life for your RIO 125.<br>
-<br>Choose from black, dark wood, beech and white.</p>
+                	<p>XP-300是整个XP系列里最小的成员，时尚的外观，轻松融入各种居家装修设计风格，
+传承经典，引领时尚。</p>
                 </div>
             	<div class="grid_4">
                 	<img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
@@ -25,19 +23,19 @@ Painstaking workmanship from Germany, top-quality materials and perfectly tuned 
             	<ul>
                 	<li class="high-lite">
                     	<h3>JUWEL High-Lite</h3>
-                        <a href="#light" class="arrow-link bottom reverse scroll-link">Read more</a>
+                        <a href="#light" class="arrow-link bottom reverse scroll-link">了解更多</a>
                     </li>
                     <li class="filter">
                     	<h3>Filter System</h3>
-                        <a href="#filter" class="arrow-link bottom reverse scroll-link">Read more</a>
+                        <a href="#filter" class="arrow-link bottom reverse scroll-link">了解更多</a>
                     </li>
                     <li class="heater">
                     	<h3>Heater</h3>
-                        <a href="#filter" class="arrow-link bottom reverse scroll-link">Read more</a>
+                        <a href="#filter" class="arrow-link bottom reverse scroll-link">了解更多</a>
                     </li>
                     <li class="floorunit">
                     	<h3>Cabinet</h3>
-                        <a href="#floorunit" class="arrow-link bottom reverse scroll-link">Read more</a>
+                        <a href="#floorunit" class="arrow-link bottom reverse scroll-link">了解更多</a>
                     </li>
                 </ul>
             </div>
@@ -50,7 +48,7 @@ Painstaking workmanship from Germany, top-quality materials and perfectly tuned 
                 	<p>Brilliant luminosity and excellent plant growth are what you get with HiLite, the state-of-the-art T5 lighting technology from JUWEL. The length of the HiLite fluorescent tubes is individually adjusted to the size of your JUWEL aquarium, which guarantees even luminosity for your RIO 125 with a power input of 2x28 Watt.<br>
 The HiLite lighting system for the RIO 125 means that you can work on your aquarium in comfort, even when the lighting is switched on.<br>
 The ultrasonically welded lighting unit is 100% waterproof, complies with top European safety standards and is TÜV/GS certified.</p>
-                    <a href="#navigation" class="arrow-link top scroll-link">Go to top</a>
+                    <a href="#navigation" class="arrow-link top scroll-link">回到页首</a>
                 </div>
             	<div class="grid_4">                
                 	<img src="../../../../out/pictures/generated/srcms/1/618_342_80/t5_2.png" alt="">
@@ -65,7 +63,7 @@ The ultrasonically welded lighting unit is 100% waterproof, complies with top Eu
                 	<p>For optimum filtering, the RIO 125 is fitted with a high-performance Bioflow 3.0. This internal filter combines efficiency with safety and forms the centrepiece of any JUWEL aquarium. It works on the principle that "The water should stay in the aquarium!" and is the safest way of filtering an aquarium. The Bioflow 3.0 comes fitted with five high-performance filter media and a quiet yet powerful Eccoflow 500 circulation pump.<br>
 The 100 Watt JUWEL adjustable heater, which is perfectly embedded in the water circulation in the Bioflow 3.0 filter system, ensures the right temperature in the RIO 125.<br>
 Because it uses top-quality silver contacts and shock-proof borosilicate glass, JUWEL adjustable heaters meet the highest standards in both function and safety and, as you would expect, are TÜV/GS certified.</p>
-                    <a href="#navigation" class="arrow-link top scroll-link">Go to top</a>
+                    <a href="#navigation" class="arrow-link top scroll-link">回到页首</a>
                 </div>
             	<div class="grid_4">
                 	<img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(2).jpg" alt="">
@@ -79,7 +77,7 @@ Because it uses top-quality silver contacts and shock-proof borosilicate glass, 
                 	<h3 class="icon-headline floorunit">A perfect match: the base cabinet</h3>
                 	<p>With the matching base cabinet, your aquarium will stand safely on solid ground. The two of them also make the perfect pair from a visual point of view, as the base cabinet is available in the same colour as the aquarium. Easy to assemble with generous storage space for accessories and equipment, they also leave nothing to be desired from a practical point of view. </p>
 <p>In fact, all that is left for you to do is simply to enjoy your beautiful style accessory every day!</p>
-                    <a href="#navigation" class="arrow-link top scroll-link">Go to top</a>
+                    <a href="#navigation" class="arrow-link top scroll-link">回到页首</a>
                 </div>
             	<div class="grid_4">
                 	<img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300_66300.jpg" alt="">
@@ -96,7 +94,7 @@ Because it uses top-quality silver contacts and shock-proof borosilicate glass, 
 	<table>
            		                <thead>
                     <tr>
-                        <td colspan="3">Rio 125 black</td>
+                        <td colspan="3">XP 125 black</td>
                     </tr>
                 </thead>
                                 <tbody>                
@@ -108,7 +106,7 @@ Because it uses top-quality silver contacts and shock-proof borosilicate glass, 
                     <tr>
                         <td class="icon produkt">&nbsp;</td>
                         <td class="topic">Product</td>
-                        <td>Rio 125 black</td>
+                        <td>XP 125 black</td>
                     </tr>
                         				                        
             									                    <tr>

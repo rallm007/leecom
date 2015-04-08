@@ -16,7 +16,7 @@
     <!-- Breadcrumb -->    
     <div class="breadcrumb nav clearfix">
         <ul class="fl">        
-            <li>You are here:</li>
+            <li>您的位置:</li>
             	            	            	            <li><a href="index.htm" tppabs="http://www.juwel-aquarium.de/cn/Company/">Company</a></li>            
                     </ul>
     </div>    
@@ -53,7 +53,7 @@
 <p>
             		Click here to find out more about our company and our history.</p></div><!-- Aktuelles -->
 
-<div class="go-top-detail"><a href="#header" class="arrow-link top fr scroll-link">Go to top</a></div><!-- ende -> Newsfeed --></div>
+<div class="go-top-detail"><a href="#header" class="arrow-link top fr scroll-link">回到页首</a></div><!-- ende -> Newsfeed --></div>
 						
             </div>
     <!-- ende -> rechte Hauptspalte -->

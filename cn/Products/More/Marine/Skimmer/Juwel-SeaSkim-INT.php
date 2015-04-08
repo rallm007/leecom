@@ -29,7 +29,7 @@
     <div class="content clearfix accessories_detail">
 										<div class="breadcrumb accessories-detail nav clearfix">
     <ul class="fl">
-        <li>You are here:</li>
+        <li>æ‚¨çš„ä½ç½®:</li>
         			    				    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">Products</a></li>
 			            			    				    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/" title="Marine">Marine</a></li>
 			            			    				    <li><a href="Juwel-SeaSkim-INT.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/Skimmer/" title="Skimmer">Skimmer</a></li>
@@ -160,8 +160,8 @@
 	        	                    <div class="tabs content-tabs">
 			    <!-- Tab-Navigations-Laschen -->
 				<ul class="clearfix">
-					<li><a href="#tabs-1">Product details</a></li>
-					<li><a href="#tabs-2">Technical data</a></li>
+					<li><a href="#tabs-1">äº§å“è¯¦æƒ…</a></li>
+					<li><a href="#tabs-2">æŠ€æœ¯å‚æ•°</a></li>
 					<li><a href="#tabs-3">Support</a></li>
 				</ul>
 				<div id="tabs-1">
@@ -229,7 +229,7 @@ The innovative retainer guarantees easy installation of the skimmer during servi
 <br />
 <div class="prod_detail_2columns_clear"></div>
 <div class="prod_detail_2columns_left">
-<h5>Safety first â€“ the water remains in the aquarium!</h5>
+<h5>Safety first Ã¢â‚¬â€œ the water remains in the aquarium!</h5>
 All components of the SeaSkim are integrated into the housing and there are no hose connections that lead out of the aquarium. Therefore, it is the safest way to operate a protein skimmer.<br />
 <a class="arrow-link top scroll-link" href="#fb-root">Go To Top</a></div><br />
 <br />
@@ -239,7 +239,7 @@ All components of the SeaSkim are integrated into the housing and there are no h
 <div class="prod_detail_2columns_left"><img style="margin-top: -54px; margin-bottom: 0" src="../../../../../out/juwel/src/images/all/productdetails/seaskim06_left.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim06_left.jpg" alt="" /></div>
 <div class="prod_detail_2columns_right">
 <h5>Compatible opening in the cover for mounting in all JUWEL aquariums.</h5>
-All of the aquariums in the Rio, Vision, Lido and Trigon lines already have the matching opening in the cover and are therefore ideally prepared for seawater operation.<br />
+All of the aquariums in the XP, XC, XE and XT lines already have the matching opening in the cover and are therefore ideally prepared for seawater operation.<br />
 <a class="arrow-link top scroll-link" href="#fb-root">Go To Top</a></div>
 <div class="prod_detail_2columns_clear"></div></div>
 	        			
@@ -348,7 +348,7 @@ All of the aquariums in the Rio, Vision, Lido and Trigon lines already have the 
 
 <div class="hidden">
 		
-	<!-- Box mit KompatibilitÃ¤tstabelle -->
+	<!-- Box mit KompatibilitÃƒÂ¤tstabelle -->
 			<div id="compatibility-box">
 		    <div class="box-head">
 		        <h2 class="tk-myriad-pro tk-regular">Matching Aquarium for this article:</h2>
@@ -377,7 +377,7 @@ All of the aquariums in the Rio, Vision, Lido and Trigon lines already have the 
 		        </table>
 		    </div>
 		</div>
-		<!-- ende Box mit KompatibilitÃ¤tstabelle -->
+		<!-- ende Box mit KompatibilitÃƒÂ¤tstabelle -->
 		
 
 						<!-- Bilder Galerie -->
@@ -386,7 +386,7 @@ All of the aquariums in the Rio, Vision, Lido and Trigon lines already have the 
 		    <div class="gallery-slider">
 						        <div class="gallery-item">
 		            <div class="wrapper">
-		                <a href="javascript:if(confirm('<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/87015.jpg  \n\n¸ÃÎÄ¼şÎŞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ²»¿ÉÓÃ, »ò·ÅÆúÁËÏÂÔØ, »òÏîÄ¿¼´½«Í£Ö¹¡£  \n\nÄãÏëÔÚ·şÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/87015.jpg'" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/87015.jpg" class="cloud-zoom">
+		                <a href="javascript:if(confirm('<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/87015.jpg  \n\nÂ¸ÃƒÃÃ„Â¼Ã¾ÃÃÂ·Â¨Ã“Ãƒ Teleport Ultra ÃÃ‚Ã”Ã˜, Ã’Ã²ÃÂª Â²Â»Â¿Ã‰Ã“Ãƒ, Â»Ã²Â·Ã…Ã†ÃºÃÃ‹ÃÃ‚Ã”Ã˜, Â»Ã²ÃÃ®Ã„Â¿Â¼Â´Â½Â«ÃÂ£Ã–Â¹Â¡Â£  \n\nÃ„Ã£ÃÃ«Ã”ÃšÂ·Ã¾ÃÃ±Ã†Ã·Ã‰ÃÂ´Ã²Â¿ÂªÃ‹Ã¼?'))window.location='<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/87015.jpg'" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/87015.jpg" class="cloud-zoom">
 		                    <img src="../../../../../out/pictures/master/product/gallery/detail/1/87015.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/87015.png" alt="">
 		                </a>
 		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/87015.png)"></a>

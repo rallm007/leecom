@@ -3,19 +3,19 @@
 <div id="footer">
     <div class="page_margins bg">
 			<div class="col products">
-        	<h4>产品</h4>
+        	<h4>产品展示</h4>
 				<ul>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XP-Line/Rio-125-black.php#!juwel-000000000000001300">XP系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/Vision-180-black.php#!juwel-000000000000009300">XC系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XT-Line/Trigon-190-black.php#!juwel-000000000000016300">XT系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XE-Line/Lido-120-black.php#!juwel-000000000000011300">XE系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600">迷你缸</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/Vio-40-black-Int.php#!juwel-000000000000020040">XF系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XP-Line/XP-125-black.php#!juwel-000000000000001300">XP系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XC-180-black.php#!juwel-000000000000009300">XC系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-000000000000016300">XT系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-000000000000011300">XE系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600">XK迷你鱼缸系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040">XF系列</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860">XQ系列</a></li>
 				</ul>
 				<ul>
 					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Day-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">LED灯</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Filtration/Filter-Media/bioPad-S-Super-Comp-S-Poly-Pad-Bioflow-Super-Compact-Super.php">过滤器</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Filtration/Filter-Media/bioPad-S-Super-Comp-S-Poly-Pad-Bioflow-Super-Compact-Super.php">过滤系列</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Decoration/Cliff-Dark/Background-Cliff-Dark-oxid.php">气泵</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php">附件</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">磁擦</a></li>
@@ -23,19 +23,19 @@
 				</ul>
 			</div> 
                 <div class="col">
-        	<h4>公司</h4>
+        	<h4>公司简介</h4>
 				<ul>
                     <li><a href="<?php echo $site_url.'cn';?>/Company/index.php">关于我们</a></li>
                    	</ul>
 					</div>                       		        
                 <div class="col">
-        	<h4>服务</h4>
+        	<h4>服务中心</h4>
 				<ul>
                     <li><a href="<?php echo $site_url.'cn';?>/Service/FAQ/index.php" onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Servicecenter']);">常见问题</a></li>
                 </ul>
 		</div>   
         <div class="col" style="width: 240px;">
-        	<h4>联系</h4>
+        	<h4>联系我们</h4>
             <ul>
 				<li><a>广州日创橡塑电器有限公司</a></li>
                 <li><a>联系电话：+86-20-34691002</a></li>
@@ -224,7 +224,7 @@ $(function(){
 
 		var sData = "cl=srajax&fnc=findHandler&tpl=srfindhandler.tpl&lat="+oLocation.lat()+"&lon="+oLocation.lng()+"&distance="+distance+"&iofficial="+iOfficial+"&iseawater="+iSeawater;
 		if( 'https:' == document.location.protocol ) {
-			var sUrl = "<?php echo $site_url;?>cn/Products/Aquariums/XC-Line/Vision-180-black.php#!juwel-000000000000009300";
+			var sUrl = "<?php echo $site_url;?>cn/Products/Aquariums/XC-Line/XC-180-black.php#!juwel-000000000000009300";
 		} else {
 			var sUrl = "<?php echo $site_url;?>index.php-lang=1&.php"/*tpa=http://www.juwel-aquarium.de/index.php?lang=1&*/;
 		}
@@ -250,7 +250,7 @@ $(function(){
     getCountryInfoPage = function( country ){
 
         if( 'https:' == document.location.protocol ) {
-            var sUrl = "<?php echo $site_url;?>cn/Products/Aquariums/XC-Line/Vision-180-black.php#!juwel-000000000000009300";
+            var sUrl = "<?php echo $site_url;?>cn/Products/Aquariums/XC-Line/XC-180-black.php#!juwel-000000000000009300";
         } else {
             var sUrl = "<?php echo $site_url;?>index.php-lang=1&.php"/*tpa=http://www.juwel-aquarium.de/index.php?lang=1&*/;
         }
@@ -279,7 +279,7 @@ $(function(){
     getNoMapCountriesOxid = function(){
 
         if( 'https:' == document.location.protocol ) {
-            var sUrl = "<?php echo $site_url;?>cn/Products/Aquariums/XC-Line/Vision-180-black.php#!juwel-000000000000009300";
+            var sUrl = "<?php echo $site_url;?>cn/Products/Aquariums/XC-Line/XC-180-black.php#!juwel-000000000000009300";
         } else {
             var sUrl = "<?php echo $site_url;?>index.php-lang=1&.php"/*tpa=http://www.juwel-aquarium.de/index.php?lang=1&*/;
         }

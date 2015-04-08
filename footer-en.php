@@ -5,12 +5,12 @@
 			<div class="col products">
         	<h4>Products</h4>
 				<ul>
-					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XP-Line/Rio-125-black.php#!juwel-000000000000001300">XP Line</a></li>
-					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Vision-180-black.php#!juwel-000000000000009300">XC Line</a></li>
-					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XT-Line/Trigon-190-black.php#!juwel-000000000000016300">XT Line</a></li>
-					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XE-Line/Lido-120-black.php#!juwel-000000000000011300">XE Line</a></li>
+					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XP-Line/XP-125-black.php#!juwel-000000000000001300">XP Line</a></li>
+					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XC-180-black.php#!juwel-000000000000009300">XC Line</a></li>
+					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-000000000000016300">XT Line</a></li>
+					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-000000000000011300">XE Line</a></li>
 					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600">迷你缸</a></li>
-					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XF-Line/Vio-40-black-Int.php#!juwel-000000000000020040">XF Line</a></li>
+					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040">XF Line</a></li>
 					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860">XQ Line</a></li>
 				</ul>
 				<ul>
@@ -224,7 +224,7 @@ $(function(){
 
 		var sData = "cl=srajax&fnc=findHandler&tpl=srfindhandler.tpl&lat="+oLocation.lat()+"&lon="+oLocation.lng()+"&distance="+distance+"&iofficial="+iOfficial+"&iseawater="+iSeawater;
 		if( 'https:' == document.location.protocol ) {
-			var sUrl = "<?php echo $site_url;?>en/Products/Aquariums/XC-Line/Vision-180-black.php#!juwel-000000000000009300";
+			var sUrl = "<?php echo $site_url;?>en/Products/Aquariums/XC-Line/XC-180-black.php#!juwel-000000000000009300";
 		} else {
 			var sUrl = "<?php echo $site_url;?>index.php-lang=1&.php"/*tpa=http://www.juwel-aquarium.de/index.php?lang=1&*/;
 		}
@@ -250,7 +250,7 @@ $(function(){
     getCountryInfoPage = function( country ){
 
         if( 'https:' == document.location.protocol ) {
-            var sUrl = "<?php echo $site_url;?>en/Products/Aquariums/XC-Line/Vision-180-black.php#!juwel-000000000000009300";
+            var sUrl = "<?php echo $site_url;?>en/Products/Aquariums/XC-Line/XC-180-black.php#!juwel-000000000000009300";
         } else {
             var sUrl = "<?php echo $site_url;?>index.php-lang=1&.php"/*tpa=http://www.juwel-aquarium.de/index.php?lang=1&*/;
         }
@@ -279,7 +279,7 @@ $(function(){
     getNoMapCountriesOxid = function(){
 
         if( 'https:' == document.location.protocol ) {
-            var sUrl = "<?php echo $site_url;?>en/Products/Aquariums/XC-Line/Vision-180-black.php#!juwel-000000000000009300";
+            var sUrl = "<?php echo $site_url;?>en/Products/Aquariums/XC-Line/XC-180-black.php#!juwel-000000000000009300";
         } else {
             var sUrl = "<?php echo $site_url;?>index.php-lang=1&.php"/*tpa=http://www.juwel-aquarium.de/index.php?lang=1&*/;
         }

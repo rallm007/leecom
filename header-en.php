@@ -10,12 +10,12 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=1024" />
-    <meta name="description" content="Rio 125 black -">
+    <meta name="description" content="XP 125 black -">
     <meta name="keywords" content="rio, 125, black, products, aquariums, line">
 	<meta property="og:locale" content="en_GB" />
     <meta property="fb:app_id" content="532575290153827" />
     <meta property="og:title" content="LEECOM" />
-    <meta property="og:description" content="Rio 125 black -" />
+    <meta property="og:description" content="XP 125 black -" />
     <meta property="og:type" content="og:product" />
     <meta property="og:image" content="<?php echo $site_url;?>out/pictures/master/product/1/01300.png" />
     <link rel="shortcut icon" href="<?php echo $site_url;?>out/pictures/master/global/1/favicon.ico">
@@ -121,17 +121,17 @@ var _gaq = _gaq || [];
 	                        <ul>
 								<li class="head"><h4>Aquariums</h4></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XP-Line/Rio-125-black.php#!juwel-000000000000001300" id="00000000031">XP Line</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XP-Line/XP-125-black.php#!juwel-000000000000001300" id="00000000031">XP Line</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XC-Line/Vision-180-black.php#!juwel-000000000000009300" id="00000000041">XC Line</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XC-Line/XC-180-black.php#!juwel-000000000000009300" id="00000000041">XC Line</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XT-Line/Trigon-190-black.php#!juwel-000000000000016300" id="00000000051">XT Line</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-000000000000016300" id="00000000051">XT Line</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XE-Line/Lido-120-black.php#!juwel-000000000000011300" id="00000000061">XE Line</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-000000000000011300" id="00000000061">XE Line</a></li>
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600" id="00000000071">迷你缸</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XF-Line/Vio-40-black-Int.php#!juwel-000000000000020040" id="00000001271">XF Line</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040" id="00000001271">XF Line</a></li>
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860" id="00000001281">XQ Line</a></li>
 			</ul>
@@ -156,10 +156,10 @@ var _gaq = _gaq || [];
 		                		    <div class="product-info clearfix" id="info-00000000031" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="Rio Line" src="<?php echo $site_url;?>out/pictures/master/product/2/01300.jpg">
+                                    	<img alt="XP Line" src="<?php echo $site_url;?>out/pictures/master/product/2/01300.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">Rio Line</span></h4>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XP Line</span></h4>
 	                                    <h5>Classic Line</h5>
 	                                    <p>Timeless design, perfected technology and meticulous workmanship. A RIO aquarium from JUWEL discreetly accentuates the underwater world that you have arranged.</p>
 	                                    <ul class="decor fl">
@@ -175,10 +175,10 @@ var _gaq = _gaq || [];
 		                		    <div class="product-info clearfix" id="info-00000000041" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="Vision Line" src="<?php echo $site_url;?>out/pictures/master/product/2/09300.jpg">
+                                    	<img alt="XC Line" src="<?php echo $site_url;?>out/pictures/master/product/2/09300.jpg">
                                     	</div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">Vision Line</span></h4>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XC Line</span></h4>
 	                                    <h5>Exclusive Line</h5>
 	                                    <p>Experience the aquarium fascination from a new perspective. A VISION accentuates the optical depth through its curved front panel and offers surprising views of your underwater world.</p>
 	                                    <ul class="decor fl">
@@ -194,10 +194,10 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div class="product-info clearfix" id="info-00000000051" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="Trigon Line" src="<?php echo $site_url;?>out/pictures/master/product/2/16300.jpg">
+                                    	<img alt="XT Line" src="<?php echo $site_url;?>out/pictures/master/product/2/16300.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">Trigon Line</span></h4>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XT Line</span></h4>
 	                                    <h5>Special Line</h5>
 	                                    <p>TRIGON aquariums turn every corner of the room  into a decorative eye-catcher.</p>
 	                                    <ul class="decor fl">
@@ -213,10 +213,10 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div class="product-info clearfix" id="info-00000000061" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="Lido Line" src="<?php echo $site_url;?>out/pictures/master/product/2/11300.jpg">
+                                    	<img alt="XE Line" src="<?php echo $site_url;?>out/pictures/master/product/2/11300.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">Lido Line</span></h4>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XE Line</span></h4>
 	                                    <h5>Elegant Line</h5>
 	                                    <p>Our LIDO elegantly fits into any surrounding due to its discreet design. You will be surprised by its elegance and compatibility.</p>
 	                                    <ul class="decor fl">
@@ -251,10 +251,10 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div class="product-info clearfix" id="info-00000001271" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="Vio Line" src="<?php echo $site_url;?>out/pictures/master/product/2/20040.jpg">
+                                    	<img alt="XF Line" src="<?php echo $site_url;?>out/pictures/master/product/2/20040.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">Vio Line</span></h4>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XF Line</span></h4>
 	                                    <h5>Lifestyle Line</h5>
 	                                    <p>The VIO 40 LED from JUWEL Aquarium creates a large glimpse of a fascinating underwater world despite its low volume.</p>
 	                                    <ul class="decor fl">

@@ -55,7 +55,7 @@
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
-	                        <li>You are here:</li>
+	                        <li>您的位置:</li>
 	                        <li>XQ-Line</li>
 	                        <li>XQ-Line Coldwater  </li>
 	                    </ul>
@@ -63,7 +63,7 @@
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000023860" title="JUWEL® Aquarium | XQ-Line 60 Int.">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000023860" title="LEECOM | XQ-Line 60 Int.">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/23860.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/23860.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -73,7 +73,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XQ-Line Coldwater  </span></h2><!-- varianten headline -->
-	                    <p>The XQ-Line is a stepping stone into fish keeping at an unbeatable price.</p>
+	                    <p>自由自在，轻松出行，享受自由，享受自在。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -193,7 +193,7 @@
 		if(window.location.protocol.indexOf("https") >= 0) {
 			var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860cl=srajax";
 		} else {
-			var sUrl = "../../../../index.php-lang=1&cl=srajax.php"/*tpa=<?php echo $site_url;?>index.php?lang=1&cl=srajax*/; 
+			var sUrl = "../ajax-content/" + iArtId + ".php";
 		}
 
 		// ajax request
@@ -239,7 +239,7 @@
     </div>
 	  <div id="product-loading-content"></div>
         <div class="go-top clear clearfix">
-        	<a class="arrow-link top fr scroll-link" href="#header">Go to top</a>
+        	<a class="arrow-link top fr scroll-link" href="#header">回到页首</a>
         </div>
     </div>
 </div>	

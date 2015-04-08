@@ -29,7 +29,7 @@
     <div class="content clearfix accessories_detail">
 										<div class="breadcrumb accessories-detail nav clearfix">
     <ul class="fl">
-        <li>You are here:</li>
+        <li>您的位置:</li>
         			    				    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">Products</a></li>
 			            			    				    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/" title="Accessories">Accessories</a></li>
 			            			    				    <li><a href="Digital-Thermometer-2-0.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Digital-Thermometer/" title="Digital-Thermometer">Digital-Thermometer</a></li>
@@ -270,8 +270,8 @@
 	        	                    <div class="tabs content-tabs">
 			    <!-- Tab-Navigations-Laschen -->
 				<ul class="clearfix">
-					<li><a href="#tabs-1">Product details</a></li>
-					<li><a href="#tabs-2">Technical data</a></li>
+					<li><a href="#tabs-1">产品详情</a></li>
+					<li><a href="#tabs-2">技术参数</a></li>
 					<li><a href="#tabs-3">Support</a></li>
 				</ul>
 				<div id="tabs-1">

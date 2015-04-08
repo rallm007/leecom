@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT']."/leecom/header-en.php");?>
+<?php include($_SERVER['DOCUMENT_ROOT']."/leecom/header-cn.php");?>
 
 <!-- Main-Area -->
 <div id="main">
@@ -24,13 +24,13 @@
 <div class="product-thumbnail-navi clearfix closed">
 	<div class="page_margins">
     	<div class="inner-wrapper">
-            <h1 class="tk-myriad-pro tk-light">Vio Line</h1>
+            <h1 class="tk-myriad-pro tk-light">XF系列</h1>
             <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">Prev</a>
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
                                 																																																																	                    <a href="#juwel-000000000000020040" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/20040.png" alt="Vio ">
-                        Vio 
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/20040.png" alt="XF ">
+                        XF 
                     </a>
                                                 </div>
             </div>
@@ -55,20 +55,20 @@
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
-	                        <li>You are here:</li>
-	                        <li>Vio Line</li>
-	                        <li>Vio </li>
+	                        <li>您的位置:</li>
+	                        <li>XF系列</li>
+	                        <li>XF </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000020040" title="JUWEL® Aquarium | Vio 40 black Int.">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000020040" title="LEECOM | XF 40 black Int.">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/20040.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/20040.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000020044" title="JUWEL® Aquarium | Vio 40 white Int.">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000020044" title="LEECOM | XF 40 white Int.">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/20044.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/20044.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -77,14 +77,14 @@
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">Vio </span></h2><!-- varianten headline -->
-	                    <p>The Vio 40 from JUWEL Aquarium creates a large glimpse of a fascinating underwater world despite its low volume.</p>
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XF </span></h2><!-- varianten headline -->
+	                    <p>节能、环保，轻松加水投饲，精巧、简约，尤其适合办公室、家居的桌面摆设。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Vio-40-black-Int.php#!juwel-000000000000020040" title="Vio 40 black Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Vio-40-white-Int.php#!juwel-000000000000020044" title="Vio 40 white Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XF-40-black-Int.php#!juwel-000000000000020040" title="XF 40 black Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XF-40-white-Int.php#!juwel-000000000000020044" title="XF 40 white Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -99,13 +99,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/20040.png" alt="Vio ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/20040.png" alt="XF ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">Vio </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XF </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -167,9 +167,9 @@
 		//data: {artId: iArtId},
 		
 		if(window.location.protocol.indexOf("https") >= 0) {
-			var sUrl = "https://www.juwel-aquarium.de/en/Products/Aquariums/XF-Line/Vio-40-black-Int.php#!juwel-000000000000020040cl=srajax";
+			var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040cl=srajax";
 		} else {
-			var sUrl = "../../../../index.php-lang=1&cl=srajax.php"/*tpa=<?php echo $site_url;?>index.php?lang=1&cl=srajax*/; 
+			var sUrl = "../ajax-content/" + iArtId + ".php";
 		}
 
 		// ajax request
@@ -215,7 +215,7 @@
     </div>
 	  <div id="product-loading-content"></div>
         <div class="go-top clear clearfix">
-        	<a class="arrow-link top fr scroll-link" href="#header">Go to top</a>
+        	<a class="arrow-link top fr scroll-link" href="#header">回到页首</a>
         </div>
     </div>
 </div>	
@@ -230,12 +230,12 @@
     <div class="page_margins">
         <ul>
 						    <li><a href="../../index.php" title="Products">Products</a></li>
-			    						    <li><a href="Vio-40-black-Int.php" title="Vio Line">Vio Line</a></li>
+			    						    <li><a href="XF-40-black-Int.php" title="XF系列">XF系列</a></li>
 			    			        </ul>                        
     </div>
 </div>
 
-<?php include($_SERVER['DOCUMENT_ROOT']."/leecom/footer-en.php");?>
+<?php include($_SERVER['DOCUMENT_ROOT']."/leecom/footer-cn.php");?>
             
 	<div id="sroverlay" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999999999999999;display: none;"></div>
 </body>
