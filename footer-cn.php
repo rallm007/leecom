@@ -9,17 +9,22 @@
 					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XC-180-black.php#!juwel-000000000000009300">XC系列</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-000000000000016300">XT系列</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-000000000000011300">XE系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600">XK迷你鱼缸系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040">XF系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600">XK系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040">XA系列</a></li>
+          <li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040">XF系列</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860">XQ系列</a></li>
 				</ul>
 				<ul>
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Day-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">LED灯</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Filtration/Filter-Media/bioPad-S-Super-Comp-S-Poly-Pad-Bioflow-Super-Compact-Super.php">过滤系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Decoration/Cliff-Dark/Background-Cliff-Dark-oxid.php">气泵</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php">附件</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">磁擦</a></li>
-                    <li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">保温棒</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Day-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">灯具系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Filtration/Filter-Media/bioPad-S-Super-Comp-S-Poly-Pad-Bioflow-Super-Compact-Super.php">气泵系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Decoration/Cliff-Dark/Background-Cliff-Dark-oxid.php">水泵系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php">磁擦系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">附件系列</a></li>
+                    <li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">保温棒系列</a></li>
+          <li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">缸外过滤系列</a></li>
+          <li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">缸内过滤系列</a></li>
+          <li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">上部过滤系列</a></li>
+          <li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">气动过滤系列</a></li>          
 				</ul>
 			</div> 
                 <div class="col">
@@ -42,18 +47,6 @@
                 <li><a>电子邮箱：simon.lee@LEECOM.cn</a></li>
             </ul>
 		</div>
-        <div class="bottom-col clearfix">
-        	<ul class="payment display-none">
-                <li class="ir mastercard">MasterCard</li>
-                <li class="ir visa">Visa</li>
-                <li class="ir elv">ELV</li>
-            </ul>
-            <ul class="inline-nav clearfix">
-            	<li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic2.php">Cancellation</a></li>
-                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic3.php">Privacy policy</a></li>
-                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic4.php">Guarantee policy</a></li>
-            </ul>
-        </div>
     </div>
     <div id="footer-bottom">
         <div class="page_margins">

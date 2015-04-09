@@ -10,12 +10,12 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=1024" />
-    <meta name="description" content="XP 125 black -">
+    <meta name="description" content="XP 300 black -">
     <meta name="keywords" content="rio, 125, black, products, aquariums, line">
 	<meta property="og:locale" content="fr_FR" />
     <meta property="fb:app_id" content="532575290153827" />
     <meta property="og:title" content="LEECOM" />
-    <meta property="og:description" content="XP 125 black -" />
+    <meta property="og:description" content="XP 300 black -" />
     <meta property="og:type" content="og:product" />
     <meta property="og:image" content="<?php echo $site_url;?>out/pictures/master/product/1/01300.png" />
     <link rel="shortcut icon" href="<?php echo $site_url;?>out/pictures/master/global/1/favicon.ico">
@@ -117,7 +117,7 @@ var _gaq = _gaq || [];
 							<li class="products has-drop">
 	           	<a href="<?php echo $site_url.'cn/Products/';?>index.php"><span>产品展示</span></a>
 	               	<div class="drop flyout closed clearfix">
-	                  	<div class="grid_5 left">
+	                  	<div class="grid_5 left" style="height:360px;">
 	                        <ul>
 								<li class="head"><h4>水族箱</h4></li>
 						<!-- Aquarien -->
@@ -129,8 +129,9 @@ var _gaq = _gaq || [];
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-000000000000011300" id="00000000061">XE系列</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600" id="00000000071">XK迷你鱼缸系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600" id="00000000071">XK系列</a></li>
 						<!-- Aquarien -->
+						<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040" id="00000001271">XA系列</a></li>
 								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040" id="00000001271">XF系列</a></li>
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860" id="00000001281">XQ系列</a></li>
@@ -138,16 +139,20 @@ var _gaq = _gaq || [];
 			<ul>
 					<li class="head"><h4>更多</h4></li>
 									<!-- Weiteres -->
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Lighting/index.php" id="00000000261">LED灯</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Lighting/index.php" id="00000000261">灯具系列</a></li>
 									<!-- Weiteres -->
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Filtration/index.php" id="00000000281">过滤系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Filtration/index.php" id="00000000281">气泵系列</a></li>
 									<!-- Weiteres -->
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Decoration/index.php" id="00000000291">气泵</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Decoration/index.php" id="00000000291">水泵系列</a></li>
 									<!-- Weiteres -->
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Accessories/index.php" id="00000000301">附件</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Accessories/index.php" id="00000000301">磁擦系列</a></li>
 									<!-- Weiteres -->
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/index.php" id="00000000311">磁擦</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/index.php" id="00000000311">保温棒</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/index.php" id="00000000311">附件系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/index.php" id="00000000311">保温棒系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/index.php" id="00000000311">缸外过滤系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/index.php" id="00000000311">缸内过滤系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/index.php" id="00000000311">上部过滤系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/index.php" id="00000000311">气动过滤系列</a></li>
 			</ul>
 			<ul>			
 						
