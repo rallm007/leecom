@@ -168,12 +168,15 @@ var _gaq = _gaq || [];
 	                                    <h5>永久的经典</h5>
 	                                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词</p>
 	                                    <ul class="decor fl">
-	                                    			                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
-		                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                <ul class="sizes fl">
-		                                </ul>                                    
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/01300.jpg" alt="Rio 125 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/04300.jpg" alt="Rio 180 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/03300.jpg" alt="Rio 240 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/07300.jpg" alt="Rio 300 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/05300.jpg" alt="Rio 400 "></li>	                                    			                                    				                                    			                                    				                                    		            	
+	                                    </ul>                                  
 	                                </div>
 	                            </div>				
 					
@@ -192,7 +195,11 @@ var _gaq = _gaq || [];
 		                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                    		                                    		                                    </ul>
-	                                    <ul class="sizes fl">                                    		                                    </ul>                                    
+	                                    <ul class="sizes fl">
+                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/09300.jpg" alt="Vision 180 "></li>	                                    		            	
+                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/06800.jpg" alt="Vision 260 "></li>	                                    		            	
+                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/10300.jpg" alt="Vision 450 "></li>
+	                                    </ul>                                    
 	                                </div>
 	                            </div>				
 					
@@ -211,7 +218,10 @@ var _gaq = _gaq || [];
 		                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                    		                                    		                                    </ul>
-	                                    <ul class="sizes fl"> </ul>                                    
+	                                    <ul class="sizes fl">
+		                        			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/16300.jpg" alt="Trigon 190 "></li>                                		            	
+		                        			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/15300.jpg" alt="Trigon 350 "></li>                              			                                    				                                    			                                    				                                    		            	
+	                                    </ul>                                   
 	                                </div>
 	                            </div>				
 					
@@ -230,11 +240,13 @@ var _gaq = _gaq || [];
 		                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                    		                                    		                                    </ul>
-	                                    <ul class="sizes fl"></ul>                                    
+	                                    <ul class="sizes fl">
+		                        			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/11300.jpg" alt="Lido 120 "></li>		                                    		            	
+		                        			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/11830.jpg" alt="Lido 200 "></li>	                                    			                                    				                                    			                                    				                                    		            	
+	                                    </ul>                                   
 	                                </div>
-	                            </div>				
-					
-		                		                   	                        	<div class="product-info clearfix" id="info-00000000071" style="display: none;">
+	                            </div>
+		                		    <div class="product-info clearfix" id="info-00000000071" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
                                     	<img alt="Rekord系列" src="<?php echo $site_url;?>out/pictures/master/product/2/21600.jpg">
@@ -249,11 +261,14 @@ var _gaq = _gaq || [];
 		                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                    		                                    		                                    </ul>
-	                                    <ul class="sizes fl"></ul>                                    
+	                                    <ul class="sizes fl">
+                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/21600.jpg" alt="Rekord 600 "></li>
+                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/21700.jpg" alt="Rekord 700 "></li>
+                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/21800.jpg" alt="Rekord 800 "></li>
+	                                    </ul>                                   
 	                                </div>
 	                            </div>				
-					
-		                		                   	                        	<div class="product-info clearfix" id="info-00000001271" style="display: none;">
+								<div class="product-info clearfix" id="info-00000001271" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
                                     	<img alt="XF系列" src="<?php echo $site_url;?>out/pictures/master/product/2/20040.jpg">
@@ -267,11 +282,12 @@ var _gaq = _gaq || [];
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
 		                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
-	                                    <ul class="sizes fl"></ul>                                    
+	                                    <ul class="sizes fl">
+        			                        <li><img src="<?php echo $site_url;?>out/pictures/master/product/3/20040.jpg" alt="Vio "></li>			                                    		            	
+	                                    </ul>                                   
 	                                </div>
 	                            </div>				
-					
-		                		                   	                        	<div class="product-info clearfix" id="info-00000001281" style="display: none;">
+								<div class="product-info clearfix" id="info-00000001281" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
                                     	<img alt="XQ-Line" src="<?php echo $site_url;?>out/pictures/master/product/2/23860.jpg">
@@ -280,12 +296,12 @@ var _gaq = _gaq || [];
 	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XQ系列</span></h4>
 	                                    <h5>带上你的宠宝，畅游吧</h5>
 	                                    <p>自由自在，轻松出行，享受自由，享受自在</p>
-	                                    <ul class="decor fl">
-	                                    			                                    	            	
+	                                    <ul class="decor fl">                     	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
-		                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
-		                                <ul class="sizes fl"></ul>                                    
+		                                <ul class="sizes fl">
+	                                    	<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/23860.jpg" alt="Korall Coldwater  "></li>
+	                                    </ul>                                  
 	                                </div>
 	                            </div>
 		                		                   	                        	<div class="product-info clearfix" id="info-00000000261" style="display: none;">
