@@ -113,7 +113,7 @@ T5 technology only operates with modern electronic ballasts ensuring the highest
 The filter is matched to the aquarium volume for optimum performance
 
 The capacity of the filter pump is designed for two or more times the throughput per hour
-(e.g. XP 180 = 180 litres with a pump capacity of 600 l/hr)
+(e.g. XP 360 = 180 litres with a pump capacity of 600 l/hr)
 
 This large and structured filter volume in all our systems provides a safe and stable environment for the livestock along with ease of maintenance.
 The various structured media within the JUWEL internal filter system is optimised to biologically break down pollutants within the aquarium.

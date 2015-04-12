@@ -515,7 +515,7 @@
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../index.php" title="Products">Products</a></li>
+						    <li><a href="../../index.php" title="Products">产品展示</a></li>
 			    						    <li><a href="XC-180-black.php" title="XC系列">XC系列</a></li>
 			    			        </ul>                        
     </div>

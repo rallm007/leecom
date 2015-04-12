@@ -16,7 +16,7 @@
     	<div class="breadcrumb accessories-detail nav clearfix">
     <ul class="fl">
         <li>您的位置:</li>
-        			    				    <li><a href="../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">Products</a></li>
+        			    				    <li><a href="../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
 			            			    				    <li><a href="index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Filtration/" title="Filtration">Filtration</a></li>
 			                    	</ul>
 </div>    	        	<a class="button grey-left fr" href="../../index.php" tppabs="<?php echo $site_url;?>cn/Products/">Back</a>
@@ -89,7 +89,7 @@
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">Products</a></li>
+						    <li><a href="../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
 			    						    <li><a href="index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Filtration/" title="Filtration">Filter</a></li>
 			    			        </ul>                        
     </div>

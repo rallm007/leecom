@@ -30,7 +30,7 @@
 										<div class="breadcrumb accessories-detail nav clearfix">
     <ul class="fl">
         <li>您的位置:</li>
-        			    				    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">Products</a></li>
+        			    				    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
 			            			    				    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/" title="Accessories">Accessories</a></li>
 			            			    				    <li><a href="Digital-Thermometer-2-0.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Digital-Thermometer/" title="Digital-Thermometer">Digital-Thermometer</a></li>
 			                            <li>Digital Thermometer 2.0</li>
@@ -466,7 +466,7 @@ Any guarantee claim must be substantiated with a valid proof of purchase.
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">Products</a></li>
+						    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
 			    						    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/" title="Accessories">Accessories</a></li>
 			    						    <li><a href="Digital-Thermometer-2-0.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Digital-Thermometer/" title="Digital-Thermometer">Digital-Thermometer</a></li>
 			    			        </ul>                        

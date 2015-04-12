@@ -30,7 +30,7 @@
 										<div class="breadcrumb accessories-detail nav clearfix">
     <ul class="fl">
         <li>您的位置:</li>
-        			    				    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">Products</a></li>
+        			    				    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
 			            			    				    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/" title="Marine">Marine</a></li>
 			            			    				    <li><a href="Juwel-SeaSkim-INT.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/Skimmer/" title="Skimmer">Skimmer</a></li>
 			                            <li>Juwel SeaSkim INT</li>
@@ -420,7 +420,7 @@ All of the aquariums in the XP, XC, XE and XT lines already have the matching op
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">Products</a></li>
+						    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
 			    						    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/" title="Marine">Marine</a></li>
 			    						    <li><a href="Juwel-SeaSkim-INT.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/Skimmer/" title="Skimmer">Skimmer</a></li>
 			    			        </ul>                        

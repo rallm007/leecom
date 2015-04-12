@@ -121,7 +121,7 @@ var _gaq = _gaq || [];
 	                        <ul>
 								<li class="head"><h4>水族箱</h4></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XP-Line/XP-125-black.php#!juwel-000000000000001300" id="00000000031">XP系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XP-Line/XP-300-black.php#!juwel-000000000000001300" id="00000000031">XP系列</a></li>
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XC-Line/XC-180-black.php#!juwel-000000000000009300" id="00000000041">XC系列</a></li>
 						<!-- Aquarien -->
@@ -129,7 +129,7 @@ var _gaq = _gaq || [];
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-000000000000011300" id="00000000061">XE系列</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600" id="00000000071">XK系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XK-Line/XK-600-black-Int.php#!juwel-000000000000021600" id="00000000071">XK系列</a></li>
 						<!-- Aquarien -->
 						<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040" id="00000001271">XA系列</a></li>
 								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040" id="00000001271">XF系列</a></li>
@@ -171,11 +171,11 @@ var _gaq = _gaq || [];
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                <ul class="sizes fl">
-			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/01300.jpg" alt="Rio 125 "></li>	                                    		            	
-			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/04300.jpg" alt="Rio 180 "></li>	                                    		            	
-			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/03300.jpg" alt="Rio 240 "></li>	                                    		            	
-			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/07300.jpg" alt="Rio 300 "></li>	                                    		            	
-			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/05300.jpg" alt="Rio 400 "></li>	                                    			                                    				                                    			                                    				                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/01300.jpg" alt="XP 125 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/04300.jpg" alt="XP 180 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/03300.jpg" alt="XP 240 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/07300.jpg" alt="XP 300 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/05300.jpg" alt="XP 400 "></li>	                                    			                                    				                                    			                                    				                                    		            	
 	                                    </ul>                                  
 	                                </div>
 	                            </div>				
@@ -196,9 +196,9 @@ var _gaq = _gaq || [];
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/09300.jpg" alt="Vision 180 "></li>	                                    		            	
-                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/06800.jpg" alt="Vision 260 "></li>	                                    		            	
-                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/10300.jpg" alt="Vision 450 "></li>
+                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/09300.jpg" alt="XC 180 "></li>	                                    		            	
+                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/06800.jpg" alt="XC 260 "></li>	                                    		            	
+                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/10300.jpg" alt="XC 450 "></li>
 	                                    </ul>                                    
 	                                </div>
 	                            </div>				
@@ -219,8 +219,8 @@ var _gaq = _gaq || [];
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-		                        			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/16300.jpg" alt="Trigon 190 "></li>                                		            	
-		                        			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/15300.jpg" alt="Trigon 350 "></li>                              			                                    				                                    			                                    				                                    		            	
+		                        			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/16300.jpg" alt="XT 190 "></li>                                		            	
+		                        			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/15300.jpg" alt="XT 350 "></li>                              			                                    				                                    			                                    				                                    		            	
 	                                    </ul>                                   
 	                                </div>
 	                            </div>				
@@ -241,18 +241,18 @@ var _gaq = _gaq || [];
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-		                        			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/11300.jpg" alt="Lido 120 "></li>		                                    		            	
-		                        			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/11830.jpg" alt="Lido 200 "></li>	                                    			                                    				                                    			                                    				                                    		            	
+		                        			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/11300.jpg" alt="XE 120 "></li>		                                    		            	
+		                        			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/11830.jpg" alt="XE 200 "></li>	                                    			                                    				                                    			                                    				                                    		            	
 	                                    </ul>                                   
 	                                </div>
 	                            </div>
 		                		    <div class="product-info clearfix" id="info-00000000071" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="Rekord系列" src="<?php echo $site_url;?>out/pictures/master/product/2/21600.jpg">
+                                    	<img alt="XK系列" src="<?php echo $site_url;?>out/pictures/master/product/2/21600.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XK迷你鱼缸系列</span></h4>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XK系列</span></h4>
 	                                    <h5>世界是洁净透明的</h5>
 	                                    <p>世界顶级浮法玻璃，通透大气，打造透明的世界，每一个棱角，每一道线条都追求完美。</p>
 	                                    <ul class="decor fl">
@@ -262,9 +262,9 @@ var _gaq = _gaq || [];
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/21600.jpg" alt="Rekord 600 "></li>
-                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/21700.jpg" alt="Rekord 700 "></li>
-                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/21800.jpg" alt="Rekord 800 "></li>
+                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/21600.jpg" alt="XK 600 "></li>
+                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/21700.jpg" alt="XK 700 "></li>
+                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/21800.jpg" alt="XK 800 "></li>
 	                                    </ul>                                   
 	                                </div>
 	                            </div>				
@@ -283,7 +283,7 @@ var _gaq = _gaq || [];
 		                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 	                                    <ul class="sizes fl">
-        			                        <li><img src="<?php echo $site_url;?>out/pictures/master/product/3/20040.jpg" alt="Vio "></li>			                                    		            	
+        			                        <li><img src="<?php echo $site_url;?>out/pictures/master/product/3/20040.jpg" alt="XF "></li>			                                    		            	
 	                                    </ul>                                   
 	                                </div>
 	                            </div>				
@@ -300,7 +300,7 @@ var _gaq = _gaq || [];
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                <ul class="sizes fl">
-	                                    	<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/23860.jpg" alt="Korall Coldwater  "></li>
+	                                    	<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/23860.jpg" alt="XQ  "></li>
 	                                    </ul>                                  
 	                                </div>
 	                            </div>

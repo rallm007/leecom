@@ -108,7 +108,7 @@
     	         <tr>
                         <td class="icon measure">&nbsp;</td>
                         <td class="topic">规格</td>
-                        <td>32 x 21 x 33.5cm</td>
+                        <td>32 x 21 x 33.5 cm</td>
                     </tr>
 			                                                                                                            							                    
                     <tr>
@@ -146,12 +146,12 @@
 			                                            <tr>
                         <td class="icon watt">&nbsp;</td>
                         <td class="topic">LED灯功率</td>
-                        <td>10W</td>
+                        <td>10 W</td>
                     </tr>
                     <tr>
                         <td class="icon watt">&nbsp;</td>
                         <td class="topic">节能灯功率</td>
-                        <td>13W</td>
+                        <td>13 W</td>
                     </tr>
 			        </tbody>
 	</table>
@@ -178,17 +178,22 @@
                         可选颜色</td>
 <td>
 <ul class="decor fl">
-<li><img alt="" src="../../../../out/pictures/generated/srcms/1/618_342_80/1.png"></li>
-<li><img alt="" src="../../../../out/pictures/generated/srcms/1/618_342_80/4.png"></li></ul></td></tr>
+<li><img alt="" src="../../../../out/pictures/master/global/1/1.png"></li>
+<li><img alt="" src="../../../../out/pictures/master/global/1/4.png"></li></ul></td></tr>
                     <tr>
                         <td class="icon measure">&nbsp;</td>
                         <td class="topic">规格</td>
-                        <td>29.5 x 5 x 27cm</td>
+                        <td>29.5 x 5 x 27 cm</td>
+                    </tr>
+                    <tr>
+                        <td class="icon energieverbrauch">&nbsp;</td>
+                        <td class="topic">水泵功率</td>
+                        <td>2.5 W</td>
                     </tr>
 			        <tr>
                         <td class="icon filtervolumen">&nbsp;</td>
                         <td class="topic">L/hr</td>
-                        <td>320L/hr</td>
+                        <td>320 L/hr</td>
                     </tr>
 					<tr>
                         <td class="icon filtermedium">&nbsp;</td>
@@ -204,48 +209,37 @@
 <table>
 <thead>
 <tr>
-<td colspan="3">Optional: Cabinet 80 SB black<br>
+<td colspan="3">TH-300底柜<br>
 </td></tr></thead>
 <tbody>
 <tr>
-<td class="icon artikelnummer">&nbsp;</td>
-<td class="topic">Product code</td>
-<td>66300</td></tr>
-<tr>
 <td class="icon produkt">&nbsp;</td>
-<td class="topic">Product</td>
-<td>Cabinet 80 SB black<br>
+<td class="topic">产品名称</td>
+<td>TH-300底柜<br>
 </td></tr>
 <tr>
 <td class="icon dekore">&nbsp;</td>
-<td class="topic">
-                        Available decor</td>
+<td class="topic">可选颜色</td>
 <td>
 <ul class="decor fl">
-<li><img src="../../../../out/pictures/generated/srcms/1/618_342_80/1.png" alt=""></li>
-<li><img src="../../../../out/pictures/generated/srcms/1/618_342_80/4.png" alt=""></li></ul></td></tr>
+<li><img alt="" src="../../../../out/pictures/master/global/1/1.png"></li>
+<li><img alt="" src="../../../../out/pictures/master/global/1/4.png"></li></ul></td></tr>
 <tr>
 <td class="icon measure">&nbsp;</td>
-<td class="topic">Measurements</td>
-<td>81 x 36 x 73 cm<br>
+<td class="topic">规格</td>
+<td>32 x 21 x 75 cm<br>
 </td></tr>
 <tr>
-<td class="icon tragfaehigkeit">&nbsp;</td>
-<td class="topic">Max. load<br>
-</td>
-<td>500 Kg</td></tr>
-<tr>
 <td class="icon gewicht">&nbsp;</td>
-<td class="topic">
-                        Weight</td>
-<td>18,6 Kg<br>
-</td></tr></tbody></table></div>		
+<td class="topic">重量</td>
+<td>10 KG<br>
+</td></tr></tbody></table></div>
 	        			
 	</div>
 
 		<!-- CROSSSELLING / ACCESSORIES -->
 						<div class="accessories clearfix">
-				<h4>Matching accessories</h4>
+				<h4>搭配零配件</h4>
 					<div class="caroufredsel_wrapper" style="float: none; position: relative; top: auto; right: auto; bottom: auto; left: auto; width: 873px; height: 124px; margin: 30px 0px 0px 34px; overflow: hidden;"><div class="accessories_slider" style="float: none; position: absolute; top: 0px; left: 0px; margin: 0px; width: 873px; height: 124px;">
 					            
 						<a class="fl-block" href="../../../../out/pictures/generated/srcms/1/618_342_80/cn/Products/More/Decoration/Stone-Granite/Background-Stone-Granite-oxid.php" original-title="Background Stone Granite" style=""><img src="../../../../out/pictures/generated/srcms/1/618_342_80/86930.png" alt="Background Stone Granite" title="Background Stone Granite"></a>

@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT']."/leecom/header-cn.php");?>
+<?php include($_SERVER['DOCUMENT_ROOT']."/leecom/header-cn.php");?> 
 
 <!-- Main-Area -->
 <div id="main">
@@ -33,8 +33,8 @@
                         XP 300 
                     </a>
                 																																																																																							                    <a href="#juwel-000000000000004300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/04300.png" alt="XP 180 ">
-                        XP 180 
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/04300.png" alt="XP 360 ">
+                        XP 360 
                     </a>
                 																																																																																							                    <a href="#juwel-000000000000003300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                         <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/03300.png" alt="XP 400 ">
@@ -212,18 +212,18 @@
 	                    <ul class="fl">
 	                        <li>您的位置:</li>
 	                        <li>XP系列</li>
-	                        <li>XP 180 </li>
+	                        <li>XP 360 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000004300" title="LEECOM | XP 180 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000004300" title="LEECOM | XP 360 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/04300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/04300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000004400" title="LEECOM | XP 180 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000004400" title="LEECOM | XP 360 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/04400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/04400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -232,15 +232,15 @@
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XP 180 </span></h2><!-- varianten headline -->
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XP 360 </span></h2><!-- varianten headline -->
 	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XP-180-black.php#!juwel-000000000000004300" title="XP 180 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XP-180-white.php#!juwel-000000000000004400" title="XP 180 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
-																			</ul>
+																			<li><a href="XP-360-black.php#!juwel-000000000000004300" title="XP 360 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XP-180-white.php#!juwel-000000000000004400" title="XP 360 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			 </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
 	                        <div class="variations-slider-wrapper">
@@ -254,13 +254,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/04300.png" alt="XP 180 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/04300.png" alt="XP 360 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XP 180 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XP 360 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -769,7 +769,7 @@
 		//data: {artId: iArtId},
 		
 		if(window.location.protocol.indexOf("https") >= 0) {
-			var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XP-Line/XP-400-black.php#!juwel-000000000000003300cl=srajax";
+			var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XP-Line/XP-360-black.php#!juwel-000000000000004300cl=srajax";
 		} else {
 			var sUrl = "../ajax-content/" + iArtId + ".php";
 		}

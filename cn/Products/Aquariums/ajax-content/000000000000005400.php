@@ -94,7 +94,7 @@ Because it uses top-quality silver contacts and shock-proof borosilicate glass, 
 	<table>
            		                <thead>
                     <tr>
-                        <td colspan="3">XP 125 black</td>
+                        <td colspan="3">XP 300 black</td>
                     </tr>
                 </thead>
                                 <tbody>                
@@ -106,7 +106,7 @@ Because it uses top-quality silver contacts and shock-proof borosilicate glass, 
                     <tr>
                         <td class="icon produkt">&nbsp;</td>
                         <td class="topic">Product</td>
-                        <td>XP 125 black</td>
+                        <td>XP 300 black</td>
                     </tr>
                         				                        
             									                    <tr>

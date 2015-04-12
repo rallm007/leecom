@@ -16,7 +16,7 @@
     	<div class="breadcrumb accessories-detail nav clearfix">
     <ul class="fl">
         <li>您的位置:</li>
-        			    				    <li><a href="../../index.php" title="Products">Products</a></li>
+        			    				    <li><a href="../../index.php" title="Products">产品展示</a></li>
 			            			    				    <li><a href="index.php" title="Decoration">Decoration</a></li>
 			                    	</ul>
 </div>    	        	<a class="button grey-left fr" href="../../index.php">Back</a>
@@ -54,7 +54,7 @@
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../index.php" title="Products">Products</a></li>
+						    <li><a href="../../index.php" title="Products">产品展示</a></li>
 			    						    <li><a href="index.php" title="Decoration">Air Pump</a></li>
 			    			        </ul>                        
     </div>

@@ -229,7 +229,7 @@
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../index.php" title="Products">Products</a></li>
+						    <li><a href="../../index.php" title="Products">产品展示</a></li>
 			    						    <li><a href="XF-40-black-Int.php" title="XF系列">XF系列</a></li>
 			    			        </ul>                        
     </div>

@@ -24,21 +24,21 @@
 <div class="product-thumbnail-navi clearfix closed">
 	<div class="page_margins">
     	<div class="inner-wrapper">
-            <h1 class="tk-myriad-pro tk-light">Rekord系列</h1>
+            <h1 class="tk-myriad-pro tk-light">XK系列</h1>
             <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">Prev</a>
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
                                 																																																																	                    <a href="#juwel-000000000000021600" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/21600.png" alt="Rekord 600 ">
-                        Rekord 600 
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/21600.png" alt="XK 600 ">
+                        XK 600 
                     </a>
                 																																																																	                    <a href="#juwel-000000000000021700" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/21700.png" alt="Rekord 700 ">
-                        Rekord 700 
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/21700.png" alt="XK 700 ">
+                        XK 700 
                     </a>
                 																																																						                    <a href="#juwel-000000000000021800" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/21800.png" alt="Rekord 800 ">
-                        Rekord 800 
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/21800.png" alt="XK 800 ">
+                        XK 800 
                     </a>
                                                 </div>
             </div>
@@ -64,19 +64,19 @@
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
 	                        <li>您的位置:</li>
-	                        <li>Rekord系列</li>
-	                        <li>Rekord 600 </li>
+	                        <li>XK系列</li>
+	                        <li>XK 600 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021600" title="LEECOM | Rekord 600 black Int.">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021600" title="LEECOM | XK 600 black Int.">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21600.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21600.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021640" title="LEECOM | Rekord 600 white Int.">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021640" title="LEECOM | XK 600 white Int.">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21640.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21640.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -85,14 +85,14 @@
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">Rekord 600 </span></h2><!-- varianten headline -->
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XK 600 </span></h2><!-- varianten headline -->
 	                    <p>世界顶级浮法玻璃，通透大气，打造透明的世界，每一个棱角，每一道线条都追求完美。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Rekord-600-black-Int.php#!juwel-000000000000021600" title="Rekord 600 black Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Rekord-600-white-Int.php#!juwel-000000000000021640" title="Rekord 600 white Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XK-600-black-Int.php#!juwel-000000000000021600" title="XK 600 black Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XK-600-white-Int.php#!juwel-000000000000021640" title="XK 600 white Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -107,13 +107,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/21600.png" alt="Rekord 600 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/21600.png" alt="XK 600 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">Rekord 600 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XK 600 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -213,19 +213,19 @@
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
 	                        <li>您的位置:</li>
-	                        <li>Rekord系列</li>
-	                        <li>Rekord 700 </li>
+	                        <li>XK系列</li>
+	                        <li>XK 700 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021700" title="LEECOM | Rekord 700 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021700" title="LEECOM | XK 700 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021740" title="LEECOM | Rekord 700 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021740" title="LEECOM | XK 700 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21740.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21740.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -234,14 +234,14 @@
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">Rekord 700 </span></h2><!-- varianten headline -->
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XK 700 </span></h2><!-- varianten headline -->
 	                    <p>世界顶级浮法玻璃，通透大气，打造透明的世界，每一个棱角，每一道线条都追求完美。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Rekord-700-black.php#!juwel-000000000000021700" title="Rekord 700 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Rekord-700-white.php#!juwel-000000000000021740" title="Rekord 700 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XK-700-black.php#!juwel-000000000000021700" title="XK 700 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XK-700-white.php#!juwel-000000000000021740" title="XK 700 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -256,13 +256,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/21700.png" alt="Rekord 700 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/21700.png" alt="XK 700 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">Rekord 700 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XK 700 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -372,14 +372,14 @@
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
 	                        <li>您的位置:</li>
-	                        <li>Rekord系列</li>
-	                        <li>Rekord 800 </li>
+	                        <li>XK系列</li>
+	                        <li>XK 800 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021800" title="LEECOM | Rekord 800 Int.">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021800" title="LEECOM | XK 800 Int.">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21800.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21800.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -388,13 +388,13 @@
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">Rekord 800 </span></h2><!-- varianten headline -->
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XK 800 </span></h2><!-- varianten headline -->
 	                    <p>世界顶级浮法玻璃，通透大气，打造透明的世界，每一个棱角，每一道线条都追求完美。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Rekord-800-Int.php#!juwel-000000000000021800" title="Rekord 800 Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XK-800-Int.php#!juwel-000000000000021800" title="XK 800 Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -409,13 +409,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/21800.png" alt="Rekord 800 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/21800.png" alt="XK 800 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">Rekord 800 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XK 800 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -517,7 +517,7 @@
 		//data: {artId: iArtId},
 		
 		if(window.location.protocol.indexOf("https") >= 0) {
-			var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/Rekord-Line/Rekord-700-black.php#!juwel-000000000000021700cl=srajax";
+			var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XK-Line/XK-700-black.php#!juwel-000000000000021700cl=srajax";
 		} else {
 			var sUrl = "../ajax-content/" + iArtId + ".php";
 		}
@@ -579,8 +579,8 @@
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../index.php" title="Products">Products</a></li>
-			    						    <li><a href="Rekord-600-black-Int.php" title="Rekord系列">Rekord系列</a></li>
+						    <li><a href="../../index.php" title="Products">产品展示</a></li>
+			    						    <li><a href="XK-600-black-Int.php" title="XK系列">XK系列</a></li>
 			    			        </ul>                        
     </div>
 </div>

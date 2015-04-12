@@ -5,7 +5,7 @@
 			<div class="col products">
         	<h4>产品展示</h4>
 				<ul>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XP-Line/XP-125-black.php#!juwel-000000000000001300">XP系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XP-Line/XP-300-black.php#!juwel-000000000000001300">XP系列</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XC-180-black.php#!juwel-000000000000009300">XC系列</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-000000000000016300">XT系列</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-000000000000011300">XE系列</a></li>

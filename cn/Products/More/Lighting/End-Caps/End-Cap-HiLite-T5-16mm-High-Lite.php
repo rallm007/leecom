@@ -30,7 +30,7 @@
 										<div class="breadcrumb accessories-detail nav clearfix">
     <ul class="fl">
         <li>您的位置:</li>
-        			    				    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">Products</a></li>
+        			    				    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
 			            			    				    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/" title="Lighting">Lighting</a></li>
 			            			    				    <li><a href="End-Cap-HiLite-T5-16mm-High-Lite.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/End-Caps/" title="End Caps">End Caps</a></li>
 			                            <li>End Caps </li>
@@ -413,9 +413,9 @@
 																																									<tr>
 										<td>16mm High-Lite</td>
 										<td>
-																		                    <span>XP 125  ,																																															                        <div class="tooltip">
+																		                    <span>XP 300  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/01300.png)">
-							                               	<span class="product-title green">XP 125 </span>
+							                               	<span class="product-title green">XP 300 </span>
 														</div>
 														<span class="dimensions">81 x 36 x 50 cm</span>
 													</div>
@@ -455,30 +455,30 @@
 														<span class="dimensions">61 x 41 x 58 cm</span>
 													</div>
 												</span>
-																		                    <span>XP 400  ,																																															                        <div class="tooltip">
+																		                    <span>XP 600  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/05300.png)">
-							                               	<span class="product-title green">XP 400 </span>
+							                               	<span class="product-title green">XP 600 </span>
 														</div>
 														<span class="dimensions">151 x 51 x66 cm</span>
 													</div>
 												</span>
-																		                    <span>XP 300  ,																																															                        <div class="tooltip">
+																		                    <span>XP 460  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/07300.png)">
-							                               	<span class="product-title green">XP 300 </span>
+							                               	<span class="product-title green">XP 460 </span>
 														</div>
 														<span class="dimensions">121 x50 x 66 cm</span>
 													</div>
 												</span>
-																		                    <span>XP 240  ,																																															                        <div class="tooltip">
+																		                    <span>XP 400  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/03300.png)">
-							                               	<span class="product-title green">XP 240 </span>
+							                               	<span class="product-title green">XP 400 </span>
 														</div>
 														<span class="dimensions">121 x 41 x 55 cm</span>
 													</div>
 												</span>
-																		                    <span>XP 180  ,																																															                        <div class="tooltip">
+																		                    <span>XP 360  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/04300.png)">
-							                               	<span class="product-title green">XP 180 </span>
+							                               	<span class="product-title green">XP 360 </span>
 														</div>
 														<span class="dimensions">101 x 41 x 50 cm</span>
 													</div>
@@ -502,23 +502,23 @@
 														<span class="dimensions">61 x 31 x 38 cm</span>
 													</div>
 												</span>
-																		                    <span>Rekord 600  ,																																															                        <div class="tooltip">
+																		                    <span>XK 600  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/21600.png)">
-							                               	<span class="product-title green">Rekord 600 </span>
+							                               	<span class="product-title green">XK 600 </span>
 														</div>
 														<span class="dimensions">61 x 31 x 42 cm</span>
 													</div>
 												</span>
-																		                    <span>Rekord 700  ,																																															                        <div class="tooltip">
+																		                    <span>XK 700  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/21700.png)">
-							                               	<span class="product-title green">Rekord 700 </span>
+							                               	<span class="product-title green">XK 700 </span>
 														</div>
 														<span class="dimensions">61 x 31 x 46,5 cm</span>
 													</div>
 												</span>
-																		                    <span>Rekord 800 																																															                        <div class="tooltip">
+																		                    <span>XK 800 																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/21800.png)">
-							                               	<span class="product-title green">Rekord 800 </span>
+							                               	<span class="product-title green">XK 800 </span>
 														</div>
 														<span class="dimensions">81 x 36 x 45 cm</span>
 													</div>
@@ -572,7 +572,7 @@
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">Products</a></li>
+						    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
 			    						    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/" title="Lighting">Lighting</a></li>
 			    						    <li><a href="End-Cap-HiLite-T5-16mm-High-Lite.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/End-Caps/" title="End Caps">End Caps</a></li>
 			    			        </ul>                        
