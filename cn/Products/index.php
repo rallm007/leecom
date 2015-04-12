@@ -29,8 +29,8 @@
 				                <div class="line-info">
 				                    <div class="inner clearfix">
 				                    					                    	
-				                        <a href="Aquariums/XP-Line/XP-300-black.php#!juwel-000000000000001300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/01300.png" alt="XP 300 ">				                        	
+				                        <a href="Aquariums/XP-Line/XP-300-black.php#!juwel-xp300b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+															                        	<img src="../../out/pictures/master/product/7/xp300.png" alt="XP 300 ">				                        	
 				                        	<span>XP 300 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
@@ -38,7 +38,7 @@
 				                            					                            </div>        
 				                        </a>				                    		
 				                    					                    	
-				                        <a href="Aquariums/XP-Line/XP-360-black.php#!juwel-000000000000004300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/XP-Line/XP-300-black.php#!juwel-xp360b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/04300.png" alt="XP 360 ">				                        	
 				                        	<span>XP 360 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
@@ -47,7 +47,7 @@
 				                            					                            </div>        
 				                        </a>				                    		
 				                    					                    	
-				                        <a href="Aquariums/XP-Line/XP-400-black.php#!juwel-000000000000003300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/XP-Line/XP-300-black.php#!juwel-xp400b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/03300.png" alt="XP 400 ">				                        	
 				                        	<span>XP 400 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
@@ -56,7 +56,7 @@
 				                            					                            </div>        
 				                        </a>				                    		
 				                    					                    	
-				                        <a href="Aquariums/XP-Line/XP-460-black.php#!juwel-000000000000007300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/XP-Line/XP-300-black.php#!juwel-xp460b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/07300.png" alt="XP 460 ">				                        	
 				                        	<span>XP 460 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
@@ -65,7 +65,7 @@
 				                            					                            </div>        
 				                        </a>				                    		
 				                    					                    	
-				                        <a href="Aquariums/XP-Line/XP-600-black.php#!juwel-000000000000005300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/XP-Line/XP-300-black.php#!juwel-xp600b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/05300.png" alt="XP 600 ">				                        	
 				                        	<span>XP 600 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
@@ -78,7 +78,7 @@
 				                <div class="hidden">
 				                	<a>
 				                    	<div>
-				                        					                        					                        						                        							                        						                        					                        						                        					                        						                        					                        						                        					                        						                        					                        	<img src="../../out/pictures/master/product/7/01300.png">
+				                        					                        					                        						                        							                        						                        					                        						                        					                        						                        					                        						                        					                        						                        					                        	<img src="../../out/pictures/master/product/7/xp300.png">
 				                            <span class="green">XP</span>系列
 				                        </div>
 				                	</a>

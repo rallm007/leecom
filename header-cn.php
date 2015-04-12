@@ -17,7 +17,7 @@
     <meta property="og:title" content="LEECOM" />
     <meta property="og:description" content="XP 300 black -" />
     <meta property="og:type" content="og:product" />
-    <meta property="og:image" content="<?php echo $site_url;?>out/pictures/master/product/1/01300.png" />
+    <meta property="og:image" content="<?php echo $site_url;?>out/pictures/master/product/1/xp300.png" />
     <link rel="shortcut icon" href="<?php echo $site_url;?>out/pictures/master/global/1/favicon.ico">
     <link rel="stylesheet" href="<?php echo $site_url;?>out/juwel/src/css/styles.css">
 	<link rel="stylesheet" href="<?php echo $site_url;?>out/juwel/src/css/fr-FR.css">
@@ -95,22 +95,14 @@ var _gaq = _gaq || [];
             <a title="LEECOM" href="<?php echo $site_url;?>index.php" class="ir">LEECOM</a>
         </div>
         <!-- panel -->
-                <div class="nav clearfix" id="panel-nav">
-    <ul class="main-panel" style="width: 60px;">
-        <!-- Navi ohne Warenkorb -->
-<!-- /Navi ohne Warenkorb -->
-        <li class="has-drop language">
-    <a>Language</a>
-    <div class="drop">
-        <ul>
-                    <li><a onclick="goto_cn()" hreflang="cn" href="javascript:void(0)" title="中文" class="fr_FR">中文</a></li>
-                    <li><a onclick="goto_en()" hreflang="en" href="javascript:void(0)" title="English" class="en_GB">English</a></li>
-        </ul>
-        <div class="drop-btm"></div>
-    </div>
-</li>
-</ul>
-</div>        <!-- end panel -->
+        <div id="panel-nav" class="" style="height: 32px;margin-right:260px;margin-top:10px;width:100px">
+  <div style="padding-top:10px;"><a onclick="goto_cn()" style="display:inline;"><span style="color:white;margin-left:10px;margin-right:7px;">中文</span></a>
+    <a onclick="goto_en()" style="display:inline;"><span style="color:white;">English</span></a></div>
+</div>
+<div id="panel-nav">
+	<img src="<?php echo $site_url.'out/pictures/master/global/1/qr.png'?>" style="width:127px;"/>
+</div>
+                      <!-- end panel -->
         <!-- main navigation -->
 						<div class="main-nav nav clearfix">
 	<ul>
@@ -161,7 +153,7 @@ var _gaq = _gaq || [];
 		                		    <div class="product-info clearfix" id="info-00000000031" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="XP系列" src="<?php echo $site_url;?>out/pictures/master/product/2/01300.jpg">
+                                    	<img alt="XP系列" src="<?php echo $site_url;?>out/pictures/master/product/2/xp300.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
 	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XP系列</span></h4>
@@ -169,13 +161,13 @@ var _gaq = _gaq || [];
 	                                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词</p>
 	                                    <ul class="decor fl">
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
-		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
+		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li></ul>  
 		                                <ul class="sizes fl">
-			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/01300.jpg" alt="XP 125 "></li>	                                    		            	
-			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/04300.jpg" alt="XP 180 "></li>	                                    		            	
-			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/03300.jpg" alt="XP 240 "></li>	                                    		            	
-			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/07300.jpg" alt="XP 300 "></li>	                                    		            	
-			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/05300.jpg" alt="XP 400 "></li>	                                    			                                    				                                    			                                    				                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/xp300.jpg" alt="XP 300 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/04300.jpg" alt="XP 360 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/03300.jpg" alt="XP 400 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/07300.jpg" alt="XP 460 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/05300.jpg" alt="XP 600 "></li>	                                    			                                    				                                    			                                    				                                    		            	
 	                                    </ul>                                  
 	                                </div>
 	                            </div>				

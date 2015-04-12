@@ -28,29 +28,29 @@
             <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一页</a>
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
-                                																																																																																							                    <a href="#juwel-000000000000001300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/01300.png" alt="XP 300 ">
+                                																																																																																							                    <a href="#juwel-xp300b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/xp300.png" alt="XP 300 ">
                         XP 300 
                     </a>
-                																																																																																							                    <a href="#juwel-000000000000004300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
+                																																																																																							                    <a href="#juwel-xp360b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                         <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/04300.png" alt="XP 360 ">
                         XP 360 
                     </a>
-                																																																																																							                    <a href="#juwel-000000000000003300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
+                																																																																																							                    <a href="#juwel-xp400b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                         <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/03300.png" alt="XP 400 ">
                         XP 400 
                     </a>
-                																																																																																							                    <a href="#juwel-000000000000007300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
+                																																																																																							                    <a href="#juwel-xp460b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                         <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/07300.png" alt="XP 460 ">
                         XP 460 
                     </a>
-                																																																																																							                    <a href="#juwel-000000000000005300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
+                																																																																																							                    <a href="#juwel-xp600b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                         <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/05300.png" alt="XP 600 ">
                         XP 600 
                     </a>
                                                 </div>
             </div>
-            <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">Next</a>
+            <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">下一页</a>
     	</div>
         <a class="prod-thumb-opener ir"></a>
     </div>
@@ -66,7 +66,7 @@
     <!-- Main-Stage-Slider -->
 	<div class="stage-slider">
 																																																												    	<!-- Slider-Item (Produkt-Variante) -->
-	        <div class="item" id="juwel-000000000000001300" data-variants="juwel-000000000000001300 juwel-000000000000001400 juwel-000000000000001550 juwel-000000000000001700"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+	        <div class="item" id="juwel-xp300b" data-variants="juwel-xp300b juwel-xp300w juwel-000000000000001550 juwel-000000000000001700"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
 	            <div class="page_margins item-content">
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
@@ -79,14 +79,14 @@
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000001300" title="LEECOM | XP 300 black">
-	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/01300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/01300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	            			                	<div class="product-image-wrapper" data-id="juwel-xp300b" title="LEECOM | XP 300 black">
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/xp300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/xp300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000001400" title="LEECOM | XP 300 white">
-	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/01400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/01400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	            			                	<div class="product-image-wrapper" data-id="juwel-xp300w" title="LEECOM | XP 300 white">
+	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/xp300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/xp300w.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
@@ -99,8 +99,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XP-300-black.php#!juwel-000000000000001300" title="XP 300 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XP-125-white.php#!juwel-000000000000001400" title="XP 300 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XP-300-black.php#!juwel-xp300b" title="XP 300 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XP-125-white.php#!juwel-xp300w" title="XP 300 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -117,7 +117,7 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/01300.png" alt="XP 300 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/xp300.png" alt="XP 300 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 		 				<!-- Bilder Galerie -->
@@ -127,52 +127,24 @@
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/01300.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/01300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/xp300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/xp300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/01300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/xp300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/01300.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/01300.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/xp300.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/xp300.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/01300.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/xp300.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/5/01300.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/5/01300.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/5/01300.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/7/01300.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/7/01300.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/7/01300.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/9/01300.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/9/01300.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/9/01300.png)"></a>
-		                            </div>
-		                        </div>
+								
 								<!-- /Galerie-Element -->
 									                    </div>
 		                    <div class="pagination"></div>
@@ -186,7 +158,7 @@
 	        </div>
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
 																																																										    	<!-- Slider-Item (Produkt-Variante) -->
-	        <div class="item" id="juwel-000000000000004300" data-variants="juwel-000000000000004300 juwel-000000000000004400 juwel-000000000000004550 juwel-000000000000004700"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+	        <div class="item" id="juwel-xp360b" data-variants="juwel-xp360b juwel-xp360w juwel-000000000000004550 juwel-000000000000004700"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
 	            <div class="page_margins item-content">
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
@@ -199,12 +171,12 @@
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000004300" title="LEECOM | XP 360 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xp360b" title="LEECOM | XP 360 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/04300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/04300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000004400" title="LEECOM | XP 360 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xp360w" title="LEECOM | XP 360 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/04400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/04400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -219,8 +191,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XP-360-black.php#!juwel-000000000000004300" title="XP 360 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XP-180-white.php#!juwel-000000000000004400" title="XP 360 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XP-360-black.php#!juwel-xp360b" title="XP 360 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XP-180-white.php#!juwel-xp360w" title="XP 360 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -317,7 +289,7 @@
 	        </div>
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
 																																																										    	<!-- Slider-Item (Produkt-Variante) -->
-	        <div class="item" id="juwel-000000000000003300" data-variants="juwel-000000000000003300 juwel-000000000000003400 juwel-000000000000003550 juwel-000000000000003700"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+	        <div class="item" id="juwel-xp400b" data-variants="juwel-xp400b juwel-xp400w juwel-000000000000003550 juwel-000000000000003700"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
 	            <div class="page_margins item-content">
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
@@ -330,12 +302,12 @@
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000003300" title="LEECOM | XP 400 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xp400b" title="LEECOM | XP 400 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/03300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/03300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000003400" title="LEECOM | XP 400 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xp400w" title="LEECOM | XP 400 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/03400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/03400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -350,8 +322,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XP-400-black.php#!juwel-000000000000003300" title="XP 400 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XP-240-white.php#!juwel-000000000000003400" title="XP 400 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XP-400-black.php#!juwel-xp400b" title="XP 400 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XP-240-white.php#!juwel-xp400w" title="XP 400 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -426,7 +398,7 @@
 	        </div>
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
 																																																										    	<!-- Slider-Item (Produkt-Variante) -->
-	        <div class="item" id="juwel-000000000000007300" data-variants="juwel-000000000000007300 juwel-000000000000007400 juwel-000000000000007550 juwel-000000000000007700"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+	        <div class="item" id="juwel-xp460b" data-variants="juwel-xp460b juwel-xp460w juwel-000000000000007550 juwel-000000000000007700"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
 	            <div class="page_margins item-content">
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
@@ -439,12 +411,12 @@
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000007300" title="LEECOM | XP 460 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xp460b" title="LEECOM | XP 460 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/07300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/07300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000007400" title="LEECOM | XP 460 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xp460w" title="LEECOM | XP 460 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/07400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/07400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -459,8 +431,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XP-600-black.php#!juwel-000000000000007300" title="XP 460 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XP-300-white.php#!juwel-000000000000007400" title="XP 460 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XP-600-black.php#!juwel-xp460b" title="XP 460 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XP-300-white.php#!juwel-xp460w" title="XP 460 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -535,7 +507,7 @@
 	        </div>
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
 																																																										    	<!-- Slider-Item (Produkt-Variante) -->
-	        <div class="item" id="juwel-000000000000005300" data-variants="juwel-000000000000005300 juwel-000000000000005400 juwel-000000000000005550 juwel-000000000000005700"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+	        <div class="item" id="juwel-xp600b" data-variants="juwel-xp600b juwel-xp600w juwel-000000000000005550 juwel-000000000000005700"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
 	            <div class="page_margins item-content">
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
@@ -548,12 +520,12 @@
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000005300" title="LEECOM | XP 600 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xp600b" title="LEECOM | XP 600 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/05300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/05300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000005400" title="LEECOM | XP 600 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xp600w" title="LEECOM | XP 600 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/05400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/05400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -568,8 +540,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XP-400-black.php#!juwel-000000000000005300" title="XP 600 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XP-400-white.php#!juwel-000000000000005400" title="XP 600 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XP-400-black.php#!juwel-xp600b" title="XP 600 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XP-400-white.php#!juwel-xp600w" title="XP 600 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -673,7 +645,7 @@
 		//data: {artId: iArtId},
 		
 		// if(window.location.protocol.indexOf("https") >= 0) {
-		// 	var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XP-Line/XP-300-black.php#!juwel-000000000000001300cl=srajax";
+		// 	var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XP-Line/XP-300-black.php#!juwel-xp300bcl=srajax";
 		// } else {
 			var sUrl = "../ajax-content/" + iArtId + ".php";
 		// }

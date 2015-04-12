@@ -42,7 +42,7 @@
                     </a>
                                                 </div>
             </div>
-            <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">Next</a>
+            <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">下一页</a>
     	</div>
         <a class="prod-thumb-opener ir"></a>
     </div>

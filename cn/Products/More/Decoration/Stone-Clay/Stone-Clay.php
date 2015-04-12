@@ -29,7 +29,7 @@
                 	                </div>
             </div>
             <!-- ende -> Thumbnail-Slider -->
-                        <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">Next</a> <!-- Navigieren im Slider nach rechts -->
+                        <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">下一页</a> <!-- Navigieren im Slider nach rechts -->
             				        <span class="prod-overview-opener clearfix">
 	        	<div class="overview-drop">
                 	                    <a href="Stone-Clay.php" title="Background Stone Clay ">
@@ -566,7 +566,7 @@ This complex production process makes it particularly easy to cut the colour bac
 													</div>
 												</span>
 																		                    <span>XP 300  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/01300.png)">
+							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp300.png)">
 							                               	<span class="product-title green">XP 300 </span>
 														</div>
 														<span class="dimensions">81 x 36 x 50 cm</span>

@@ -414,7 +414,7 @@
 										<td>16mm High-Lite</td>
 										<td>
 																		                    <span>XP 300  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/01300.png)">
+							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp300.png)">
 							                               	<span class="product-title green">XP 300 </span>
 														</div>
 														<span class="dimensions">81 x 36 x 50 cm</span>
