@@ -95,12 +95,12 @@ var _gaq = _gaq || [];
             <a title="LEECOM" href="<?php echo $site_url;?>index.php" class="ir">LEECOM</a>
         </div>
         <!-- panel -->
-        <div id="panel-nav" class="" style="height: 32px;margin-right:260px;margin-top:10px;width:100px">
+        <div id="panel-nav" class="" style="height: 32px;margin-right:230px;margin-top:10px;width:100px">
   <div style="padding-top:10px;"><a onclick="goto_cn()" style="display:inline;"><span style="color:white;margin-left:10px;margin-right:7px;">中文</span></a>
     <a onclick="goto_en()" style="display:inline;"><span style="color:white;">English</span></a></div>
 </div>
-<div id="panel-nav">
-	<img src="<?php echo $site_url.'out/pictures/master/global/1/qr.png'?>" style="width:127px;"/>
+<div id="panel-nav" style="margin-top:15px">
+	<img src="<?php echo $site_url.'out/pictures/master/global/1/qr.png'?>" style="width:87px;"/>
 </div>
                       <!-- end panel -->
         <!-- main navigation -->

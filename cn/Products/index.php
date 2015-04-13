@@ -7,7 +7,7 @@
 
 <!-- Stage & Slider -->
 <div class="oh product-overview-wrapper">
-    <div class="product-detail-stage product-overview clearfix" style="background-color:#00508c; background-image:url(out/juwel/src/images/all/content-product-overview-stage_bgImage.jpg)">        
+    <div class="product-detail-stage product-overview clearfix" style="background-color:#00508c; background-image:url(<?php echo $site_url;?>out/juwel/src/images/all/content-product-overview-stage_bgImage.jpg)">        
         <div class="page_margins stage-top-wrapper">        
     	    	<div class="breadcrumb fl nav clearfix">
     <ul class="fl">
@@ -274,7 +274,7 @@
 				            </div>
 																								            <div class="item">
 				                <div class="image">
-				                    <h2 class="tk-myriad-pro tk-light">XQ-Line</h2>
+				                    <h2 class="tk-myriad-pro tk-light"><span class="green">XQ</span>系列</h2>
 				                    <img src="../../out/pictures/master/category/promo_icon/00000001281.png" alt="" width="347" height="420"><!-- "großes" Bild der系列 (width und height muss angegeben werden) -> wird automatisch klein skaliert im Slider für die kleine, nicht aktive Ansicht (deshalb nur ein Bild benötigt) -->				                    
 				                </div>
 				                <div class="line-info">
@@ -282,7 +282,7 @@
 				                    					                    	
 				                        <a href="Aquariums/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/23860.png" alt="XQ-Line Coldwater  ">				                        	
-				                        	<span>XQ-Line Coldwater  </span>
+				                        	<span>XQ  </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
 				                            					                            </div>        
@@ -293,7 +293,7 @@
 				                	<a>
 				                    	<div>
 				                        					                        					                        						                        							                        						                        					                        	<img src="../../out/pictures/master/product/7/23860.png">
-				                            XQ-Line
+				                            XQ
 				                        </div>
 				                	</a>
 				                </div>
