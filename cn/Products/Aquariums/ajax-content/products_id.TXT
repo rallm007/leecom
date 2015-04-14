@@ -38,12 +38,13 @@
 
 23860 XQ b
 
-main/zoom & gallery/zoom 1173*1400 jpg格式
-gallery/detail/1 750*450 png格式
-gallery/thumb/1 77*77 png格式
-1/ 378*451 png格式
-7/ 80*99 png格式
-3/ 35*36 jpg格式
+main/zoom/1 & gallery/zoom/1	1173*1400 jpg格式
+gallery/detail/1	750*450 png格式
+gallery/thumb/1	77*77 png格式
+1/	378*451 png格式
+7/	80*99 png格式
+3/	35*36 jpg格式
+8/	54*54 png
 
 1173*1400	jpg格式
 750*450		png格式
@@ -51,6 +52,10 @@ gallery/thumb/1 77*77 png格式
 378*451		png格式
 80*99		png格式
 35*36		jpg格式
+
+w/1173/xp300.png
+  /750/
+b/1173/
 
 
 
