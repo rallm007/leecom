@@ -123,7 +123,7 @@ var _gaq = _gaq || [];
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XP-Line/XP-125-black.php#!juwel-000000000000001300" id="00000000031">XP Line</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XC-Line/XC-180-black.php#!juwel-000000000000009300" id="00000000041">XC Line</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XC-Line/XC-180-black.php#!juwel-xc300b" id="00000000041">XC Line</a></li>
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-000000000000016300" id="00000000051">XT Line</a></li>
 						<!-- Aquarien -->

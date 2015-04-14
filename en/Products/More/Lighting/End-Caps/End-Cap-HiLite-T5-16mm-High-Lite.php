@@ -441,9 +441,9 @@
 														<span class="dimensions">121 x 46 x 64 cm</span>
 													</div>
 												</span>
-																		                    <span>XC 180  ,																																															                        <div class="tooltip">
+																		                    <span>XC 300  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/09300.png)">
-							                               	<span class="product-title green">XC 180 </span>
+							                               	<span class="product-title green">XC 300 </span>
 														</div>
 														<span class="dimensions">92 x 41 x 55 cm</span>
 													</div>

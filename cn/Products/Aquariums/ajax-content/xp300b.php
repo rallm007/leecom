@@ -100,6 +100,14 @@
                         <td class="topic">产品名称</td>
                         <td>XP-300水族箱</td>
                     </tr>
+                    <tr>
+<td class="icon dekore">&nbsp;</td>
+<td class="topic">
+                        可选颜色</td>
+<td>
+<ul class="decor fl">
+<li><img alt="" src="../../../../out/pictures/master/global/1/1.png"></li>
+<li><img alt="" src="../../../../out/pictures/master/global/1/4.png"></li></ul></td></tr>
                         <tr>
                         <td class="icon leuchtmedium">&nbsp;</td>
                         <td class="topic">可选光源</td>

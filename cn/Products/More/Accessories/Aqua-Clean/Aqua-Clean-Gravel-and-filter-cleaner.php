@@ -449,23 +449,23 @@
 												<span class="dimensions">98,5 x 70 x 60 cm</span>
 											</div>
 										</span>
-														                    <span>XC 450  ,																																							                        <div class="tooltip">
+														                    <span>XC 400  ,																																							                        <div class="tooltip">
 					                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/10300.png)">
-					                               	<span class="product-title green">XC 450 </span>
+					                               	<span class="product-title green">XC 400 </span>
 												</div>
 												<span class="dimensions">151 x 61 x64 cm</span>
 											</div>
 										</span>
-														                    <span>XC 260  ,																																							                        <div class="tooltip">
+														                    <span>XC 360  ,																																							                        <div class="tooltip">
 					                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/06800.png)">
-					                               	<span class="product-title green">XC 260 </span>
+					                               	<span class="product-title green">XC 360 </span>
 												</div>
 												<span class="dimensions">121 x 46 x 64 cm</span>
 											</div>
 										</span>
-														                    <span>XC 180  ,																																							                        <div class="tooltip">
+														                    <span>XC 300  ,																																							                        <div class="tooltip">
 					                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/09300.png)">
-					                               	<span class="product-title green">XC 180 </span>
+					                               	<span class="product-title green">XC 300 </span>
 												</div>
 												<span class="dimensions">92 x 41 x 55 cm</span>
 											</div>

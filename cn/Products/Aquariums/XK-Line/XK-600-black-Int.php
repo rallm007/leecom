@@ -25,7 +25,7 @@
 	<div class="page_margins">
     	<div class="inner-wrapper">
             <h1 class="tk-myriad-pro tk-light">XK系列</h1>
-            <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">Prev</a>
+            <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一页</a>
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
                                 																																																																	                    <a href="#juwel-000000000000021600" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
@@ -220,12 +220,12 @@
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021700" title="LEECOM | XK 700 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021700" title="LEECOM | XK 700 黑色">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021740" title="LEECOM | XK 700 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021740" title="LEECOM | XK 700 白色">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21740.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21740.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -240,8 +240,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XK-700-black.php#!juwel-000000000000021700" title="XK 700 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XK-700-white.php#!juwel-000000000000021740" title="XK 700 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XK-700-black.php#!juwel-000000000000021700" title="XK 700 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XK-700-white.php#!juwel-000000000000021740" title="XK 700 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->

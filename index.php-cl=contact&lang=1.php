@@ -136,7 +136,7 @@ var _gaq = _gaq || [];
 												
 					
 									<!-- Aquarien -->
-																										<li><a id="00000000041" href="en/Products/Aquariums/XC-Line/XC-180-black.html#!juwel-000000000000009300" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XC-Line/XC-180-black.html#!juwel-000000000000009300">XC Line</a></li>				
+																										<li><a id="00000000041" href="en/Products/Aquariums/XC-Line/XC-180-black.html#!juwel-xc300b" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XC-Line/XC-180-black.html#!juwel-xc300b">XC Line</a></li>				
 												
 					
 									<!-- Aquarien -->
@@ -250,7 +250,7 @@ var _gaq = _gaq || [];
 		                                    	<li><img src="out/pictures/master/global/1/3.png" tppabs="<?php echo $site_url;?>out/pictures/master/global/1/3.png" alt=""></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/09300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/09300.jpg" alt="XC 180 "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/09300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/09300.jpg" alt="XC 300 "></li>
 	                                    				                                    			                                    				                                    			                                    				                                    			                                    				                                    		            	
 	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/06800.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/06800.jpg" alt="XC 260 "></li>
 	                                    				                                    			                                    				                                    			                                    				                                    			                                    				                                    		            	

@@ -8,10 +8,8 @@
 
             <div class="tab-teaser-prod_details top clearfix">
                 <div class="grid_8">
-                    <h2>XP-300 不同的灯色，不同的感受</h2>
-                    <p>XP-300是整个XP系列里最小的成员，简约而不简单，奢华而不俗套的外观，32 X 21 X 33.5CM的Tiny Size，轻松融入各种居家装修设计风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。
-                        <br/><br/>黑色、白色任您选择。
-节能灯、LED灯按您需求制作。</p>
+                    <h2>XC-360  节能环保，高亮度可调LED灯源</h2>
+                    <p>与生俱来的优雅与尊贵宛如极致简单的艺术，不论时光如何流逝，都不失高雅、精致。黑色或白色的经典搭配，可兼顾各种装饰风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
                 </div>
                 <div class="grid_4">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
@@ -91,14 +89,14 @@
     <table>
                                 <thead>
                     <tr>
-                        <td colspan="3">XP-300水族箱</td>
+                        <td colspan="3">XP-360水族箱</td>
                     </tr>
                 </thead>
                                 <tbody>                              
                     <tr>
                         <td class="icon produkt">&nbsp;</td>
                         <td class="topic">产品名称</td>
-                        <td>XP-300水族箱</td>
+                        <td>XC-360水族箱</td>
                     </tr>
                     <tr>
 <td class="icon dekore">&nbsp;</td>
@@ -116,19 +114,19 @@
                  <tr>
                         <td class="icon measure">&nbsp;</td>
                         <td class="topic">规格</td>
-                        <td>32 x 21 x 33.5 cm</td>
+                        <td>37 x 24 x 35.2 cm</td>
                     </tr>
                                                                                                                                                                         
                     <tr>
                         <td class="icon gewicht">&nbsp;</td>
                         <td class="topic">重量</td>
-                        <td>4.5 Kg</td>
+                        <td>5.2 Kg</td>
                     </tr>
                                                                         
                     <tr>
                         <td class="icon liter">&nbsp;</td>
                         <td class="topic">容量</td>
-                        <td>15 L</td>
+                        <td>22 L</td>
                     </tr>
                     </tbody>
     </table>
@@ -154,7 +152,7 @@
                                                         <tr>
                         <td class="icon watt">&nbsp;</td>
                         <td class="topic">LED灯功率</td>
-                        <td>10 W</td>
+                        <td>12 W</td>
                     </tr>
                     <tr>
                         <td class="icon watt">&nbsp;</td>
@@ -191,7 +189,7 @@
                     <tr>
                         <td class="icon measure">&nbsp;</td>
                         <td class="topic">规格</td>
-                        <td>29.5 x 5 x 27 cm</td>
+                        <td>34.5 x 5 29.5 cm</td>
                     </tr>
                     <tr>
                         <td class="icon energieverbrauch">&nbsp;</td>
@@ -217,13 +215,13 @@
 <table>
 <thead>
 <tr>
-<td colspan="3">TH-300底柜<br>
+<td colspan="3">TR-360底柜<br>
 </td></tr></thead>
 <tbody>
 <tr>
 <td class="icon produkt">&nbsp;</td>
 <td class="topic">产品名称</td>
-<td>TH-300底柜<br>
+<td>TR-360底柜<br>
 </td></tr>
 <tr>
 <td class="icon dekore">&nbsp;</td>
@@ -235,12 +233,12 @@
 <tr>
 <td class="icon measure">&nbsp;</td>
 <td class="topic">规格</td>
-<td>32 x 21 x 75 cm<br>
+<td>37 x 24 x 75 cm<br>
 </td></tr>
 <tr>
 <td class="icon gewicht">&nbsp;</td>
 <td class="topic">重量</td>
-<td>10 KG<br>
+<td>11 KG<br>
 </td></tr></tbody></table></div>
                         
     </div>

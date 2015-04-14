@@ -8,8 +8,8 @@
 
             <div class="tab-teaser-prod_details top clearfix">
                 <div class="grid_8">
-                    <h2>XP-300 不同的灯色，不同的感受</h2>
-                    <p>XP-300是整个XP系列里最小的成员，简约而不简单，奢华而不俗套的外观，32 X 21 X 33.5CM的Tiny Size，轻松融入各种居家装修设计风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。
+                    <h2>XC-300  超完美弧度，热弯一次成型</h2>
+                    <p>新颖完美的造型设计，产品经科学优化设计，采用优质、环保的原材料，每一道工序都有严格的质量控制，确保产品的先进的使用功能和安全可靠的质量。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。
                         <br/><br/>黑色、白色任您选择。
 节能灯、LED灯按您需求制作。</p>
                 </div>
@@ -98,7 +98,7 @@
                     <tr>
                         <td class="icon produkt">&nbsp;</td>
                         <td class="topic">产品名称</td>
-                        <td>XP-300水族箱</td>
+                        <td>XC-300水族箱</td>
                     </tr>
                     <tr>
 <td class="icon dekore">&nbsp;</td>
@@ -217,13 +217,13 @@
 <table>
 <thead>
 <tr>
-<td colspan="3">TH-300底柜<br>
+<td colspan="3">TR-300底柜<br>
 </td></tr></thead>
 <tbody>
 <tr>
 <td class="icon produkt">&nbsp;</td>
 <td class="topic">产品名称</td>
-<td>TH-300底柜<br>
+<td>TR-300底柜<br>
 </td></tr>
 <tr>
 <td class="icon dekore">&nbsp;</td>

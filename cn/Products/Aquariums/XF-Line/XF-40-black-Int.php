@@ -25,7 +25,7 @@
 	<div class="page_margins">
     	<div class="inner-wrapper">
             <h1 class="tk-myriad-pro tk-light">XF系列</h1>
-            <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">Prev</a>
+            <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一页</a>
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
                                 																																																																	                    <a href="#juwel-000000000000020040" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->

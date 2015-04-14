@@ -25,7 +25,7 @@
 	<div class="page_margins">
     	<div class="inner-wrapper">
             <h1 class="tk-myriad-pro tk-light">XT系列</h1>
-            <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">Prev</a>
+            <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一页</a>
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
                                 																																																																																							                    <a href="#juwel-000000000000016300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
@@ -67,12 +67,12 @@
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000016300" title="LEECOM | XT 190 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000016300" title="LEECOM | XT 190 黑色">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/16300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/16300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000016400" title="LEECOM | XT 190 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000016400" title="LEECOM | XT 190 白色">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/16400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/16400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -87,8 +87,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XT-190-black.php#!juwel-000000000000016300" title="XT 190 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XT-190-white.php#!juwel-000000000000016400" title="XT 190 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XT-190-black.php#!juwel-000000000000016300" title="XT 190 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XT-190-white.php#!juwel-000000000000016400" title="XT 190 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -196,12 +196,12 @@
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000015300" title="LEECOM | XT 350 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000015300" title="LEECOM | XT 350 黑色">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/15300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/15300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000015400" title="LEECOM | XT 350 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000015400" title="LEECOM | XT 350 白色">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/15400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/15400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -216,8 +216,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XT-350-black.php#!juwel-000000000000015300" title="XT 350 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XT-350-white.php#!juwel-000000000000015400" title="XT 350 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XT-350-black.php#!juwel-000000000000015300" title="XT 350 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XT-350-white.php#!juwel-000000000000015400" title="XT 350 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->

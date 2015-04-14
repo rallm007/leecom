@@ -99,7 +99,7 @@ var _gaq = _gaq || [];
   <div style="padding-top:10px;"><a onclick="goto_cn()" style="display:inline;"><span style="color:white;margin-left:10px;margin-right:7px;">中文</span></a>
     <a onclick="goto_en()" style="display:inline;"><span style="color:white;">English</span></a></div>
 </div>
-<div id="panel-nav" style="margin-top:15px">
+<div id="panel-nav" style="margin-top:23px">
 	<img src="<?php echo $site_url.'out/pictures/master/global/1/qr.png'?>" style="width:87px;"/>
 </div>
                       <!-- end panel -->
@@ -115,7 +115,7 @@ var _gaq = _gaq || [];
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XP-Line/XP-300-black.php#!juwel-000000000000001300" id="00000000031">XP系列</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XC-Line/XC-180-black.php#!juwel-000000000000009300" id="00000000041">XC系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XC-Line/XC-180-black.php#!juwel-xc300b" id="00000000041">XC系列</a></li>
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-000000000000016300" id="00000000051">XT系列</a></li>
 						<!-- Aquarien -->
@@ -168,7 +168,7 @@ var _gaq = _gaq || [];
 			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/03300.jpg" alt="XP 400 "></li>	                                    		            	
 			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/07300.jpg" alt="XP 460 "></li>	                                    		            	
 			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/05300.jpg" alt="XP 600 "></li>	                                    			                                    				                                    			                                    				                                    		            	
-	                                    </ul>                                  
+	                                    </ul>
 	                                </div>
 	                            </div>				
 					
@@ -188,7 +188,7 @@ var _gaq = _gaq || [];
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/09300.jpg" alt="XC 180 "></li>	                                    		            	
+                                			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/09300.jpg" alt="XC 300 "></li>	                                    		            	
                                 			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/06800.jpg" alt="XC 260 "></li>	                                    		            	
                                 			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/10300.jpg" alt="XC 450 "></li>
 	                                    </ul>                                    
