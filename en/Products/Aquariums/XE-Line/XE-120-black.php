@@ -28,11 +28,11 @@
             <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">Prev</a>
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
-                                																																																																																							                    <a href="#juwel-000000000000011300" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
+                                																																																																																							                    <a href="#juwel-xe300b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                         <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/11300.png" alt="XE 120 ">
                         XE 120 
                     </a>
-                																																																																																							                    <a href="#juwel-000000000000011830" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
+                																																																																																							                    <a href="#juwel-xe360b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                         <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/11830.png" alt="XE 200 ">
                         XE 200 
                     </a>
@@ -54,7 +54,7 @@
     <!-- Main-Stage-Slider -->
 	<div class="stage-slider">
 																																																												    	<!-- Slider-Item (Produkt-Variante) -->
-	        <div class="item" id="juwel-000000000000011300" data-variants="juwel-000000000000011300 juwel-000000000000011400 juwel-000000000000011550 juwel-000000000000011700"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+	        <div class="item" id="juwel-xe300b" data-variants="juwel-xe300b juwel-xe300w juwel-000000000000011550 juwel-000000000000011700"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
 	            <div class="page_margins item-content">
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
@@ -67,12 +67,12 @@
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000011300" title="LEECOM | XE 120 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xe300b" title="LEECOM | XE 120 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/11300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/11300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000011400" title="LEECOM | XE 120 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xe300w" title="LEECOM | XE 120 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/11400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/11400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -87,8 +87,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Lido-120-black.php#!juwel-000000000000011300" title="XE 120 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Lido-120-white.php#!juwel-000000000000011400" title="XE 120 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Lido-120-black.php#!juwel-xe300b" title="XE 120 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Lido-120-white.php#!juwel-xe300w" title="XE 120 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -203,7 +203,7 @@
 	        </div>
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
 																																																										    	<!-- Slider-Item (Produkt-Variante) -->
-	        <div class="item" id="juwel-000000000000011830" data-variants="juwel-000000000000011830 juwel-000000000000011840 juwel-000000000000011855 juwel-000000000000011870"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+	        <div class="item" id="juwel-xe360b" data-variants="juwel-xe360b juwel-xe360w juwel-000000000000011855 juwel-000000000000011870"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
 	            <div class="page_margins item-content">
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
@@ -216,12 +216,12 @@
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000011830" title="LEECOM | XE 200 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xe360b" title="LEECOM | XE 200 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/11830.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/11830.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000011840" title="LEECOM | XE 200 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xe360w" title="LEECOM | XE 200 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/11840.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/11840.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -236,8 +236,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Lido-200-black.php#!juwel-000000000000011830" title="XE 200 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Lido-200-white.php#!juwel-000000000000011840" title="XE 200 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Lido-200-black.php#!juwel-xe360b" title="XE 200 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Lido-200-white.php#!juwel-xe360w" title="XE 200 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -320,7 +320,7 @@
 		//data: {artId: iArtId},
 		
 		if(window.location.protocol.indexOf("https") >= 0) {
-			var sUrl = "https://www.juwel-aquarium.de/en/Products/Aquariums/XE-Line/Lido-120-black.php#!juwel-000000000000011300cl=srajax";
+			var sUrl = "https://www.juwel-aquarium.de/en/Products/Aquariums/XE-Line/Lido-120-black.php#!juwel-xe300bcl=srajax";
 		} else {
 			var sUrl = "../../../../index.php-lang=1&cl=srajax.php"/*tpa=<?php echo $site_url;?>index.php?lang=1&cl=srajax*/; 
 		}

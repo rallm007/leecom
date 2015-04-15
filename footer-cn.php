@@ -7,9 +7,9 @@
 				<ul>
 					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XP-Line/XP-300-black.php#!juwel-000000000000001300">XP系列</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XC-180-black.php#!juwel-xc300b">XC系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-000000000000016300">XT系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-000000000000011300">XE系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600">XK系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-xt300b">XT系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-xe300b">XE系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-xk200b">XK系列</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040">XA系列</a></li>
           <li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040">XF系列</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860">XQ系列</a></li>

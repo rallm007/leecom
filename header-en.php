@@ -125,11 +125,11 @@ var _gaq = _gaq || [];
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XC-Line/XC-180-black.php#!juwel-xc300b" id="00000000041">XC Line</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-000000000000016300" id="00000000051">XT Line</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-xt300b" id="00000000051">XT Line</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-000000000000011300" id="00000000061">XE Line</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-xe300b" id="00000000061">XE Line</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600" id="00000000071">迷你缸</a></li>
+								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-xk200b" id="00000000071">迷你缸</a></li>
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040" id="00000001271">XF Line</a></li>
 						<!-- Aquarien -->

@@ -8,8 +8,8 @@
 
             <div class="tab-teaser-prod_details top clearfix">
             	<div class="grid_8">
-                	<h2>XK迷你鱼缸系列</h2>
-                	<p>高亮度LED灯，安全可靠的低压电源。采用增氧，过滤双重功能的启动过滤器。</p>
+                	<h2>XE系列</h2>
+                	<p>精选汽车玻璃，采用一次弯型设计，完美弧度，让您尽情视觉盛宴，更有防爆，防撞击，防漏水，呵护您和家人的安全。每个细节都如此完美，每一处都是精心设计。</p>
                 </div>
             	<div class="grid_4">
                 	<img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
