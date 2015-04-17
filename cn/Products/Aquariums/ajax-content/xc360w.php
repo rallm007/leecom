@@ -189,7 +189,7 @@
                     <tr>
                         <td class="icon measure">&nbsp;</td>
                         <td class="topic">规格</td>
-                        <td>34.5 x 5 29.5 cm</td>
+                        <td>34.5 x 5 x 29.5 cm</td>
                     </tr>
                     <tr>
                         <td class="icon energieverbrauch">&nbsp;</td>
