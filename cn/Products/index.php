@@ -39,7 +39,7 @@
 				                        </a>				                    		
 				                    					                    	
 				                        <a href="Aquariums/XP-Line/XP-300-black.php#!juwel-xp360b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/04300.png" alt="XP 360 ">				                        	
+															                        	<img src="../../out/pictures/master/product/7/xp360.png" alt="XP 360 ">				                        	
 				                        	<span>XP 360 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
@@ -48,7 +48,7 @@
 				                        </a>				                    		
 				                    					                    	
 				                        <a href="Aquariums/XP-Line/XP-300-black.php#!juwel-xp400b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/03300.png" alt="XP 400 ">				                        	
+															                        	<img src="../../out/pictures/master/product/7/xp400.png" alt="XP 400 ">				                        	
 				                        	<span>XP 400 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
@@ -57,7 +57,7 @@
 				                        </a>				                    		
 				                    					                    	
 				                        <a href="Aquariums/XP-Line/XP-300-black.php#!juwel-xp460b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/07300.png" alt="XP 460 ">				                        	
+															                        	<img src="../../out/pictures/master/product/7/xp460.png" alt="XP 460 ">				                        	
 				                        	<span>XP 460 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
@@ -66,7 +66,7 @@
 				                        </a>				                    		
 				                    					                    	
 				                        <a href="Aquariums/XP-Line/XP-300-black.php#!juwel-xp600b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/05300.png" alt="XP 600 ">				                        	
+															                        	<img src="../../out/pictures/master/product/7/xp600.png" alt="XP 600 ">				                        	
 				                        	<span>XP 600 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">

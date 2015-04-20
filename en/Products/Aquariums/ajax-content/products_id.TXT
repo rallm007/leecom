@@ -4,7 +4,7 @@
 03400 => XP 240 black
 04300 => XP 180 black
 04400 => XP 180 black
-05300 => XP 400 black
+xp600 => XP 400 black
 05400 => XP 400 black
 07300 => XP 300 black
 07400 => XP 300 black

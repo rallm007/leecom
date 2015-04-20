@@ -538,28 +538,28 @@ This complex production process makes it particularly easy to cut the colour bac
 													</div>
 												</span>
 																		                    <span>XP 600  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/05300.png)">
+							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp600.png)">
 							                               	<span class="product-title green">XP 600 </span>
 														</div>
 														<span class="dimensions">151 x 51 x66 cm</span>
 													</div>
 												</span>
 																		                    <span>XP 460  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/07300.png)">
+							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp460.png)">
 							                               	<span class="product-title green">XP 460 </span>
 														</div>
 														<span class="dimensions">121 x50 x 66 cm</span>
 													</div>
 												</span>
 																		                    <span>XP 400  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/03300.png)">
+							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp400.png)">
 							                               	<span class="product-title green">XP 400 </span>
 														</div>
 														<span class="dimensions">121 x 41 x 55 cm</span>
 													</div>
 												</span>
 																		                    <span>XP 360  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/04300.png)">
+							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp360.png)">
 							                               	<span class="product-title green">XP 360 </span>
 														</div>
 														<span class="dimensions">101 x 41 x 50 cm</span>

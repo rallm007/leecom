@@ -164,10 +164,10 @@ var _gaq = _gaq || [];
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li></ul>  
 		                                <ul class="sizes fl">
 			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/xp300.jpg" alt="XP 300 "></li>	                                    		            	
-			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/04300.jpg" alt="XP 360 "></li>	                                    		            	
-			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/03300.jpg" alt="XP 400 "></li>	                                    		            	
-			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/07300.jpg" alt="XP 460 "></li>	                                    		            	
-			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/05300.jpg" alt="XP 600 "></li>	                                    			                                    				                                    			                                    				                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/xp360.jpg" alt="XP 360 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/xp400.jpg" alt="XP 400 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/xp460.jpg" alt="XP 460 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/pictures/master/product/3/xp600.jpg" alt="XP 600 "></li>	                                    			                                    				                                    			                                    				                                    		            	
 	                                    </ul>
 	                                </div>
 	                            </div>				

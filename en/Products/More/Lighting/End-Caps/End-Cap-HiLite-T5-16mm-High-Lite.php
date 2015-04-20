@@ -456,28 +456,28 @@
 													</div>
 												</span>
 																		                    <span>XP 400  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/05300.png)">
+							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp600.png)">
 							                               	<span class="product-title green">XP 400 </span>
 														</div>
 														<span class="dimensions">151 x 51 x66 cm</span>
 													</div>
 												</span>
 																		                    <span>XP 300  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/07300.png)">
+							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp460.png)">
 							                               	<span class="product-title green">XP 300 </span>
 														</div>
 														<span class="dimensions">121 x50 x 66 cm</span>
 													</div>
 												</span>
 																		                    <span>XP 240  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/03300.png)">
+							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp400.png)">
 							                               	<span class="product-title green">XP 240 </span>
 														</div>
 														<span class="dimensions">121 x 41 x 55 cm</span>
 													</div>
 												</span>
 																		                    <span>XP 180  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/04300.png)">
+							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp360.png)">
 							                               	<span class="product-title green">XP 180 </span>
 														</div>
 														<span class="dimensions">101 x 41 x 50 cm</span>
