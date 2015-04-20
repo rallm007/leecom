@@ -8,8 +8,8 @@
 
             <div class="tab-teaser-prod_details top clearfix">
                 <div class="grid_8">
-                    <h2>XP-360  头顶防水帽，安全有保障</h2>
-                    <p>简洁大方的外形是XP-360广受大众喜爱的主要原因，37 X 24 X 35.2CM的外型轻松融入各种居家装修设计风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
+                    <h2>XE-300</h2>
+                    <p>完美流线造型，人性化的圆角设计，高端大气，安全使用。经典水草缸设计，别具一格的开放式设计，典雅精致。提供一个照明，过滤，增氧于一体化的生态环境，让您时刻近距离，更清晰，感受大自然。玻璃晶莹剔透，色彩多样，即可办公室摆放也可家居使用，让你把大自然带回家。健康与你同在！</p>
                 </div>
                 <div class="grid_4">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
@@ -89,14 +89,14 @@
     <table>
                                 <thead>
                     <tr>
-                        <td colspan="3">XP-360水族箱</td>
+                        <td colspan="3">XE-300水族箱</td>
                     </tr>
                 </thead>
                                 <tbody>                              
                     <tr>
                         <td class="icon produkt">&nbsp;</td>
                         <td class="topic">产品名称</td>
-                        <td>XP-360水族箱</td>
+                        <td>XE-300水族箱</td>
                     </tr>
                     <tr>
 <td class="icon dekore">&nbsp;</td>
@@ -109,24 +109,24 @@
                         <tr>
                         <td class="icon leuchtmedium">&nbsp;</td>
                         <td class="topic">可选光源</td>
-                        <td>节能灯/LED灯</td>
+                        <td>LED灯</td>
                     </tr>
                  <tr>
                         <td class="icon measure">&nbsp;</td>
                         <td class="topic">规格</td>
-                        <td>37 x 24 x 35.2 cm</td>
+                        <td>32 x 21 x 33.5 cm</td>
                     </tr>
                                                                                                                                                                         
                     <tr>
                         <td class="icon gewicht">&nbsp;</td>
                         <td class="topic">重量</td>
-                        <td>5.2 Kg</td>
+                        <td>4.5 Kg</td>
                     </tr>
                                                                         
                     <tr>
                         <td class="icon liter">&nbsp;</td>
                         <td class="topic">容量</td>
-                        <td>22 L</td>
+                        <td>15 L</td>
                     </tr>
                     </tbody>
     </table>
@@ -147,12 +147,7 @@
                                              <tr>
                         <td class="icon leuchtmedium">&nbsp;</td>
                         <td class="topic">可选光源</td>
-                        <td>节能灯/LED灯</td>
-                    </tr>
-                                                        <tr>
-                        <td class="icon watt">&nbsp;</td>
-                        <td class="topic">LED灯功率</td>
-                        <td>12 W</td>
+                        <td>LED灯</td>
                     </tr>
                     <tr>
                         <td class="icon watt">&nbsp;</td>
@@ -189,7 +184,7 @@
                     <tr>
                         <td class="icon measure">&nbsp;</td>
                         <td class="topic">规格</td>
-                        <td>34.5 x 5 x 29.5 cm</td>
+                        <td>29.5 x 5 x 27 cm</td>
                     </tr>
                     <tr>
                         <td class="icon energieverbrauch">&nbsp;</td>
@@ -215,13 +210,13 @@
 <table>
 <thead>
 <tr>
-<td colspan="3">TH-360底柜<br>
+<td colspan="3">TR-300底柜<br>
 </td></tr></thead>
 <tbody>
 <tr>
 <td class="icon produkt">&nbsp;</td>
 <td class="topic">产品名称</td>
-<td>TH-360底柜<br>
+<td>TR-300底柜<br>
 </td></tr>
 <tr>
 <td class="icon dekore">&nbsp;</td>
@@ -233,12 +228,12 @@
 <tr>
 <td class="icon measure">&nbsp;</td>
 <td class="topic">规格</td>
-<td>37 x 24 x 75cm<br>
+<td>32 x 21 x 75 cm<br>
 </td></tr>
 <tr>
 <td class="icon gewicht">&nbsp;</td>
 <td class="topic">重量</td>
-<td>11KG<br>
+<td>10 KG<br>
 </td></tr></tbody></table></div>
                         
     </div>

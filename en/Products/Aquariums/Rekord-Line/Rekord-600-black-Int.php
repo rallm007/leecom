@@ -28,11 +28,11 @@
             <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">Prev</a>
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
-                                																																																																	                    <a href="#juwel-000000000000021600" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
+                                																																																																	                    <a href="#juwel-xk200b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                         <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/21600.png" alt="Rekord 600 ">
                         Rekord 600 
                     </a>
-                																																																																	                    <a href="#juwel-000000000000021700" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
+                																																																																	                    <a href="#juwel-xk250b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                         <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/21700.png" alt="Rekord 700 ">
                         Rekord 700 
                     </a>
@@ -58,7 +58,7 @@
     <!-- Main-Stage-Slider -->
 	<div class="stage-slider">
 																																														    	<!-- Slider-Item (Produkt-Variante) -->
-	        <div class="item" id="juwel-000000000000021600" data-variants="juwel-000000000000021600 juwel-000000000000021640"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+	        <div class="item" id="juwel-xk200b" data-variants="juwel-xk200b juwel-xk200w"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
 	            <div class="page_margins item-content">
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
@@ -71,12 +71,12 @@
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021600" title="LEECOM | Rekord 600 black Int.">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xk200b" title="LEECOM | Rekord 600 black Int.">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21600.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21600.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021640" title="LEECOM | Rekord 600 white Int.">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xk200w" title="LEECOM | Rekord 600 white Int.">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21640.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21640.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -91,8 +91,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Rekord-600-black-Int.php#!juwel-000000000000021600" title="Rekord 600 black Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Rekord-600-white-Int.php#!juwel-000000000000021640" title="Rekord 600 white Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Rekord-600-black-Int.php#!juwel-xk200b" title="Rekord 600 black Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Rekord-600-white-Int.php#!juwel-xk200w" title="Rekord 600 white Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -207,7 +207,7 @@
 	        </div>
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
 																																												    	<!-- Slider-Item (Produkt-Variante) -->
-	        <div class="item" id="juwel-000000000000021700" data-variants="juwel-000000000000021700 juwel-000000000000021740"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+	        <div class="item" id="juwel-xk250b" data-variants="juwel-xk250b juwel-xk250w"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
 	            <div class="page_margins item-content">
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
@@ -220,12 +220,12 @@
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021700" title="LEECOM | Rekord 700 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xk250b" title="LEECOM | Rekord 700 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21700.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21700.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000021740" title="LEECOM | Rekord 700 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xk250w" title="LEECOM | Rekord 700 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/21740.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/21740.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -240,8 +240,8 @@
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Rekord-700-black.php#!juwel-000000000000021700" title="Rekord 700 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Rekord-700-white.php#!juwel-000000000000021740" title="Rekord 700 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Rekord-700-black.php#!juwel-xk250b" title="Rekord 700 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Rekord-700-white.php#!juwel-xk250w" title="Rekord 700 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -517,7 +517,7 @@
 		//data: {artId: iArtId},
 		
 		if(window.location.protocol.indexOf("https") >= 0) {
-			var sUrl = "https://www.juwel-aquarium.de/en/Products/Aquariums/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600cl=srajax";
+			var sUrl = "https://www.juwel-aquarium.de/en/Products/Aquariums/Rekord-Line/Rekord-600-black-Int.php#!juwel-xk200bcl=srajax";
 		} else {
 			var sUrl = "../../../../index.php-lang=1&cl=srajax.php"/*tpa=<?php echo $site_url;?>index.php?lang=1&cl=srajax*/; 
 		}

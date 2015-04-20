@@ -140,15 +140,15 @@ var _gaq = _gaq || [];
 												
 					
 									<!-- Aquarien -->
-																										<li><a id="00000000051" href="en/Products/Aquariums/XT-Line/XT-190-black.html#!juwel-000000000000016300" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XT-Line/XT-190-black.html#!juwel-000000000000016300">XT Line</a></li>				
+																										<li><a id="00000000051" href="en/Products/Aquariums/XT-Line/XT-190-black.html#!juwel-xt300b" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XT-Line/XT-190-black.html#!juwel-xt300b">XT Line</a></li>				
 												
 					
 									<!-- Aquarien -->
-																										<li><a id="00000000061" href="en/Products/Aquariums/XE-Line/XE-120-black.html#!juwel-000000000000011300" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XE-Line/XE-120-black.html#!juwel-000000000000011300">XE Line</a></li>				
+																										<li><a id="00000000061" href="en/Products/Aquariums/XE-Line/XE-120-black.html#!juwel-xe300b" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XE-Line/XE-120-black.html#!juwel-xe300b">XE Line</a></li>				
 												
 					
 									<!-- Aquarien -->
-																										<li><a id="00000000071" href="en/Products/Aquariums/Rekord-Line/Rekord-600-black-Int.html#!juwel-000000000000021600" tppabs="<?php echo $site_url;?>en/Products/Aquariums/Rekord-Line/Rekord-600-black-Int.html#!juwel-000000000000021600">Rekord Line</a></li>				
+																										<li><a id="00000000071" href="en/Products/Aquariums/Rekord-Line/Rekord-600-black-Int.html#!juwel-xk200b" tppabs="<?php echo $site_url;?>en/Products/Aquariums/Rekord-Line/Rekord-600-black-Int.html#!juwel-xk200b">Rekord Line</a></li>				
 												
 					
 									<!-- Aquarien -->

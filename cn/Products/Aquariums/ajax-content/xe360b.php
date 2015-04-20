@@ -8,8 +8,8 @@
 
             <div class="tab-teaser-prod_details top clearfix">
                 <div class="grid_8">
-                    <h2>XP-360  头顶防水帽，安全有保障</h2>
-                    <p>简洁大方的外形是XP-360广受大众喜爱的主要原因，37 X 24 X 35.2CM的外型轻松融入各种居家装修设计风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
+                    <h2>XE-360</h2>
+                    <p>高亮度LED铝合金灯，安全更省电。亚克力灯罩，起到防水效果。航天级强耐腐蚀铝型材质，强度大，散热快，安全耐用，长时间使用也不烫手。优美的设计，外形高档美观，尽显其高贵优雅。独创的三重过滤系统，过滤棉、活性炭，生化环的有机结合，过滤更彻底。提供一个照明，过滤，增氧于一体的生态环境，让您时刻近距离，更清晰，感受大自然。</p>
                 </div>
                 <div class="grid_4">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
@@ -89,14 +89,14 @@
     <table>
                                 <thead>
                     <tr>
-                        <td colspan="3">XP-360水族箱</td>
+                        <td colspan="3">XE-360水族箱</td>
                     </tr>
                 </thead>
                                 <tbody>                              
                     <tr>
                         <td class="icon produkt">&nbsp;</td>
                         <td class="topic">产品名称</td>
-                        <td>XP-360水族箱</td>
+                        <td>XE-360水族箱</td>
                     </tr>
                     <tr>
 <td class="icon dekore">&nbsp;</td>
@@ -109,7 +109,7 @@
                         <tr>
                         <td class="icon leuchtmedium">&nbsp;</td>
                         <td class="topic">可选光源</td>
-                        <td>节能灯/LED灯</td>
+                        <td>LED灯</td>
                     </tr>
                  <tr>
                         <td class="icon measure">&nbsp;</td>
@@ -147,17 +147,12 @@
                                              <tr>
                         <td class="icon leuchtmedium">&nbsp;</td>
                         <td class="topic">可选光源</td>
-                        <td>节能灯/LED灯</td>
+                        <td>LED灯</td>
                     </tr>
                                                         <tr>
                         <td class="icon watt">&nbsp;</td>
                         <td class="topic">LED灯功率</td>
-                        <td>12 W</td>
-                    </tr>
-                    <tr>
-                        <td class="icon watt">&nbsp;</td>
-                        <td class="topic">节能灯功率</td>
-                        <td>13 W</td>
+                        <td>15 W</td>
                     </tr>
                     </tbody>
     </table>

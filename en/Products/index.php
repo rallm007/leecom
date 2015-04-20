@@ -137,7 +137,7 @@
 				                <div class="line-info">
 				                    <div class="inner clearfix">
 				                    					                    	
-				                        <a href="Aquariums/XT-Line/XT-190-black.php#!juwel-000000000000016300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/XT-Line/XT-190-black.php#!juwel-xt300b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/16300.png" alt="XT 190 ">				                        	
 				                        	<span>XT 190 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
@@ -146,7 +146,7 @@
 				                            					                            </div>        
 				                        </a>				                    		
 				                    					                    	
-				                        <a href="Aquariums/XT-Line/XT-350-black.php#!juwel-000000000000015300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/XT-Line/XT-350-black.php#!juwel-xt360b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/15300.png" alt="XT 350 ">				                        	
 				                        	<span>XT 350 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
@@ -173,7 +173,7 @@
 				                <div class="line-info">
 				                    <div class="inner clearfix">
 				                    					                    	
-				                        <a href="Aquariums/XE-Line/XE-120-black.php#!juwel-000000000000011300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/XE-Line/XE-120-black.php#!juwel-xe300b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/11300.png" alt="XE 120 ">				                        	
 				                        	<span>XE 120 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
@@ -182,7 +182,7 @@
 				                            					                            </div>        
 				                        </a>				                    		
 				                    					                    	
-				                        <a href="Aquariums/XE-Line/XE-200-black.php#!juwel-000000000000011830"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/XE-Line/XE-200-black.php#!juwel-xe360b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/11830.png" alt="XE 200 ">				                        	
 				                        	<span>XE 200 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
@@ -209,7 +209,7 @@
 				                <div class="line-info">
 				                    <div class="inner clearfix">
 				                    					                    	
-				                        <a href="Aquariums/Rekord-Line/Rekord-600-black-Int.php#!juwel-000000000000021600"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/Rekord-Line/Rekord-600-black-Int.php#!juwel-xk200b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/21600.png" alt="Rekord 600 ">				                        	
 				                        	<span>Rekord 600 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
@@ -218,7 +218,7 @@
 				                            					                            </div>        
 				                        </a>				                    		
 				                    					                    	
-				                        <a href="Aquariums/Rekord-Line/Rekord-700-black.php#!juwel-000000000000021700"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
+				                        <a href="Aquariums/Rekord-Line/Rekord-700-black.php#!juwel-xk250b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
 															                        	<img src="../../out/pictures/master/product/7/21700.png" alt="Rekord 700 ">				                        	
 				                        	<span>Rekord 700 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
