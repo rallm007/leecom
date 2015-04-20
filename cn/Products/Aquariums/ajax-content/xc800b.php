@@ -8,8 +8,8 @@
 
             <div class="tab-teaser-prod_details top clearfix">
                 <div class="grid_8">
-                    <h2>XP-600 永不过时，永恒经典</h2>
-                    <p>经典、永恒一如我们的XP-600水族箱， 61 x 36 x 44.8cm的外型轻松融入各种居家装修设计风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
+                    <h2>XC-800  高清透亮、超视觉盛宴</h2>
+                    <p>晶莹剔透水晶般的品质，给您温馨的居室不仅仅是美观更是一种完美极致的视觉享受。耐用、超静的水泵不但保证过滤系统的正常运行，令水质常年洁净，还令你静享生活，每天清晨睁开眼第一道风景线，仿佛置身于大自然的怀抱这般心旷神怡。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
                 </div>
                 <div class="grid_4">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
@@ -89,14 +89,14 @@
     <table>
                                 <thead>
                     <tr>
-                        <td colspan="3">XP-600水族箱</td>
+                        <td colspan="3">XC-800水族箱</td>
                     </tr>
                 </thead>
                                 <tbody>                              
                     <tr>
                         <td class="icon produkt">&nbsp;</td>
                         <td class="topic">产品名称</td>
-                        <td>XP-600水族箱</td>
+                        <td>XC-800水族箱</td>
                     </tr>
                     <tr>
 <td class="icon dekore">&nbsp;</td>
@@ -114,19 +114,19 @@
                  <tr>
                         <td class="icon measure">&nbsp;</td>
                         <td class="topic">规格</td>
-                        <td>61 x 36 x 44.8 cm</td>
+                        <td>81 x 41 x 52.8 cm</td>
                     </tr>
                                                                                                                                                                         
                     <tr>
                         <td class="icon gewicht">&nbsp;</td>
                         <td class="topic">重量</td>
-                        <td>15.2 Kg</td>
+                        <td>26 Kg</td>
                     </tr>
                                                                         
                     <tr>
                         <td class="icon liter">&nbsp;</td>
                         <td class="topic">容量</td>
-                        <td>75 L</td>
+                        <td>130 L</td>
                     </tr>
                     </tbody>
     </table>
@@ -152,12 +152,12 @@
                                                         <tr>
                         <td class="icon watt">&nbsp;</td>
                         <td class="topic">LED灯功率</td>
-                        <td>29 W</td>
+                        <td>38 W</td>
                     </tr>
                     <tr>
                         <td class="icon watt">&nbsp;</td>
                         <td class="topic">节能灯功率</td>
-                        <td>26 W</td>
+                        <td>39 W</td>
                     </tr>
                     </tbody>
     </table>
@@ -169,14 +169,14 @@
     <table>
                                 <thead>
                     <tr>
-                        <td colspan="3">CF-600上部过滤器<a href="../../../../cn/Products/More/Filtration/Filtersystems/Bioflow-Filter-M-Filter-system-Bioflow-3-0.php" class="arrow-link">产品</a></td>
+                        <td colspan="3">CF-800上部过滤器<a href="../../../../cn/Products/More/Filtration/Filtersystems/Bioflow-Filter-M-Filter-system-Bioflow-3-0.php" class="arrow-link">产品</a></td>
                     </tr>
                 </thead>
                                 <tbody>                              
                     <tr>
                         <td class="icon produkt">&nbsp;</td>
                         <td class="topic">产品名称</td>
-                        <td>CF-600上部过滤器</td>
+                        <td>CF-800上部过滤器</td>
                     </tr>
                     <tr>
 <td class="icon dekore">&nbsp;</td>
@@ -189,7 +189,7 @@
                     <tr>
                         <td class="icon measure">&nbsp;</td>
                         <td class="topic">规格</td>
-                        <td>55 x 10 x 39 cm</td>
+                        <td>74.5 x 12 x 49 cm</td>
                     </tr>
                     <tr>
                         <td class="icon energieverbrauch">&nbsp;</td>
@@ -204,7 +204,7 @@
                     <tr>
                         <td class="icon filtermedium">&nbsp;</td>
                         <td class="topic">过滤材质</td>
-                        <td>SC-60炭棉板滤材，SH-20生化棉滤材</td>
+                        <td>SC-80炭棉板滤材，SH-20生化棉滤材</td>
                     </tr>
                 </tbody>
     </table>
@@ -215,13 +215,13 @@
 <table>
 <thead>
 <tr>
-<td colspan="3">TH-600底柜<br>
+<td colspan="3">TH-800底柜<br>
 </td></tr></thead>
 <tbody>
 <tr>
 <td class="icon produkt">&nbsp;</td>
 <td class="topic">产品名称</td>
-<td>TH-600底柜<br>
+<td>TH-800底柜<br>
 </td></tr>
 <tr>
 <td class="icon dekore">&nbsp;</td>
@@ -233,12 +233,12 @@
 <tr>
 <td class="icon measure">&nbsp;</td>
 <td class="topic">规格</td>
-<td>61 x 36 x 75 cm<br>
+<td>81 x 41 x 75 cm<br>
 </td></tr>
 <tr>
 <td class="icon gewicht">&nbsp;</td>
 <td class="topic">重量</td>
-<td>21 KG<br>
+<td>28 KG<br>
 </td></tr></tbody></table></div>
                         
     </div>

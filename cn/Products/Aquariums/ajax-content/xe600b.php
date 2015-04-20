@@ -8,8 +8,8 @@
 
             <div class="tab-teaser-prod_details top clearfix">
                 <div class="grid_8">
-                    <h2>XP-600 永不过时，永恒经典</h2>
-                    <p>经典、永恒一如我们的XP-600水族箱， 61 x 36 x 44.8cm的外型轻松融入各种居家装修设计风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
+                    <h2>XE-600</h2>
+                    <p>弧形设计，精心呵护小孩。全新LED灯照明完美升级，独立上部过滤系统，鱼缸美学巅峰之作，带给您无与伦比的自然体验！独立上部过滤系统，一个高效过滤和抽水、增氧完美融合于一体的系统。高质量优质水族箱，高粘结力，高抗拉强度，持久的柔韧性，确保产品的抗衰性和防爆性，别具一格的开放式设计，典雅精致。</p>
                 </div>
                 <div class="grid_4">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
@@ -89,14 +89,14 @@
     <table>
                                 <thead>
                     <tr>
-                        <td colspan="3">XP-600水族箱</td>
+                        <td colspan="3">XE-600水族箱</td>
                     </tr>
                 </thead>
                                 <tbody>                              
                     <tr>
                         <td class="icon produkt">&nbsp;</td>
                         <td class="topic">产品名称</td>
-                        <td>XP-600水族箱</td>
+                        <td>XE-600水族箱</td>
                     </tr>
                     <tr>
 <td class="icon dekore">&nbsp;</td>
