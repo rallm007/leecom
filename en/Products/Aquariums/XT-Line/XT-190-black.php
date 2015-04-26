@@ -24,17 +24,17 @@
 <div class="product-thumbnail-navi clearfix closed">
 	<div class="page_margins">
     	<div class="inner-wrapper">
-            <h1 class="tk-myriad-pro tk-light">XT Line</h1>
+            <h1 class="tk-myriad-pro tk-light">XT-Line</h1>
             <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">Prev</a>
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
                                 																																																																																							                    <a href="#juwel-xt300b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/16300.png" alt="XT 190 ">
-                        XT 190 
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/16300.png" alt="XT-190 ">
+                        XT-190 
                     </a>
                 																																																																																							                    <a href="#juwel-xt360b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/15300.png" alt="XT 350 ">
-                        XT 350 
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/15300.png" alt="XT-350 ">
+                        XT-350 
                     </a>
                                                 </div>
             </div>
@@ -60,19 +60,19 @@
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
 	                        <li>You are here:</li>
-	                        <li>XT Line</li>
-	                        <li>XT 190 </li>
+	                        <li>XT-Line</li>
+	                        <li>XT-190 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-xt300b" title="LEECOM | XT 190 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xt300b" title="LEECOM | XT-190 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/16300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/16300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-xt300w" title="LEECOM | XT 190 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xt300w" title="LEECOM | XT-190 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/16400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/16400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -81,14 +81,14 @@
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XT 190 </span></h2><!-- varianten headline -->
-	                    <p>XT aquariums turn every corner of the room  into a decorative eye-catcher.</p>
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XT-190 </span></h2><!-- varianten headline -->
+	                    <p>XT-aquariums turn every corner of the room  into a decorative eye-catcher.</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Trigon-190-black.php#!juwel-xt300b" title="XT 190 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Trigon-190-white.php#!juwel-xt300w" title="XT 190 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Trigon-190-black.php#!juwel-xt300b" title="XT-190 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Trigon-190-white.php#!juwel-xt300w" title="XT-190 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -103,13 +103,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/16300.png" alt="XT 190 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/16300.png" alt="XT-190 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XT 190 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XT-190 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -189,19 +189,19 @@
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
 	                        <li>You are here:</li>
-	                        <li>XT Line</li>
-	                        <li>XT 350 </li>
+	                        <li>XT-Line</li>
+	                        <li>XT-350 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-xt360b" title="LEECOM | XT 350 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xt360b" title="LEECOM | XT-350 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/15300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/15300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-xt360w" title="LEECOM | XT 350 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xt360w" title="LEECOM | XT-350 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/15400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/15400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -210,14 +210,14 @@
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XT 350 </span></h2><!-- varianten headline -->
-	                    <p>XT aquariums turn every corner of the room  into a decorative eye-catcher.</p>
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XT-350 </span></h2><!-- varianten headline -->
+	                    <p>XT-aquariums turn every corner of the room  into a decorative eye-catcher.</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="Trigon-350-black.php#!juwel-xt360b" title="XT 350 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="Trigon-350-white.php#!juwel-xt360w" title="XT 350 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Trigon-350-black.php#!juwel-xt360b" title="XT-350 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="Trigon-350-white.php#!juwel-xt360w" title="XT-350 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -232,13 +232,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/15300.png" alt="XT 350 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/15300.png" alt="XT-350 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XT 350 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XT-350 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -393,7 +393,7 @@
     <div class="page_margins">
         <ul>
 						    <li><a href="../../index.php" title="Products">Products</a></li>
-			    						    <li><a href="Trigon-190-black.php" title="XT Line">XT Line</a></li>
+			    						    <li><a href="Trigon-190-black.php" title="XT-Line">XT-Line</a></li>
 			    			        </ul>                        
     </div>
 </div>

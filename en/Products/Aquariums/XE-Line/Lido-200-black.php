@@ -24,17 +24,17 @@
 <div class="product-thumbnail-navi clearfix closed">
 	<div class="page_margins">
     	<div class="inner-wrapper">
-            <h1 class="tk-myriad-pro tk-light">XE Line</h1>
+            <h1 class="tk-myriad-pro tk-light">XE-Line</h1>
             <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">Prev</a>
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
                                 																																																																																							                    <a href="#juwel-xe300b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/11300.png" alt="XE 120 ">
-                        XE 120 
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/11300.png" alt="XE-120 ">
+                        XE-120 
                     </a>
                 																																																																																							                    <a href="#juwel-xe360b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/11830.png" alt="XE 200 ">
-                        XE 200 
+                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/11830.png" alt="XE-200 ">
+                        XE-200 
                     </a>
                                                 </div>
             </div>
@@ -60,19 +60,19 @@
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
 	                        <li>You are here:</li>
-	                        <li>XE Line</li>
-	                        <li>XE 120 </li>
+	                        <li>XE-Line</li>
+	                        <li>XE-120 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-xe300b" title="LEECOM | XE 120 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xe300b" title="LEECOM | XE-120 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/11300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/11300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-xe300w" title="LEECOM | XE 120 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xe300w" title="LEECOM | XE-120 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/11400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/11400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -81,14 +81,14 @@
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE 120 </span></h2><!-- varianten headline -->
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE-120 </span></h2><!-- varianten headline -->
 	                    <p>Our XEs elegantly fits into any surrounding due to its discreet design. You will be surprised by its elegance and compatibility.</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XE-120-black.php#!juwel-xe300b" title="XE 120 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XE-120-white.php#!juwel-xe300w" title="XE 120 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XE-120-black.php#!juwel-xe300b" title="XE-120 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XE-120-white.php#!juwel-xe300w" title="XE-120 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -103,13 +103,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/11300.png" alt="XE 120 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/11300.png" alt="XE-120 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XE 120 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XE-120 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -209,19 +209,19 @@
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
 	                        <li>You are here:</li>
-	                        <li>XE Line</li>
-	                        <li>XE 200 </li>
+	                        <li>XE-Line</li>
+	                        <li>XE-200 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-xe360b" title="LEECOM | XE 200 black">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xe360b" title="LEECOM | XE-200 black">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/11830.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/11830.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-xe360w" title="LEECOM | XE 200 white">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xe360w" title="LEECOM | XE-200 white">
 	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/11840.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/11840.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -230,14 +230,14 @@
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE 200 </span></h2><!-- varianten headline -->
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE-200 </span></h2><!-- varianten headline -->
 	                    <p>Our XEs elegantly fits into any surrounding due to its discreet design. You will be surprised by its elegance and compatibility.</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XE-200-black.php#!juwel-xe360b" title="XE 200 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XE-200-white.php#!juwel-xe360w" title="XE 200 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XE-200-black.php#!juwel-xe360b" title="XE-200 black"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XE-200-white.php#!juwel-xe360w" title="XE-200 white"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 																			</ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -252,13 +252,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/11830.png" alt="XE 200 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/11830.png" alt="XE-200 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XE 200 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XE-200 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -383,7 +383,7 @@
     <div class="page_margins">
         <ul>
 						    <li><a href="../../index.php" title="Products">Products</a></li>
-			    						    <li><a href="XE-120-black.php" title="XE Line">XE Line</a></li>
+			    						    <li><a href="XE-120-black.php" title="XE-Line">XE-Line</a></li>
 			    			        </ul>                        
     </div>
 </div>

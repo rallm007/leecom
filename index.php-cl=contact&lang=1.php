@@ -132,19 +132,19 @@ var _gaq = _gaq || [];
 											<li class="head"><h4>Aquariums</h4></li>
 											
 									<!-- Aquarien -->
-																										<li><a id="00000000031" href="en/Products/Aquariums/XP-Line/XP-125-black.html#!juwel-000000000000001300" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XP-Line/XP-125-black.html#!juwel-000000000000001300">XP Line</a></li>				
+																										<li><a id="00000000031" href="en/Products/Aquariums/XP-Line/XP-125-black.html#!juwel-000000000000001300" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XP-Line/XP-125-black.html#!juwel-000000000000001300">XP-Line</a></li>				
 												
 					
 									<!-- Aquarien -->
-																										<li><a id="00000000041" href="en/Products/Aquariums/XC-Line/XC-180-black.html#!juwel-xc300b" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XC-Line/XC-180-black.html#!juwel-xc300b">XC Line</a></li>				
+																										<li><a id="00000000041" href="en/Products/Aquariums/XC-Line/XC-180-black.html#!juwel-xc300b" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XC-Line/XC-180-black.html#!juwel-xc300b">XC-Line</a></li>				
 												
 					
 									<!-- Aquarien -->
-																										<li><a id="00000000051" href="en/Products/Aquariums/XT-Line/XT-190-black.html#!juwel-xt300b" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XT-Line/XT-190-black.html#!juwel-xt300b">XT Line</a></li>				
+																										<li><a id="00000000051" href="en/Products/Aquariums/XT-Line/XT-190-black.html#!juwel-xt300b" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XT-Line/XT-190-black.html#!juwel-xt300b">XT-Line</a></li>				
 												
 					
 									<!-- Aquarien -->
-																										<li><a id="00000000061" href="en/Products/Aquariums/XE-Line/XE-120-black.html#!juwel-xe300b" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XE-Line/XE-120-black.html#!juwel-xe300b">XE Line</a></li>				
+																										<li><a id="00000000061" href="en/Products/Aquariums/XE-Line/XE-120-black.html#!juwel-xe300b" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XE-Line/XE-120-black.html#!juwel-xe300b">XE-Line</a></li>				
 												
 					
 									<!-- Aquarien -->
@@ -152,7 +152,7 @@ var _gaq = _gaq || [];
 												
 					
 									<!-- Aquarien -->
-																										<li><a id="00000001271" href="en/Products/Aquariums/XF-Line/XF-40-black-Int.html#!juwel-000000000000020040" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XF-Line/XF-40-black-Int.html#!juwel-000000000000020040">XF Line</a></li>				
+																										<li><a id="00000001271" href="en/Products/Aquariums/XF-Line/XF-40-black-Int.html#!juwel-000000000000020040" tppabs="<?php echo $site_url;?>en/Products/Aquariums/XF-Line/XF-40-black-Int.html#!juwel-000000000000020040">XF-Line</a></li>				
 												
 					
 									<!-- Aquarien -->
@@ -199,10 +199,10 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div id="info-00000000031" class="product-info clearfix">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img src="out/pictures/master/product/2/01300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/2/01300.jpg" alt="XP Line">
+                                    	<img src="out/pictures/master/product/2/01300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/2/01300.jpg" alt="XP-Line">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XP Line</span></h4>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XP-Line</span></h4>
 	                                    <h5>Classic Line</h5>
 	                                    <p>Timeless design, perfected technology and meticulous workmanship. A RIO aquarium from JUWEL discreetly accentuates the underwater world that you have arranged.</p>
 	                                    <ul class="decor fl">
@@ -216,15 +216,15 @@ var _gaq = _gaq || [];
 		                                    	<li><img src="out/pictures/master/global/1/3.png" tppabs="<?php echo $site_url;?>out/pictures/master/global/1/3.png" alt=""></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/01300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/01300.jpg" alt="XP 125 "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/01300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/01300.jpg" alt="XP-125 "></li>
 	                                    				                                    			                                    				                                    			                                    				                                    			                                    				                                    		            	
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/xp360.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/xp360.jpg" alt="XP 180 "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/xp360.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/xp360.jpg" alt="XP-180 "></li>
 	                                    				                                    			                                    				                                    			                                    				                                    			                                    				                                    		            	
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/xp400.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/xp400.jpg" alt="XP 240 "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/xp400.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/xp400.jpg" alt="XP-240 "></li>
 	                                    				                                    			                                    				                                    			                                    				                                    			                                    				                                    		            	
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/xp460.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/xp460.jpg" alt="XP 300 "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/xp460.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/xp460.jpg" alt="XP-300 "></li>
 	                                    				                                    			                                    				                                    			                                    				                                    			                                    				                                    		            	
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/xp600.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/xp600.jpg" alt="XP 400 "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/xp600.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/xp600.jpg" alt="XP-400 "></li>
 	                                    				                                    			                                    				                                    			                                    				                                    			                                    				                                    		            	
 	                                    		                                    </ul>                                    
 	                                </div>
@@ -233,10 +233,10 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div id="info-00000000041" class="product-info clearfix">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img src="out/pictures/master/product/2/09300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/2/09300.jpg" alt="XC Line">
+                                    	<img src="out/pictures/master/product/2/09300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/2/09300.jpg" alt="XC-Line">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XC Line</span></h4>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XC-Line</span></h4>
 	                                    <h5>Exclusive Line</h5>
 	                                    <p>Experience the aquarium fascination from a new perspective. A VISION accentuates the optical depth through its curved front panel and offers surprising views of your underwater world.</p>
 	                                    <ul class="decor fl">
@@ -250,11 +250,11 @@ var _gaq = _gaq || [];
 		                                    	<li><img src="out/pictures/master/global/1/3.png" tppabs="<?php echo $site_url;?>out/pictures/master/global/1/3.png" alt=""></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/09300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/09300.jpg" alt="XC 300 "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/09300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/09300.jpg" alt="XC-300 "></li>
 	                                    				                                    			                                    				                                    			                                    				                                    			                                    				                                    		            	
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/06800.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/06800.jpg" alt="XC 260 "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/06800.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/06800.jpg" alt="XC-260 "></li>
 	                                    				                                    			                                    				                                    			                                    				                                    			                                    				                                    		            	
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/10300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/10300.jpg" alt="XC 450 "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/10300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/10300.jpg" alt="XC-450 "></li>
 	                                    				                                    			                                    				                                    			                                    				                                    			                                    				                                    		            	
 	                                    		                                    </ul>                                    
 	                                </div>
@@ -263,10 +263,10 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div id="info-00000000051" class="product-info clearfix">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img src="out/pictures/master/product/2/16300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/2/16300.jpg" alt="XT Line">
+                                    	<img src="out/pictures/master/product/2/16300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/2/16300.jpg" alt="XT-Line">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XT Line</span></h4>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XT-Line</span></h4>
 	                                    <h5>Special Line</h5>
 	                                    <p>TRIGON aquariums turn every corner of the room  into a decorative eye-catcher.</p>
 	                                    <ul class="decor fl">
@@ -280,9 +280,9 @@ var _gaq = _gaq || [];
 		                                    	<li><img src="out/pictures/master/global/1/3.png" tppabs="<?php echo $site_url;?>out/pictures/master/global/1/3.png" alt=""></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/16300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/16300.jpg" alt="XT 190 "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/16300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/16300.jpg" alt="XT-190 "></li>
 	                                    				                                    			                                    				                                    			                                    				                                    			                                    				                                    		            	
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/15300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/15300.jpg" alt="XT 350 "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/15300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/15300.jpg" alt="XT-350 "></li>
 	                                    				                                    			                                    				                                    			                                    				                                    			                                    				                                    		            	
 	                                    		                                    </ul>                                    
 	                                </div>
@@ -291,10 +291,10 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div id="info-00000000061" class="product-info clearfix">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img src="out/pictures/master/product/2/11300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/2/11300.jpg" alt="XE Line">
+                                    	<img src="out/pictures/master/product/2/11300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/2/11300.jpg" alt="XE-Line">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XE Line</span></h4>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XE-Line</span></h4>
 	                                    <h5>Elegant Line</h5>
 	                                    <p>Our LIDO elegantly fits into any surrounding due to its discreet design. You will be surprised by its elegance and compatibility.</p>
 	                                    <ul class="decor fl">
@@ -308,9 +308,9 @@ var _gaq = _gaq || [];
 		                                    	<li><img src="out/pictures/master/global/1/3.png" tppabs="<?php echo $site_url;?>out/pictures/master/global/1/3.png" alt=""></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/11300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/11300.jpg" alt="XE 120 "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/11300.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/11300.jpg" alt="XE-120 "></li>
 	                                    				                                    			                                    				                                    			                                    				                                    			                                    				                                    		            	
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/11830.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/11830.jpg" alt="XE 200 "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/11830.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/11830.jpg" alt="XE-200 "></li>
 	                                    				                                    			                                    				                                    			                                    				                                    			                                    				                                    		            	
 	                                    		                                    </ul>                                    
 	                                </div>
@@ -345,10 +345,10 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div id="info-00000001271" class="product-info clearfix">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img src="out/pictures/master/product/2/20040.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/2/20040.jpg" alt="XF Line">
+                                    	<img src="out/pictures/master/product/2/20040.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/2/20040.jpg" alt="XF-Line">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
-	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XF Line</span></h4>
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XF-Line</span></h4>
 	                                    <h5>Lifestyle Line</h5>
 	                                    <p>The VIO 40 LED from JUWEL Aquarium creates a large glimpse of a fascinating underwater world despite its low volume.</p>
 	                                    <ul class="decor fl">
@@ -358,7 +358,7 @@ var _gaq = _gaq || [];
 		                                    	<li><img src="out/pictures/master/global/1/4.png" tppabs="<?php echo $site_url;?>out/pictures/master/global/1/4.png" alt=""></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/20040.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/20040.jpg" alt="XF "></li>
+	                                    		                                    			                                    			                                    				                                    			<li><img src="out/pictures/master/product/3/20040.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/3/20040.jpg" alt="XF-"></li>
 	                                    				                                    			                                    				                                    		            	
 	                                    		                                    </ul>                                    
 	                                </div>

@@ -502,79 +502,79 @@ This complex production process makes it particularly easy to cut the colour bac
 																																									<tr>
 										<td></td>
 										<td>
-																		                    <span>XE 120  ,																																															                        <div class="tooltip">
+																		                    <span>XE-120  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/11300.png)">
-							                               	<span class="product-title green">XE 120 </span>
+							                               	<span class="product-title green">XE-120 </span>
 														</div>
 														<span class="dimensions">61 x 41 x 58 cm</span>
 													</div>
 												</span>
-																		                    <span>XT 190  ,																																															                        <div class="tooltip">
+																		                    <span>XT-190  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/16300.png)">
-							                               	<span class="product-title green">XT 190 </span>
+							                               	<span class="product-title green">XT-190 </span>
 														</div>
 														<span class="dimensions">98,5 x 70 x 60 cm</span>
 													</div>
 												</span>
-																		                    <span>XC 400  ,																																															                        <div class="tooltip">
+																		                    <span>XC-400  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/10300.png)">
-							                               	<span class="product-title green">XC 400 </span>
+							                               	<span class="product-title green">XC-400 </span>
 														</div>
 														<span class="dimensions">151 x 61 x64 cm</span>
 													</div>
 												</span>
-																		                    <span>XC 360  ,																																															                        <div class="tooltip">
+																		                    <span>XC-360  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/06800.png)">
-							                               	<span class="product-title green">XC 360 </span>
+							                               	<span class="product-title green">XC-360 </span>
 														</div>
 														<span class="dimensions">121 x 46 x 64 cm</span>
 													</div>
 												</span>
-																		                    <span>XC 300  ,																																															                        <div class="tooltip">
+																		                    <span>XC-300  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/09300.png)">
-							                               	<span class="product-title green">XC 300 </span>
+							                               	<span class="product-title green">XC-300 </span>
 														</div>
 														<span class="dimensions">92 x 41 x 55 cm</span>
 													</div>
 												</span>
-																		                    <span>XP 600  ,																																															                        <div class="tooltip">
+																		                    <span>XP-600  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp600.png)">
-							                               	<span class="product-title green">XP 600 </span>
+							                               	<span class="product-title green">XP-600 </span>
 														</div>
 														<span class="dimensions">151 x 51 x66 cm</span>
 													</div>
 												</span>
-																		                    <span>XP 460  ,																																															                        <div class="tooltip">
+																		                    <span>XP-460  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp460.png)">
-							                               	<span class="product-title green">XP 460 </span>
+							                               	<span class="product-title green">XP-460 </span>
 														</div>
 														<span class="dimensions">121 x50 x 66 cm</span>
 													</div>
 												</span>
-																		                    <span>XP 400  ,																																															                        <div class="tooltip">
+																		                    <span>XP-400  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp400.png)">
-							                               	<span class="product-title green">XP 400 </span>
+							                               	<span class="product-title green">XP-400 </span>
 														</div>
 														<span class="dimensions">121 x 41 x 55 cm</span>
 													</div>
 												</span>
-																		                    <span>XP 360  ,																																															                        <div class="tooltip">
+																		                    <span>XP-360  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp360.png)">
-							                               	<span class="product-title green">XP 360 </span>
+							                               	<span class="product-title green">XP-360 </span>
 														</div>
 														<span class="dimensions">101 x 41 x 50 cm</span>
 													</div>
 												</span>
-																		                    <span>XP 300  ,																																															                        <div class="tooltip">
+																		                    <span>XP-300  ,																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/xp300.png)">
-							                               	<span class="product-title green">XP 300 </span>
+							                               	<span class="product-title green">XP-300 </span>
 														</div>
 														<span class="dimensions">81 x 36 x 50 cm</span>
 													</div>
 												</span>
-																		                    <span>XT 350 																																															                        <div class="tooltip">
+																		                    <span>XT-350 																																															                        <div class="tooltip">
 							                            <div class="top" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/7/15300.png)">
-							                               	<span class="product-title green">XT 350 </span>
+							                               	<span class="product-title green">XT-350 </span>
 														</div>
 														<span class="dimensions">123 x 87 x 65 cm</span>
 													</div>

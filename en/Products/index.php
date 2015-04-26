@@ -30,8 +30,8 @@
 				                    <div class="inner clearfix">
 				                    					                    	
 				                        <a href="Aquariums/XP-Line/XP-125-black.php#!juwel-000000000000001300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/01300.png" alt="XP 125 ">				                        	
-				                        	<span>XP 125 </span>
+															                        	<img src="../../out/pictures/master/product/7/01300.png" alt="XP-125 ">				                        	
+				                        	<span>XP-125 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
 				                            						                            	<img src="../../out/pictures/master/global/1/4.png">
@@ -39,8 +39,8 @@
 				                        </a>				                    		
 				                    					                    	
 				                        <a href="Aquariums/XP-Line/XP-180-black.php#!juwel-000000000000004300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/xp360.png" alt="XP 180 ">				                        	
-				                        	<span>XP 180 </span>
+															                        	<img src="../../out/pictures/master/product/7/xp360.png" alt="XP-180 ">				                        	
+				                        	<span>XP-180 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
 				                            						                            	<img src="../../out/pictures/master/global/1/4.png">
@@ -48,8 +48,8 @@
 				                        </a>				                    		
 				                    					                    	
 				                        <a href="Aquariums/XP-Line/XP-240-black.php#!juwel-000000000000003300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/xp400.png" alt="XP 240 ">				                        	
-				                        	<span>XP 240 </span>
+															                        	<img src="../../out/pictures/master/product/7/xp400.png" alt="XP-240 ">				                        	
+				                        	<span>XP-240 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
 				                            						                            	<img src="../../out/pictures/master/global/1/4.png">
@@ -57,8 +57,8 @@
 				                        </a>				                    		
 				                    					                    	
 				                        <a href="Aquariums/XP-Line/XP-300-black-XP-300-Black.php#!juwel-000000000000007300"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/xp460.png" alt="XP 300 ">				                        	
-				                        	<span>XP 300 </span>
+															                        	<img src="../../out/pictures/master/product/7/xp460.png" alt="XP-300 ">				                        	
+				                        	<span>XP-300 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
 				                            						                            	<img src="../../out/pictures/master/global/1/4.png">
@@ -66,8 +66,8 @@
 				                        </a>				                    		
 				                    					                    	
 				                        <a href="Aquariums/XP-Line/XP-400-black.php#!juwel-0000000000000xp600"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/xp600.png" alt="XP 400 ">				                        	
-				                        	<span>XP 400 </span>
+															                        	<img src="../../out/pictures/master/product/7/xp600.png" alt="XP-400 ">				                        	
+				                        	<span>XP-400 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
 				                            						                            	<img src="../../out/pictures/master/global/1/4.png">
@@ -93,8 +93,8 @@
 				                    <div class="inner clearfix">
 				                    					                    	
 				                        <a href="Aquariums/XC-Line/XC-180-black.php#!juwel-xc300b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/09300.png" alt="XC 300 ">				                        	
-				                        	<span>XC 300 </span>
+															                        	<img src="../../out/pictures/master/product/7/09300.png" alt="XC-300 ">				                        	
+				                        	<span>XC-300 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
 				                            						                            	<img src="../../out/pictures/master/global/1/4.png">
@@ -102,8 +102,8 @@
 				                        </a>				                    		
 				                    					                    	
 				                        <a href="Aquariums/XC-Line/XC-260-black.php#!juwel-xc360b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/06800.png" alt="XC 260 ">				                        	
-				                        	<span>XC 260 </span>
+															                        	<img src="../../out/pictures/master/product/7/06800.png" alt="XC-260 ">				                        	
+				                        	<span>XC-260 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
 				                            						                            	<img src="../../out/pictures/master/global/1/4.png">
@@ -111,8 +111,8 @@
 				                        </a>				                    		
 				                    					                    	
 				                        <a href="Aquariums/XC-Line/XC-450-black.php#!juwel-xc400b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/10300.png" alt="XC 450 ">				                        	
-				                        	<span>XC 450 </span>
+															                        	<img src="../../out/pictures/master/product/7/10300.png" alt="XC-450 ">				                        	
+				                        	<span>XC-450 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
 				                            						                            	<img src="../../out/pictures/master/global/1/4.png">
@@ -138,8 +138,8 @@
 				                    <div class="inner clearfix">
 				                    					                    	
 				                        <a href="Aquariums/XT-Line/XT-190-black.php#!juwel-xt300b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/16300.png" alt="XT 190 ">				                        	
-				                        	<span>XT 190 </span>
+															                        	<img src="../../out/pictures/master/product/7/16300.png" alt="XT-190 ">				                        	
+				                        	<span>XT-190 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
 				                            						                            	<img src="../../out/pictures/master/global/1/4.png">
@@ -147,8 +147,8 @@
 				                        </a>				                    		
 				                    					                    	
 				                        <a href="Aquariums/XT-Line/XT-350-black.php#!juwel-xt360b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/15300.png" alt="XT 350 ">				                        	
-				                        	<span>XT 350 </span>
+															                        	<img src="../../out/pictures/master/product/7/15300.png" alt="XT-350 ">				                        	
+				                        	<span>XT-350 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
 				                            						                            	<img src="../../out/pictures/master/global/1/4.png">
@@ -174,8 +174,8 @@
 				                    <div class="inner clearfix">
 				                    					                    	
 				                        <a href="Aquariums/XE-Line/XE-120-black.php#!juwel-xe300b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/11300.png" alt="XE 120 ">				                        	
-				                        	<span>XE 120 </span>
+															                        	<img src="../../out/pictures/master/product/7/11300.png" alt="XE-120 ">				                        	
+				                        	<span>XE-120 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
 				                            						                            	<img src="../../out/pictures/master/global/1/4.png">
@@ -183,8 +183,8 @@
 				                        </a>				                    		
 				                    					                    	
 				                        <a href="Aquariums/XE-Line/XE-200-black.php#!juwel-xe360b"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/11830.png" alt="XE 200 ">				                        	
-				                        	<span>XE 200 </span>
+															                        	<img src="../../out/pictures/master/product/7/11830.png" alt="XE-200 ">				                        	
+				                        	<span>XE-200 </span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
 				                            						                            	<img src="../../out/pictures/master/global/1/4.png">
@@ -254,8 +254,8 @@
 				                    <div class="inner clearfix">
 				                    					                    	
 				                        <a href="Aquariums/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040"><!-- Link zu der ensprechenden Produkt-Detail-Seite - Die jeweilige Variante kann mit z.B. "#vision180" angewählt werden (siehe "partial/produkt-detail/produkt-detail-stage.php" in Zeile 60) -->
-															                        	<img src="../../out/pictures/master/product/7/20040.png" alt="XF ">				                        	
-				                        	<span>XF </span>
+															                        	<img src="../../out/pictures/master/product/7/20040.png" alt="XF-">				                        	
+				                        	<span>XF-</span>
 				                            <div class="decor"><!-- verfügbare Dekore / Farben -->
 				                            						                            	<img src="../../out/pictures/master/global/1/1.png">
 				                            						                            	<img src="../../out/pictures/master/global/1/4.png">

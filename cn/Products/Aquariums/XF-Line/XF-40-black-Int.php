@@ -15,7 +15,7 @@
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) {return;}
             js = d.createElement(s); js.id = id;
-        js.src = "../../../../../connect.facebook.net/en_GB/all.js"/*tpa=http://connect.facebook.net/en_GB/all.js*/;
+        js.src = "../../../../../connect.facebook.net/en_GB/all.js";
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
 </script>
@@ -28,9 +28,13 @@
             <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一页</a>
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
-                                																																																																	                    <a href="#juwel-000000000000020040" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/20040.png" alt="XF ">
-                        XF 
+                                																																																																																							                    <a href="#juwel-xf060w" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
+                        <img data-src="<?php echo $site_url;?>out/w/80/xf060.png" alt="XF-060 ">
+                        XF-060 
+                    </a>
+                																																																																																							                    <a href="#juwel-xf120w" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
+                        <img data-src="<?php echo $site_url;?>out/w/80/xf120.png" alt="XF-120 ">
+                        XF-120 
                     </a>
                                                 </div>
             </div>
@@ -49,42 +53,36 @@
     <!-- ende -> Slider Pagination -->
     <!-- Main-Stage-Slider -->
 	<div class="stage-slider">
-																																														    	<!-- Slider-Item (Produkt-Variante) -->
-	        <div class="item" id="juwel-000000000000020040" data-variants="juwel-000000000000020040 juwel-000000000000020044"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+																																																												    	<!-- Slider-Item (Produkt-Variante) -->
+	        <div class="item" id="juwel-xf060w" data-variants="juwel-xf060w"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
 	            <div class="page_margins item-content">
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
 	                        <li>您的位置:</li>
 	                        <li>XF系列</li>
-	                        <li>XF </li>
+	                        <li>XF-060 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000020040" title="LEECOM | XF 40 black Int.">
-	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/20040.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/20040.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
-	                        </a>
-	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000020044" title="LEECOM | XF 40 white Int.">
-	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/20044.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/20044.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	            			                	<div class="product-image-wrapper" data-id="juwel-xf060w" title="LEECOM | XF-060 白色">
+	                        <a href="<?php echo $site_url;?>out/w/1173/xf060.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/w/378/xf060.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XF </span></h2><!-- varianten headline -->
-	                    <p>节能、环保，轻松加水投饲，精巧、简约，尤其适合办公室、家居的桌面摆设。</p>
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XF-060 </span></h2><!-- varianten headline -->
+	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XF-40-black-Int.php#!juwel-000000000000020040" title="XF 40 black Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XF-40-white-Int.php#!juwel-000000000000020044" title="XF 40 white Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XF-125-white.php#!juwel-xf060w" title="XF-060 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -95,35 +93,163 @@
 	                     <!-- ende-> Dekor-/Farb-Auswahl -->
 	                     <!-- Facebook -->
 	                     
+                                                                                                                                                
+	                     <!-- ende-> Facebook -->
 	            	</div>
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/pictures/master/product/8/20040.png" alt="XF ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/w/54/xf060.png" alt="XF-060 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
-	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XF </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XF-060 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/20040.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/20040.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/w/1173/xf060.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/w/750/xf060.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/20040.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/w/77/xf060.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
 		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/3/20040.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/3/20040.png" alt="">
+		                                <a href="<?php echo $site_url;?>out/w/1173/xf060.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/w/750/xf060.png" alt="">
 		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/3/20040.png)"></a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/w/77/xf060.png)"></a>
+		                            </div>
+		                        </div>
+								<!-- /Galerie-Element -->
+								
+								<!-- /Galerie-Element -->
+									                    </div>
+		                    <div class="pagination"></div>
+		                    <div class="gb-thumb-prev"></div>
+		                    <div class="gb-thumb-next"></div>
+		                    <div class="gb-prev"></div>
+		                    <div class="gb-next"></div>
+		                </div>
+	            					</div>
+	            <!-- ende-> versteckte Elemente -->
+	        </div>
+	        <!-- ende-> Slider-Item (Produkt-Variante) -->
+																																																										    	<!-- Slider-Item (Produkt-Variante) -->
+	        <div class="item" id="juwel-xf120w" data-variants="juwel-xf120w"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+	            <div class="page_margins item-content">
+	            	<!-- Breadcrumb -->
+	            	<div class="breadcrumb nav fl clearfix">
+	                    <ul class="fl">
+	                        <li>您的位置:</li>
+	                        <li>XF系列</li>
+	                        <li>XF-120 </li>
+	                    </ul>
+	                </div>
+	                <!-- ende -> Breadcrumb -->
+	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
+	            	<div class="product-image">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xf120w" title="LEECOM | XF-120 白色">
+	                        <a href="<?php echo $site_url;?>out/w/1173/xf120.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/w/1173/xf120.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        </a>
+	                    </div>
+	            	</div>
+	                <!-- ende-> Produkt-Bilder -->
+	                <!-- rechter Bereich im Slider neben dem Produktbild -->
+	                <div class="right">
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XF-120 </span></h2><!-- varianten headline -->
+	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <!-- Dekor-/Farb-Auswahl -->
+	                    <div class="variations nav clearfix">
+	                        <div class="oh">
+		                            <ul>
+																			<li><a href="XF-180-white.php#!juwel-xf120w" title="XF-120 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+											                            </ul>
+		                        </div>
+	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
+	                        <div class="variations-slider-wrapper">
+	                            <div class="variations-slider"></div>
+	                        </div>
+	                     </div>
+	                     <!-- ende-> Dekor-/Farb-Auswahl -->
+	                     <!-- Facebook -->
+	                     
+                                                                                                                                                
+	                     <!-- ende-> Facebook -->
+	            	</div>
+	            </div>
+	            <!-- versteckte Elemente -->
+	            <div class="hidden">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/w/54/xf120.png" alt="XF-120 ">
+	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
+	            		            							
+	            								
+		 				<!-- Bilder Galerie -->
+		                <div class="gallery-box">
+		                    <h2 class="tk-myriad-pro tk-regular">XF-120 </h2>
+		                    <div class="gallery-slider">
+									                    	<!-- Galerie-Element -->
+		                        <div class="gallery-item">
+		                            <div class="wrapper">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/xf120.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/xf120.png" alt="">
+		                                </a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/xf120.png)"></a>
+		                            </div>
+		                        </div>
+								<!-- /Galerie-Element -->
+									                    	<!-- Galerie-Element -->
+		                        <div class="gallery-item">
+		                            <div class="wrapper">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/xf120.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/xf120.png" alt="">
+		                                </a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/xf120.png)"></a>
+		                            </div>
+		                        </div>
+								<!-- /Galerie-Element -->
+									                    	<!-- Galerie-Element -->
+		                        <div class="gallery-item">
+		                            <div class="wrapper">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/5/xf120.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/5/xf120.png" alt="">
+		                                </a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/5/xf120.png)"></a>
+		                            </div>
+		                        </div>
+								<!-- /Galerie-Element -->
+									                    	<!-- Galerie-Element -->
+		                        <div class="gallery-item">
+		                            <div class="wrapper">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/6/xf120.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/6/xf120.png" alt="">
+		                                </a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/6/xf120.png)"></a>
+		                            </div>
+		                        </div>
+								<!-- /Galerie-Element -->
+									                    	<!-- Galerie-Element -->
+		                        <div class="gallery-item">
+		                            <div class="wrapper">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/7/xf120.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/7/xf120.png" alt="">
+		                                </a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/7/xf120.png)"></a>
+		                            </div>
+		                        </div>
+								<!-- /Galerie-Element -->
+									                    	<!-- Galerie-Element -->
+		                        <div class="gallery-item">
+		                            <div class="wrapper">
+		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/8/xf120.jpg" class="cloud-zoom">
+		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/8/xf120.png" alt="">
+		                                </a>
+		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/8/xf120.png)"></a>
 		                            </div>
 		                        </div>
 								<!-- /Galerie-Element -->
@@ -137,6 +263,8 @@
 	            					</div>
 	            <!-- ende-> versteckte Elemente -->
 	        </div>
+	        <!-- ende-> Slider-Item (Produkt-Variante) -->
+
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
 				    </div>
     <a id="stage-prev" class="stage-nav" href="#"></a>
@@ -152,6 +280,7 @@
 	loadContentByArtId = function( sArtId ) {
 
 		var iArtId = sArtId.substr(6,50);
+		 // alert(iArtId);
 		//$('#sroverlay').show();
 		var contentBox = $('#ajax-content')
 		var loader = $('#product-loading-content');
@@ -161,16 +290,16 @@
 		loader.show()			   // loader einblenden
 
 		// url für Request
-		// var url = '<?php echo $site_url;?>partials/produkt-detail/ajax-content/ajax.php/'
+		// var url = 'http://www.juwel-aquarium.de/partials/produkt-detail/ajax-content/ajax.php/'
 		var sData = "cl=srajax&fnc=getArticleContent&tpl=srarticlecontent.tpl&anid=" + iArtId + "";
 
 		//data: {artId: iArtId},
 		
-		if(window.location.protocol.indexOf("https") >= 0) {
-			var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040cl=srajax";
-		} else {
+		// if(window.location.protocol.indexOf("https") >= 0) {
+		// 	var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XF-Line/XF-300-black.php#!juwel-xf060wcl=srajax";
+		// } else {
 			var sUrl = "../ajax-content/" + iArtId + ".php";
-		}
+		// }
 
 		// ajax request
 		$.ajax({
@@ -210,9 +339,9 @@
 
 <div class="page_margins">
     <div class="content clearfix">
-    <div id="ajax-content" style="position: relative">
-    	<!-- in diesen Container wird der Tab-Content und der Cross-Selling-Slider für das ausgewählte Produkt reingeladen -->
-    </div>
+    <div id="ajax-content" style="position: relative; display: block;"><!-- Tab-Container -->
+
+</div>
 	  <div id="product-loading-content"></div>
         <div class="go-top clear clearfix">
         	<a class="arrow-link top fr scroll-link" href="#header">回到页首</a>
@@ -221,24 +350,16 @@
 </div>	
 </div>
 <!-- /Main-Area -->
-
-<!-- Footer-Area -->
-																								
-
-
-	<div id="breadcrumb-bottom" class="nav">
+<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../index.php" title="Products">产品展示</a></li>
-			    						    <li><a href="XF-40-black-Int.php" title="XF系列">XF系列</a></li>
-			    			        </ul>                        
+		    <li><a href="../../index.php" title="Products">产品展示</a></li>
+				<li><a href="#" title="">XF系列</a></li>
+	        </ul>                        
     </div>
 </div>
-
 <?php include($_SERVER['DOCUMENT_ROOT']."/leecom/footer-cn.php");?>
             
 	<div id="sroverlay" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999999999999999;display: none;"></div>
 </body>
 </html>
-
-

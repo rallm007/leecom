@@ -29,28 +29,28 @@
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
                                 																																																																																							                    <a href="#juwel-xc300b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/b/80/xc300.png" alt="XC 300 ">
-                        XC 300 
+                        <img data-src="<?php echo $site_url;?>out/b/80/xc300.png" alt="XC-300 ">
+                        XC-300 
                     </a>
                 																																																																																							                    <a href="#juwel-xc360b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/b/80/xc360.png" alt="XC 360 ">
-                        XC 360 
+                        <img data-src="<?php echo $site_url;?>out/b/80/xc360.png" alt="XC-360 ">
+                        XC-360 
                     </a>
                 																																																																																							                    <a href="#juwel-xc400b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/b/80/xc400.png" alt="XC 400 ">
-                        XC 400 
+                        <img data-src="<?php echo $site_url;?>out/b/80/xc400.png" alt="XC-400 ">
+                        XC-400 
                     </a>
                 																																																																																							                    <a href="#juwel-xc460b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/b/80/xc460.png" alt="XC 460 ">
-                        XC 460 
+                        <img data-src="<?php echo $site_url;?>out/b/80/xc460.png" alt="XC-460 ">
+                        XC-460 
                     </a>
                 																																																																																							                    <a href="#juwel-xc600b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/b/80/xc600.png" alt="XC 600 ">
-                        XC 600 
+                        <img data-src="<?php echo $site_url;?>out/b/80/xc600.png" alt="XC-600 ">
+                        XC-600 
                     </a>
                     																																																																																					                    <a href="#juwel-xc800b" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/b/80/xc800.png" alt="XC 800 ">
-                        XC 800 
+                        <img data-src="<?php echo $site_url;?>out/b/80/xc800.png" alt="XC-800 ">
+                        XC-800 
                     </a>
                                                 </div>
             </div>
@@ -77,18 +77,18 @@
 	                    <ul class="fl">
 	                        <li>您的位置:</li>
 	                        <li>XC系列</li>
-	                        <li>XC 300 </li>
+	                        <li>XC-300 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-xc300b" title="LEECOM | XC 300 黑色">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xc300b" title="LEECOM | XC-300 黑色">
 	                        <a href="<?php echo $site_url;?>out/b/1173/xc300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/b/378/xc300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-xc300w" title="LEECOM | XC 300 白色">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xc300w" title="LEECOM | XC-300 白色">
 	                        <a href="<?php echo $site_url;?>out/w/1173/xc300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/w/378/xc300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
@@ -97,14 +97,14 @@
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC 300 </span></h2><!-- varianten headline -->
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-300 </span></h2><!-- varianten headline -->
 	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XC-300-black.php#!juwel-xc300b" title="XC 300 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XC-125-white.php#!juwel-xc300w" title="XC 300 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-300-black.php#!juwel-xc300b" title="XC-300 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-125-white.php#!juwel-xc300w" title="XC-300 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -121,12 +121,12 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xc300.png" alt="XC 300 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xc300.png" alt="XC-300 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XC 300 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XC-300 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -169,34 +169,34 @@
 	                    <ul class="fl">
 	                        <li>您的位置:</li>
 	                        <li>XC系列</li>
-	                        <li>XC 360 </li>
+	                        <li>XC-360 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-xc360b" title="LEECOM | XC 360 黑色">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xc360b" title="LEECOM | XC-360 黑色">
 	                        <a href="<?php echo $site_url;?>out/b/1173/xc360.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/b/1173/xc360.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-xc360w" title="LEECOM | XC 360 白色">
-	                        <a href="<?php echo $site_url;?>out/b/1173/04400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/04400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	            			                	<div class="product-image-wrapper" data-id="juwel-xc360w" title="LEECOM | XC-360 白色">
+	                        <a href="<?php echo $site_url;?>out/b/1173/xc360.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/b/1173/xc360.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            	</div>
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC 360 </span></h2><!-- varianten headline -->
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-360 </span></h2><!-- varianten headline -->
 	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XC-360-black.php#!juwel-xc360b" title="XC 360 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XC-180-white.php#!juwel-xc360w" title="XC 360 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-360-black.php#!juwel-xc360b" title="XC-360 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-180-white.php#!juwel-xc360w" title="XC-360 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -213,13 +213,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xc360.png" alt="XC 360 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xc360.png" alt="XC-360 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XC 360 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XC-360 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -300,34 +300,34 @@
 	                    <ul class="fl">
 	                        <li>您的位置:</li>
 	                        <li>XC系列</li>
-	                        <li>XC 400 </li>
+	                        <li>XC-400 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-xc400b" title="LEECOM | XC 400 黑色">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xc400b" title="LEECOM | XC-400 黑色">
 	                        <a href="<?php echo $site_url;?>out/b/1173/xc400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/b/1173/xc400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-xc400w" title="LEECOM | XC 400 白色">
-	                        <a href="<?php echo $site_url;?>out/b/1173/03400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/03400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	            			                	<div class="product-image-wrapper" data-id="juwel-xc400w" title="LEECOM | XC-400 白色">
+	                        <a href="<?php echo $site_url;?>out/b/1173/xc400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/b/1173/xc400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC 400 </span></h2><!-- varianten headline -->
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-400 </span></h2><!-- varianten headline -->
 	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XC-400-black.php#!juwel-xc400b" title="XC 400 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XC-240-white.php#!juwel-xc400w" title="XC 400 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-400-black.php#!juwel-xc400b" title="XC-400 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-240-white.php#!juwel-xc400w" title="XC-400 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -342,13 +342,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xc400.png" alt="XC 400 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xc400.png" alt="XC-400 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XC 400 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XC-400 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -409,34 +409,34 @@
 	                    <ul class="fl">
 	                        <li>您的位置:</li>
 	                        <li>XC系列</li>
-	                        <li>XC 460 </li>
+	                        <li>XC-460 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-xc460b" title="LEECOM | XC 460 黑色">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xc460b" title="LEECOM | XC-460 黑色">
 	                        <a href="<?php echo $site_url;?>out/b/1173/xc460.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/b/1173/xc460.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-xc460w" title="LEECOM | XC 460 白色">
-	                        <a href="<?php echo $site_url;?>out/b/1173/07400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/07400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	            			                	<div class="product-image-wrapper" data-id="juwel-xc460w" title="LEECOM | XC-460 白色">
+	                        <a href="<?php echo $site_url;?>out/b/1173/xc460.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/b/1173/xc460.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC 460 </span></h2><!-- varianten headline -->
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-460 </span></h2><!-- varianten headline -->
 	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XC-600-black.php#!juwel-xc460b" title="XC 460 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XC-300-white.php#!juwel-xc460w" title="XC 460 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-600-black.php#!juwel-xc460b" title="XC-460 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-300-white.php#!juwel-xc460w" title="XC-460 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -451,13 +451,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xc460.png" alt="XC 460 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xc460.png" alt="XC-460 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XC 460 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XC-460 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -518,34 +518,34 @@
 	                    <ul class="fl">
 	                        <li>您的位置:</li>
 	                        <li>XC系列</li>
-	                        <li>XC 600 </li>
+	                        <li>XC-600 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-xc600b" title="LEECOM | XC 600 黑色">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xc600b" title="LEECOM | XC-600 黑色">
 	                        <a href="<?php echo $site_url;?>out/b/1173/xc600.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/b/1173/xc600.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-xc600w" title="LEECOM | XC 600 白色">
-	                        <a href="<?php echo $site_url;?>out/b/1173/05400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/05400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	            			                	<div class="product-image-wrapper" data-id="juwel-xc600w" title="LEECOM | XC-600 白色">
+	                        <a href="<?php echo $site_url;?>out/b/1173/xc600.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/b/1173/xc600.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC 600 </span></h2><!-- varianten headline -->
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-600 </span></h2><!-- varianten headline -->
 	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XC-400-black.php#!juwel-xc600b" title="XC 600 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XC-400-white.php#!juwel-xc600w" title="XC 600 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-400-black.php#!juwel-xc600b" title="XC-600 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-400-white.php#!juwel-xc600w" title="XC-600 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -560,13 +560,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xc600.png" alt="XC 600 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xc600.png" alt="XC-600 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XC 600 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XC-600 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -626,34 +626,34 @@
 	                    <ul class="fl">
 	                        <li>您的位置:</li>
 	                        <li>XC系列</li>
-	                        <li>XC 800 </li>
+	                        <li>XC-800 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-xc800b" title="LEECOM | XC 800 黑色">
+	            			                	<div class="product-image-wrapper" data-id="juwel-xc800b" title="LEECOM | XC-800 黑色">
 	                        <a href="<?php echo $site_url;?>out/b/1173/xc800.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
 	                            <img data-src="<?php echo $site_url;?>out/b/1173/xc800.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
-	            			                	<div class="product-image-wrapper" data-id="juwel-xc800w" title="LEECOM | XC 800 白色">
-	                        <a href="<?php echo $site_url;?>out/b/1173/05400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/05400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	            			                	<div class="product-image-wrapper" data-id="juwel-xc800w" title="LEECOM | XC-800 白色">
+	                        <a href="<?php echo $site_url;?>out/b/1173/xc800.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/b/1173/xc800.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC 800 </span></h2><!-- varianten headline -->
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-800 </span></h2><!-- varianten headline -->
 	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XC-400-black.php#!juwel-xc800b" title="XC 800 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
-																			<li><a href="XC-400-white.php#!juwel-xc800w" title="XC 800 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-400-black.php#!juwel-xc800b" title="XC-800 黑色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XC-400-white.php#!juwel-xc800w" title="XC-800 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -668,13 +668,13 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xc800.png" alt="XC 800 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xc800.png" alt="XC-800 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
 		 				<!-- Bilder Galerie -->
 		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XC 800 </h2>
+		                    <h2 class="tk-myriad-pro tk-regular">XC-800 </h2>
 		                    <div class="gallery-slider">
 									                    	<!-- Galerie-Element -->
 		                        <div class="gallery-item">
@@ -815,7 +815,7 @@
     <div class="page_margins">
         <ul>
 		    <li><a href="../../index.php" title="Products">产品展示</a></li>
-				<li><a href="XC-180-black.php" title="XC系列">XC系列</a></li>
+				<li><a href="#" title="">XC系列</a></li>
 	        </ul>                        
     </div>
 </div>
