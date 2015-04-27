@@ -190,7 +190,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-360 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>细节决定成败，关注每一处细节，用心自我体验。每一个产品都经过漫长的反复多次的测试与试验，从粗到精的漫长过程，以最完美的身姿呈现在您面前。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -321,7 +321,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-400 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>细节决定成败，关注每一处细节，用心自我体验。每一个产品都经过漫长的反复多次的测试与试验，从粗到精的漫长过程，以最完美的身姿呈现在您面前。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -430,7 +430,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-460 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>细节决定成败，关注每一处细节，用心自我体验。每一个产品都经过漫长的反复多次的测试与试验，从粗到精的漫长过程，以最完美的身姿呈现在您面前。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -539,7 +539,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-600 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>细节决定成败，关注每一处细节，用心自我体验。每一个产品都经过漫长的反复多次的测试与试验，从粗到精的漫长过程，以最完美的身姿呈现在您面前。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -647,7 +647,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-800 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>细节决定成败，关注每一处细节，用心自我体验。每一个产品都经过漫长的反复多次的测试与试验，从粗到精的漫长过程，以最完美的身姿呈现在您面前。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">

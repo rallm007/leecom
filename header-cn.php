@@ -113,18 +113,18 @@ var _gaq = _gaq || [];
 	                        <ul>
 								<li class="head"><h4>水族箱</h4></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XP-Line/XP-300-black.php#!juwel-000000000000001300" id="00000000031">XP系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XP-Line/XP-300-black.php#!juwel-xp300b" id="00000000031">XP系列</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XC-Line/XC-180-black.php#!juwel-000000000000009300" id="00000000041">XC系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XC-Line/XC-180-black.php#!juwel-xc300b" id="00000000041">XC系列</a></li>
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-xt300b" id="00000000051">XT系列</a></li>
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-xe300b" id="00000000061">XE系列</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XK-Line/XK-600-black-Int.php#!juwel-xk200b" id="00000000071">XK系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XK-Line/XK-600-black-Int.php#!juwel-xk200w" id="00000000071">XK系列</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XA-Line/XA-40-black-Int.php#!juwel-xa815b" id="00000001271">XA系列</a></li>
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040" id="00000001271">XF系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XA-Line/XA-40-black-Int.php#!juwel-xa815w" id="00000001289">XA系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-xf060w" id="00000001271">XF系列</a></li>
 						<!-- Aquarien -->
 								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860" id="00000001281">XQ系列</a></li>
 			</ul>
@@ -167,7 +167,8 @@ var _gaq = _gaq || [];
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xp360.jpg" alt="XP-360 "></li>	                                    		            	
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xp400.jpg" alt="XP-400 "></li>	                                    		            	
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xp460.jpg" alt="XP-460 "></li>	                                    		            	
-			                    			<li><img src="<?php echo $site_url;?>out/b/35/xp600.jpg" alt="XP-600 "></li>	                                    			                                    				                                    			                                    				                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/b/35/xp600.jpg" alt="XP-600 "></li>
+                                            <li><img src="<?php echo $site_url;?>out/b/35/xp800.jpg" alt="XP-800 "></li>	                                    			                                    				                                    			                                    				                                    		            	
 	                                    </ul>
 	                                </div>
 	                            </div>				
@@ -175,12 +176,12 @@ var _gaq = _gaq || [];
 		                		    <div class="product-info clearfix" id="info-00000000041" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="XC系列" src="<?php echo $site_url;?>out/pictures/master/product/2/09300.jpg">
+                                    	<img alt="XC系列" src="<?php echo $site_url;?>out/b/200/xc300.jpg">
                                     	</div>
 	                                <div class="descr clearfix">
 	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XC系列</span></h4>
-	                                    <h5>简约的美丽</h5>
-	                                    <p>高雅却不张扬，奢华却不累赘，不经意营造一种浪漫而独具魅力的气息。</p>
+	                                    <h5>用心制造</h5>
+	                                    <p>细节决定成败，关注每一处细节，用心自我体验。每一个产品都经过漫长的反复多次的测试与试验，从粗到精的漫长过程，以最完美的身姿呈现在您面前。</p>
 	                                    <ul class="decor fl">
 	                                    			                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
@@ -188,9 +189,12 @@ var _gaq = _gaq || [];
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-                                			<li><img src="<?php echo $site_url;?>out/b/35/09300.jpg" alt="XC-180 "></li>	                                    		            	
-                                			<li><img src="<?php echo $site_url;?>out/b/35/06800.jpg" alt="XC-260 "></li>	                                    		            	
-                                			<li><img src="<?php echo $site_url;?>out/b/35/10300.jpg" alt="XC-450 "></li>
+                                			<li><img src="<?php echo $site_url;?>out/b/35/xc300.jpg" alt="XC-300 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/b/35/xc360.jpg" alt="XC-360 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/b/35/xc400.jpg" alt="XC-400 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/b/35/xc460.jpg" alt="XC-460 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/b/35/xc600.jpg" alt="XC-600 "></li>
+                                            <li><img src="<?php echo $site_url;?>out/b/35/xc800.jpg" alt="XC-800 "></li>
 	                                    </ul>                                    
 	                                </div>
 	                            </div>				
@@ -198,7 +202,7 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div class="product-info clearfix" id="info-00000000051" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="XT系列" src="<?php echo $site_url;?>out/pictures/master/product/2/16300.jpg">
+                                    	<img alt="XT系列" src="<?php echo $site_url;?>out/b/200/xt300.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
 	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XT系列</span></h4>
@@ -211,8 +215,12 @@ var _gaq = _gaq || [];
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-		                        			<li><img src="<?php echo $site_url;?>out/b/35/16300.jpg" alt="XT-190 "></li>                                		            	
-		                        			<li><img src="<?php echo $site_url;?>out/b/35/15300.jpg" alt="XT-350 "></li>                              			                                    				                                    			                                    				                                    		            	
+		                        			<li><img src="<?php echo $site_url;?>out/b/35/xt300.jpg" alt="XT-300 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/b/35/xt360.jpg" alt="XT-360 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/b/35/xt400.jpg" alt="XT-400 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/b/35/xt460.jpg" alt="XT-460 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/b/35/xt600.jpg" alt="XT-600 "></li>
+                                            <li><img src="<?php echo $site_url;?>out/b/35/xt800.jpg" alt="XT-800 "></li>                             			                                    				                                    			                                    				                                    		            	
 	                                    </ul>                                   
 	                                </div>
 	                            </div>				
@@ -220,7 +228,7 @@ var _gaq = _gaq || [];
 		                		                   	                        	<div class="product-info clearfix" id="info-00000000061" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="XE系列" src="<?php echo $site_url;?>out/pictures/master/product/2/11300.jpg">
+                                    	<img alt="XE系列" src="<?php echo $site_url;?>out/b/200/xe300.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
 	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XE系列</span></h4>
@@ -233,37 +241,56 @@ var _gaq = _gaq || [];
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-		                        			<li><img src="<?php echo $site_url;?>out/b/35/11300.jpg" alt="XE-120 "></li>		                                    		            	
-		                        			<li><img src="<?php echo $site_url;?>out/b/35/11830.jpg" alt="XE-200 "></li>	                                    			                                    				                                    			                                    				                                    		            	
+		                        			<li><img src="<?php echo $site_url;?>out/b/35/xe300.jpg" alt="XE-300 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/b/35/xe360.jpg" alt="XE-360 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/b/35/xe400.jpg" alt="XE-400 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/b/35/xe460.jpg" alt="XE-460 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/b/35/xe600.jpg" alt="XE-600 "></li>
+                                            <li><img src="<?php echo $site_url;?>out/b/35/xe800.jpg" alt="XE-800 "></li> 	                                    			                                    				                                    			                                    				                                    		            	
 	                                    </ul>                                   
 	                                </div>
 	                            </div>
 		                		    <div class="product-info clearfix" id="info-00000000071" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="XK系列" src="<?php echo $site_url;?>out/pictures/master/product/2/21600.jpg">
+                                    	<img alt="XK系列" src="<?php echo $site_url;?>out/w/200/xk200.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
 	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XK系列</span></h4>
 	                                    <h5>世界是洁净透明的</h5>
 	                                    <p>世界顶级浮法玻璃，通透大气，打造透明的世界，每一个棱角，每一道线条都追求完美。</p>
 	                                    <ul class="decor fl">
-	                                    			                                    	            	
-		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
-		                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                    		                                    		                                    </ul>
 	                                    <ul class="sizes fl">
-                                			<li><img src="<?php echo $site_url;?>out/b/35/21600.jpg" alt="XK-600 "></li>
-                                			<li><img src="<?php echo $site_url;?>out/b/35/21700.jpg" alt="XK-700 "></li>
-                                			<li><img src="<?php echo $site_url;?>out/b/35/21800.jpg" alt="XK-800 "></li>
+                                			<li><img src="<?php echo $site_url;?>out/w/35/xk200.jpg" alt="XK-200 "></li>
+                                			<li><img src="<?php echo $site_url;?>out/w/35/xk250.jpg" alt="XK-250 "></li>
 	                                    </ul>                                   
+	                                </div>
+	                            </div>
+                                <div class="product-info clearfix" id="info-00000001289" style="display: none;">
+	                            	<div class="image">
+                                   	                                    	                                    	            	
+                                    	<img alt="XA-Line" src="<?php echo $site_url;?>out/w/200/xa815.jpg">
+                                    	                                   		                                </div>
+	                                <div class="descr clearfix">
+	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XA系列</span></h4>
+	                                    <h5>带上你的宠宝，畅游吧</h5>
+	                                    <p>自由自在，轻松出行，享受自由，享受自在</p>
+	                                    <ul class="decor fl">                     	            	
+		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
+		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
+		                                <ul class="sizes fl">
+	                                    	<li><img src="<?php echo $site_url;?>out/w/35/xa815.jpg" alt="XA-815 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/w/35/xa820.jpg" alt="XA-820 "></li>	                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/w/35/xa825.jpg" alt="XA-825 "></li>
+	                                    </ul>                                  
 	                                </div>
 	                            </div>				
 								<div class="product-info clearfix" id="info-00000001271" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="XF系列" src="<?php echo $site_url;?>out/pictures/master/product/2/20040.jpg">
+                                    	<img alt="XF系列" src="<?php echo $site_url;?>out/w/200/xf060.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
 	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XF系列</span></h4>
@@ -275,14 +302,15 @@ var _gaq = _gaq || [];
 		                                    	            	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 	                                    <ul class="sizes fl">
-        			                        <li><img src="<?php echo $site_url;?>out/b/35/20040.jpg" alt="XF-"></li>			                                    		            	
+        			                        <li><img src="<?php echo $site_url;?>out/w/35/xf060.jpg" alt="XF-060"></li>
+                                            <li><img src="<?php echo $site_url;?>out/w/35/xf120.jpg" alt="XF-120"></li>			                                    		            	
 	                                    </ul>                                   
 	                                </div>
 	                            </div>				
 								<div class="product-info clearfix" id="info-00000001281" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="XQ-Line" src="<?php echo $site_url;?>out/pictures/master/product/2/23860.jpg">
+                                    	<img alt="XQ-Line" src="<?php echo $site_url;?>out/b/200/23860.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
 	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XQ系列</span></h4>

@@ -81,7 +81,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XA-815 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>自由自在，轻松出行，享受自由，享受自在</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -167,7 +167,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XA-820 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>自由自在，轻松出行，享受自由，享受自在</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -292,7 +292,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XA-825 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>自由自在，轻松出行，享受自由，享受自在</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">

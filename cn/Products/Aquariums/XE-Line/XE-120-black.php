@@ -190,7 +190,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE-360 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>高雅却不张扬，奢华却不累赘，不经意营造一种浪漫而独具魅力的气息。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -321,7 +321,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE-400 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>高雅却不张扬，奢华却不累赘，不经意营造一种浪漫而独具魅力的气息。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -430,7 +430,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE-460 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>高雅却不张扬，奢华却不累赘，不经意营造一种浪漫而独具魅力的气息。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -539,7 +539,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE-600 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>高雅却不张扬，奢华却不累赘，不经意营造一种浪漫而独具魅力的气息。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -647,7 +647,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE-800 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>高雅却不张扬，奢华却不累赘，不经意营造一种浪漫而独具魅力的气息。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">

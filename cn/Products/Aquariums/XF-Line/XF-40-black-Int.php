@@ -77,7 +77,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XF-060 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>节能、环保，轻松加水投饲，精巧、简约，尤其适合办公室、家居的桌面摆设。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -163,7 +163,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XF-120 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>节能、环保，轻松加水投饲，精巧、简约，尤其适合办公室、家居的桌面摆设。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">

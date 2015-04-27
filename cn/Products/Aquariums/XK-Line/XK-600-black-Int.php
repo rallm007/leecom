@@ -77,7 +77,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XK-200 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>世界顶级浮法玻璃，通透大气，打造透明的世界，每一个棱角，每一道线条都追求完美。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
@@ -163,7 +163,7 @@
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
 	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XK-250 </span></h2><!-- varianten headline -->
-	                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+	                    <p>世界顶级浮法玻璃，通透大气，打造透明的世界，每一个棱角，每一道线条都追求完美。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
