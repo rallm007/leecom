@@ -16,18 +16,18 @@
     	<div class="breadcrumb accessories-detail nav clearfix">
     <ul class="fl">
         <li>您的位置:</li>
-        			    				    <li><a href="../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
-			            			    				    <li><a href="index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/" title="Marine">Marine</a></li>
+        			    				    <li><a href="../../index.php" title="产品展示">产品展示</a></li>
+			            			    				    <li><a href="index.php" title="Marine">Marine</a></li>
 			                    	</ul>
-</div>    	        	<a class="button grey-left fr" href="../../index.php" tppabs="<?php echo $site_url;?>cn/Products/">Back</a>
+</div>    	        	<a class="button grey-left fr" href="../../index.php">Back</a>
     	        </div>
         
     	        <div class="clearfix clear">
 				        		        	        	
 							        	
-		            <a class="grid_4 accessories-teaser" href="Skimmer/Juwel-SeaSkim-INT.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">
+		            <a class="grid_4 accessories-teaser" href="Skimmer/Juwel-SeaSkim-INT.php">
 		                <div class="image">
-		                    <img src="../../../../out/pictures/master/category/thumb/00000001201.png" tppabs="<?php echo $site_url;?>out/pictures/master/category/thumb/00000001201.png" alt="Skimmer">		                </div>
+		                    <img src="../../../../out/pictures/master/category/thumb/00000001201.png" alt="Skimmer">		                </div>
 		                <div class="content">
 		                    <h2>Skimmer</h2>
 		                    <p>Highly efficient protein skimming for all aquariums up to 500 litres.</p>
@@ -56,8 +56,8 @@
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
-			    						    <li><a href="index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/" title="Marine">Marine</a></li>
+						    <li><a href="../../index.php" title="产品展示">产品展示</a></li>
+			    						    <li><a href="index.php" title="Marine">Marine</a></li>
 			    			        </ul>                        
     </div>
 </div>

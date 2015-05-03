@@ -26,15 +26,15 @@
 										<div class="breadcrumb accessories-detail nav clearfix">
     <ul class="fl">
         <li>您的位置:</li>
-        			    				    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
-			            			    				    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/" title="Accessories">Accessories</a></li>
-			            			    				    <li><a href="Aqua-Clean-Gravel-and-filter-cleaner.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Aqua-Clean/" title="Aqua Clean">Aqua Clean</a></li>
+        			    				    <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
+			            			    				    <li><a href="../index.php" title="Accessories">Accessories</a></li>
+			            			    				    <li><a href="Aqua-Clean-Gravel-and-filter-cleaner.php" title="Aqua Clean">Aqua Clean</a></li>
 			                            <li>Aqua Clean -Gravel and filter cleaner</li>
 			</ul>
 </div>	
 	        <!-- Links - Navigation und Teaser-Content -->
         <div class="grid_3 nav">
-            <a class="button grey-left" href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/">Go to list</a>
+            <a class="button grey-left" href="../index.php">Go to list</a>
             
 <ul class="sub-nav">
 			
@@ -46,7 +46,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Automatic-Feeder/EasyFeed-Automatic-Feeder.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php">EasyFeed -Automatic Feeder</a>	                
+	                <a href="../Automatic-Feeder/EasyFeed-Automatic-Feeder.php">EasyFeed -Automatic Feeder</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -61,7 +61,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Digital-Thermometer/Digital-Thermometer-2-0.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Digital-Thermometer/Digital-Thermometer-2-0.php">Digital Thermometer 2.0</a>	                
+	                <a href="../Digital-Thermometer/Digital-Thermometer-2-0.php">Digital Thermometer 2.0</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -76,7 +76,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Heater/Aqua-Heat-50-50-Watt-Automatic-Heater-50-Watt.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Heater/Aqua-Heat-50-50-Watt-Automatic-Heater-50-Watt.php">Heater </a>	                
+	                <a href="../Heater/Aqua-Heat-50-50-Watt-Automatic-Heater-50-Watt.php">Heater </a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -91,7 +91,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li class="active">
-	                <a href="Aqua-Clean-Gravel-and-filter-cleaner.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Aqua-Clean/Aqua-Clean-Gravel-and-filter-cleaner.php">Aqua Clean -Gravel and filter cleaner</a>	                
+	                <a href="Aqua-Clean-Gravel-and-filter-cleaner.php">Aqua Clean -Gravel and filter cleaner</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -106,7 +106,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Poster-Fix/Poster-Fix.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Poster-Fix/Poster-Fix.php">Poster Fix</a>	                
+	                <a href="../Poster-Fix/Poster-Fix.php">Poster Fix</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -121,12 +121,12 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Bonding/Silexo-Aquarium-Silicone.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Bonding/Silexo-Aquarium-Silicone.php">Silexo -Aquarium Silicone</a>	                
+	                <a href="../Bonding/Silexo-Aquarium-Silicone.php">Silexo -Aquarium Silicone</a>	                
 	            </li>
 	        </ul>    
 	        	        <ul>
 	            <li>
-	                <a href="../Bonding/Conexo-High-strength-adhesive.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Bonding/Conexo-High-strength-adhesive.php">Conexo -High-strength adhesive</a>	                
+	                <a href="../Bonding/Conexo-High-strength-adhesive.php">Conexo -High-strength adhesive</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -141,7 +141,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../../Filtration/Pump-Accessories/Other-Accessories/OxyPlus-O2-diffuser.php" tppabs="<?php echo $site_url;?>cn/Products/More/Filtration/Pump-Accessories/Other-Accessories/OxyPlus-O2-diffuser.php">OxyPlus -O2 diffuser</a>	                
+	                <a href="../../Filtration/Pump-Accessories/Other-Accessories/OxyPlus-O2-diffuser.php">OxyPlus -O2 diffuser</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -156,7 +156,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Flap-Sets/Set-Flaps-II-80-35-II-80-35.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Flap-Sets/Set-Flaps-II-80-35-II-80-35.php">Flap Sets </a>	                
+	                <a href="../Flap-Sets/Set-Flaps-II-80-35-II-80-35.php">Flap Sets </a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -173,20 +173,20 @@
               																									
 <div class="tabs product-images">
     <div id="image-1">
-    	<a href="../../../../../out/pictures/master/product/main/zoom/1/87020.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/87020.jpg" class="cloud-zoom">
-    		<img src="../../../../../out/pictures/master/product/main/detail/1/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/detail/1/87020.png" alt="" width="278" height="278">
+    	<a href="../../../../../out/pictures/master/product/main/zoom/1/87020.jpg" class="cloud-zoom">
+    		<img src="../../../../../out/pictures/master/product/main/detail/1/87020.png" alt="" width="278" height="278">
         </a>
     </div>
     <div id="image-2">
-    	<a href="../../../../../out/pictures/master/product/main/zoom/2/87020.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/zoom/2/87020.jpg" class="cloud-zoom">
-    		<img src="../../../../../out/pictures/master/product/main/detail/2/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/detail/2/87020.png" alt="" width="278" height="278">
+    	<a href="../../../../../out/pictures/master/product/main/zoom/2/87020.jpg" class="cloud-zoom">
+    		<img src="../../../../../out/pictures/master/product/main/detail/2/87020.png" alt="" width="278" height="278">
         </a>
     </div>
      <!-- Bilder-Navigation -->
      <div class="clearfix">
      	            <ul class="product-images-nav clearfix">
-                            <li><a href="#image-1"><img src="../../../../../out/pictures/master/product/main/thumb/1/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/thumb/1/87020.png" alt=""></a></li>
-			                <li><a href="#image-2"><img src="../../../../../out/pictures/master/product/main/thumb/2/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/thumb/2/87020.png" alt=""></a></li>
+                            <li><a href="#image-1"><img src="../../../../../out/pictures/master/product/main/thumb/1/87020.png" alt=""></a></li>
+			                <li><a href="#image-2"><img src="../../../../../out/pictures/master/product/main/thumb/2/87020.png" alt=""></a></li>
 			            </ul>
 		    </div>
     <!-- ende -> Tab-Navigation -->
@@ -222,7 +222,7 @@
 <h2 class="tk-myriad-pro tk-light">Aqua Clean -Gravel and filter cleaner</h2>
 <p class="desc">JUWEL Aqua Clean is the ideal tool for cleaning your Juwel internal filter and the ground material of your Juwel aquarium.</p>
 
-<form class="loadVariant oxProductForm" action="../../../../../fi000028.php-lang=1&-stoken=8ecf99f2&force_sid=&lang=1&cnid=00000001051&listtype=list&ldtype=infogrid&cl=details&aid=000000000000087020&anid=000000000000087020&parentid=000000000000087020&panid=&fnc=tobasket.php" tppabs="<?php echo $site_url;?>index.php?lang=1&?stoken=8ECF99F2&force_sid=&lang=1&cnid=00000001051&listtype=list&ldtype=infogrid&cl=details&aid=000000000000087020&anid=000000000000087020&parentid=000000000000087020&panid=&fnc=tobasket" method="post">
+<form class="loadVariant oxProductForm" action="../../../../../fi000028.php-lang=1&-stoken=8ecf99f2&force_sid=&lang=1&cnid=00000001051&listtype=list&ldtype=infogrid&cl=details&aid=000000000000087020&anid=000000000000087020&parentid=000000000000087020&panid=&fnc=tobasket.php" method="post">
 	<input type="hidden" name="stoken" value="8ECF99F2"><input type="hidden" name="force_sid" value="">
 <input type="hidden" name="lang" value="1">
 	<input type="hidden" name="cnid" value="00000001051">
@@ -254,7 +254,7 @@
             <div class="bubble">
             	            	                <a class="mail" href="mailto:recipient@domain.com?subject=Juwel%20Aquarium%20-%20Aqua%20Clean%20-Gravel%20and%20filter%20cleaner">E-Mail</a>
 
-                                <div class="fb-send" data-href="Aqua-Clean-Gravel-and-filter-cleaner.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Aqua-Clean/Aqua-Clean-Gravel-and-filter-cleaner.php"></div>
+                                <div class="fb-send" data-href="Aqua-Clean-Gravel-and-filter-cleaner.php"></div>
                             </div>
          </li>
     </ul>
@@ -333,9 +333,9 @@
 			        	<h3>Downloads</h3>
 			            <ul class="files hlist">
 			            				            	
-			            				            					            		<li><a href="javascript:if(confirm('http://admin.juwel-aquarium.de/out/media/Aqua_clean_s.pdf  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ËüÊÇÒ»¸öÓò»òÂ·¾¶Íâ²¿±»ÉèÖÃÎªËüµÄÆôÊ¼µØÖ·µÄµØÖ·¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='http://admin.juwel-aquarium.de/out/media/Aqua_clean_s.pdf'" tppabs="http://admin.juwel-aquarium.de/out/media/Aqua_clean_s.pdf" target="_blank" onclick="ga('send', 'event', 'Downloads', 'click', 'Manual Aqua Clean');">Manual Aqua Clean<span>( PDF, 1.74 MB )</span></a></li>
+			            				            					            		<li><a href="javascript:if(confirm('http://admin.juwel-aquarium.de/out/media/Aqua_clean_s.pdf  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ËüÊÇÒ»¸öÓò»òÂ·¾¶Íâ²¿±»ÉèÖÃÎªËüµÄÆôÊ¼µØÖ·µÄµØÖ·¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='http://admin.juwel-aquarium.de/out/media/Aqua_clean_s.pdf'" target="_blank" onclick="ga('send', 'event', 'Downloads', 'click', 'Manual Aqua Clean');">Manual Aqua Clean<span>( PDF, 1.74 MB )</span></a></li>
 			            					            				            					            				            					            				            </ul>
-			            <a class="arrow-link" href="../../../../../index.php-lang=1&cl=alist&cnid=deservice2.php" tppabs="<?php echo $site_url;?>index.php?lang=1&cl=alist&cnid=deservice2" onclick="_gaq.push(['_trackEvent', 'Downloadquelle', 'click', 'Detailseite']);">More Downloads</a>
+			            <a class="arrow-link" href="../../../../../index.php-lang=1&cl=alist&cnid=deservice2.php" onclick="_gaq.push(['_trackEvent', 'Downloadquelle', 'click', 'Detailseite']);">More Downloads</a>
 			        </div>
 		        									
 						
@@ -378,7 +378,7 @@
 		    <div class="scrollcontent tinyscroll">
 		        <div class="article-heading clearfix">
 		            <div class="image fl">
-		                <img src="../../../../../out/pictures/master/product/4/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/4/87020.png">
+		                <img src="../../../../../out/pictures/master/product/4/87020.png">
 		            </div>
 		            <h2 class="tk-myriad-pro tk-light fl"></h2>
 		        </div>
@@ -520,24 +520,24 @@
 		    <div class="gallery-slider">
 						        <div class="gallery-item">
 		            <div class="wrapper">
-		                <a href="../../../../../out/pictures/master/product/gallery/zoom/1/87020.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/87020.jpg" class="cloud-zoom">
-		                    <img src="../../../../../out/pictures/master/product/gallery/detail/1/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/87020.png" alt="">
+		                <a href="../../../../../out/pictures/master/product/gallery/zoom/1/87020.jpg" class="cloud-zoom">
+		                    <img src="../../../../../out/pictures/master/product/gallery/detail/1/87020.png" alt="">
 		                </a>
 		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/87020.png)"></a>
 		            </div>
 		        </div>
 						        <div class="gallery-item">
 		            <div class="wrapper">
-		                <a href="../../../../../out/pictures/master/product/gallery/zoom/2/87020.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/87020.jpg" class="cloud-zoom">
-		                    <img src="../../../../../out/pictures/master/product/gallery/detail/2/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/87020.png" alt="">
+		                <a href="../../../../../out/pictures/master/product/gallery/zoom/2/87020.jpg" class="cloud-zoom">
+		                    <img src="../../../../../out/pictures/master/product/gallery/detail/2/87020.png" alt="">
 		                </a>
 		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/87020.png)"></a>
 		            </div>
 		        </div>
 						        <div class="gallery-item">
 		            <div class="wrapper">
-		                <a href="../../../../../out/pictures/master/product/gallery/zoom/3/87020.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/3/87020.jpg" class="cloud-zoom">
-		                    <img src="../../../../../out/pictures/master/product/gallery/detail/3/87020.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/3/87020.png" alt="">
+		                <a href="../../../../../out/pictures/master/product/gallery/zoom/3/87020.jpg" class="cloud-zoom">
+		                    <img src="../../../../../out/pictures/master/product/gallery/detail/3/87020.png" alt="">
 		                </a>
 		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/3/87020.png)"></a>
 		            </div>
@@ -562,9 +562,9 @@
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
-			    						    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/" title="Accessories">Accessories</a></li>
-			    						    <li><a href="Aqua-Clean-Gravel-and-filter-cleaner.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Aqua-Clean/" title="Aqua Clean">Aqua Clean</a></li>
+						    <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
+			    						    <li><a href="../index.php" title="Accessories">Accessories</a></li>
+			    						    <li><a href="Aqua-Clean-Gravel-and-filter-cleaner.php" title="Aqua Clean">Aqua Clean</a></li>
 			    			        </ul>                        
     </div>
 </div>

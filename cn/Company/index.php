@@ -17,7 +17,7 @@
     <div class="breadcrumb nav clearfix">
         <ul class="fl">        
             <li>您的位置:</li>
-            	            	            	            <li><a href="index.htm" tppabs="http://www.juwel-aquarium.de/cn/Company/">Company</a></li>            
+            	            	            	            <li><a href="index.htm">Company</a></li>            
                     </ul>
     </div>    
     <!-- ende-> Breadcrumb --> 
@@ -71,7 +71,7 @@
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="index.htm" tppabs="http://www.juwel-aquarium.de/cn/Company/" title="Company">Company</a></li>
+						    <li><a href="index.htm" title="Company">Company</a></li>
 			    			        </ul>                        
     </div>
 </div>

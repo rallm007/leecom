@@ -213,7 +213,7 @@
 	            </div>
 	            <!-- versteckte Elemente -->
 	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xp360.png" alt="XP-360 ">
+	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xp3601.png" alt="XP-360 ">
 	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
 	            		            							
 	            								
@@ -814,7 +814,7 @@
 <div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-		    <li><a href="../../index.php" title="Products">产品展示</a></li>
+		    <li><a href="../../index.php" title="产品展示">产品展示</a></li>
 				<li><a href="#" title="">XP系列</a></li>
 	        </ul>                        
     </div>

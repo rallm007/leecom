@@ -30,15 +30,15 @@
 										<div class="breadcrumb accessories-detail nav clearfix">
     <ul class="fl">
         <li>您的位置:</li>
-        			    				    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
-			            			    				    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/" title="Marine">Marine</a></li>
-			            			    				    <li><a href="Juwel-SeaSkim-INT.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/Skimmer/" title="Skimmer">Skimmer</a></li>
+        			    				    <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
+			            			    				    <li><a href="../index.php" title="Marine">Marine</a></li>
+			            			    				    <li><a href="Juwel-SeaSkim-INT.php" title="Skimmer">Skimmer</a></li>
 			                            <li>Juwel SeaSkim INT</li>
 			</ul>
 </div>	
 	        <!-- Links - Navigation und Teaser-Content -->
         <div class="grid_3 nav">
-            <a class="button grey-left" href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/">Go to list</a>
+            <a class="button grey-left" href="../index.php">Go to list</a>
             
 <ul class="sub-nav">
 			
@@ -50,7 +50,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li class="active">
-	                <a href="Juwel-SeaSkim-INT.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">Juwel SeaSkim INT</a>	                
+	                <a href="Juwel-SeaSkim-INT.php">Juwel SeaSkim INT</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -67,20 +67,20 @@
               																									
 <div class="tabs product-images">
     <div id="image-1">
-    	<a href="../../../../../out/pictures/master/product/main/zoom/1/87015.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/87015.jpg" class="cloud-zoom">
-    		<img src="../../../../../out/pictures/master/product/main/detail/1/87015.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/detail/1/87015.png" alt="" width="278" height="278">
+    	<a href="../../../../../out/pictures/master/product/main/zoom/1/87015.jpg" class="cloud-zoom">
+    		<img src="../../../../../out/pictures/master/product/main/detail/1/87015.png" alt="" width="278" height="278">
         </a>
     </div>
     <div id="image-2">
-    	<a href="../../../../../out/pictures/master/product/main/zoom/2/87015.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/zoom/2/87015.jpg" class="cloud-zoom">
-    		<img src="../../../../../out/pictures/master/product/main/detail/2/87015.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/detail/2/87015.png" alt="" width="278" height="278">
+    	<a href="../../../../../out/pictures/master/product/main/zoom/2/87015.jpg" class="cloud-zoom">
+    		<img src="../../../../../out/pictures/master/product/main/detail/2/87015.png" alt="" width="278" height="278">
         </a>
     </div>
      <!-- Bilder-Navigation -->
      <div class="clearfix">
      	            <ul class="product-images-nav clearfix">
-                            <li><a href="#image-1"><img src="../../../../../out/pictures/master/product/main/thumb/1/87015.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/thumb/1/87015.png" alt=""></a></li>
-			                <li><a href="#image-2"><img src="../../../../../out/pictures/master/product/main/thumb/2/87015.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/thumb/2/87015.png" alt=""></a></li>
+                            <li><a href="#image-1"><img src="../../../../../out/pictures/master/product/main/thumb/1/87015.png" alt=""></a></li>
+			                <li><a href="#image-2"><img src="../../../../../out/pictures/master/product/main/thumb/2/87015.png" alt=""></a></li>
 			            </ul>
 		    </div>
     <!-- ende -> Tab-Navigation -->
@@ -116,7 +116,7 @@
 <h2 class="tk-myriad-pro tk-light">Juwel SeaSkim INT</h2>
 <p class="desc">Use the JUWEL SeaSkim to turn your JUWEL Aquarium into a saltwater aquarium in next to no time.</p>
 
-<form class="loadVariant oxProductForm" action="../../../../../fi000001.php-lang=1&-stoken=24ee8643&force_sid=&lang=1&cnid=00000001201&listtype=list&ldtype=infogrid&cl=details&aid=000000000000087015&anid=000000000000087015&parentid=000000000000087015&panid=&fnc=tobasket.php" tppabs="<?php echo $site_url;?>index.php?lang=1&?stoken=24EE8643&force_sid=&lang=1&cnid=00000001201&listtype=list&ldtype=infogrid&cl=details&aid=000000000000087015&anid=000000000000087015&parentid=000000000000087015&panid=&fnc=tobasket" method="post">
+<form class="loadVariant oxProductForm" action="../../../../../fi000001.php-lang=1&-stoken=24ee8643&force_sid=&lang=1&cnid=00000001201&listtype=list&ldtype=infogrid&cl=details&aid=000000000000087015&anid=000000000000087015&parentid=000000000000087015&panid=&fnc=tobasket.php" method="post">
 	<input type="hidden" name="stoken" value="24EE8643"><input type="hidden" name="force_sid" value="">
 <input type="hidden" name="lang" value="1">
 	<input type="hidden" name="cnid" value="00000001201">
@@ -148,7 +148,7 @@
             <div class="bubble">
             	            	                <a class="mail" href="mailto:recipient@domain.com?subject=Juwel%20Aquarium%20-%20Juwel%20SeaSkim%20INT">E-Mail</a>
 
-                                <div class="fb-send" data-href="Juwel-SeaSkim-INT.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/Skimmer/Juwel-SeaSkim-INT.php"></div>
+                                <div class="fb-send" data-href="Juwel-SeaSkim-INT.php"></div>
                             </div>
          </li>
     </ul>
@@ -177,38 +177,38 @@ The skimmer cup is generously sized and easy to access. This guarantees simple c
 </a></div><br />
 <br /><br />
 <br />
-<div class="prod_detail_2columns_right"><img style="margin-top: -40px; margin-bottom: 20px" src="../../../../../out/juwel/src/images/all/productdetails/seaskim01_right.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim01_right.jpg" alt="" /></div>
+<div class="prod_detail_2columns_right"><img style="margin-top: -40px; margin-bottom: 20px" src="../../../../../out/juwel/src/images/all/productdetails/seaskim01_right.jpg" alt="" /></div>
 <div class="prod_detail_2columns_clear"></div>
-<div class="prod_detail_2columns_left"><img style="margin-top: -40px; margin-bottom: 30px" src="../../../../../out/juwel/src/images/all/productdetails/seaskim02_left.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim02_left.jpg" alt="" /></div>
+<div class="prod_detail_2columns_left"><img style="margin-top: -40px; margin-bottom: 30px" src="../../../../../out/juwel/src/images/all/productdetails/seaskim02_left.jpg" alt="" /></div>
 <div class="prod_detail_2columns_right">
 <h5><br />
 Ideally coordinated components</h5><br />
 <ul class="list-skimmer">
-<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_01.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_01.png" alt="" /></li>
+<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_01.png" alt="" /></li>
 <li><strong>Skimmer Cup</strong><br />
 Large foam chamber for long standing times and ease of use.<br />
 </li></ul><br />
 <br />
 <ul class="list-skimmer">
-<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_02.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_02.png" alt="" /></li>
+<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_02.png" alt="" /></li>
 <li><strong>O2 Control</strong><br />
 Continuously adjustable oxygen supply for optimum setting of the foam moisture. <br />
 </li></ul><br />
 <br />
 <ul class="list-skimmer">
-<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_03.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_03.png" alt="" /></li>
+<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_03.png" alt="" /></li>
 <li><strong>Top Clean</strong><br />
 Surface inlet with protective grill ensures a clean water surface. <br />
 </li></ul><br />
 <br />
 <ul class="list-skimmer">
-<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_04.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_04.png" alt="" /></li>
+<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_04.png" alt="" /></li>
 <li><strong>O2 Infusion</strong><br />
 The finest air bubbles ensure optimum skimming results. <br />
 </li></ul><br />
 <br />
 <ul class="list-skimmer">
-<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_05.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_05.png" alt="" /></li>
+<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_05.png" alt="" /></li>
 <li><strong>Eccoflow SeaSkim Pump</strong><br />
 Highly efficient and whisper-quiet Eccoflow SeaSkim pump with double-mounted ceramic axle.<br />
 </li></ul><a class="arrow-link top scroll-link" href="#fb-root">Go To Top</a></div><br />
@@ -219,9 +219,9 @@ Highly efficient and whisper-quiet Eccoflow SeaSkim pump with double-mounted cer
 All operating elements are easily accessible on the top of the skimmer. The air controller and the water pressure controller enable ideal adjustment of the SeaSkim protein skimmer <br />
 <a class="arrow-link top scroll-link" href="#fb-root">Go To Top</a></div><br />
 <br />
-<div class="prod_detail_2columns_right"><img style="margin-top: -60px; margin-bottom: 45px" src="../../../../../out/juwel/src/images/all/productdetails/seaskim03_right.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim03_right.jpg" alt="" /></div>
+<div class="prod_detail_2columns_right"><img style="margin-top: -60px; margin-bottom: 45px" src="../../../../../out/juwel/src/images/all/productdetails/seaskim03_right.jpg" alt="" /></div>
 <div class="prod_detail_2columns_clear"></div>
-<div class="prod_detail_2columns_left"><img style="margin-top: -60px; margin-bottom: 45px" src="../../../../../out/juwel/src/images/all/productdetails/seaskim04_left.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim04_left.jpg" alt="" /></div>
+<div class="prod_detail_2columns_left"><img style="margin-top: -60px; margin-bottom: 45px" src="../../../../../out/juwel/src/images/all/productdetails/seaskim04_left.jpg" alt="" /></div>
 <div class="prod_detail_2columns_right">
 <h5>Easy installation</h5>
 The innovative retainer guarantees easy installation of the skimmer during servicing activities or operation.<br />
@@ -234,9 +234,9 @@ All components of the SeaSkim are integrated into the housing and there are no h
 <a class="arrow-link top scroll-link" href="#fb-root">Go To Top</a></div><br />
 <br />
 <div class="prod_detail_2columns_right"><img
-<img="" style="margin-top: -25px; margin-bottom: 0" src="../../../../../out/juwel/src/images/all/productdetails/seaskim05_right.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim05_right.jpg" alt="" /></div>
+<img="" style="margin-top: -25px; margin-bottom: 0" src="../../../../../out/juwel/src/images/all/productdetails/seaskim05_right.jpg" alt="" /></div>
 <div class="prod_detail_2columns_clear"></div>
-<div class="prod_detail_2columns_left"><img style="margin-top: -54px; margin-bottom: 0" src="../../../../../out/juwel/src/images/all/productdetails/seaskim06_left.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim06_left.jpg" alt="" /></div>
+<div class="prod_detail_2columns_left"><img style="margin-top: -54px; margin-bottom: 0" src="../../../../../out/juwel/src/images/all/productdetails/seaskim06_left.jpg" alt="" /></div>
 <div class="prod_detail_2columns_right">
 <h5>Compatible opening in the cover for mounting in all JUWEL aquariums.</h5>
 All of the aquariums in the XP, XC, XE-and XT-lines already have the matching opening in the cover and are therefore ideally prepared for seawater operation.<br />
@@ -311,9 +311,9 @@ All of the aquariums in the XP, XC, XE-and XT-lines already have the matching op
 			        	<h3>Downloads</h3>
 			            <ul class="files hlist">
 			            				            	
-			            				            					            				            					            				            					            				            					            				            					            		<li><a href="../../../../../out/media/Skimmer/SeaSkim/cn/SeaSkim.pdf" tppabs="<?php echo $site_url;?>out/media/Skimmer/SeaSkim/cn/SeaSkim.pdf" target="_blank" onclick="ga('send', 'event', 'Downloads', 'click', 'Manual SeaSkim');">Manual SeaSkim<span>( PDF, 1.86 MB )</span></a></li>
+			            				            					            				            					            				            					            				            					            				            					            		<li><a href="../../../../../out/media/Skimmer/SeaSkim/cn/SeaSkim.pdf" target="_blank" onclick="ga('send', 'event', 'Downloads', 'click', 'Manual SeaSkim');">Manual SeaSkim<span>( PDF, 1.86 MB )</span></a></li>
 			            					            				            					            				            </ul>
-			            <a class="arrow-link" href="../../../../../index.php-lang=1&cl=alist&cnid=deservice2.php" tppabs="<?php echo $site_url;?>index.php?lang=1&cl=alist&cnid=deservice2" onclick="_gaq.push(['_trackEvent', 'Downloadquelle', 'click', 'Detailseite']);">More Downloads</a>
+			            <a class="arrow-link" href="../../../../../index.php-lang=1&cl=alist&cnid=deservice2.php" onclick="_gaq.push(['_trackEvent', 'Downloadquelle', 'click', 'Detailseite']);">More Downloads</a>
 			        </div>
 		        									
 						
@@ -356,7 +356,7 @@ All of the aquariums in the XP, XC, XE-and XT-lines already have the matching op
 		    <div class="scrollcontent tinyscroll">
 		        <div class="article-heading clearfix">
 		            <div class="image fl">
-		                <img src="../../../../../out/pictures/master/product/4/87015.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/4/87015.png">
+		                <img src="../../../../../out/pictures/master/product/4/87015.png">
 		            </div>
 		            <h2 class="tk-myriad-pro tk-light fl"></h2>
 		        </div>
@@ -386,16 +386,16 @@ All of the aquariums in the XP, XC, XE-and XT-lines already have the matching op
 		    <div class="gallery-slider">
 						        <div class="gallery-item">
 		            <div class="wrapper">
-		                <a href="javascript:if(confirm('<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/87015.jpg  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ²»¿ÉÓÃ, »ò·ÅÆúÁËÏÂÔØ, »òÏîÄ¿¼´½«Í£Ö¹¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/87015.jpg'" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/87015.jpg" class="cloud-zoom">
-		                    <img src="../../../../../out/pictures/master/product/gallery/detail/1/87015.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/87015.png" alt="">
+		                <a href="javascript:if(confirm('<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/87015.jpg  \n\n¸ÃÎÄ¼þÎÞ·¨ÓÃ Teleport Ultra ÏÂÔØ, ÒòÎª ²»¿ÉÓÃ, »ò·ÅÆúÁËÏÂÔØ, »òÏîÄ¿¼´½«Í£Ö¹¡£  \n\nÄãÏëÔÚ·þÎñÆ÷ÉÏ´ò¿ªËü?'))window.location='<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/87015.jpg'" class="cloud-zoom">
+		                    <img src="../../../../../out/pictures/master/product/gallery/detail/1/87015.png" alt="">
 		                </a>
 		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/87015.png)"></a>
 		            </div>
 		        </div>
 						        <div class="gallery-item">
 		            <div class="wrapper">
-		                <a href="../../../../../out/pictures/master/product/gallery/zoom/2/87015.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/87015.jpg" class="cloud-zoom">
-		                    <img src="../../../../../out/pictures/master/product/gallery/detail/2/87015.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/87015.png" alt="">
+		                <a href="../../../../../out/pictures/master/product/gallery/zoom/2/87015.jpg" class="cloud-zoom">
+		                    <img src="../../../../../out/pictures/master/product/gallery/detail/2/87015.png" alt="">
 		                </a>
 		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/87015.png)"></a>
 		            </div>
@@ -420,9 +420,9 @@ All of the aquariums in the XP, XC, XE-and XT-lines already have the matching op
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
-			    						    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/" title="Marine">Marine</a></li>
-			    						    <li><a href="Juwel-SeaSkim-INT.php" tppabs="<?php echo $site_url;?>cn/Products/More/Marine/Skimmer/" title="Skimmer">Skimmer</a></li>
+						    <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
+			    						    <li><a href="../index.php" title="Marine">Marine</a></li>
+			    						    <li><a href="Juwel-SeaSkim-INT.php" title="Skimmer">Skimmer</a></li>
 			    			        </ul>                        
     </div>
 </div>

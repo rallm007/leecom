@@ -17,7 +17,7 @@
     <div class="breadcrumb nav clearfix">
         <ul class="fl">
             <li>您的位置:</li>
-            	            	            <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Service/">Service</a></li>
+            	            	            <li><a href="../index.php">Service</a></li>
 	            <li>FAQ</li>
                     </ul>
     </div>
@@ -317,8 +317,8 @@ This complex production process makes it particularly easy to cut the colour bac
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Service/" title="Service">Service</a></li>
-			    						    <li><a href="index.php" tppabs="<?php echo $site_url;?>cn/Service/FAQ/" title="FAQ">FAQ</a></li>
+						    <li><a href="../index.php" title="Service">Service</a></li>
+			    						    <li><a href="index.php" title="FAQ">FAQ</a></li>
 			    			        </ul>                        
     </div>
 </div>

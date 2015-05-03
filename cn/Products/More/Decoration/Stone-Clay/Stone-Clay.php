@@ -53,7 +53,7 @@
 										<div class="breadcrumb accessories-detail nav clearfix">
     <ul class="fl">
         <li>您的位置:</li>
-        			    				    <li><a href="../../../index.php" title="Products">产品展示</a></li>
+        			    				    <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
 			            			    				    <li><a href="../index.php" title="Decoration">Decoration</a></li>
 			            			    				    <li><a href="Stone-Clay.php" title="Stone Clay">Stone Clay</a></li>
 			                            <li>Background Stone Clay </li>
@@ -628,7 +628,7 @@ This complex production process makes it particularly easy to cut the colour bac
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../../index.php" title="Products">产品展示</a></li>
+						    <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
 			    						    <li><a href="../index.php" title="Decoration">Decoration</a></li>
 			    						    <li><a href="Stone-Clay.php" title="Stone Clay">Stone Clay</a></li>
 			    			        </ul>                        

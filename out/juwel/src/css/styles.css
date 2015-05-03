@@ -2375,10 +2375,12 @@ li.has-tip:hover .panel-tip{
 				display: block;
 			}*/
 			.product-detail-stage #stage-prev span{
-				right: 45px
+				right: 45px;
+				margin-bottom: 11px;
 			}
 			.product-detail-stage #stage-next span{
-				left: 45px
+				left: 45px;
+				margin-bottom: 11px;
 			}
 
 		.product-detail-stage .stage-slider{

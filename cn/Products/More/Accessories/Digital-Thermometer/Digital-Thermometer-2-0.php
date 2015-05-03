@@ -30,15 +30,15 @@
 										<div class="breadcrumb accessories-detail nav clearfix">
     <ul class="fl">
         <li>您的位置:</li>
-        			    				    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
-			            			    				    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/" title="Accessories">Accessories</a></li>
-			            			    				    <li><a href="Digital-Thermometer-2-0.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Digital-Thermometer/" title="Digital-Thermometer">Digital-Thermometer</a></li>
+        			    				    <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
+			            			    				    <li><a href="../index.php" title="Accessories">Accessories</a></li>
+			            			    				    <li><a href="Digital-Thermometer-2-0.php" title="Digital-Thermometer">Digital-Thermometer</a></li>
 			                            <li>Digital Thermometer 2.0</li>
 			</ul>
 </div>	
 	        <!-- Links - Navigation und Teaser-Content -->
         <div class="grid_3 nav">
-            <a class="button grey-left" href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/">Go to list</a>
+            <a class="button grey-left" href="../index.php">Go to list</a>
             
 <ul class="sub-nav">
 			
@@ -50,7 +50,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Automatic-Feeder/EasyFeed-Automatic-Feeder.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php">EasyFeed -Automatic Feeder</a>	                
+	                <a href="../Automatic-Feeder/EasyFeed-Automatic-Feeder.php">EasyFeed -Automatic Feeder</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -65,7 +65,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li class="active">
-	                <a href="Digital-Thermometer-2-0.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Digital-Thermometer/Digital-Thermometer-2-0.php">Digital Thermometer 2.0</a>	                
+	                <a href="Digital-Thermometer-2-0.php">Digital Thermometer 2.0</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -80,7 +80,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Heater/Aqua-Heat-50-50-Watt-Automatic-Heater-50-Watt.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Heater/Aqua-Heat-50-50-Watt-Automatic-Heater-50-Watt.php">Heater </a>	                
+	                <a href="../Heater/Aqua-Heat-50-50-Watt-Automatic-Heater-50-Watt.php">Heater </a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -95,7 +95,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Aqua-Clean/Aqua-Clean-Gravel-and-filter-cleaner.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Aqua-Clean/Aqua-Clean-Gravel-and-filter-cleaner.php">Aqua Clean -Gravel and filter cleaner</a>	                
+	                <a href="../Aqua-Clean/Aqua-Clean-Gravel-and-filter-cleaner.php">Aqua Clean -Gravel and filter cleaner</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -110,7 +110,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Poster-Fix/Poster-Fix.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Poster-Fix/Poster-Fix.php">Poster Fix</a>	                
+	                <a href="../Poster-Fix/Poster-Fix.php">Poster Fix</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -125,12 +125,12 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Bonding/Silexo-Aquarium-Silicone.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Bonding/Silexo-Aquarium-Silicone.php">Silexo -Aquarium Silicone</a>	                
+	                <a href="../Bonding/Silexo-Aquarium-Silicone.php">Silexo -Aquarium Silicone</a>	                
 	            </li>
 	        </ul>    
 	        	        <ul>
 	            <li>
-	                <a href="../Bonding/Conexo-High-strength-adhesive.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Bonding/Conexo-High-strength-adhesive.php">Conexo -High-strength adhesive</a>	                
+	                <a href="../Bonding/Conexo-High-strength-adhesive.php">Conexo -High-strength adhesive</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -145,7 +145,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../../Filtration/Pump-Accessories/Other-Accessories/OxyPlus-O2-diffuser.php" tppabs="<?php echo $site_url;?>cn/Products/More/Filtration/Pump-Accessories/Other-Accessories/OxyPlus-O2-diffuser.php">OxyPlus -O2 diffuser</a>	                
+	                <a href="../../Filtration/Pump-Accessories/Other-Accessories/OxyPlus-O2-diffuser.php">OxyPlus -O2 diffuser</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -160,7 +160,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Flap-Sets/Set-Flaps-II-80-35-II-80-35.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Flap-Sets/Set-Flaps-II-80-35-II-80-35.php">Flap Sets </a>	                
+	                <a href="../Flap-Sets/Set-Flaps-II-80-35-II-80-35.php">Flap Sets </a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -177,20 +177,20 @@
               																									
 <div class="tabs product-images">
     <div id="image-1">
-    	<a href="../../../../../out/pictures/master/product/main/zoom/1/85702.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/85702.jpg" class="cloud-zoom">
-    		<img src="../../../../../out/pictures/master/product/main/detail/1/85702.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/detail/1/85702.png" alt="" width="278" height="278">
+    	<a href="../../../../../out/pictures/master/product/main/zoom/1/85702.jpg" class="cloud-zoom">
+    		<img src="../../../../../out/pictures/master/product/main/detail/1/85702.png" alt="" width="278" height="278">
         </a>
     </div>
     <div id="image-2">
-    	<a href="../../../../../out/pictures/master/product/main/zoom/2/85702.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/zoom/2/85702.jpg" class="cloud-zoom">
-    		<img src="../../../../../out/pictures/master/product/main/detail/2/85702.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/detail/2/85702.png" alt="" width="278" height="278">
+    	<a href="../../../../../out/pictures/master/product/main/zoom/2/85702.jpg" class="cloud-zoom">
+    		<img src="../../../../../out/pictures/master/product/main/detail/2/85702.png" alt="" width="278" height="278">
         </a>
     </div>
      <!-- Bilder-Navigation -->
      <div class="clearfix">
      	            <ul class="product-images-nav clearfix">
-                            <li><a href="#image-1"><img src="../../../../../out/pictures/master/product/main/thumb/1/85702.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/thumb/1/85702.png" alt=""></a></li>
-			                <li><a href="#image-2"><img src="../../../../../out/pictures/master/product/main/thumb/2/85702.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/thumb/2/85702.png" alt=""></a></li>
+                            <li><a href="#image-1"><img src="../../../../../out/pictures/master/product/main/thumb/1/85702.png" alt=""></a></li>
+			                <li><a href="#image-2"><img src="../../../../../out/pictures/master/product/main/thumb/2/85702.png" alt=""></a></li>
 			            </ul>
 		    </div>
     <!-- ende -> Tab-Navigation -->
@@ -226,7 +226,7 @@
 <h2 class="tk-myriad-pro tk-light">Digital Thermometer 2.0</h2>
 <p class="desc">The JUWEL Digital Thermometer reliably measures the water temperature in your aquarium. The large display makes it easy to read the temperature.</p>
 
-<form class="loadVariant oxProductForm" action="../../../../../fi000026.php-lang=1&-stoken=5cc46799&force_sid=&lang=1&cnid=00000001031&listtype=list&ldtype=infogrid&cl=details&aid=000000000000085702&anid=000000000000085702&parentid=000000000000085702&panid=&fnc=tobasket.php" tppabs="<?php echo $site_url;?>index.php?lang=1&?stoken=5CC46799&force_sid=&lang=1&cnid=00000001031&listtype=list&ldtype=infogrid&cl=details&aid=000000000000085702&anid=000000000000085702&parentid=000000000000085702&panid=&fnc=tobasket" method="post">
+<form class="loadVariant oxProductForm" action="../../../../../fi000026.php-lang=1&-stoken=5cc46799&force_sid=&lang=1&cnid=00000001031&listtype=list&ldtype=infogrid&cl=details&aid=000000000000085702&anid=000000000000085702&parentid=000000000000085702&panid=&fnc=tobasket.php" method="post">
 	<input type="hidden" name="stoken" value="5CC46799"><input type="hidden" name="force_sid" value="">
 <input type="hidden" name="lang" value="1">
 	<input type="hidden" name="cnid" value="00000001031">
@@ -258,7 +258,7 @@
             <div class="bubble">
             	            	                <a class="mail" href="mailto:recipient@domain.com?subject=Juwel%20Aquarium%20-%20Digital%20Thermometer%202.0">E-Mail</a>
 
-                                <div class="fb-send" data-href="Digital-Thermometer-2-0.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Digital-Thermometer/Digital-Thermometer-2-0.php"></div>
+                                <div class="fb-send" data-href="Digital-Thermometer-2-0.php"></div>
                             </div>
          </li>
     </ul>
@@ -358,7 +358,7 @@ The JUWEL Digital thermometer is suitable for use in both freshwater and saltwat
 Any guarantee claim must be substantiated with a valid proof of purchase.
 </div>
 												               </div>
-						<a href="../../../../../index.php-lang=1&cl=alist&cnid=deservice1.php" tppabs="<?php echo $site_url;?>index.php?lang=1&cl=alist&cnid=deservice1" class="arrow-link reverse" onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Support']);" >More FAQs</a>
+						<a href="../../../../../index.php-lang=1&cl=alist&cnid=deservice1.php" class="arrow-link reverse" onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Support']);" >More FAQs</a>
 					</div>			
 									
 																	
@@ -402,7 +402,7 @@ Any guarantee claim must be substantiated with a valid proof of purchase.
 		    <div class="scrollcontent tinyscroll">
 		        <div class="article-heading clearfix">
 		            <div class="image fl">
-		                <img src="../../../../../out/pictures/master/product/4/85702.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/4/85702.png">
+		                <img src="../../../../../out/pictures/master/product/4/85702.png">
 		            </div>
 		            <h2 class="tk-myriad-pro tk-light fl"></h2>
 		        </div>
@@ -432,16 +432,16 @@ Any guarantee claim must be substantiated with a valid proof of purchase.
 		    <div class="gallery-slider">
 						        <div class="gallery-item">
 		            <div class="wrapper">
-		                <a href="../../../../../out/pictures/master/product/gallery/zoom/1/85702.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/85702.jpg" class="cloud-zoom">
-		                    <img src="../../../../../out/pictures/master/product/gallery/detail/1/85702.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/85702.png" alt="">
+		                <a href="../../../../../out/pictures/master/product/gallery/zoom/1/85702.jpg" class="cloud-zoom">
+		                    <img src="../../../../../out/pictures/master/product/gallery/detail/1/85702.png" alt="">
 		                </a>
 		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/85702.png)"></a>
 		            </div>
 		        </div>
 						        <div class="gallery-item">
 		            <div class="wrapper">
-		                <a href="../../../../../out/pictures/master/product/gallery/zoom/2/85702.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/85702.jpg" class="cloud-zoom">
-		                    <img src="../../../../../out/pictures/master/product/gallery/detail/2/85702.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/85702.png" alt="">
+		                <a href="../../../../../out/pictures/master/product/gallery/zoom/2/85702.jpg" class="cloud-zoom">
+		                    <img src="../../../../../out/pictures/master/product/gallery/detail/2/85702.png" alt="">
 		                </a>
 		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/85702.png)"></a>
 		            </div>
@@ -466,9 +466,9 @@ Any guarantee claim must be substantiated with a valid proof of purchase.
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
-			    						    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/" title="Accessories">Accessories</a></li>
-			    						    <li><a href="Digital-Thermometer-2-0.php" tppabs="<?php echo $site_url;?>cn/Products/More/Accessories/Digital-Thermometer/" title="Digital-Thermometer">Digital-Thermometer</a></li>
+						    <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
+			    						    <li><a href="../index.php" title="Accessories">Accessories</a></li>
+			    						    <li><a href="Digital-Thermometer-2-0.php" title="Digital-Thermometer">Digital-Thermometer</a></li>
 			    			        </ul>                        
     </div>
 </div>

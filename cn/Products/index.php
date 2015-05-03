@@ -12,7 +12,7 @@
     	    	<div class="breadcrumb fl nav clearfix">
     <ul class="fl">
         <li>您的位置:</li>
-        			    				    <li><a href="index.php" title="Products">产品展示</a></li>
+        			    				    <li><a href="index.php" title="产品展示">产品展示</a></li>
 			                    	</ul>
 </div>                    <div class="stage-slider-pagination"></div>
         </div>
@@ -373,7 +373,7 @@
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="index.php" title="Products">产品展示</a></li>
+						    <li><a href="index.php" title="产品展示">产品展示</a></li>
 			    			        </ul>                        
     </div>
 </div>

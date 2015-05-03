@@ -30,15 +30,15 @@
 										<div class="breadcrumb accessories-detail nav clearfix">
     <ul class="fl">
         <li>您的位置:</li>
-        			    				    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
-			            			    				    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/" title="Lighting">Lighting</a></li>
-			            			    				    <li><a href="End-Cap-HiLite-T5-16mm-High-Lite.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/End-Caps/" title="End Caps">End Caps</a></li>
+        			    				    <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
+			            			    				    <li><a href="../index.php" title="Lighting">Lighting</a></li>
+			            			    				    <li><a href="End-Cap-HiLite-T5-16mm-High-Lite.php" title="End Caps">End Caps</a></li>
 			                            <li>End Caps </li>
 			</ul>
 </div>	
 	        <!-- Links - Navigation und Teaser-Content -->
         <div class="grid_3 nav">
-            <a class="button grey-left" href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/">Go to list</a>
+            <a class="button grey-left" href="../index.php">Go to list</a>
             
 <ul class="sub-nav">
 																																																	
@@ -50,19 +50,19 @@
 	                <span>HiLite T5 Lighting Tubes</span>
 			        			        					<ul>
 				        				            <li>
-				                <a href="../Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Day-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Day-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">High-Lite Day </a>
+				                <a href="../Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Day-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">High-Lite Day </a>
 				            </li>
 				        				            <li>
-				                <a href="../Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Nature-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Nature-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">High-Lite Nature </a>
+				                <a href="../Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Nature-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">High-Lite Nature </a>
 				            </li>
 				        				            <li>
-				                <a href="../Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Colour-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Colour-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">High-Lite Colour </a>
+				                <a href="../Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Colour-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">High-Lite Colour </a>
 				            </li>
 				        				            <li>
-				                <a href="../Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Blue-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Blue-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">High-Lite Blue </a>
+				                <a href="../Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Blue-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">High-Lite Blue </a>
 				            </li>
 				        				            <li>
-				                <a href="../Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Marine-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Marine-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">High-Lite Marine </a>
+				                <a href="../Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Marine-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">High-Lite Marine </a>
 				            </li>
 				        			        </ul>
 			        						            </li>
@@ -70,13 +70,13 @@
 	                <span>T8 Lighting Tubes</span>
 			        			        					<ul>
 				        				            <li>
-				                <a href="../Lighting-Tubes/T8-Lighting-Tubes/Day-Lite-438mm-15-W-Tube-T8-15-W-T8-438-mm.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Lighting-Tubes/T8-Lighting-Tubes/Day-Lite-438mm-15-W-Tube-T8-15-W-T8-438-mm.php">Day-Lite </a>
+				                <a href="../Lighting-Tubes/T8-Lighting-Tubes/Day-Lite-438mm-15-W-Tube-T8-15-W-T8-438-mm.php">Day-Lite </a>
 				            </li>
 				        				            <li>
-				                <a href="../Lighting-Tubes/T8-Lighting-Tubes/Warm-Lite-438mm-15-W-Tube-T8-15-W-T8-438-mm.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Lighting-Tubes/T8-Lighting-Tubes/Warm-Lite-438mm-15-W-Tube-T8-15-W-T8-438-mm.php">Warm-Lite </a>
+				                <a href="../Lighting-Tubes/T8-Lighting-Tubes/Warm-Lite-438mm-15-W-Tube-T8-15-W-T8-438-mm.php">Warm-Lite </a>
 				            </li>
 				        				            <li>
-				                <a href="../Lighting-Tubes/T8-Lighting-Tubes/Colour-Lite-438mm-15-W-Tube-T8-15-W-T8-438-mm.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Lighting-Tubes/T8-Lighting-Tubes/Colour-Lite-438mm-15-W-Tube-T8-15-W-T8-438-mm.php">Colour-Lite </a>
+				                <a href="../Lighting-Tubes/T8-Lighting-Tubes/Colour-Lite-438mm-15-W-Tube-T8-15-W-T8-438-mm.php">Colour-Lite </a>
 				            </li>
 				        			        </ul>
 			        						            </li>
@@ -97,7 +97,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Lighting-Units/HiLite-Light-Unit-55cm-2x24W-55cm-24-W.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Lighting-Units/HiLite-Light-Unit-55cm-2x24W-55cm-24-W.php">High-Lite T5 Lighting Units </a>	                
+	                <a href="../Lighting-Units/HiLite-Light-Unit-55cm-2x24W-55cm-24-W.php">High-Lite T5 Lighting Units </a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -112,22 +112,22 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Lighting-Systems/Juwel-Monolux-60-black-Monolux-60-black.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Lighting-Systems/Juwel-Monolux-60-black-Monolux-60-black.php">Monolux </a>	                
+	                <a href="../Lighting-Systems/Juwel-Monolux-60-black-Monolux-60-black.php">Monolux </a>	                
 	            </li>
 	        </ul>    
 	        	        <ul>
 	            <li>
-	                <a href="../Lighting-Systems/Juwel-Duolux-80-black-Duolux-80.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Lighting-Systems/Juwel-Duolux-80-black-Duolux-80.php">Duolux </a>	                
+	                <a href="../Lighting-Systems/Juwel-Duolux-80-black-Duolux-80.php">Duolux </a>	                
 	            </li>
 	        </ul>    
 	        	        <ul>
 	            <li>
-	                <a href="../Lighting-Systems/XQ-Lineux-60-int-XQ-Lineux-60.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Lighting-Systems/XQ-Lineux-60-int-XQ-Lineux-60.php">XQ-Lineux </a>	                
+	                <a href="../Lighting-Systems/XQ-Lineux-60-int-XQ-Lineux-60.php">XQ-Lineux </a>	                
 	            </li>
 	        </ul>    
 	        	        <ul>
 	            <li>
-	                <a href="../Lighting-Systems/Juwel-NovoLux-LED-40-white-Int-LED-40-White.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Lighting-Systems/Juwel-NovoLux-LED-40-white-Int-LED-40-White.php">NovoLux LED</a>	                
+	                <a href="../Lighting-Systems/Juwel-NovoLux-LED-40-white-Int-LED-40-White.php">NovoLux LED</a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -142,12 +142,12 @@
 	        <li class="active">
 	        	        <ul>
 	            <li>
-	                <a href="../Reflectors-Clips/HiFlex-438-mm-T5-24W-T8-15W-Refl-438-mm.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Reflectors-Clips/HiFlex-438-mm-T5-24W-T8-15W-Refl-438-mm.php">Reflectors </a>	                
+	                <a href="../Reflectors-Clips/HiFlex-438-mm-T5-24W-T8-15W-Refl-438-mm.php">Reflectors </a>	                
 	            </li>
 	        </ul>    
 	        	        <ul>
 	            <li>
-	                <a href="../Reflectors-Clips/Hiflex-T5-clips-HiFlex-T5-16-mm-4-pcs.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/Reflectors-Clips/Hiflex-T5-clips-HiFlex-T5-16-mm-4-pcs.php">Reflector Clips </a>	                
+	                <a href="../Reflectors-Clips/Hiflex-T5-clips-HiFlex-T5-16-mm-4-pcs.php">Reflector Clips </a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -162,7 +162,7 @@
 	        <li class="active">
 	        	        <ul>
 	            <li class="active">
-	                <a href="End-Cap-HiLite-T5-16mm-High-Lite.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/End-Caps/End-Cap-HiLite-T5-16mm-High-Lite.php">End Caps </a>	                
+	                <a href="End-Cap-HiLite-T5-16mm-High-Lite.php">End Caps </a>	                
 	            </li>
 	        </ul>    
 	        	        </li>
@@ -179,20 +179,20 @@
               																									
 <div class="tabs product-images">
     <div id="image-1">
-    	<a href="../../../../../out/pictures/master/product/main/zoom/1/92003.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/92003.jpg" class="cloud-zoom">
-    		<img src="../../../../../out/pictures/master/product/main/detail/1/92003.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/detail/1/92003.png" alt="" width="278" height="278">
+    	<a href="../../../../../out/pictures/master/product/main/zoom/1/92003.jpg" class="cloud-zoom">
+    		<img src="../../../../../out/pictures/master/product/main/detail/1/92003.png" alt="" width="278" height="278">
         </a>
     </div>
     <div id="image-2">
-    	<a href="../../../../../out/pictures/master/product/main/zoom/2/92003.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/zoom/2/92003.jpg" class="cloud-zoom">
-    		<img src="../../../../../out/pictures/master/product/main/detail/2/92003.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/detail/2/92003.png" alt="" width="278" height="278">
+    	<a href="../../../../../out/pictures/master/product/main/zoom/2/92003.jpg" class="cloud-zoom">
+    		<img src="../../../../../out/pictures/master/product/main/detail/2/92003.png" alt="" width="278" height="278">
         </a>
     </div>
      <!-- Bilder-Navigation -->
      <div class="clearfix">
      	            <ul class="product-images-nav clearfix">
-                            <li><a href="#image-1"><img src="../../../../../out/pictures/master/product/main/thumb/1/92003.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/thumb/1/92003.png" alt=""></a></li>
-			                <li><a href="#image-2"><img src="../../../../../out/pictures/master/product/main/thumb/2/92003.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/main/thumb/2/92003.png" alt=""></a></li>
+                            <li><a href="#image-1"><img src="../../../../../out/pictures/master/product/main/thumb/1/92003.png" alt=""></a></li>
+			                <li><a href="#image-2"><img src="../../../../../out/pictures/master/product/main/thumb/2/92003.png" alt=""></a></li>
 			            </ul>
 		    </div>
     <!-- ende -> Tab-Navigation -->
@@ -266,7 +266,7 @@
             <div class="bubble">
             	            	                <a class="mail" href="mailto:recipient@domain.com?subject=Juwel%20Aquarium%20-%20End%20Caps%20">E-Mail</a>
 
-                                <div class="fb-send" data-href="End-Cap-HiLite-T5-16mm-High-Lite.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/End-Caps/End-Cap-HiLite-T5-16mm-High-Lite.php"></div>
+                                <div class="fb-send" data-href="End-Cap-HiLite-T5-16mm-High-Lite.php"></div>
                             </div>
          </li>
     </ul>
@@ -354,7 +354,7 @@
 										<div><p>The end caps that hold the tubes in place should be changed whenever you replace the tubes or annually which ever comes first. These end caps contain vital seals that prevent water ingress into the light unit itself.
 </p></div>													
 																													               </div>
-						<a href="../../../../../index.php-lang=1&cl=alist&cnid=deservice1.php" tppabs="<?php echo $site_url;?>index.php?lang=1&cl=alist&cnid=deservice1" class="arrow-link reverse" onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Support']);" >More FAQs</a>
+						<a href="../../../../../index.php-lang=1&cl=alist&cnid=deservice1.php" class="arrow-link reverse" onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Support']);" >More FAQs</a>
 					</div>			
 									
 																	
@@ -398,7 +398,7 @@
 		    <div class="scrollcontent tinyscroll">
 		        <div class="article-heading clearfix">
 		            <div class="image fl">
-		                <img src="../../../../../out/pictures/master/product/4/92003.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/4/92003.png">
+		                <img src="../../../../../out/pictures/master/product/4/92003.png">
 		            </div>
 		            <h2 class="tk-myriad-pro tk-light fl">End Caps </h2>
 		        </div>
@@ -538,16 +538,16 @@
 		    <div class="gallery-slider">
 						        <div class="gallery-item">
 		            <div class="wrapper">
-		                <a href="../../../../../out/pictures/master/product/gallery/zoom/1/92003.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/92003.jpg" class="cloud-zoom">
-		                    <img src="../../../../../out/pictures/master/product/gallery/detail/1/92003.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/92003.png" alt="">
+		                <a href="../../../../../out/pictures/master/product/gallery/zoom/1/92003.jpg" class="cloud-zoom">
+		                    <img src="../../../../../out/pictures/master/product/gallery/detail/1/92003.png" alt="">
 		                </a>
 		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/92003.png)"></a>
 		            </div>
 		        </div>
 						        <div class="gallery-item">
 		            <div class="wrapper">
-		                <a href="../../../../../out/pictures/master/product/gallery/zoom/2/92003.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/92003.jpg" class="cloud-zoom">
-		                    <img src="../../../../../out/pictures/master/product/gallery/detail/2/92003.png" tppabs="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/92003.png" alt="">
+		                <a href="../../../../../out/pictures/master/product/gallery/zoom/2/92003.jpg" class="cloud-zoom">
+		                    <img src="../../../../../out/pictures/master/product/gallery/detail/2/92003.png" alt="">
 		                </a>
 		                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/92003.png)"></a>
 		            </div>
@@ -572,9 +572,9 @@
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../../index.php" tppabs="<?php echo $site_url;?>cn/Products/" title="Products">产品展示</a></li>
-			    						    <li><a href="../index.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/" title="Lighting">Lighting</a></li>
-			    						    <li><a href="End-Cap-HiLite-T5-16mm-High-Lite.php" tppabs="<?php echo $site_url;?>cn/Products/More/Lighting/End-Caps/" title="End Caps">End Caps</a></li>
+						    <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
+			    						    <li><a href="../index.php" title="Lighting">Lighting</a></li>
+			    						    <li><a href="End-Cap-HiLite-T5-16mm-High-Lite.php" title="End Caps">End Caps</a></li>
 			    			        </ul>                        
     </div>
 </div>
