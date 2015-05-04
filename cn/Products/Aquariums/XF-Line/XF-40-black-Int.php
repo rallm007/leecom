@@ -32,7 +32,7 @@
                         <img data-src="<?php echo $site_url;?>out/w/80/xf060.png" alt="XF-060 ">
                         XF-060 
                     </a>
-                																																																																																							                    <a href="#juwel-xf120w" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
+						<a href="#juwel-xf120w" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                         <img data-src="<?php echo $site_url;?>out/w/80/xf120.png" alt="XF-120 ">
                         XF-120 
                     </a>
@@ -72,6 +72,16 @@
 	                            <img data-src="<?php echo $site_url;?>out/w/378/xf060.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
+	                    <div class="product-image-wrapper" data-id="juwel-xf060f" title="LEECOM | XF-060 粉红色">
+	                        <a href="<?php echo $site_url;?>out/f/1173/xf060.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/f/378/xf060.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        </a>
+	                    </div>
+	                    <div class="product-image-wrapper" data-id="juwel-xf060l" title="LEECOM | XF-060 蓝色">
+	                        <a href="<?php echo $site_url;?>out/l/1173/xf060.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/l/378/xf060.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        </a>
+	                    </div>
 	            			                </div>
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
@@ -83,6 +93,8 @@
 	                        <div class="oh">
 		                            <ul>
 																			<li><a href="XF-125-white.php#!juwel-xf060w" title="XF-060 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XF-125-white.php#!juwel-xf060f" title="XF-060 粉红色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/2.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XF-125-white.php#!juwel-xf060l" title="XF-060 蓝色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/3.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -158,6 +170,16 @@
 	                            <img data-src="<?php echo $site_url;?>out/w/1173/xf120.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
+	                    <div class="product-image-wrapper" data-id="juwel-xf120f" title="LEECOM | XF-120 粉红色">
+	                        <a href="<?php echo $site_url;?>out/f/1173/xf120.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/f/378/xf120.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        </a>
+	                    </div>
+	                    <div class="product-image-wrapper" data-id="juwel-xf120l" title="LEECOM | XF-120 蓝色">
+	                        <a href="<?php echo $site_url;?>out/l/1173/xf120.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/l/378/xf120.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        </a>
+	                    </div>
 	            	</div>
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
@@ -169,6 +191,8 @@
 	                        <div class="oh">
 		                            <ul>
 																			<li><a href="XF-180-white.php#!juwel-xf120w" title="XF-120 白色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/4.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XF-125-white.php#!juwel-xf120f" title="XF-120 粉红色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/2.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XF-125-white.php#!juwel-xf120l" title="XF-120 蓝色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/3.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->

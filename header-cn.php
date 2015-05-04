@@ -271,14 +271,13 @@ var _gaq = _gaq || [];
                                 <div class="product-info clearfix" id="info-00000001289" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="XA-Line" src="<?php echo $site_url;?>out/w/200/xa815.jpg">
+                                    	<img alt="XA系列" src="<?php echo $site_url;?>out/w/200/xa815.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
 	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XA系列</span></h4>
 	                                    <h5>带上你的宠宝，畅游吧</h5>
 	                                    <p>自由自在，轻松出行，享受自由，享受自在</p>
 	                                    <ul class="decor fl">                     	            	
-		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
 		                                <ul class="sizes fl">
 	                                    	<li><img src="<?php echo $site_url;?>out/w/35/xa815.jpg" alt="XA-815 "></li>	                                    		            	
@@ -296,11 +295,10 @@ var _gaq = _gaq || [];
 	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XF系列</span></h4>
 	                                    <h5>桌面小精灵</h5>
 	                                    <p>节能、环保，轻松加水投饲，精巧、简约，尤其适合办公室、家居的桌面摆设。</p>
-	                                    <ul class="decor fl">
-	                                    			                                    	            	
-		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
-		                                    	            	
+	                                    <ul class="decor fl">          	
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
+		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/2.png"></li>
+		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/3.png"></li>
 	                                    <ul class="sizes fl">
         			                        <li><img src="<?php echo $site_url;?>out/w/35/xf060.jpg" alt="XF-060"></li>
                                             <li><img src="<?php echo $site_url;?>out/w/35/xf120.jpg" alt="XF-120"></li>			                                    		            	
