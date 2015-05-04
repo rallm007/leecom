@@ -174,7 +174,7 @@
 </div>
             </div>
                 
-            <div class="grid_4 omega accessories_detail_right">
+            <div class="grid_4 omega accessories_detail_right" style="margin-top: 100px;">
                	
 <script>
     function gotoVariant( sUrl ) {

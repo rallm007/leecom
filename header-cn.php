@@ -99,8 +99,8 @@ var _gaq = _gaq || [];
   <div style="padding-top:10px;"><a onclick="goto_cn()" style="display:inline;"><span style="color:white;margin-left:10px;margin-right:7px;">中文</span></a>
     <a onclick="goto_en()" style="display:inline;"><span style="color:white;">English</span></a></div>
 </div>
-<div id="panel-nav" style="margin-top:15px">
-	<img src="<?php echo $site_url.'out/pictures/master/global/1/qr.png'?>" style="width:87px;"/>
+<div id="panel-nav" style="margin-top:19px">
+	<img src="<?php echo $site_url.'out/pictures/master/global/1/qr.png'?>" style="width:95px;"/>
 </div>
                       <!-- end panel -->
         <!-- main navigation -->

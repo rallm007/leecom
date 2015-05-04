@@ -50,13 +50,8 @@
     </div>
     <div id="footer-bottom">
         <div class="page_margins">
-        	<div class="ir"></div>
+        	<div class="ir" style="margin-left: 300px;"></div>
             <span>2015 LEECOM - All rights reserved</span>
-            <ul class="inline-nav">
-                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=contact.php">Contact</a></li>
-                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic1.php">Imprint</a></li>
-                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic5.php">Businessterms</a></li>
-            </ul>
         </div>
     </div>
 </div>
