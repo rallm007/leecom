@@ -4,7 +4,7 @@
 <div id="main">
 
 <div class="simple-stage">
-		<div class="page_margins inner_stage" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/category/subheader/00000000281.png)">
+		<div class="page_margins inner_stage" style="background-image:url(<?php echo $site_url?>out/pictures/master/category/subheader/00000000281.png)">
     	<h1 class="tk-myriad-pro tk-light">气泵系列</h1>
         <p>您爱鱼的有氧生态舱</p>
     </div>
@@ -18,19 +18,19 @@
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
                 	                    <a href="AQ-202.php" title="AQ-202 " class="selected">
-                                                															<img src="<?php echo $site_url;?>out/pictures/master/product/4/88038.png" alt="AQ-202 ">
+                                        <img src="<?php echo $site_url;?>out/pictures/master/product/4/88038.png" alt="AQ-202 ">
 							                                            </a>
                 	                    <a href="AQ-203.php" title="AQ-203 ">
-                                                															<img src="<?php echo $site_url;?>out/pictures/master/product/4/88037.png" alt="AQ-203 ">
+                                        <img src="<?php echo $site_url;?>out/pictures/master/product/4/88037.png" alt="AQ-203 ">
 							                                            </a>
                 	                    <a href="AQ-204.php" title="AQ-204 ">
-                                                															<img src="<?php echo $site_url;?>out/pictures/master/product/4/88055.png" alt="AQ-204 ">
+                                        <img src="<?php echo $site_url;?>out/pictures/master/product/4/88055.png" alt="AQ-204 ">
 							                                            </a>
                 	                    <a href="AQ-205.php" title="AQ-205 ">
-                                                															<img src="<?php echo $site_url;?>out/pictures/master/product/4/88057.png" alt="AQ-205 ">
+                                         <img src="<?php echo $site_url;?>out/pictures/master/product/4/88057.png" alt="AQ-205 ">
 							                                            </a>
                 	                    <a href="NI-218.php" title="NI-218 ">
-                                                															<img src="<?php echo $site_url;?>out/pictures/master/product/4/88056.png" alt="NI-218 ">
+                                        <img src="<?php echo $site_url;?>out/pictures/master/product/4/88056.png" alt="NI-218 ">
 							                                            </a>
                 	                </div>
             </div>
@@ -149,7 +149,7 @@
 	        	        </li>
         </ul>
 				    </li>
-</ul>                                                        </div>
+</ul></div>
 		<!-- ende -> Links - Navigation und Teaser-Content -->
 	
 			<!-- rechte Hauptspalte -->
@@ -238,7 +238,7 @@
 					
 				</div>
 				<div id="tabs-2">
-																					<div class="tab-teaser tab-teaser-technical">    
+	<div class="tab-teaser tab-teaser-technical">    
 	<table>
            		<tbody>
            			<tr>
@@ -336,182 +336,6 @@
         });
     });
 </script>
-
-<div class="hidden">
-		
-	<!-- Box mit KompatibilitÃ¤tstabelle -->
-			<div id="compatibility-box">
-		    <div class="box-head">
-		        <h2 class="tk-myriad-pro tk-regular">Matching Aquarium for this article:</h2>
-		    </div>
-		    <div class="scrollcontent tinyscroll">
-		        <div class="article-heading clearfix">
-		            <div class="image fl">
-		                <img src="<?php echo $site_url;?>out/pictures/master/product/4/88038.png">
-		            </div>
-		            <h2 class="tk-myriad-pro tk-light fl">AQ-202 </h2>
-		        </div>
-		        <table>
-		            <thead>
-		                <tr>
-		                    <th scope="col">Model</th>
-		                    <th scope="col">Belongs to following products</th>
-		                </tr>
-		            </thead>
-		            <tbody>
-																																									<tr>
-										<td>Bioflow Super/Compact Super</td>
-										<td>
-																		                    <span>Rekord 600  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/21600.png)">
-							                               	<span class="product-title green">Rekord 600 </span>
-														</div>
-														<span class="dimensions">61 x 31 x 42 cm</span>
-													</div>
-												</span>
-																		                    <span>Rekord 700  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/21700.png)">
-							                               	<span class="product-title green">Rekord 700 </span>
-														</div>
-														<span class="dimensions">61 x 31 x 46,5 cm</span>
-													</div>
-												</span>
-																		                    <span>Rekord 800 																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/21800.png)">
-							                               	<span class="product-title green">Rekord 800 </span>
-														</div>
-														<span class="dimensions">81 x 36 x 45 cm</span>
-													</div>
-												</span>
-																					</td>
-									</tr>
-																																<tr>
-										<td>Bioflow 3.0/Compact 	</td>
-										<td>
-																		                    <span>Lido 120  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/11300.png)">
-							                               	<span class="product-title green">Lido 120 </span>
-														</div>
-														<span class="dimensions">61 x 41 x 58 cm</span>
-													</div>
-												</span>
-																		                    <span>Rio 125  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/01300.png)">
-							                               	<span class="product-title green">Rio 125 </span>
-														</div>
-														<span class="dimensions">81 x 36 x 50 cm</span>
-													</div>
-												</span>
-																		                    <span>Rio 180  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/04300.png)">
-							                               	<span class="product-title green">Rio 180 </span>
-														</div>
-														<span class="dimensions">101 x 41 x 50 cm</span>
-													</div>
-												</span>
-																		                    <span>Rio 240  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/03300.png)">
-							                               	<span class="product-title green">Rio 240 </span>
-														</div>
-														<span class="dimensions">121 x 41 x 55 cm</span>
-													</div>
-												</span>
-																		                    <span>Vision 180  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/09300.png)">
-							                               	<span class="product-title green">Vision 180 </span>
-														</div>
-														<span class="dimensions">92 x 41 x 55 cm</span>
-													</div>
-												</span>
-																		                    <span>Trigon 190  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/16300.png)">
-							                               	<span class="product-title green">Trigon 190 </span>
-														</div>
-														<span class="dimensions">98,5 x 70 x 60 cm</span>
-													</div>
-												</span>
-																		                    <span>Lido 200 																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/11830.png)">
-							                               	<span class="product-title green">Lido 200 </span>
-														</div>
-														<span class="dimensions">71 x 51 x 65</span>
-													</div>
-												</span>
-																					</td>
-									</tr>
-																																<tr>
-										<td>Bioflow 6.0/Standard 	</td>
-										<td>
-																		                    <span>Rio 300  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/07300.png)">
-							                               	<span class="product-title green">Rio 300 </span>
-														</div>
-														<span class="dimensions">121 x50 x 66 cm</span>
-													</div>
-												</span>
-																		                    <span>Vision 260 																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/06800.png)">
-							                               	<span class="product-title green">Vision 260 </span>
-														</div>
-														<span class="dimensions">121 x 46 x 64 cm</span>
-													</div>
-												</span>
-																					</td>
-									</tr>
-																																<tr>
-										<td>Bioflow 8.0/Jumbo</td>
-										<td>
-																		                    <span>Rio 400  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/05300.png)">
-							                               	<span class="product-title green">Rio 400 </span>
-														</div>
-														<span class="dimensions">151 x 51 x66 cm</span>
-													</div>
-												</span>
-																		                    <span>Vision 450  ,																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/10300.png)">
-							                               	<span class="product-title green">Vision 450 </span>
-														</div>
-														<span class="dimensions">151 x 61 x64 cm</span>
-													</div>
-												</span>
-																		                    <span>Trigon 350 																																															                        <div class="tooltip">
-							                            <div class="top" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/7/15300.png)">
-							                               	<span class="product-title green">Trigon 350 </span>
-														</div>
-														<span class="dimensions">123 x 87 x 65 cm</span>
-													</div>
-												</span>
-																					</td>
-									</tr>
-																																		            </tbody>
-		        </table>
-		    </div>
-		</div>
-		<!-- ende Box mit KompatibilitÃ¤tstabelle -->
-		
-
-						<!-- Bilder Galerie -->
-		<div class="gallery-box">
-		    <h2 class="tk-myriad-pro tk-regular">bioPad S (Super/Comp S.) -Poly Pad</h2>
-		    <div class="gallery-slider">
-						        <div class="gallery-item">
-		            <div class="wrapper">
-		                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/88038.jpg" class="cloud-zoom">
-		                    <img src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/88038.png" alt="">
-		                </a>
-		                <a class="thumb" style="background-image:url(http://www.juwel-aquarium.de/out/pictures/master/product/gallery/thumb/1/88038.png)"></a>
-		            </div>
-		        </div>
-						    </div>
-		    <div class="pagination"></div>
-		    <div class="gb-thumb-prev"></div>
-		    <div class="gb-thumb-next"></div>
-		    <div class="gb-prev"></div>
-		    <div class="gb-next"></div>
-		</div>
-		<!-- Bilder Galerie -->
-			</div>	
 	
 </div>
 <!-- /Main-Area -->
