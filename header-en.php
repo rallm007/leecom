@@ -140,7 +140,7 @@ var _gaq = _gaq || [];
 									<!-- Weiteres -->
 					<li><a href="<?php echo $site_url.'en/Products';?>/More/Lighting/index.php" id="00000000261">LED Light</a></li>
 									<!-- Weiteres -->
-					<li><a href="<?php echo $site_url.'en/Products';?>/More/Filtration/index.php" id="00000000281">Filter</a></li>
+					<li><a href="<?php echo $site_url.'en/Products';?>/More/M1/index.php" id="00000000281">Filter</a></li>
 									<!-- Weiteres -->
 					<li><a href="<?php echo $site_url.'en/Products';?>/More/Decoration/index.php" id="00000000291">Air Pump</a></li>
 									<!-- Weiteres -->
@@ -288,7 +288,7 @@ var _gaq = _gaq || [];
 	                            </div>				
 					
 		                		                   	                        	<div class="product-info clearfix" id="info-00000000281" style="display: none;">
-	                                <img alt="Filtration" src="<?php echo $site_url;?>out/pictures/master/category/flyout/00000000281.jpg">
+	                                <img alt="M1" src="<?php echo $site_url;?>out/pictures/master/category/flyout/00000000281.jpg">
 	                            </div>				
 					
 		                		                   	                        	<div class="product-info clearfix" id="info-00000000291" style="display: none;">

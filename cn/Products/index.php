@@ -392,11 +392,11 @@
 	                    <span class="button ci3">Go to products</span>
 	                </div>
 	            </a>
-	        	            <a class="grid_4 accessories-teaser" href="More/Filtration/index.php">
+	        	            <a class="grid_4 accessories-teaser" href="More/M1/index.php">
 	                <div class="image">	                    
-	                    <img src="../../out/b/346/00000000281.png" alt="Filtration">	                </div>
+	                    <img src="../../out/b/346/00000000281.png" alt="M1">	                </div>
 	                <div class="content">
-	                    <h2>Filtration</h2>
+	                    <h2>M1</h2>
 	                    <p>Powerful and ultra-efficient <br> filtering for your aquarium.</p>
 	                    <span class="button ci3">Go to products</span>
 	                </div>

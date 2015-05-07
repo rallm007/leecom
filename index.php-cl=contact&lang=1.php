@@ -171,7 +171,7 @@ var _gaq = _gaq || [];
 							
 					
 									<!-- Weiteres -->
-					<li><a id="00000000281" href="en/Products/More/Filtration/index.htm" tppabs="<?php echo $site_url;?>en/Products/More/Filtration/">Filtration</a></li>
+					<li><a id="00000000281" href="en/Products/More/M1/index.htm" tppabs="<?php echo $site_url;?>en/Products/More/M1/">M1</a></li>
 										
 							
 					
@@ -390,7 +390,7 @@ var _gaq = _gaq || [];
 	                            </div>				
 					
 		                		                   	                        	<div id="info-00000000281" class="product-info clearfix">
-	                                <img src="out/pictures/master/category/flyout/00000000281.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/category/flyout/00000000281.jpg" alt="Filtration">
+	                                <img src="out/pictures/master/category/flyout/00000000281.jpg" tppabs="<?php echo $site_url;?>out/pictures/master/category/flyout/00000000281.jpg" alt="M1">
 	                            </div>				
 					
 		                		                   	                        	<div id="info-00000000291" class="product-info clearfix">

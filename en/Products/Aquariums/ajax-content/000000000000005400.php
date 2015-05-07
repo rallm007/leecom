@@ -262,7 +262,7 @@ Because it uses top-quality silver contacts and shock-proof borosilicate glass, 
 	<table>
            		                <thead>
                     <tr>
-                        <td colspan="3">Bioflow Filter M -Filter system<a href="../../../../out/pictures/generated/srcms/1/618_342_80/en/Products/More/Filtration/Filtersystems/Bioflow-Filter-M-Filter-system-Bioflow-3-0.php" class="arrow-link">Product</a></td>
+                        <td colspan="3">Bioflow Filter M -Filter system<a href="../../../../out/pictures/generated/srcms/1/618_342_80/en/Products/More/M1/Filtersystems/Bioflow-Filter-M-Filter-system-Bioflow-3-0.php" class="arrow-link">Product</a></td>
                     </tr>
                 </thead>
                                 <tbody>                
@@ -302,7 +302,7 @@ Because it uses top-quality silver contacts and shock-proof borosilicate glass, 
 	<table>
            		                <thead>
                     <tr>
-                        <td colspan="3">Pump Juwel ECCOFLOW 500 l/h Int.<a href="../../../../out/pictures/generated/srcms/1/618_342_80/en/Products/More/Filtration/Pumps/Pump-Juwel-ECCOFLOW-500-l-h-Int-ECCOFLOW-500.php" class="arrow-link">Product</a></td>
+                        <td colspan="3">Pump Juwel ECCOFLOW 500 l/h Int.<a href="../../../../out/pictures/generated/srcms/1/618_342_80/en/Products/More/M1/Pumps/Pump-Juwel-ECCOFLOW-500-l-h-Int-ECCOFLOW-500.php" class="arrow-link">Product</a></td>
                     </tr>
                 </thead>
                                 <tbody>                

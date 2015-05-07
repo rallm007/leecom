@@ -171,7 +171,7 @@
     <table>
                                 <thead>
                     <tr>
-                        <td colspan="3">CF-300/360上部过滤器<a href="../../../../cn/Products/More/Filtration/Filtersystems/Bioflow-Filter-M-Filter-system-Bioflow-3-0.php" class="arrow-link">产品</a></td>
+                        <td colspan="3">CF-300/360上部过滤器<a href="../../../../cn/Products/More/M1/Filtersystems/Bioflow-Filter-M-Filter-system-Bioflow-3-0.php" class="arrow-link">产品</a></td>
                     </tr>
                 </thead>
                                 <tbody>                              

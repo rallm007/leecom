@@ -133,7 +133,7 @@ var _gaq = _gaq || [];
 									<!-- Weiteres -->
 					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Lighting/index.php" id="00000000261">灯具系列</a></li>
 									<!-- Weiteres -->
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Filtration/index.php" id="00000000281">气泵系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/M1/index.php" id="00000000281">气泵系列</a></li>
 									<!-- Weiteres -->
 					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Decoration/index.php" id="00000000291">水泵系列</a></li>
 									<!-- Weiteres -->
@@ -327,7 +327,7 @@ var _gaq = _gaq || [];
 	                            </div>				
 					
 		                		                   	                        	<div class="product-info clearfix" id="info-00000000281" style="display: none;">
-	                                <img alt="Filtration" src="<?php echo $site_url;?>out/pictures/master/category/flyout/00000000281.jpg">
+	                                <img alt="M1" src="<?php echo $site_url;?>out/pictures/master/category/flyout/00000000281.jpg">
 	                            </div>				
 					
 		                		                   	                        	<div class="product-info clearfix" id="info-00000000291" style="display: none;">
