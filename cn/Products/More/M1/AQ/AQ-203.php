@@ -17,10 +17,10 @@
                         <!-- Thumbnail-Slider -->
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
-                	                    <a href="AQ-202.php" title="AQ-202 " class="selected">
+                	                    <a href="AQ-202.php" title="AQ-202 ">
                                         <img src="<?php echo $site_url;?>out/b/77/aq202.png" alt="AQ-202 ">
 							                                            </a>
-                	                    <a href="AQ-203.php" title="AQ-203 ">
+                	                    <a href="AQ-203.php" title="AQ-203 " class="selected">
                                         <img src="<?php echo $site_url;?>out/b/77/aq203.png" alt="AQ-203 ">
 							                                            </a>
                 	                    <a href="AQ-204.php" title="AQ-204 ">
@@ -52,7 +52,7 @@
         			    				    <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
 			            			    				    <li><a href="../index.php" title="气泵系列">气泵系列</a></li>
 			            			    				    <li><a href="AQ-202.php" title="AQ气泵系列">AQ气泵系列</a></li>
-			                            <li>AQ-202 </li>
+			                            <li>AQ-203 </li>
 			</ul>
 </div>	
 	        <!-- Links - Navigation und Teaser-Content -->
@@ -68,12 +68,12 @@
 		                <ul>
 	        <li class="active">
 	        	        <ul>
-	            <li class="active">
+	            <li>
 	                <a href="AQ-202.php">AQ-202 </a>	                
 	            </li>
 	        </ul>    
 	        	        <ul>
-	            <li>
+	            <li class="active">
 	                <a href="AQ-203.php">AQ-203 </a>	                
 	            </li>
 	        </ul>    
@@ -141,14 +141,14 @@
               																									
 <div class="tabs product-images">
     <div id="image-1">
-    	<a href="<?php echo $site_url;?>out/b/863/aq202.jpg" class="cloud-zoom">
-    		<img src="<?php echo $site_url;?>out/b/278/aq202.png" alt="" width="278" height="278">
+    	<a href="<?php echo $site_url;?>out/b/863/aq203.jpg" class="cloud-zoom">
+    		<img src="<?php echo $site_url;?>out/b/278/aq203.png" alt="" width="278" height="278">
         </a>
     </div>
      <!-- Bilder-Navigation -->
      <div class="clearfix">
      	            <ul class="product-images-nav clearfix">
-                            <li><a href="#image-1"><img src="<?php echo $site_url;?>out/b/50/aq202.png" alt=""></a></li>
+                            <li><a href="#image-1"><img src="<?php echo $site_url;?>out/b/50/aq203.png" alt=""></a></li>
 			            </ul>
 		    </div>
     <!-- ende -> Tab-Navigation -->
@@ -181,7 +181,7 @@
     }(document, 'script', 'facebook-jssdk'));
 </script>
 
-<h2 class="tk-myriad-pro tk-light">AQ-202 </h2>
+<h2 class="tk-myriad-pro tk-light">AQ-203 </h2>
 <p class="desc">我们生产的不是配件或简单的产品，而是品质与乐趣。</p>
         </div>                
         </div>
@@ -198,7 +198,7 @@
 									
 
 		<div class="tab-teaser accessories_detail-prod_detail">
-			<h3>AQ-202</h3>
+			<h3>AQ-203</h3>
 			<p>我们生产的不是配件或简单的产品，而是品质与乐趣。独有的空气压缩系统和减震系统，多级消声设计，噪声极低。特种合成橡胶组件，压力，气量恒定。绿色特殊防震橡胶脚，采用原始硅胶，杜绝使用再生料，以保证气泵的防震功能，及确保不管放置时间多长也不会留下胶脚的印记而弄脏您的家具。微调式调节气量功能，任你随心所欲，按您对气量的大小需求而随意调节。</p>
 
 <p><br/>单孔、双孔出气口满足您不同的鱼缸需求。<br />
@@ -225,17 +225,17 @@
            			<tr>
                         <td class="icon produkt">&nbsp;</td>
                         <td class="topic">产品名称</td>
-                        <td>AQ-202气泵</td>
+                        <td>AQ-203气泵</td>
                     </tr>
                     <tr>
                         <td class="icon energieverbrauch">&nbsp;</td>
                         <td class="topic">功率</td>
-                        <td>1.5 W</td>
+                        <td>2.0 W</td>
                     </tr>
                     <tr>
                         <td class="icon lumen">&nbsp;</td>
                         <td class="topic">流量</td>
-                        <td>1.5 L/Min</td>
+                        <td>2.0 L/Min</td>
                     </tr>
                     <tr>
                         <td class="icon filtervolumen">&nbsp;</td>
@@ -257,12 +257,12 @@
                         <tr>
                         <td class="icon lieferumfang">&nbsp;</td>
                         <td class="topic">装箱数</td>
-                        <td>80 PCS</td>
+                        <td>60 PCS</td>
                     </tr>
                     <tr>
                         <td class="icon filtermedium">&nbsp;</td>
                         <td class="topic">替换泵体型号</td>
-                        <td>SA-22</td>
+                        <td>SA-23</td>
                     </tr>
                     <tr>
                         <td class="icon lichtfarbe">&nbsp;</td>
@@ -272,12 +272,12 @@
                  <tr>
                         <td class="icon measure">&nbsp;</td>
                         <td class="topic">外箱尺寸</td>
-                        <td>51 x 35 x 32.5 cm</td>
+                        <td>51 x 29 x 31.5 cm</td>
                     </tr>
                     <tr>
                         <td class="icon gewicht">&nbsp;</td>
                         <td class="topic">重量</td>
-                        <td>19 Kg</td>
+                        <td>15 Kg</td>
                     </tr>
                     <tr>
                         <td class="icon volumen">&nbsp;</td>

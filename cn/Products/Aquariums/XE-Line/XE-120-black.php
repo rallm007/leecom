@@ -120,44 +120,6 @@
 	            	</div>
 	            </div>
 	            <!-- versteckte Elemente -->
-	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xe300.png" alt="XE-300 ">
-	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
-	            		            							
-		 				<!-- Bilder Galerie -->
-		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XE-300 </h2>
-		                    <div class="gallery-slider">
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/b/1173/xe300.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/b/750/xe300.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/b/77/xe300.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/w/1173/xe300.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/w/750/xe300.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/w/77/xe300.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-								
-								<!-- /Galerie-Element -->
-									                    </div>
-		                    <div class="pagination"></div>
-		                    <div class="gb-thumb-prev"></div>
-		                    <div class="gb-thumb-next"></div>
-		                    <div class="gb-prev"></div>
-		                    <div class="gb-next"></div>
-		                </div>
-	            					</div>
 	            <!-- ende-> versteckte Elemente -->
 	        </div>
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
@@ -212,83 +174,6 @@
 	            	</div>
 	            </div>
 	            <!-- versteckte Elemente -->
-	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xe360.png" alt="XE-360 ">
-	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
-	            		            							
-	            								
-		 				<!-- Bilder Galerie -->
-		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XE-360 </h2>
-		                    <div class="gallery-slider">
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/xe360.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/xe360.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/xe360.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/2/xe360.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/2/xe360.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/2/xe360.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/5/xe360.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/5/xe360.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/5/xe360.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/6/xe360.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/6/xe360.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/6/xe360.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/7/xe360.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/7/xe360.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/7/xe360.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/8/xe360.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/8/xe360.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/8/xe360.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    </div>
-		                    <div class="pagination"></div>
-		                    <div class="gb-thumb-prev"></div>
-		                    <div class="gb-thumb-next"></div>
-		                    <div class="gb-prev"></div>
-		                    <div class="gb-next"></div>
-		                </div>
-	            					</div>
 	            <!-- ende-> versteckte Elemente -->
 	        </div>
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
@@ -341,63 +226,6 @@
 	            	</div>
 	            </div>
 	            <!-- versteckte Elemente -->
-	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xe400.png" alt="XE-400 ">
-	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
-	            		            							
-	            								
-		 				<!-- Bilder Galerie -->
-		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XE-400 </h2>
-		                    <div class="gallery-slider">
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/xe400.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/xe400.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/xe400.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/4/xe400.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/4/xe400.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/4/xe400.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/5/xe400.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/5/xe400.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/5/xe400.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/6/xe400.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/6/xe400.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/6/xe400.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    </div>
-		                    <div class="pagination"></div>
-		                    <div class="gb-thumb-prev"></div>
-		                    <div class="gb-thumb-next"></div>
-		                    <div class="gb-prev"></div>
-		                    <div class="gb-next"></div>
-		                </div>
-	            					</div>
 	            <!-- ende-> versteckte Elemente -->
 	        </div>
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
@@ -450,63 +278,6 @@
 	            	</div>
 	            </div>
 	            <!-- versteckte Elemente -->
-	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xe460.png" alt="XE-460 ">
-	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
-	            		            							
-	            								
-		 				<!-- Bilder Galerie -->
-		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XE-460 </h2>
-		                    <div class="gallery-slider">
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/xe460.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/xe460.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/xe460.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-                                                            <!-- Galerie-Element -->
-                                <div class="gallery-item">
-                                    <div class="wrapper">
-                                        <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/6/xe460.jpg" class="cloud-zoom">
-                                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/6/xe460.png" alt="">
-                                        </a>
-                                        <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/6/xe460.png)"></a>
-                                    </div>
-                                </div>
-                                <!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/4/xe460.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/4/xe460.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/4/xe460.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/5/xe460.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/5/xe460.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/5/xe460.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    </div>
-		                    <div class="pagination"></div>
-		                    <div class="gb-thumb-prev"></div>
-		                    <div class="gb-thumb-next"></div>
-		                    <div class="gb-prev"></div>
-		                    <div class="gb-next"></div>
-		                </div>
-	            					</div>
 	            <!-- ende-> versteckte Elemente -->
 	        </div>
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
@@ -559,63 +330,6 @@
 	            	</div>
 	            </div>
 	            <!-- versteckte Elemente -->
-	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xe600.png" alt="XE-600 ">
-	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
-	            		            							
-	            								
-		 				<!-- Bilder Galerie -->
-		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XE-600 </h2>
-		                    <div class="gallery-slider">
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/xe600.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/xe600.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/xe600.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-                                                            <!-- Galerie-Element -->
-                                <div class="gallery-item">
-                                    <div class="wrapper">
-                                        <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/6/xe600.jpg" class="cloud-zoom">
-                                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/6/xe600.png" alt="">
-                                        </a>
-                                        <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/6/xe600.png)"></a>
-                                    </div>
-                                </div>
-                                <!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/4/xe600.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/4/xe600.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/4/xe600.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/5/xe600.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/5/xe600.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/5/xe600.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    </div>
-		                    <div class="pagination"></div>
-		                    <div class="gb-thumb-prev"></div>
-		                    <div class="gb-thumb-next"></div>
-		                    <div class="gb-prev"></div>
-		                    <div class="gb-next"></div>
-		                </div>
-	            					</div>
 	            <!-- ende-> versteckte Elemente -->
 	        </div>
 
@@ -667,63 +381,6 @@
 	            	</div>
 	            </div>
 	            <!-- versteckte Elemente -->
-	            <div class="hidden">
-	            	<img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xe800.png" alt="XE-800 ">
-	            	<!-- kleines Bild des Aquariums sichtbar in Slider-Navigation (Button-Preview) -->
-	            		            							
-	            								
-		 				<!-- Bilder Galerie -->
-		                <div class="gallery-box">
-		                    <h2 class="tk-myriad-pro tk-regular">XE-800 </h2>
-		                    <div class="gallery-slider">
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/1/xe800.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/1/xe800.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/1/xe800.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-                                                            <!-- Galerie-Element -->
-                                <div class="gallery-item">
-                                    <div class="wrapper">
-                                        <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/6/xe800.jpg" class="cloud-zoom">
-                                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/6/xe800.png" alt="">
-                                        </a>
-                                        <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/6/xe800.png)"></a>
-                                    </div>
-                                </div>
-                                <!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/4/xe800.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/4/xe800.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/4/xe800.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    	<!-- Galerie-Element -->
-		                        <div class="gallery-item">
-		                            <div class="wrapper">
-		                                <a href="<?php echo $site_url;?>out/pictures/master/product/gallery/zoom/5/xe800.jpg" class="cloud-zoom">
-		                                    <img data-src="<?php echo $site_url;?>out/pictures/master/product/gallery/detail/5/xe800.png" alt="">
-		                                </a>
-		                                <a class="thumb" style="background-image:url(<?php echo $site_url;?>out/pictures/master/product/gallery/thumb/5/xe800.png)"></a>
-		                            </div>
-		                        </div>
-								<!-- /Galerie-Element -->
-									                    </div>
-		                    <div class="pagination"></div>
-		                    <div class="gb-thumb-prev"></div>
-		                    <div class="gb-thumb-next"></div>
-		                    <div class="gb-prev"></div>
-		                    <div class="gb-next"></div>
-		                </div>
-	            					</div>
 	            <!-- ende-> versteckte Elemente -->
 	        </div>
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
