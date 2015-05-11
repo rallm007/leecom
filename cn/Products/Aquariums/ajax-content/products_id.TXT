@@ -51,19 +51,12 @@ gallery/thumb/1	77*77 png格式
 
 黑色水族箱所需图片：
 1173*1400	jpg格式
-750*450		png格式
-378*451		png格式
-80*99		png格式
-77*77		png格式
 35*36		jpg格式
-54*54		png格式
-
-
-白色水族箱所需图片：
-1173*1400	jpg格式
-750*450		png格式
 378*451		png格式
 77*77		png格式
+54*54		png格式---
+750*450		png格式---
+80*99		png格式---
 
 
 每个系列的代表产品，一般为系列中第一个黑色型号：
@@ -75,7 +68,7 @@ w/1173/xp300.png
   /750/
 b/1173/
 
-
+<a href="<?php echo $site_url?>cn/Products/Aquariums/XP-Line/XP-300-black.php">
 more
 77*77		png格式
 278*278		png格式

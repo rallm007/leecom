@@ -36,7 +36,7 @@
             </div>
             <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">下一页</a>
     	</div>
-        <a class="prod-thumb-opener ir"></a>
+        
     </div>
 </div>
 
@@ -91,7 +91,7 @@
 	                     
 	            	</div>
 	            </div>
-	            <!-- versteckte Elemente -->
+	            <!-- versteckte Elemente --><div class="hidden"><img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xp300.png" alt="XP-360 "></div>
 	            <!-- ende-> versteckte Elemente -->
 	        </div>
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
