@@ -86,9 +86,6 @@
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
-	                        <div class="variations-slider-wrapper">
-	                            <div class="variations-slider"></div>
-	                        </div>
 	                     </div>
 	                     <!-- ende-> Dekor-/Farb-Auswahl -->
 	                     <!-- Facebook -->
@@ -134,9 +131,6 @@
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
-	                        <div class="variations-slider-wrapper">
-	                            <div class="variations-slider"></div>
-	                        </div>
 	                     </div>
 	                     <!-- ende-> Dekor-/Farb-Auswahl -->
 	                     <!-- Facebook -->

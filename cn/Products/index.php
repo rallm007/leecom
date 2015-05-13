@@ -86,7 +86,7 @@
 				                <div class="image">
 				                    <h2 class="tk-myriad-pro tk-light"><span class="green">XF</span>系列</h2>
 				                    <a href="<?php echo $site_url?>cn/Products/Aquariums/XF-Line/XF-40-black-Int.php">
-				                    <img src="../../out/w/346/xf060.png" alt="" width="347" height="420"></a>
+				                    <img src="../../out/f/346/xf060.png" alt="" width="347" height="420"></a>
 				                </div>
 				                <div class="hidden">
 				                	<a></a>

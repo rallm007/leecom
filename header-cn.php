@@ -289,7 +289,7 @@ var _gaq = _gaq || [];
 								<div class="product-info clearfix" id="info-00000001271" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="XF系列" src="<?php echo $site_url;?>out/w/200/xf060.jpg">
+                                    	<img alt="XF系列" src="<?php echo $site_url;?>out/f/200/xf060.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
 	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XF系列</span></h4>
@@ -300,8 +300,8 @@ var _gaq = _gaq || [];
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/2.png"></li>
 		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/3.png"></li>
 	                                    <ul class="sizes fl">
-        			                        <li><img src="<?php echo $site_url;?>out/w/35/xf060.jpg" alt="XF-060"></li>
-                                            <li><img src="<?php echo $site_url;?>out/w/35/xf120.jpg" alt="XF-120"></li>			                                    		            	
+        			                        <li><img src="<?php echo $site_url;?>out/f/35/xf060.jpg" alt="XF-060"></li>
+                                            <li><img src="<?php echo $site_url;?>out/f/35/xf120.jpg" alt="XF-120"></li>			                                    		            	
 	                                    </ul>                                   
 	                                </div>
 	                            </div>				
