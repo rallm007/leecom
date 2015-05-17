@@ -397,7 +397,7 @@
 	// wird aufgerufen, wenn der Produkt-Slider (Caroussell) bewegt wird und wenn der Auswahl-Slider der Dekore bewegt wird
 	loadContentByArtId = function( sArtId ) {
 
-		var iArtId = sArtId.substr(6,50);
+		var iArtId = sArtId.substr(6,5);
 		 // alert(iArtId);
 		//$('#sroverlay').show();
 		var contentBox = $('#ajax-content')
@@ -406,7 +406,7 @@
 		// vor dem request
 		contentBox.slideUp('slow') // alten content ausblenden
 		loader.show()			   // loader einblenden
-
+// alert(substr(iArtId,0,5));
 		// url für Request
 		// var url = 'http://www.juwel-aquarium.de/partials/produkt-detail/ajax-content/ajax.php/'
 		var sData = "cl=srajax&fnc=getArticleContent&tpl=srarticlecontent.tpl&anid=" + iArtId + "";

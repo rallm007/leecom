@@ -92,6 +92,16 @@
 				                	<a></a>
 				                </div>
 				            </div>
+				            <div class="item">
+				                <div class="image">
+				                    <h2 class="tk-myriad-pro tk-light"><span class="green">XQ</span>系列</h2>
+				                    <a href="<?php echo $site_url?>cn/Products/Aquariums/XQ-Line/XQ-Line-60-Int.php">
+				                    <img src="../../out/f/346/xq200.png" alt="" width="347" height="420"></a>
+				                </div>
+				                <div class="hidden">
+				                	<a></a>
+				                </div>
+				            </div>
 							</div>
         <a id="stage-prev" class="stage-nav" href="#"></a>
         <a id="stage-next" class="stage-nav" href="#"></a>
@@ -106,54 +116,36 @@
 </script>
 
 <div class="page_margins">
-    <div class="product-overview-content clearfix">    
+    <div class="product-overview-content clearfix" style="margin-top: 0px;">    
 				
-	        	            <a class="grid_4 accessories-teaser" href="More/Lighting/index.php">
+	        	            <a class="grid_4 accessories-teaser" href="More/AQ-202.php">
 	                <div class="image">	                    
-	                    <img src="../../out/b/346/00000000261.png" alt="Lighting">	                </div>
-	                <div class="content">
-	                    <h2>Lighting</h2>
-	                    <p>JUWEL lighting systems guarantee <br> the optimum lighting of your aquarium.</p>
-	                    <span class="button ci3">Go to products</span>
+	                    <img src="../../out/b/545/qb.jpg" alt="" style="height: 177px; width: 254px;">	                </div>
+	                <div class="content" style="height: 150px;">
+	                    <h2>气泵系列</h2>
+	                    <p>您爱鱼的有氧生态舱</p>
+	                    <span class="button ci3">了解详情</span>
 	                </div>
 	            </a>
-	        	            <a class="grid_4 accessories-teaser" href="More/M1/index.php">
+	            <a class="grid_4 accessories-teaser" href="More/PF-120.php">
 	                <div class="image">	                    
-	                    <img src="../../out/b/346/00000000281.png" alt="M1">	                </div>
-	                <div class="content">
-	                    <h2>M1</h2>
-	                    <p>Powerful and ultra-efficient <br> filtering for your aquarium.</p>
-	                    <span class="button ci3">Go to products</span>
+	                    <img src="../../out/b/545/sb.jpg" alt="" style="height: 177px; width: 254px;">	                </div>
+	                <div class="content" style="height: 150px;">
+	                    <h2>水泵系列</h2>
+	                    <p>澎湃性能，高效超凡</p>
+	                    <span class="button ci3">了解详情</span>
 	                </div>
 	            </a>
-	        	            <a class="grid_4 accessories-teaser" href="More/Decoration/index.php">
+	            <a class="grid_4 accessories-teaser" href="More/CC1.php">
 	                <div class="image">	                    
-	                    <img src="../../out/b/346/00000000291.png" alt="Decoration">	                </div>
-	                <div class="content">
-	                    <h2>Decoration</h2>
-	                    <p>JUWEL decorative concepts<br>enable the simple and elegant<br> design of your aquarium.</p>
-	                    <span class="button ci3">Go to products</span>
+	                    <img src="../../out/b/545/cc.jpg" alt="" style="height: 177px; width: 254px;">	                </div>
+	                <div class="content" style="height: 150px;">
+	                    <h2>磁擦系列</h2>
+	                    <p>一切创新是为了给你不一样的体验</p>
+	                    <span class="button ci3">了解详情</span>
 	                </div>
 	            </a>
-	        	            <a class="grid_4 accessories-teaser" href="More/Accessories/index.php">
-	                <div class="image">	                    
-	                    <img src="../../out/b/346/00000000301.png" alt="Accessories">	                </div>
-	                <div class="content">
-	                    <h2>Accessories</h2>
-	                    <p>Extensive JUWEL accessories<br> support you  in the operation of your aquarium.</p>
-	                    <span class="button ci3">Go to products</span>
-	                </div>
-	            </a>
-	        	            <a class="grid_4 accessories-teaser" href="More/Marine/index.php">
-	                <div class="image">	                    
-	                    <img src="../../out/b/346/00000000311.png" alt="Marine">	                </div>
-	                <div class="content">
-	                    <h2>Marine</h2>
-	                    <p>Saltwater products from JUWEL ensure <br> that your aquarium is ready to use as  <br> a saltwater aquarium in just a few steps.</p>
-	                    <span class="button ci3">Go to products</span>
-	                </div>
-	            </a>
-	        		    </div>
+	        </div>
 </div>    
 </div>
 <!-- /Main-Area -->

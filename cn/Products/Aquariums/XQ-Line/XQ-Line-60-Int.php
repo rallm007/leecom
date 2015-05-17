@@ -15,7 +15,7 @@
         var js, fjs = d.getElementsByTagName(s)[0];
         if (d.getElementById(id)) {return;}
             js = d.createElement(s); js.id = id;
-        js.src = "../../../../../connect.facebook.net/en_GB/all.js"/*tpa=http://connect.facebook.net/en_GB/all.js*/;
+        js.src = "../../../../../connect.facebook.net/en_GB/all.js";
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
 </script>
@@ -24,13 +24,17 @@
 <div class="product-thumbnail-navi clearfix closed">
 	<div class="page_margins">
     	<div class="inner-wrapper">
-            <h1 class="tk-myriad-pro tk-light">XQ-Line</h1>
+            <h1 class="tk-myriad-pro tk-light">XQ系列</h1>
             <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一页</a>
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
-                                																																																						                    <a href="#juwel-000000000000023860" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
-                        <img data-src="<?php echo $site_url;?>out/pictures/master/product/7/23860.png" alt="XQ-Line Coldwater  ">
-                        XQ-Line Coldwater  
+<a href="#juwel-xq200lv" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
+                        <img data-src="<?php echo $site_url;?>out/lv/80/xq200.png" alt="XQ-200 ">
+                        XQ-200 
+                    </a>
+						<a href="#juwel-xq250w" class="caroufredsel"><!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
+                        <img data-src="<?php echo $site_url;?>out/lv/80/xq250.png" alt="XQ-250 ">
+                        XQ-250 
                     </a>
                                                 </div>
             </div>
@@ -49,36 +53,48 @@
     <!-- ende -> Slider Pagination -->
     <!-- Main-Stage-Slider -->
 	<div class="stage-slider">
-																																							    	<!-- Slider-Item (Produkt-Variante) -->
-	        <div class="item" id="juwel-000000000000023860" data-variants="juwel-000000000000023860"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+																																																												    	<!-- Slider-Item (Produkt-Variante) -->
+	        <div class="item" id="juwel-xq200f" data-variants="juwel-xq200f"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
 	            <div class="page_margins item-content">
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
 	                    <ul class="fl">
 	                        <li>您的位置:</li>
-	                        <li>XQ-Line</li>
-	                        <li>XQ-Line Coldwater  </li>
+	                        <li>XQ系列</li>
+	                        <li>XQ-200 </li>
 	                    </ul>
 	                </div>
 	                <!-- ende -> Breadcrumb -->
 	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
 	            	<div class="product-image">
-	            			                	<div class="product-image-wrapper" data-id="juwel-000000000000023860" title="LEECOM | XQ-Line 60 Int.">
-	                        <a href="<?php echo $site_url;?>out/pictures/master/product/main/zoom/1/23860.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/pictures/master/product/1/23860.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                    <div class="product-image-wrapper" data-id="juwel-xq200f" title="LEECOM | XQ-200 粉红色">
+	                        <a href="<?php echo $site_url;?>out/f/1173/xq200.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/f/378/xq200.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        </a>
+	                    </div>
+	                    <div class="product-image-wrapper" data-id="juwel-xq200l" title="LEECOM | XQ-200 蓝色">
+	                        <a href="<?php echo $site_url;?>out/l/1173/xq200.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/l/378/xq200.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        </a>
+	                    </div>
+	            			                	<div class="product-image-wrapper" data-id="juwel-xq200lv" title="LEECOM | XQ-200 绿色">
+	                        <a href="<?php echo $site_url;?>out/lv/1173/xq200.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/lv/378/xq200.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
 	                <!-- ende-> Produkt-Bilder -->
 	                <!-- rechter Bereich im Slider neben dem Produktbild -->
 	                <div class="right">
-	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XQ-Line Coldwater  </span></h2><!-- varianten headline -->
-	                    <p>自由自在，轻松出行，享受自由，享受自在。</p>
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XQ-200 </span></h2><!-- varianten headline -->
+	                    <p>节能、环保，轻松加水投饲，精巧、简约，尤其适合办公室、家居的桌面摆设。</p>
 	                    <!-- Dekor-/Farb-Auswahl -->
 	                    <div class="variations nav clearfix">
 	                        <div class="oh">
 		                            <ul>
-																			<li><a href="XQ-Line-60-Int.php#!juwel-000000000000023860" title="XQ-Line 60 Int."><img src="<?php echo $site_url;?>out/pictures/master/global/2/1.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XQ-125-white.php#!juwel-xq200f" title="XQ-200 粉红色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/2.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XQ-125-white.php#!juwel-xq200l" title="XQ-200 蓝色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/3.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XQ-125-white.php#!juwel-xq200lv" title="XQ-200 绿色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/5.png" width="33" height="33" alt=""></a></li>
 											                            </ul>
 		                        </div>
 	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
@@ -89,11 +105,135 @@
 	                     <!-- ende-> Dekor-/Farb-Auswahl -->
 	                     <!-- Facebook -->
 	                     
+                                                                                                                                                
+	                     <!-- ende-> Facebook -->
 	            	</div>
 	            </div>
-	            <!-- versteckte Elemente --><div class="hidden"><img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xp300.png" alt="XP-360 "></div>
+	            <!-- versteckte Elemente --><div class="hidden"><img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xp300.png" alt="XQ-200 "></div>
 	            <!-- ende-> versteckte Elemente -->
 	        </div>
+	        <!-- ende-> Slider-Item (Produkt-Variante) -->
+																																																										    	<!-- Slider-Item (Produkt-Variante) -->
+	        <div class="item" id="juwel-xq250f" data-variants="juwel-xq250f"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+	            <div class="page_margins item-content">
+	            	<!-- Breadcrumb -->
+	            	<div class="breadcrumb nav fl clearfix">
+	                    <ul class="fl">
+	                        <li>您的位置:</li>
+	                        <li>XQ系列</li>
+	                        <li>XQ-250 </li>
+	                    </ul>
+	                </div>
+	                <!-- ende -> Breadcrumb -->
+	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
+	            	<div class="product-image">
+	                    <div class="product-image-wrapper" data-id="juwel-xq250f" title="LEECOM | XQ-250 粉红色">
+	                        <a href="<?php echo $site_url;?>out/f/1173/xq250.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/f/378/xq250.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        </a>
+	                    </div>
+	                    <div class="product-image-wrapper" data-id="juwel-xq250l" title="LEECOM | XQ-250 蓝色">
+	                        <a href="<?php echo $site_url;?>out/l/1173/xq250.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/l/378/xq250.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        </a>
+	                    </div>
+	            			                	<div class="product-image-wrapper" data-id="juwel-xq250lv" title="LEECOM | XQ-250 绿色">
+	                        <a href="<?php echo $site_url;?>out/lv/1173/xq250.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/lv/1173/xq250.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        </a>
+	                    </div>
+	            	</div>
+	                <!-- ende-> Produkt-Bilder -->
+	                <!-- rechter Bereich im Slider neben dem Produktbild -->
+	                <div class="right">
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XQ-250 </span></h2><!-- varianten headline -->
+	                    <p>节能、环保，轻松加水投饲，精巧、简约，尤其适合办公室、家居的桌面摆设。</p>
+	                    <!-- Dekor-/Farb-Auswahl -->
+	                    <div class="variations nav clearfix">
+	                        <div class="oh">
+		                            <ul>
+																			<li><a href="XQ-125-white.php#!juwel-xq250f" title="XQ-250 粉红色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/2.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XQ-125-white.php#!juwel-xq250l" title="XQ-250 蓝色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/3.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XQ-180-white.php#!juwel-xq250lv" title="XQ-250 绿色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/5.png" width="33" height="33" alt=""></a></li>
+											                            </ul>
+		                        </div>
+	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
+	                        <div class="variations-slider-wrapper">
+	                            <div class="variations-slider"></div>
+	                        </div>
+	                     </div>
+	                     <!-- ende-> Dekor-/Farb-Auswahl -->
+	                     <!-- Facebook -->
+	                     
+                                                                                                                                                
+	                     <!-- ende-> Facebook -->
+	            	</div>
+	            </div>
+	            <!-- versteckte Elemente --><div class="hidden"><img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xp300.png" alt="XQ-250 "></div>
+	            <!-- ende-> versteckte Elemente -->
+	        </div>
+
+	        <div class="item" id="juwel-xq300f" data-variants="juwel-xq250f"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+	            <div class="page_margins item-content">
+	            	<!-- Breadcrumb -->
+	            	<div class="breadcrumb nav fl clearfix">
+	                    <ul class="fl">
+	                        <li>您的位置:</li>
+	                        <li>XQ系列</li>
+	                        <li>XQ-250 </li>
+	                    </ul>
+	                </div>
+	                <!-- ende -> Breadcrumb -->
+	            	<!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
+	            	<div class="product-image">
+	                    <div class="product-image-wrapper" data-id="juwel-xq300f" title="LEECOM | XQ-300 粉红色">
+	                        <a href="<?php echo $site_url;?>out/f/1173/xq300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/f/378/xq300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        </a>
+	                    </div>
+	                    <div class="product-image-wrapper" data-id="juwel-xq300l" title="LEECOM | XQ-300 蓝色">
+	                        <a href="<?php echo $site_url;?>out/l/1173/xq300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/l/378/xq300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        </a>
+	                    </div>
+	            			                	<div class="product-image-wrapper" data-id="juwel-xq300lv" title="LEECOM | XQ-300 绿色">
+	                        <a href="<?php echo $site_url;?>out/lv/1173/xq300.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/lv/1173/xq300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        </a>
+	                    </div>
+	            	</div>
+	                <!-- ende-> Produkt-Bilder -->
+	                <!-- rechter Bereich im Slider neben dem Produktbild -->
+	                <div class="right">
+	                    <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XQ-300 </span></h2><!-- varianten headline -->
+	                    <p>节能、环保，轻松加水投饲，精巧、简约，尤其适合办公室、家居的桌面摆设。</p>
+	                    <!-- Dekor-/Farb-Auswahl -->
+	                    <div class="variations nav clearfix">
+	                        <div class="oh">
+		                            <ul>
+																			
+																			<li><a href="XQ-125-white.php#!juwel-xq250f" title="XQ-300 粉红色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/2.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XQ-125-white.php#!juwel-xq250l" title="XQ-300 蓝色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/3.png" width="33" height="33" alt=""></a></li>
+																			<li><a href="XQ-180-white.php#!juwel-xq250lv" title="XQ-300 绿色"><img src="<?php echo $site_url;?>out/pictures/master/global/2/5.png" width="33" height="33" alt=""></a></li>
+											                            </ul>
+		                        </div>
+	                        <!-- Auswahl-Slider unter runden Dekor-Bildern -->
+	                        <div class="variations-slider-wrapper">
+	                            <div class="variations-slider"></div>
+	                        </div>
+	                     </div>
+	                     <!-- ende-> Dekor-/Farb-Auswahl -->
+	                     <!-- Facebook -->
+	                     
+                                                                                                                                                
+	                     <!-- ende-> Facebook -->
+	            	</div>
+	            </div>
+	            <!-- versteckte Elemente --><div class="hidden"><img class="nav-product-preview-image" src="<?php echo $site_url;?>out/b/54/xp300.png" alt="XQ-250 "></div>
+	            <!-- ende-> versteckte Elemente -->
+	        </div>
+	        <!-- ende-> Slider-Item (Produkt-Variante) -->
+
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
 				    </div>
     <a id="stage-prev" class="stage-nav" href="#"></a>
@@ -108,7 +248,8 @@
 	// wird aufgerufen, wenn der Produkt-Slider (Caroussell) bewegt wird und wenn der Auswahl-Slider der Dekore bewegt wird
 	loadContentByArtId = function( sArtId ) {
 
-		var iArtId = sArtId.substr(6,50);
+		var iArtId = sArtId.substr(6,5);
+		 // alert(iArtId);
 		//$('#sroverlay').show();
 		var contentBox = $('#ajax-content')
 		var loader = $('#product-loading-content');
@@ -118,16 +259,16 @@
 		loader.show()			   // loader einblenden
 
 		// url für Request
-		// var url = '<?php echo $site_url;?>partials/produkt-detail/ajax-content/ajax.php/'
+		// var url = 'http://www.juwel-aquarium.de/partials/produkt-detail/ajax-content/ajax.php/'
 		var sData = "cl=srajax&fnc=getArticleContent&tpl=srarticlecontent.tpl&anid=" + iArtId + "";
 
 		//data: {artId: iArtId},
 		
-		if(window.location.protocol.indexOf("https") >= 0) {
-			var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860cl=srajax";
-		} else {
+		// if(window.location.protocol.indexOf("https") >= 0) {
+		// 	var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XQ-Line/XQ-300-black.php#!juwel-xq200wcl=srajax";
+		// } else {
 			var sUrl = "../ajax-content/" + iArtId + ".php";
-		}
+		// }
 
 		// ajax request
 		$.ajax({
@@ -167,9 +308,9 @@
 
 <div class="page_margins">
     <div class="content clearfix">
-    <div id="ajax-content" style="position: relative">
-    	<!-- in diesen Container wird der Tab-Content und der Cross-Selling-Slider für das ausgewählte Produkt reingeladen -->
-    </div>
+    <div id="ajax-content" style="position: relative; display: block;"><!-- Tab-Container -->
+
+</div>
 	  <div id="product-loading-content"></div>
         <div class="go-top clear clearfix">
         	<a class="arrow-link top fr scroll-link" href="#header">回到页首</a>
@@ -178,24 +319,16 @@
 </div>	
 </div>
 <!-- /Main-Area -->
-
-<!-- Footer-Area -->
-																								
-
-
-	<div id="breadcrumb-bottom" class="nav">
+<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="../../index.php" title="产品展示">产品展示</a></li>
-			    						    <li><a href="XQ-Line-60-Int.php" title="XQ-Line">XQ-Line</a></li>
-			    			        </ul>                        
+		    <li><a href="../../index.php" title="产品展示">产品展示</a></li>
+				<li><a href="#" title="">XQ系列</a></li>
+	        </ul>                        
     </div>
 </div>
-
 <?php include($_SERVER['DOCUMENT_ROOT']."/leecom/footer-cn.php");?>
             
 	<div id="sroverlay" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999999999999999;display: none;"></div>
 </body>
 </html>
-
-

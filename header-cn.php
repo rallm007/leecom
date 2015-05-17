@@ -11,7 +11,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=1024" />
     <meta name="description" content="XP-300 black -">
-    <meta name="keywords" content="rio, 125, black, products, aquariums, line">
+    <meta name="keywords" content="xp-300, 125, black, products, aquariums, line">
 	<meta property="og:locale" content="fr_FR" />
     <meta property="fb:app_id" content="532575290153827" />
     <meta property="og:title" content="LEECOM" />
@@ -126,25 +126,23 @@ var _gaq = _gaq || [];
 								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XA-Line/XA-40-black-Int.php#!juwel-xa815w" id="00000001289">XA系列</a></li>
 								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-xf060w" id="00000001271">XF系列</a></li>
 						<!-- Aquarien -->
-								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860" id="00000001281">XQ系列</a></li>
+								<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!juwel-xq200f" id="00000001281">XQ系列</a></li>
 			</ul>
 			<ul>
 					<li class="head"><h4>更多</h4></li>
 									<!-- Weiteres -->
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Lighting/index.php" id="00000000261">灯具系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/AQ-202.php" id="00000000281">气泵系列</a></li>
 									<!-- Weiteres -->
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/M1/index.php" id="00000000281">气泵系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/PF-120.php" id="00000000291">水泵系列</a></li>
 									<!-- Weiteres -->
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Decoration/index.php" id="00000000291">水泵系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/CC1.php" id="00000000301">磁擦系列</a></li>
 									<!-- Weiteres -->
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Accessories/index.php" id="00000000301">磁擦系列</a></li>
-									<!-- Weiteres -->
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/index.php" id="00000000311">附件系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/index.php" id="00000000311">保温棒系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/index.php" id="00000000311">缸外过滤系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/index.php" id="00000000311">缸内过滤系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/index.php" id="00000000311">上部过滤系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products';?>/More/Marine/index.php" id="00000000311">气动过滤系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/MT-100.php" id="00000000311">附件系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/KC-361.php" id="00000000312">保温棒系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/HI-330.php" id="00000000313">缸外过滤系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/PF-282.php" id="00000000314">缸内过滤系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/CF-600.php" id="00000000315">上部过滤系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products';?>/More/IF-730.php" id="00000000316">气动过滤系列</a></li>
 			</ul>
 			<ul>			
 						
@@ -168,7 +166,6 @@ var _gaq = _gaq || [];
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xp400.jpg" alt="XP-400 "></li>	                                    		            	
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xp460.jpg" alt="XP-460 "></li>	                                    		            	
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xp600.jpg" alt="XP-600 "></li>
-                                            <li><img src="<?php echo $site_url;?>out/b/35/xp800.jpg" alt="XP-800 "></li>	                                    			                                    				                                    			                                    				                                    		            	
 	                                    </ul>
 	                                </div>
 	                            </div>				
@@ -194,8 +191,7 @@ var _gaq = _gaq || [];
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xc400.jpg" alt="XC-400 "></li>	                                    		            	
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xc460.jpg" alt="XC-460 "></li>	                                    		            	
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xc600.jpg" alt="XC-600 "></li>
-                                            <li><img src="<?php echo $site_url;?>out/b/35/xc800.jpg" alt="XC-800 "></li>
-	                                    </ul>                                    
+	                                    </ul>
 	                                </div>
 	                            </div>				
 					
@@ -219,8 +215,7 @@ var _gaq = _gaq || [];
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xt360.jpg" alt="XT-360 "></li>	                                    		            	
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xt400.jpg" alt="XT-400 "></li>	                                    		            	
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xt460.jpg" alt="XT-460 "></li>	                                    		            	
-			                    			<li><img src="<?php echo $site_url;?>out/b/35/xt600.jpg" alt="XT-600 "></li>
-                                            <li><img src="<?php echo $site_url;?>out/b/35/xt800.jpg" alt="XT-800 "></li>                             			                                    				                                    			                                    				                                    		            	
+			                    			<li><img src="<?php echo $site_url;?>out/b/35/xt600.jpg" alt="XT-600 "></li>                           			                                    				                                    			                                    				                                    		            	
 	                                    </ul>                                   
 	                                </div>
 	                            </div>				
@@ -246,8 +241,7 @@ var _gaq = _gaq || [];
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xe400.jpg" alt="XE-400 "></li>	                                    		            	
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xe460.jpg" alt="XE-460 "></li>	                                    		            	
 			                    			<li><img src="<?php echo $site_url;?>out/b/35/xe600.jpg" alt="XE-600 "></li>
-                                            <li><img src="<?php echo $site_url;?>out/b/35/xe800.jpg" alt="XE-800 "></li> 	                                    			                                    				                                    			                                    				                                    		            	
-	                                    </ul>                                   
+			                    		</ul>                                   
 	                                </div>
 	                            </div>
 		                		    <div class="product-info clearfix" id="info-00000000071" style="display: none;">
@@ -308,41 +302,50 @@ var _gaq = _gaq || [];
 								<div class="product-info clearfix" id="info-00000001281" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="XQ-Line" src="<?php echo $site_url;?>out/b/200/23860.jpg">
+                                    	<img alt="XQ系列" src="<?php echo $site_url;?>out/f/200/xq200.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
 	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XQ系列</span></h4>
 	                                    <h5>带上你的宠宝，畅游吧</h5>
 	                                    <p>自由自在，轻松出行，享受自由，享受自在</p>
 	                                    <ul class="decor fl">                     	            	
-		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/1.png"></li>
-		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/4.png"></li>
+		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/2.png"></li>
+		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/3.png"></li>
+		                                    	<li><img alt="" src="<?php echo $site_url;?>out/pictures/master/global/1/5.png"></li>
 		                                <ul class="sizes fl">
-	                                    	<li><img src="<?php echo $site_url;?>out/b/35/23860.jpg" alt="XQ  "></li>
+	                                    	<li><img src="<?php echo $site_url;?>out/f/35/xq200.jpg" alt="XQ-200"></li>
+	                                    	<li><img src="<?php echo $site_url;?>out/l/35/xq200.jpg" alt="XQ-250"></li>
+	                                    	<li><img src="<?php echo $site_url;?>out/lv/35/xq200.jpg" alt="XQ-300"></li>
 	                                    </ul>                                  
 	                                </div>
 	                            </div>
-		                		                   	                        	<div class="product-info clearfix" id="info-00000000261" style="display: none;">
-	                                <img alt="Lighting" src="<?php echo $site_url;?>out/pictures/master/category/flyout/00000000261.jpg">
-	                            </div>				
-					
-		                		                   	                        	<div class="product-info clearfix" id="info-00000000281" style="display: none;">
-	                                <img alt="M1" src="<?php echo $site_url;?>out/pictures/master/category/flyout/00000000281.jpg">
-	                            </div>				
-					
-		                		                   	                        	<div class="product-info clearfix" id="info-00000000291" style="display: none;">
-	                                <img alt="Decoration" src="<?php echo $site_url;?>out/pictures/master/category/flyout/00000000291.jpg">
-	                            </div>				
-					
-		                		                   	                        	<div class="product-info clearfix" id="info-00000000301" style="display: none;">
-	                                <img alt="Accessories" src="<?php echo $site_url;?>out/pictures/master/category/flyout/00000000301.jpg">
-	                            </div>				
-					
-		                		                   	                        	<div class="product-info clearfix" id="info-00000000311" style="display: none;">
-	                                <img alt="Marine" src="<?php echo $site_url;?>out/pictures/master/category/flyout/00000000311.jpg">
-	                            </div>				
-					
-		                                        
+	                            <div class="product-info clearfix" id="info-00000000281" style="display: none;">
+	                                <img alt="QP" src="<?php echo $site_url;?>out/b/545/qb.jpg">
+	                            </div>
+	                            <div class="product-info clearfix" id="info-00000000291" style="display: none;">
+	                                <img alt="Decoration" src="<?php echo $site_url;?>out/b/545/sb.jpg" style="width:545px;">
+	                            </div>
+	                            <div class="product-info clearfix" id="info-00000000301" style="display: none;">
+	                                <img alt="Accessories" src="<?php echo $site_url;?>out/b/545/cc.jpg">
+	                            </div>	
+		                		<div class="product-info clearfix" id="info-00000000311" style="display: none;">
+	                                <img alt="Marine" src="<?php echo $site_url;?>out/b/545/fj.jpg">
+	                            </div>
+	                            <div class="product-info clearfix" id="info-00000000312" style="display: none;">
+	                                <img alt="Marine" src="<?php echo $site_url;?>out/b/545/bw.jpg">
+	                            </div>
+	                            <div class="product-info clearfix" id="info-00000000313" style="display: none;">
+	                                <img alt="Marine" src="<?php echo $site_url;?>out/b/545/gw.jpg">
+	                            </div>
+	                            <div class="product-info clearfix" id="info-00000000314" style="display: none;">
+	                                <img alt="Marine" src="<?php echo $site_url;?>out/b/545/gn.jpg">
+	                            </div>
+	                            <div class="product-info clearfix" id="info-00000000315" style="display: none;">
+	                                <img alt="Marine" src="<?php echo $site_url;?>out/b/545/cf.jpg">
+	                            </div>
+	                            <div class="product-info clearfix" id="info-00000000316" style="display: none;">
+	                                <img alt="Marine" src="<?php echo $site_url;?>out/b/545/qd.jpg">
+	                            </div>
                         </div>
                     </div>                                        
                 </li>

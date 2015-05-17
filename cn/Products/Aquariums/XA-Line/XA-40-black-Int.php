@@ -203,7 +203,7 @@
 	// wird aufgerufen, wenn der Produkt-Slider (Caroussell) bewegt wird und wenn der Auswahl-Slider der Dekore bewegt wird
 	loadContentByArtId = function( sArtId ) {
 
-		var iArtId = sArtId.substr(6,50);
+		var iArtId = sArtId.substr(6,5);
 		 // alert(iArtId);
 		//$('#sroverlay').show();
 		var contentBox = $('#ajax-content')

@@ -54,7 +54,7 @@
     <!-- Main-Stage-Slider -->
 	<div class="stage-slider">
 																																																												    	<!-- Slider-Item (Produkt-Variante) -->
-	        <div class="item" id="juwel-xf060w" data-variants="juwel-xf060w"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+	        <div class="item" id="juwel-xf060f" data-variants="juwel-xf060f"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
 	            <div class="page_margins item-content">
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
@@ -114,7 +114,7 @@
 	        </div>
 	        <!-- ende-> Slider-Item (Produkt-Variante) -->
 																																																										    	<!-- Slider-Item (Produkt-Variante) -->
-	        <div class="item" id="juwel-xf120w" data-variants="juwel-xf120w"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
+	        <div class="item" id="juwel-xf120f" data-variants="juwel-xf120f"><!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
 	            <div class="page_margins item-content">
 	            	<!-- Breadcrumb -->
 	            	<div class="breadcrumb nav fl clearfix">
@@ -188,7 +188,7 @@
 	// wird aufgerufen, wenn der Produkt-Slider (Caroussell) bewegt wird und wenn der Auswahl-Slider der Dekore bewegt wird
 	loadContentByArtId = function( sArtId ) {
 
-		var iArtId = sArtId.substr(6,50);
+		var iArtId = sArtId.substr(6,5);
 		 // alert(iArtId);
 		//$('#sroverlay').show();
 		var contentBox = $('#ajax-content')
