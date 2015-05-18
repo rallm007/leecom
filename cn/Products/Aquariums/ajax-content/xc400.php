@@ -18,26 +18,7 @@
                         
             
 
-            <div id="navigation" class="tab-teaser-prod_details nav clearfix">
-                <ul>
-                    <li class="high-lite">
-                        <h3>光源</h3>
-                        <a href="#light" class="arrow-link bottom reverse scroll-link">了解更多</a>
-                    </li>
-                    <li class="filter">
-                        <h3>CF系列上部过滤系统</h3>
-                        <a href="#filter" class="arrow-link bottom reverse scroll-link">了解更多</a>
-                    </li>
-                    <li class="heater">
-                        <h3>Heater</h3>
-                        <a href="#filter" class="arrow-link bottom reverse scroll-link">了解更多</a>
-                    </li>
-                    <li class="floorunit">
-                        <h3>完美组合：底柜</h3>
-                        <a href="#floorunit" class="arrow-link bottom reverse scroll-link">了解更多</a>
-                    </li>
-                </ul>
-            </div>
+            
                         
             
 
@@ -46,7 +27,7 @@
                     <h3 class="icon-headline hight-lite">形式多变，满足你不同的需求</h3>
                     <p>三档开关给您不同的视觉感受，灯光明暗形成不同的风格。开关防水帽的安全设计杜绝任何的安全隐患。<br>
 21世纪的主题是节能，故我们的节能灯系列也选用高品质的灯管和灯丝及电子元件，比普通白炽灯省电80%。<br></p>
-                    <a href="#navigation" class="arrow-link top scroll-link">回到页首</a>
+                    
                 </div>
                 <div class="grid_4">                
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/t5_2.png" alt="">
@@ -59,7 +40,7 @@
                 <div class="grid_8">
                     <h3 class="icon-headline filter-heater">CF系列上部过滤系统</h3>
                     <p>CF系列上部过滤是一个高效过滤和抽水、增氧完美融合于一体的系统，过滤泵头主体部份全部采用进口铜线，性能更高，更有效省电。顶部灌胶密封，杜绝漏电安全隐患。<br></p>
-                    <a href="#navigation" class="arrow-link top scroll-link">回到页首</a>
+                    
                 </div>
                 <div class="grid_4">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(2).jpg" alt="">
@@ -72,7 +53,7 @@
                 <div class="grid_8">
                     <h3 class="icon-headline floorunit">完美组合：底柜</h3>
                     <p>30年经验老师傅精心设计打造的厚重高密度板底柜，可承压千斤以上重物，即便您的鱼缸装上满满一缸水也固若金汤，不存在任何安全隐患。优雅的线条，高档经典的色泽，是与您鱼缸搭配的最佳元素。</p>
-                    <a href="#navigation" class="arrow-link top scroll-link">回到页首</a>
+                    
                 </div>
                 <div class="grid_4">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300_66300.jpg" alt="">

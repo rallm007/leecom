@@ -18,18 +18,7 @@
                         
             
 
-            <div id="navigation" class="tab-teaser-prod_details nav clearfix">
-                <ul>
-                    <li class="high-lite">
-                        <h3>光源</h3>
-                        <a href="#light" class="arrow-link bottom reverse scroll-link">了解更多</a>
-                    </li>
-                    <li class="filter">
-                        <h3>过滤系统</h3>
-                        <a href="#filter" class="arrow-link bottom reverse scroll-link">了解更多</a>
-                    </li>
-                </ul>
-            </div>
+            
                         
             
 
@@ -37,7 +26,7 @@
                 <div class="grid_8">
                     <h3 class="icon-headline filter-heater">合二为一的生化过滤系统和节能照明系统</h3>
                     <p>节能环保的高亮度LED灯，想开就开想关就关，绝然不影响生化过滤系统的正常运作，过滤、增氧、照明系统的浑然一体令您的爱鱼享有更多的活动空间，满足您简约时尚的品味。<br></p>
-                    <a href="#navigation" class="arrow-link top scroll-link">回到页首</a>
+                    
                 </div>
                 <div class="grid_4">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(2).jpg" alt="">
