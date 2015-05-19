@@ -1,6 +1,6 @@
 <?php include($_SERVER['DOCUMENT_ROOT']."/leecom/header-cn.php");?>
 
-<!-- Main-Area test -->
+<!-- Main-Area tes t -->
 <div id="main">
     <div class="home-stage">
     <div class="page_margins pagination-wrapper">
