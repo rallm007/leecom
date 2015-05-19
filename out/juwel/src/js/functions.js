@@ -200,7 +200,8 @@ $(function(){
 		var pag_slider_sel = stage_sel.find('.stage-slider-pagination'); // slider pagination
 
 		/* settings */
-		var top = '131px';
+		// var top = '131px';
+		var top = '49px';
 		var top_active = '49px'
 		var font_sml = '28px'
 		var font_big = '40px'
