@@ -265,7 +265,7 @@ var _gaq = _gaq || [];
                                 <div class="product-info clearfix" id="info-00000001289" style="display: none;">
 	                            	<div class="image">
                                    	                                    	                                    	            	
-                                    	<img alt="XA系列" src="<?php echo $site_url;?>out/w/200/xa815.jpg">
+                                    	<img alt="XA系列" src="<?php echo $site_url;?>out/w/200/xa300.jpg">
                                     	                                   		                                </div>
 	                                <div class="descr clearfix">
 	                                		                                	<h4 class="tk-myriad-pro tk-light"><span class="green">XA系列</span></h4>
