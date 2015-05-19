@@ -15,6 +15,7 @@
 					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860">XQ系列</a></li>
 				</ul>
 				<ul>
+          <li><a href="<?php echo $site_url.'cn/Products';?>/More/AQ-202.php">灯具系列</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products';?>/More/AQ-202.php">气泵系列</a></li>
           <li><a href="<?php echo $site_url.'cn/Products';?>/More/PF-120.php">水泵系列</a></li>
           <li><a href="<?php echo $site_url.'cn/Products';?>/More/CC1.php">磁擦系列</a></li>
