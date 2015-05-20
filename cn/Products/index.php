@@ -22,12 +22,13 @@
             <div class="stage-slider clearfix">
 
 
-                <div class="item">
+                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XP</span>系列</h2>
-                        <a href="<?php echo $site_url?>cn/Products/Aquariums/XP-Line/XP-300-black.php">
-                            <img src="../../out/b/346/xp300.png" alt="" width="347" height="420">
-                        </a>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XP</span>系列</h2>                        
+                        <img src="../../out/b/346/xp300.png" alt="" width="347" height="420">
+                        <map id="xpmap">
+                            <area shape="rect" coords="0,0,347,420" href ="<?php echo $site_url?>cn/Products/Aquariums/XP-Line/XP-300-black.php" alt=""/>
+                        </map>                        
                     </div>
                     <div class="hidden">
                         <a></a>
@@ -35,9 +36,11 @@
                 </div>
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XC</span>系列</h2>
-                        <a href="<?php echo $site_url?>cn/Products/Aquariums/XC-Line/XC-180-black.php">
-                            <img src="../../out/b/346/xc300.png" alt="" width="347" height="420"></a>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XC</span>系列</h2>                       
+                            <img src="../../out/b/346/xc300.png" alt="" width="347" height="420">
+                            <map id="xcmap">
+                                <area shape="rect" coords="0,0,347,420" href ="<?php echo $site_url?>cn/Products/Aquariums/XC-Line/XC-180-black.php" alt=""/>
+                            </map>   
                     </div>
                     <div class="hidden">
                         <a></a>
@@ -45,9 +48,11 @@
                 </div>
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XT</span>系列</h2>
-                        <a href="<?php echo $site_url?>cn/Products/Aquariums/XT-Line/XT-190-black.php">
-                            <img src="../../out/b/346/xt300.png" alt="" width="347" height="420"></a>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XT</span>系列</h2>                        
+                            <img src="../../out/b/346/xt300.png" alt="" width="347" height="420">
+                            <map id="xtmap">
+                                <area shape="rect" coords="0,0,347,420" href ="<?php echo $site_url?>cn/Products/Aquariums/XT-Line/XT-190-black.php" alt=""/>
+                            </map>
                     </div>
                     <div class="hidden">
                         <a></a>
@@ -55,9 +60,11 @@
                 </div>
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XE</span>系列</h2>
-                        <a href="<?php echo $site_url?>cn/Products/Aquariums/XE-Line/XE-120-black.php">
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XE</span>系列</h2>                      
                             <img src="../../out/b/346/xe300.png" alt="" width="347" height="420"></a>
+                            <map id="xemap">
+                                <area shape="rect" coords="0,0,347,420" href ="<?php echo $site_url?>cn/Products/Aquariums/XE-Line/XE-120-black.php" alt=""/>
+                            </map>  
                     </div>
                     <div class="hidden">
                         <a></a>
@@ -65,9 +72,11 @@
                 </div>
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XK</span>系列</h2>
-                        <a href="<?php echo $site_url?>cn/Products/Aquariums/XK-Line/XK-600-black-Int.php">
-                            <img src="../../out/w/346/xk200.png" alt="" width="347" height="420"></a>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XK</span>系列</h2>                      
+                            <img src="../../out/w/346/xk200.png" alt="" width="347" height="420">
+                            <map id="xkmap">
+                                <area shape="rect" coords="0,0,347,420" href ="<?php echo $site_url?>cn/Products/Aquariums/XK-Line/XK-600-black-Int.php" alt=""/>
+                            </map>
                     </div>
                     <div class="hidden">
                         <a></a>
@@ -75,9 +84,11 @@
                 </div>
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XA</span>系列</h2>
-                        <a href="<?php echo $site_url?>cn/Products/Aquariums/XA-Line/XA-40-black-Int.php">
-                            <img src="../../out/w/346/xa815.png" alt="" width="347" height="420"></a>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XA</span>系列</h2>                        
+                            <img src="../../out/w/346/xa815.png" alt="" width="347" height="420">
+                            <map id="xamap">
+                                <area shape="rect" coords="0,0,347,420" href ="<?php echo $site_url?>cn/Products/Aquariums/XA-Line/XA-40-black-Int.php" alt=""/>
+                            </map>  
                     </div>
                     <div class="hidden">
                         <a></a>
@@ -85,9 +96,11 @@
                 </div>
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XF</span>系列</h2>
-                        <a href="<?php echo $site_url?>cn/Products/Aquariums/XF-Line/XF-40-black-Int.php">
-                            <img src="../../out/f/346/xf060.png" alt="" width="347" height="420"></a>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XF</span>系列</h2>                       
+                            <img src="../../out/f/346/xf060.png" alt="" width="347" height="420">
+                            <map id="xfmap">
+                                <area shape="rect" coords="0,0,347,420" href ="<?php echo $site_url?>cn/Products/Aquariums/XF-Line/XF-40-black-Int.php" alt=""/>
+                            </map>  
                     </div>
                     <div class="hidden">
                         <a></a>
@@ -95,9 +108,11 @@
                 </div>
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XQ</span>系列</h2>
-                        <a href="<?php echo $site_url?>cn/Products/Aquariums/XQ-Line/XQ-Line-60-Int.php">
-                            <img src="../../out/f/346/xq200.png" alt="" width="347" height="420"></a>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XQ</span>系列</h2>                      
+                            <img src="../../out/f/346/xq200.png" alt="" width="347" height="420">
+                            <map id="xqmap">
+                                <area shape="rect" coords="0,0,347,420" href ="<?php echo $site_url?>cn/Products/Aquariums/XQ-Line/XQ-Line-60-Int.php" alt=""/>
+                            </map> 
                     </div>
                     <div class="hidden">
                         <a></a>

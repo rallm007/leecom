@@ -200,8 +200,8 @@ $(function(){
 		var pag_slider_sel = stage_sel.find('.stage-slider-pagination'); // slider pagination
 
 		/* settings */
-		// var top = '131px';
-		var top = '49px';
+		var top = '131px';
+		//var top = '49px';
 		var top_active = '49px'
 		var font_sml = '28px'
 		var font_big = '40px'
@@ -224,31 +224,56 @@ $(function(){
 			};
 			slider_sel.trigger("configuration", ["width", newWidth]);
 		});
+		
+		// start action
+		function images_start(){
+			slider_item_sel.each(function(i){
 
-		// stage Navi-Button animation
-		function stageNavi(){
-			stage_sel
-				.on('mouseenter', '#stage-prev', function(e){
-					$(e.target).stop(true, true).addClass('over').animate({left : '0px'}, 200);
-				}).on('mouseleave', '#stage-prev', function(e){
-					el = $(e.target);
-					el.stop(true, true).animate({left : '-26px'}, 200,
-					function() {
-						el.removeClass('over')
-					});
+				var item = $(this);
+				var image_wrapper = item.find('.image')
+				var image = image_wrapper.find('img')				
+				var headline = item.find('h2')
+				var pag_item = item.find('.hidden a')
+				var popup = item.find('.line-info')
+				var oh = image.height();
+				var ow = image.width();
+				var sh = oh * 0.65;
+				var sw = ow * 0.65;
+				var imap = image_wrapper.find('map') // add 
+				var mapid = '#' + $("map").attr("id"); // get map id
+				image.data({
+					'org_height' : oh,
+					'org_width' : ow,
+					'sml_height' : sh,
+					'sml_width' : sw,
+					'map_id' : mapid
 				});
-			stage_sel
-				.on('mouseenter', '#stage-next', function(e){
-					$(e.target).stop(true, true).addClass('over').animate({right : '0px'}, 200);
-				})
-				.on('mouseleave', '#stage-next', function(e){
-					el = $(e.target);
-					el.stop(true, true).animate({right : '-26px'}, 200,
-					function() {
-						el.removeClass('over')
-					});
-				});
-		}
+
+
+				if(i == 1){ // 2nd item
+					item.css('width', '347px').addClass('active')
+					image.css({'width' : ow, 'height' : oh, 'top' : top_active})
+					image_wrapper.css({'top' : top_active})
+					headline.addClass('active')
+					pag_item.addClass('selected')
+					image.attr("usemap", mapid);
+				}else{ // all other items
+					item.css('width', '297px').removeClass('active')
+					image.css({'width' : sw, 'height' : sh})
+					image_wrapper.css({'top' : top})
+					image.removeAttr("usemap");
+				}
+
+				// build up pagination
+				pag_item.appendTo(pag_slider_sel);
+
+				// big select popup
+				var popup_items = popup.find('a').length;
+				var popup_width = popup_items * 130 - 10;
+				popup.css({'width' : popup_width, 'margin-left' : '-'+ (popup_width / 2) + 'px'});
+			});
+		};
+		
 		/* functions */
 
 		// main slider
@@ -284,13 +309,14 @@ $(function(){
 						onBefore : function(oldItems, newItems) {
 							var oi = oldItems.filter(":eq(1)") // current active
 							var ni = newItems.filter(":eq(1)") // new active
-							var oi_img = oi.find('.image img')
+							var oi_img = oi.find('.image img')  
 							var oi_h = oi_img.data('sml_height')
 							var oi_w = oi_img.data('sml_width')
 							var ni_img = ni.find('.image img')
 							var ni_h = ni_img.data('org_height')
 							var ni_w = ni_img.data('org_width')
 
+							
 							// current active item
 							oi.animate({
 								width: '297px' // Set new width -> resize item (Wrapper)
@@ -300,6 +326,7 @@ $(function(){
 								width: oi_w, /* Set new width */
 								height: oi_h
 							}, img_ani_time).parent().animate({ top : top }, img_ani_time);
+							oi_img.removeAttr("usemap"); // add, remove map
 							// new active item
 							ni.animate({
 								width: '347px' /* Set new width -> resize item (Wrapper) */
@@ -308,7 +335,7 @@ $(function(){
 							ni_img.animate({ // resize Image (new active)
 								width: ni_w, /* Set new width */
 								height: ni_h
-							}, img_ani_time).parent().animate({ top : top_active }, img_ani_time);
+							}, img_ani_time).parent().animate({ top : top_active }, img_ani_time);							
 
 						},
 						onAfter : function(oldItems, newItems){
@@ -333,8 +360,16 @@ $(function(){
 							newItems.filter(":eq(0)").on('click', '.image img', function(){
 								slider_sel.trigger("prev");
 							});
+							
+							var ni = newItems.filter(":eq(1)");
 							// add active state to second (middle) item
-							newItems.filter(":eq(1)").addClass('active');
+							ni.addClass('active');
+							// add handle map in here
+							var ni_map = ni.find('.image map')
+							var ni_img = ni.find('.image img')
+							var ni_mapid = '#' + ni_map.attr("id"); // get map id							
+							ni_img.attr("usemap", ni_mapid); // add,  map
+
 							// ie - hover-fix
 							if(html.hasClass('ie7') || html.hasClass('ie8')){
 								oldItems.filter(":eq(1)").off('mouseenter').off('mouseleave');
@@ -365,54 +400,33 @@ $(function(){
 							slider_sel.trigger("prev");
 						});
 					}
+			});
+		};
+
+		// stage Navi-Button animation
+		function stageNavi(){
+			stage_sel
+				.on('mouseenter', '#stage-prev', function(e){
+					$(e.target).stop(true, true).addClass('over').animate({left : '0px'}, 200);
+				}).on('mouseleave', '#stage-prev', function(e){
+					el = $(e.target);
+					el.stop(true, true).animate({left : '-26px'}, 200,
+					function() {
+						el.removeClass('over')
+					});
 				});
-			};
-
-			// start action
-			function images_start(){
-				slider_item_sel.each(function(i){
-
-						var item = $(this);
-						var image_wrapper = item.find('.image')
-						var image = image_wrapper.find('img')
-						var headline = item.find('h2')
-						var pag_item = item.find('.hidden a')
-						var popup = item.find('.line-info')
-						var oh = image.height();
-						var ow = image.width();
-						var sh = oh * 0.65;
-						var sw = ow * 0.65;
-						image.data({
-							'org_height' : oh,
-							'org_width' : ow,
-							'sml_height' : sh,
-							'sml_width' : sw
-						});
-
-
-						if(i == 1){ // 2nd item
-							item.css('width', '347px').addClass('active')
-							image.css({'width' : ow, 'height' : oh, 'top' : top_active})
-							image_wrapper.css({'top' : top_active})
-							headline.addClass('active')
-							pag_item.addClass('selected')
-						}else{ // all other items
-							item.css('width', '297px').removeClass('active')
-							image.css({'width' : sw, 'height' : sh})
-							image_wrapper.css({'top' : top})
-						}
-
-						// build up pagination
-						pag_item.appendTo(pag_slider_sel);
-
-						// big select popup
-						var popup_items = popup.find('a').length;
-						var popup_width = popup_items * 130 - 10;
-						popup.css({'width' : popup_width, 'margin-left' : '-'+ (popup_width / 2) + 'px'});
+			stage_sel
+				.on('mouseenter', '#stage-next', function(e){
+					$(e.target).stop(true, true).addClass('over').animate({right : '0px'}, 200);
+				})
+				.on('mouseleave', '#stage-next', function(e){
+					el = $(e.target);
+					el.stop(true, true).animate({right : '-26px'}, 200,
+					function() {
+						el.removeClass('over')
+					});
 				});
-
-			};
-
+		}
 	};
 
 	// ------ Product-Detail-Stage -> Stage Slider + X     -------------------------------------------------------------------------------------------------------------------------------------
@@ -572,17 +586,17 @@ $(function(){
 			});
 
 		};
-			// show preview images in left - and right navigation-button
-			function getPreviewThumbs(item, navelement){
+		// show preview images in left - and right navigation-button
+		function getPreviewThumbs(item, navelement){
 				var nav_image = item.find('div.hidden img.nav-product-preview-image');
 				var src = nav_image.attr('src');
 				var title = nav_image.attr('alt');
 
 				$(navelement).html('<span style="background-image: url(' + src + ')">' + title + '</span>');
-			};
+		};
 
-			// *** sliding thumbnail-navigaton
-			function thumbnailNavi(){
+		// *** sliding thumbnail-navigaton
+		function thumbnailNavi(){
 				var navi_sel = $( "#main .product-thumbnail-navi" );
 				var slider_sel = navi_sel.find('.product-thumbnail-slider');
 
@@ -629,10 +643,10 @@ $(function(){
 					}
 				});
 
-			};
+		};
 
-			// *** variation Slider (Decor-Slider)
-			function variationSlider(){
+		// *** variation Slider (Decor-Slider)
+		function variationSlider(){
 				main_slider_item.each(function(){
 					var parent = $(this);
 					var parentID = parent.attr('id'); // Product-Item-ID to select different products
@@ -680,17 +694,15 @@ $(function(){
                         loadContentByArtId(ajaxID); // load content (tabs and cross-selling)
 					};
 				});
-			};
+		};
 
-        function CreateNewLikeButton(url)
-        {
+        function CreateNewLikeButton(url){
             locale = $("meta[property='og:locale']").attr("content");
             fbIframe = '<iframe src="//www.facebook.com/plugins/like.php?href='+ encodeURIComponent(url.replace('#!', '?_escaped_fragment_=')) +'&amp;width=450&amp;height=21&amp;colorscheme=light&amp;layout=button_count&amp;action=like&amp;show_faces=false&amp;send=false&amp;appId=532575290153827&amp;locale='+locale+'" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:21px;" allowTransparency="true"></iframe>';
             $("#fblike").html(fbIframe);
         }
 
-        function CreateNewSendButton(url)
-        {
+        function CreateNewSendButton(url){
             $(".fb-send").attr('href', url);
             if (typeof FB !== 'undefined') {
                 FB.XFBML.parse($(".fb-send").get(0));
@@ -713,94 +725,94 @@ $(function(){
 				}).children('span').hide();
 			});
 
-			/* call the Gallery-LightBox */
-			function init_gallery(){
-				main_slider_item.each(function(){
-						var el = $(this);
-						var el_prod_img = el.find('.product-image .product-image-wrapper');
-						var productID = el.attr('ID'); // gallery-item ID
-						var galleryBox = el.find('.gallery-box');
-						var galleryBoxID = 'gallery-'+productID
-						galleryBox.attr('ID', galleryBoxID); // add specific and item-related ID to the gallery-content-box
-						var pagination = galleryBox.find('.pagination'); // pagination in gallery-box
-						var galleryOpener = el.find('.product-act-nav .gallery a'); // button to open the gallery
-						// build up pagination-slider
-						galleryBox.find('.gallery-item').each(function(i){
-							var el = $(this);
-							el.attr('ID', 'gallery-item-'+productID+'-'+i)
-							  .find('.thumb').attr('href', '#gallery-item-'+productID+'-'+i)
-							  .appendTo(pagination);
-						});
+		/* call the Gallery-LightBox */
+		function init_gallery(){
+			main_slider_item.each(function(){
+				var el = $(this);
+				var el_prod_img = el.find('.product-image .product-image-wrapper');
+				var productID = el.attr('ID'); // gallery-item ID
+				var galleryBox = el.find('.gallery-box');
+				var galleryBoxID = 'gallery-'+productID
+				galleryBox.attr('ID', galleryBoxID); // add specific and item-related ID to the gallery-content-box
+				var pagination = galleryBox.find('.pagination'); // pagination in gallery-box
+				var galleryOpener = el.find('.product-act-nav .gallery a'); // button to open the gallery
+				// build up pagination-slider
+				galleryBox.find('.gallery-item').each(function(i){
+					var el = $(this);
+					el.attr('ID', 'gallery-item-'+productID+'-'+i)
+						.find('.thumb').attr('href', '#gallery-item-'+productID+'-'+i)
+						.appendTo(pagination);
+					});
 
-						// call
-						if(galleryBox.length !=0){ // if gallery-content exists
-							el.on('click', '.right .product-act-nav .gallery a', function(){	// bind call to button
-								juwel.galleryBox('#'+galleryBoxID);
+				// call
+				if(galleryBox.length !=0){ // if gallery-content exists
+					el.on('click', '.right .product-act-nav .gallery a', function(){	// bind call to button
+						juwel.galleryBox('#'+galleryBoxID);
 								return false;
-							});
-							el_prod_img.each(function(i){
-								$(this).on('click', '.mousetrap, .cloud-zoom', function(){
-									juwel.galleryBox('#'+galleryBoxID, i);
-									return false;
-								});
-							});
-						}
-				});
-			}
-};
+					});
+					el_prod_img.each(function(i){
+						$(this).on('click', '.mousetrap, .cloud-zoom', function(){
+							juwel.galleryBox('#'+galleryBoxID, i);
+							return false;
+						});
+					});
+				}
+			});
+		}
+	};
 
-// --- show images  ---------------------------
+	// --- show images  ---------------------------
 
-/*!
-* jQuery imagesLoaded plugin v1.0.4
-* http://github.com/desandro/imagesloaded
-*
-* MIT License. by Paul Irish et al.
-*/
+	/*!
+	* jQuery imagesLoaded plugin v1.0.4
+	* http://github.com/desandro/imagesloaded
+	*
+	* MIT License. by Paul Irish et al.
+	*/
 
-(function($, undefined) {
+	(function($, undefined) {
 
-  // execute a callback when all images have loaded.
-  // needed because .load() doesn't work on cached images
+	  // execute a callback when all images have loaded.
+	  // needed because .load() doesn't work on cached images
 
-  // callback function gets image collection as argument
-  //  `this` is the container
+	  // callback function gets image collection as argument
+	  //  `this` is the container
 
-  $.fn.imagesLoaded = function( callback ) {
-    var $this = this,
-        $images = $this.find('img').add( $this.filter('img') ),
-        len = $images.length,
-        blank = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==';
+	  $.fn.imagesLoaded = function( callback ) {
+	    var $this = this,
+	        $images = $this.find('img').add( $this.filter('img') ),
+	        len = $images.length,
+	        blank = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==';
 
-    function triggerCallback() {
-      callback.call( $this, $images );
-    }
+	    function triggerCallback() {
+	      callback.call( $this, $images );
+	    }
 
-    function imgLoaded( event ) {
-      if ( --len <= 0 && event.target.src !== blank ){
-        setTimeout( triggerCallback );
-        $images.unbind( 'load error', imgLoaded );
-      }
-    }
+	    function imgLoaded( event ) {
+	      if ( --len <= 0 && event.target.src !== blank ){
+	        setTimeout( triggerCallback );
+	        $images.unbind( 'load error', imgLoaded );
+	      }
+	    }
 
-    if ( !len ) {
-      triggerCallback();
-    }
+	    if ( !len ) {
+	      triggerCallback();
+	    }
 
-    $images.bind( 'load error',  imgLoaded ).each( function() {
-      // cached images don't fire load sometimes, so we reset src.
-      if (this.complete || typeof this.complete === "undefined"){
-        var src = this.src;
-        // webkit hack from http://groups.google.com/group/jquery-dev/browse_thread/thread/eee6ab7b2da50e1f
-        // data uri bypasses webkit log warning (thx doug jones)
-        this.src = blank;
-        this.src = src;
-      }
-    });
+	    $images.bind( 'load error',  imgLoaded ).each( function() {
+	      // cached images don't fire load sometimes, so we reset src.
+	      if (this.complete || typeof this.complete === "undefined"){
+	        var src = this.src;
+	        // webkit hack from http://groups.google.com/group/jquery-dev/browse_thread/thread/eee6ab7b2da50e1f
+	        // data uri bypasses webkit log warning (thx doug jones)
+	        this.src = blank;
+	        this.src = src;
+	      }
+	    });
 
-    return $this;
-  };
-})(jQuery);
+	    return $this;
+	  };
+	})(jQuery);
 
 
 	// --------------------- loading images
@@ -837,7 +849,7 @@ $(function(){
 			el.data('init', 'true');
 		}
 	};
-// ------ end --- Product-Detail
+	// ------ end --- Product-Detail
 
 	juwel.productTabContent = function() {
 
@@ -1568,13 +1580,13 @@ $(function(){
 			function () {
 				$(this).children('.bubble').show();
 				$('#main').css('overflow-y', 'hidden'); // fix overflow-bug
-				$('#main .product-detail-stage').find('http://www.juwel-aquarium.de/out/juwel/src/js/.caroufredsel_wrapper, .stage-slider, .item').css('overflow', 'visible');
+				$('#main .product-detail-stage').find('.caroufredsel_wrapper, .stage-slider, .item').css('overflow', 'visible');
 
 		}).mouseleave(
 			function(){
 				$(this).children('.bubble').hide();
 				$('#main').css('overflow-y', 'visible');
-				$('#main .product-detail-stage').find('http://www.juwel-aquarium.de/out/juwel/src/js/.caroufredsel_wrapper, .stage-slider, .item').css('overflow', 'hidden')
+				$('#main .product-detail-stage').find('.caroufredsel_wrapper, .stage-slider, .item').css('overflow', 'hidden')
 			});
 
     //
