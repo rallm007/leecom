@@ -12,7 +12,7 @@
                     <p>时尚、大气，尽显尊贵81 X 41 X 52.8CM的超大外型让您无论在哪个角度都能给您最佳的视觉感受，为您的家居生活增添活力。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
                 </div>
                 <div class="grid_4">
-                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
+                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xp.jpg" alt="">
                 </div>
             </div>
                         
@@ -56,7 +56,7 @@
                     
                 </div>
                 <div class="grid_4">
-                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300_66300.jpg" alt="">
+                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/xpxt600800.jpg" alt="">
                 </div>
             </div>
                         

@@ -12,7 +12,7 @@
                     <p>简洁大方的外形是XP-360广受大众喜爱的主要原因，37 X 24 X 35.2CM的外型轻松融入各种居家装修设计风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
                 </div>
                 <div class="grid_4">
-                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
+                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xp.jpg" alt="">
                 </div>
             </div>
                         
@@ -56,7 +56,7 @@
                     
                 </div>
                 <div class="grid_4">
-                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300_66300.jpg" alt="">
+                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/xpxt01300.jpg" alt="">
                 </div>
             </div>
                         

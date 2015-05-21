@@ -139,12 +139,12 @@
 	            	<div class="product-image">
 	            			                	<div class="product-image-wrapper" data-id="juwel-xp360b" title="LEECOM | XP-360 黑色">
 	                        <a href="<?php echo $site_url;?>out/b/1173/xp360.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/xp360.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                            <img data-src="<?php echo $site_url;?>out/b/378/xp360.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-xp360w" title="LEECOM | XP-360 白色">
-	                        <a href="<?php echo $site_url;?>out/b/1173/xp360.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/xp360.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/w/1173/xp360.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/w/378/xp360.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            	</div>
@@ -193,12 +193,12 @@
 	            	<div class="product-image">
 	            			                	<div class="product-image-wrapper" data-id="juwel-xp400b" title="LEECOM | XP-400 黑色">
 	                        <a href="<?php echo $site_url;?>out/b/1173/xp400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/xp400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                            <img data-src="<?php echo $site_url;?>out/b/378/xp400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-xp400w" title="LEECOM | XP-400 白色">
-	                        <a href="<?php echo $site_url;?>out/b/1173/xp400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/xp400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/w/1173/xp400.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/w/378/xp400.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
@@ -245,12 +245,12 @@
 	            	<div class="product-image">
 	            			                	<div class="product-image-wrapper" data-id="juwel-xp460b" title="LEECOM | XP-460 黑色">
 	                        <a href="<?php echo $site_url;?>out/b/1173/xp460.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/xp460.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                            <img data-src="<?php echo $site_url;?>out/b/378/xp460.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-xp460w" title="LEECOM | XP-460 白色">
-	                        <a href="<?php echo $site_url;?>out/b/1173/xp460.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/xp460.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/w/1173/xp460.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/w/378/xp460.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
@@ -297,12 +297,12 @@
 	            	<div class="product-image">
 	            			                	<div class="product-image-wrapper" data-id="juwel-xp600b" title="LEECOM | XP-600 黑色">
 	                        <a href="<?php echo $site_url;?>out/b/1173/xp600.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/xp600.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                            <img data-src="<?php echo $site_url;?>out/b/378/xp600.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-xp600w" title="LEECOM | XP-600 白色">
-	                        <a href="<?php echo $site_url;?>out/b/1173/xp600.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/xp600.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/w/1173/xp600.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/w/378/xp600.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>
@@ -348,12 +348,12 @@
 	            	<div class="product-image">
 	            			                	<div class="product-image-wrapper" data-id="juwel-xp800b" title="LEECOM | XP-800 黑色">
 	                        <a href="<?php echo $site_url;?>out/b/1173/xp800.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/xp800.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                            <img data-src="<?php echo $site_url;?>out/b/378/xp800.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                	<div class="product-image-wrapper" data-id="juwel-xp800w" title="LEECOM | XP-800 白色">
-	                        <a href="<?php echo $site_url;?>out/b/1173/xp800.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-	                            <img data-src="<?php echo $site_url;?>out/b/1173/xp800.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+	                        <a href="<?php echo $site_url;?>out/w/1173/xp800.jpg" class="cloud-zoom"><!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+	                            <img data-src="<?php echo $site_url;?>out/w/378/xp800.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
 	                        </a>
 	                    </div>
 	            			                </div>

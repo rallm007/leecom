@@ -12,9 +12,9 @@
                     <p>超节能电机不但安静还省电，一体成形，现代时尚设计，易清洗，通透无瑕，无论放到哪里都是一道亮丽的风景线。开关防水帽是你24小时不下班的安全卫士， 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，小巧喂食口令您投饲或加水都如此便捷。
                         <br/><br/>白色、粉色、蓝色依据您的品味选择</p>
                 </div>
-                <div class="grid_4">
+               <!--  <div class="grid_4">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
-                </div>
+                </div> -->
             </div>
                         
             
@@ -23,24 +23,24 @@
                         
             
 
-            <div id="filter" class="tab-teaser-prod_details clearfix right">
+            <div id="filter" class="tab-teaser-prod_details clearfix">
                 <div class="grid_8">
                     <h3 class="icon-headline filter-heater">合二为一的生化过滤系统和节能照明系统</h3>
                     <p>节能环保的高亮度LED灯，想开就开想关就关，绝然不影响生化过滤系统的正常运作，过滤、增氧、照明系统的浑然一体令您的爱鱼享有更多的活动空间，满足您简约时尚的品味。滤盒中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附水族箱内残留的鱼铒、鱼烘等杂质，和高效活性炭最大程度保证水质的洁净。<br></p>
                     
                 </div>
-                <div class="grid_4">
+                <!-- <div class="grid_4">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(2).jpg" alt="">
-                </div>
+                </div> -->
             </div>
                         
         
     </div>
     <div id="tabs-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide">
 <div class="tab-teaser-technical clearfix">
-    <div class="image">
+    <!-- <div class="image">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010.jpg" alt="">
-            </div>
+            </div> -->
     <table>
                                 <thead>
                     <tr>

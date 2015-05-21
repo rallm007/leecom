@@ -14,7 +14,7 @@
 节能灯、LED灯按您需求制作。</p>
                 </div>
             	<div class="grid_4">
-                	<img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
+                	<img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xp.jpg" alt="">
                 </div>
             </div>
 	        			
@@ -58,7 +58,7 @@
                     
                 </div>
             	<div class="grid_4">
-                	<img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300_66300.jpg" alt="">
+                	<img src="../../../../out/pictures/generated/srcms/1/618_342_80/xpxt01300.jpg" alt="">
                 </div>
             </div>
 	        			

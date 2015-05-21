@@ -11,9 +11,9 @@
                     <h2>XK-200简约高雅，设计经典</h2>
                     <p>这款由我们工程师精心打造集过滤系统和节能照明系统于一体的方形水族箱，用料考究，操作简易，每一个边角都由顶级的工程塑胶原料制造，开关防水帽是你24小时不下班的安全卫士。 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态。</p>
                 </div>
-                <div class="grid_4">
+                <!-- <div class="grid_4">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
-                </div>
+                </div> -->
             </div>
                         
             
@@ -22,24 +22,24 @@
                         
             
 
-            <div id="filter" class="tab-teaser-prod_details clearfix right">
+            <div id="filter" class="tab-teaser-prod_details clearfix">
                 <div class="grid_8">
                     <h3 class="icon-headline filter-heater">合二为一的生化过滤系统和节能照明系统</h3>
                     <p>节能环保的高亮度LED灯，想开就开想关就关，绝然不影响生化过滤系统的正常运作，过滤、增氧、照明系统的浑然一体令您的爱鱼享有更多的活动空间，满足您简约时尚的品味。<br></p>
                     
                 </div>
-                <div class="grid_4">
+                <!-- <div class="grid_4">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(2).jpg" alt="">
-                </div>
+                </div> -->
             </div>
                         
         
     </div>
     <div id="tabs-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide">
 <div class="tab-teaser-technical clearfix">
-    <div class="image">
+    <!-- <div class="image">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010.jpg" alt="">
-            </div>
+            </div> -->
     <table>
                                 <thead>
                     <tr>

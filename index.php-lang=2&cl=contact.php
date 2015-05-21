@@ -73,33 +73,36 @@ $(function(){
     	<!-- Breadcrumb -->
     	<div class="breadcrumb nav clearfix">
             <ul class="fl">
-                <li>You are here:</li>
-                <li>Contact</li>
+                <li>您的位置：</li>
+                <li>联系我们</li>
             </ul>
         </div>
-        <h1>Your contact to Juwel Aquarium</h1>
+        <h1>欢迎来到日创水族</h1>
     	<div class="grid_7 alpha">
         	<p class="introduction">
-		    			    			    		Questions and suggestions from our customers are always welcome. That's why our Service team are always on hand to help you. Write and tell us what is on your mind. We will endeavour to process your enquiry within two working days.<br><br>Please note that inquiries can be answered only in English or German.
-			    	            </p>
+		   	 	保修条款<br />		
+☆自购买日期开始一年内，提供保修服务。<br />		
+☆保修方式为送修方式，用户需将产品送到日创公司<br />
+☆超过保修期的产品，需提供维修服务是，请联络日创售后服务中心。
+			</p>
 															
 		    				           	
 
-<form class="jqtransform" action="<?php echo $site_url;?>index.php?lang=2&force_sid=rourg7mdqqqm5ppt19cs5hlfm7&" method="POST">
+<!-- <form class="jqtransform" action="<?php echo $site_url;?>index.php?lang=2&force_sid=rourg7mdqqqm5ppt19cs5hlfm7&" method="POST">
     <div>
         <input type="hidden" name="fnc" value="send"/>
         <input type="hidden" name="cl" value="contact"/>
                 <input type="hidden" name="c_mach" value="rou1a1cedce7bcf61ef3b33f01ce452e"/>
-    </div>
+    </div>  -->
 	<!-- Formularfelder -->
-    <div class="clearfix">
+   <!-- <div class="clearfix">
         <label for="00Nb0000009Olwe" style="display:none; visibility:hidden">
             Don't change the value of this field or it won't be processed!
             <input type="text" name="00Nb0000009Olwe" value="notspam" />
         </label>
         
     </div>
-</form>
+</form> -->
 
 <script>
     $(function(){
@@ -109,21 +112,23 @@ $(function(){
 		            </div>
 
     	<div class="grid_4 omega">
-			<p class="address"><strong>JUWEL®Aquarium GmbH &amp; Co KG</strong>
-        		Karl-Göx-Straße 1<br />
+			<p class="address"><strong>广州日创橡塑电器有限公司</strong><br />
+        		址址：广东省广州市番禺区<br />
 
-        		27356 Rotenburg / Wümme<br />
-				Deutschland                </p>
-<h4 class="tk-myriad-pro tk-semibold green">Customer service</h4>
+        		南村镇兴业路江南工业大道 <br />
+				7号               </p>
+<h4 class="tk-myriad-pro tk-semibold green">客户服务</h4>
 <div class="tk-myriad-pro tk-semibold tel">
 +86-20-34691002            </div>
 <div class="tk-myriad-pro tk-semibold fax">
-+49 (0) 4261 9379 856</div>
++86-20-3482 8538</div>
 <div class="tk-myriad-pro tk-semibold email">
             	simon.lee@LEECOM.cn           </div>
-<div class="contact_faq">
+<div class="tk-myriad-pro tk-semibold email">
+            	Sales02@leecom.cn           </div>
+<!-- <div class="contact_faq">
 <p class="lh20">Find quick answers to frequently asked questions in our question and answer (FAQ) section</p> <a class="arrow-link" href="<?php echo $site_url.'cn/Service/FAQ/index.php';?>" title="FAQ">FAQ</a>      </div>
-</div>
+</div> -->
 			
         </div>
     </div>
@@ -141,7 +146,7 @@ $(function(){
 	<div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-						    <li><a href="index.php-lang=2&cl=contact.php" title="Contact">Contact</a></li>
+						    <li><a href="index.php-lang=2&cl=contact.php" title="Contact">联系我们</a></li>
 			    			        </ul>                        
     </div>
 </div>
