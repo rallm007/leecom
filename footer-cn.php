@@ -45,7 +45,6 @@
 				<li><a>广州日创橡塑电器有限公司</a></li>
                 <li><a>联系电话：+86-20-34691002</a></li>
                 <li><a>电子邮箱：simon.lee@LEECOM.cn</a></li>
-                <li><a>电子邮箱：Sales02@leecom.cn</a></li>
             </ul>
 		</div>
     </div>

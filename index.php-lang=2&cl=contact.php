@@ -77,10 +77,10 @@ $(function(){
                 <li>联系我们</li>
             </ul>
         </div>
-        <h1>欢迎来到日创水族</h1>
+        <h1><strong>欢迎来到日创水族</strong></h1>
     	<div class="grid_7 alpha">
         	<p class="introduction">
-		   	 	保修条款<br />		
+		   	 	<strong>保修条款</strong><br />		
 ☆自购买日期开始一年内，提供保修服务。<br />		
 ☆保修方式为送修方式，用户需将产品送到日创公司<br />
 ☆超过保修期的产品，需提供维修服务是，请联络日创售后服务中心。
@@ -119,13 +119,13 @@ $(function(){
 				7号               </p>
 <h4 class="tk-myriad-pro tk-semibold green">客户服务</h4>
 <div class="tk-myriad-pro tk-semibold tel">
-+86-20-34691002            </div>
+电话：+86-20-34691002            </div>
 <div class="tk-myriad-pro tk-semibold fax">
-+86-20-3482 8538</div>
+传真：+86-20-3482 8538</div>
 <div class="tk-myriad-pro tk-semibold email">
-            	simon.lee@LEECOM.cn           </div>
+ 邮箱：simon.lee@leecom.cn</div>
 <div class="tk-myriad-pro tk-semibold email">
-            	Sales02@leecom.cn           </div>
+邮箱：Sales02@leecom.cn </div>
 <!-- <div class="contact_faq">
 <p class="lh20">Find quick answers to frequently asked questions in our question and answer (FAQ) section</p> <a class="arrow-link" href="<?php echo $site_url.'cn/Service/FAQ/index.php';?>" title="FAQ">FAQ</a>      </div>
 </div> -->

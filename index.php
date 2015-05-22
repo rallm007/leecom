@@ -23,7 +23,7 @@
                 <h3 class="tk-myriad-pro tk-semibold">XT/XE白色</h3>
                 <p>对于简洁干净的感觉，<br />
 经典白色也是必选的。<br />
-我们的XT\XE系列鱼缸白色从此问世。<br /></p>
+我们的XT/XE系列鱼缸白色从此问世。<br /></p>
                 <a class="button ci-shadow" href="<?php echo $site_url;?>cn/Products/Aquariums/Rekord-Line/Rekord-600-black-Int.php" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Your underwater world']);">了解更多</a>
             </div>
         </div>
@@ -51,7 +51,8 @@
     <div class="content clearfix">
         <!-- Headline -->
 <h1 class="home-welcome tk-myriad-pro tk-light">
-    <div align="center"><font size="5"><strong class="tk-myriad-pro tk-regular">做最好的产品一直是我们的宗旨与追求</strong>，不论国内，还是国外，<strong class="tk-myriad-pro tk-regular">我们都秉承同样的经营理念。让每一个客户都享有同质量的产品，最优质的服务。不断进取，不断创新。</strong><strong class="tk-myriad-pro tk-regular"></strong><span class="uppercase">与LEECOM一起</span>——<span class="uppercase">发现<strong class="tk-myriad-pro tk-regular">生活的美。</strong></span></font></div>
+    <div align="center"><font size="5"><strong class="tk-myriad-pro tk-regular">做最好的产品一直是我们的宗旨与追求</strong>，不论国内，还是国外，<strong class="tk-myriad-pro tk-regular">我们都秉承同样的经营理念。让每一个客户都享有同质量的产品，最优质的服务。不断进取，不断创新。</strong><br />
+    <span class="uppercase">与LEECOM一起</span>——<span class="uppercase">发现<strong class="tk-myriad-pro tk-regular">生活的美。</strong></span></font></div>
 </h1>
         <!-- 2er Teaser -->
         <div class="clearfix home-teaser-wrap">
