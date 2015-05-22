@@ -14,7 +14,7 @@
                 <p>你总想时时关注爱鱼是如何点缀你空间的，<br />
 它每天都是如何愉快度过每一日的。<br />
 马上从XP系列水族箱开始你的水底探索之旅。</p>
-                <a class="button ci-shadow" href="<?php echo $site_url;?>cn/Products/Aquariums/XF-Line/XF-40-black-Int.php" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Pure Lifestyle']);">了解更多</a>
+                <a class="button ci-shadow" href="<?php echo $site_url;?>cn/Products/Aquariums/XP-Line/XP-300-black.php#!juwel-xp300b" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Pure Lifestyle']);">了解更多</a>
             </div>
         </div>
             <div class="item" style="background-color:#ffffff; background-image:url('out/pictures/promo/juwel_buehne_rekord_700(2).jpg');">
@@ -24,7 +24,7 @@
                 <p>对于简洁干净的感觉，<br />
 经典白色也是必选的。<br />
 我们的XT/XE系列鱼缸白色从此问世。<br /></p>
-                <a class="button ci-shadow" href="<?php echo $site_url;?>cn/Products/Aquariums/Rekord-Line/Rekord-600-black-Int.php" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Your underwater world']);">了解更多</a>
+                <a class="button ci-shadow" href="<?php echo $site_url;?>cn/Products/Aquariums/XT-Line/XT-190-black.php#!juwel-xt300w" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Your underwater world']);">了解更多</a>
             </div>
         </div>
             <div class="item" style="background-color:#ffffff; background-image:url('out/pictures/promo/home_slider_1(2).jpg');">
@@ -34,7 +34,7 @@
                 <p>源于自然，聆听细细水流，<br />
 淹没在寂静的空间，<br />
 享受这静谧的韵味。</p>
-                <a class="button ci-shadow" href="<?php echo $site_url;?>cn/Products/More/Marine/Skimmer/Juwel-SeaSkim-INT.php" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Marine']);">了解更多</a>
+                <a class="button ci-shadow" href="<?php echo $site_url;?>cn/Products/More/HI-330.php" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Marine']);">了解更多</a>
             </div>
         </div>
         </div>
@@ -68,7 +68,7 @@
     </div>
     <div class="grid_6 alpha home-teaser-big"><!-- um den "NEW"-Störer anzuzeigen hier die class "new" setzen -->
         <div class="grid_3 alpha teaser-img"> <!-- Bilder dürfen eine maximale Größe von 220x220 haben -->
-            <img src="out/pictures/promo/newcolor_1.jpg" alt="Automatic Feeder">
+            <img src="out/pictures/promo/newcolor_1.png" alt="Automatic Feeder">
         </div>
         <div class="grid_3 omega teaser-content">
             <h3>新的色调</h3>
