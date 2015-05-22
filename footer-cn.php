@@ -51,7 +51,7 @@
     <div id="footer-bottom">
         <div class="page_margins">
         	<div class="ir" style="margin-left: 300px;"></div>
-            <span>2015 LEECOM - All rights reserved</span>
+            <span>2015 LEECOM - All rights reserved 粤ICP备11015849号</span>
         </div>
     </div>
 </div>
