@@ -58,22 +58,22 @@
         <div class="clearfix home-teaser-wrap">
     <div class="grid_6 alpha home-teaser-big"><!-- um den "NEW"-Störer anzuzeigen hier die class "new" setzen -->
         <div class="grid_3 alpha teaser-img"> <!-- Bilder dürfen eine maximale Größe von 220x220 haben -->
-            <img src="out/pictures/promo/2(6)(2).png" alt="Brochure 2014/2015">
+            <img src="out/pictures/promo/proShow.jpg" alt="Brochure 2014/2015">
         </div>
         <div class="grid_3 omega teaser-content">
             <h3>产品show</h3>
             <p>与我们一起感受水族点缀的MODERN世界</p>
-            <a class="arrow-link" href="" title="start now">start now</a>
+            <a class="arrow-link" href="<?php echo $site_url . 'cn/Products/index.php';?>" title="start now">从这里开始</a>
         </div>
     </div>
     <div class="grid_6 alpha home-teaser-big"><!-- um den "NEW"-Störer anzuzeigen hier die class "new" setzen -->
         <div class="grid_3 alpha teaser-img"> <!-- Bilder dürfen eine maximale Größe von 220x220 haben -->
-            <img src="out/pictures/promo/teaser_2_1(1).png" alt="Automatic Feeder">
+            <img src="out/pictures/promo/newcolor_1.jpg" alt="Automatic Feeder">
         </div>
         <div class="grid_3 omega teaser-content">
             <h3>新的色调</h3>
-            <p>让我们一睹XT,XE系列经典白色的风姿</p>
-            <a class="arrow-link" href="<?php echo $site_url;?>cn/Products/More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php" title="start now" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Automatic Feeder']);">start now</a>
+            <p>让我们一睹XT系列经典白色的风姿</p>
+            <a class="arrow-link" href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XT-Line/XT-190-black.php#!juwel-xt300w" title="start now" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Automatic Feeder']);">从这里开始</a>
         </div>
     </div>
          </div>
