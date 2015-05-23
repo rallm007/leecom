@@ -17,39 +17,46 @@
         <meta property="og:description" content="Filter Cover Cliff Light -" />
         <meta property="og:type" content="og:product" />
                     	        <link rel="shortcut icon" href="http://www.juwel-aquarium.de/favicon.ico">
-        		<link rel="stylesheet" href="../../../../../out/juwel/src/css/styles.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/styles.css">
-									<link rel="stylesheet" href="../../../../../out/juwel/src/css/en-GB.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/en-GB.css">
-																		    <link rel="stylesheet" href="../../../../../out/juwel/src/css/colorbox.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/colorbox.css">
-    <link rel="stylesheet" href="../../../../../out/juwel/src/css/jquery.jscrollpane.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/jquery.jscrollpane.css">
+        		<link rel="stylesheet" href="../../../../../out/leecom/src/css/styles.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/styles.css">
+									<link rel="stylesheet" href="../../../../../out/leecom/src/css/en-GB.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/en-GB.css">
+																		    <link rel="stylesheet" href="../../../../../out/leecom/src/css/colorbox.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/colorbox.css">
+    <link rel="stylesheet" href="../../../../../out/leecom/src/css/jquery.jscrollpane.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/jquery.jscrollpane.css">
 
-	<script src="../../../../../out/juwel/src/js/libs/jquery.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/jquery.min.js"></script>
-	<script src="../../../../../out/juwel/src/js/libs/jquery-ui-custom.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/jquery-ui-custom.min.js"></script>
-	<script src="../../../../../out/juwel/src/js/libs/modernizr-1.7.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/modernizr-1.7.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/jquery.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/jquery.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/jquery-ui-custom.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/jquery-ui-custom.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/modernizr-1.7.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/modernizr-1.7.min.js"></script>
 	<!--[if lt IE 9]>
-		<script src="../../../../../out/juwel/src/js/libs/selectivizr-min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/selectivizr-min.js" type="text/javascript"></script>
-	    <script src="../../../../../out/juwel/src/js/plugins/jquery-extra-selectors.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery-extra-selectors.js" type="text/javascript"></script>
-	    <link rel="stylesheet" href="../../../../../out/juwel/src/css/ie.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/ie.css">
+	<script src="../../../../../out/leecom/src/js/libs/selectivizr-min.js"
+			tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/selectivizr-min.js"
+			type="text/javascript"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery-extra-selectors.js"
+			tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery-extra-selectors.js"
+			type="text/javascript"></script>
+	<link rel="stylesheet" href="../../../../../out/leecom/src/css/ie.css"
+		  tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/ie.css">
 	<![endif]-->
 	<!--[if lt IE 8]>
-		<link rel="stylesheet" href="../../../../../out/juwel/src/css/ie7.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/ie7.css">
-		<script src="../../../../../out/juwel/src/js/plugins/ie7-patch.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/ie7-patch.js"></script>
+	<link rel="stylesheet" href="../../../../../out/leecom/src/css/ie7.css"
+		  tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/ie7.css">
+	<script src="../../../../../out/leecom/src/js/plugins/ie7-patch.js"
+			tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/ie7-patch.js"></script>
 	<![endif]-->
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.address.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.address.min.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/jquery.easing-1.3.pack.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.easing-1.3.pack.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.mousewheel.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.mousewheel.min.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/mwheelIntent.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/mwheelIntent.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.touchwipe.1.1.1.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.touchwipe.1.1.1.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/jquery.carouFredSel.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.carouFredSel.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/cloud-zoom.1.0.2_mod.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/cloud-zoom.1.0.2_mod.min.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/jquery.jqtransform.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.jqtransform.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/jquery.tipsy.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.tipsy.min.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.colorbox-min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.colorbox-min.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.jscrollpane.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.jscrollpane.min.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.address.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.address.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery.easing-1.3.pack.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.easing-1.3.pack.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.mousewheel.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.mousewheel.min.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/mwheelIntent.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/mwheelIntent.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.touchwipe.1.1.1.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.touchwipe.1.1.1.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery.carouFredSel.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.carouFredSel.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/cloud-zoom.1.0.2_mod.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/cloud-zoom.1.0.2_mod.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery.jqtransform.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.jqtransform.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery.tipsy.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.tipsy.min.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.colorbox-min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.colorbox-min.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.jscrollpane.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.jscrollpane.min.js"></script>
 	<script type="text/javascript" src="../../../../../../maps.google.com/maps/api/js-sensor=false&v=3.15&language=en" tppabs="http://maps.google.com/maps/api/js?sensor=false&v=3.15&language=en"></script>
-	<script src="../../../../../out/juwel/src/js/libs/infobox_packed.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/infobox_packed.js"></script>
-	<script src="../../../../../out/juwel/src/js/libs/markerwithlabel_packed.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/markerwithlabel_packed.js"></script>
-    <script src="../../../../../out/juwel/src/js/functions.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/functions.js"></script>
-	<script src="../../../../../out/juwel/src/js/distr_finder.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/distr_finder.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/infobox_packed.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/infobox_packed.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/markerwithlabel_packed.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/markerwithlabel_packed.js"></script>
+    <script src="../../../../../out/leecom/src/js/functions.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/functions.js"></script>
+	<script src="../../../../../out/leecom/src/js/distr_finder.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/distr_finder.js"></script>
 
 	<!-- TypeKit -->
 	<script type="text/javascript" src="../../../../../../use.typekit.com/aqg5cjj.js" tppabs="http://use.typekit.com/aqg5cjj.js"></script>
@@ -878,9 +885,9 @@ Cliff Light filter covers make the perfect addition to the Cliff Light und colou
 <p>&nbsp;</p>
 <p>Other characteristics:</p>
 <p><br />
-â€¢ Easy to cut to size </p>
-<p>â€¢ Easy assembly with JUWEL Conexo</p>
-<p>â€¢ Suitable for use with seawater</p>
+â€? Easy to cut to size </p>
+<p>â€? Easy assembly with JUWEL Conexo</p>
+<p>â€? Suitable for use with seawater</p>
 <p>&nbsp;</p>
 			<img src="../../../../../out/pictures/generated/srcms/1/618_342_80/cliff_light(2).jpg" tppabs="http://www.juwel-aquarium.de/out/pictures/generated/srcms/1/618_342_80/cliff_light(2).jpg" alt="">
 		</div>

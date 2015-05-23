@@ -5,14 +5,14 @@
 			<div class="col products">
         	<h4>产品展示</h4>
 				<ul>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XP-Line/XP-300-black.php#!juwel-000000000000001300">XP系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XC-180-black.php#!juwel-xc300b">XC系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-xt300b">XT系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-xe300b">XE系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-xk200b">XK系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XP-Line/XP-300-black.php#!leecom-xp300b">XP系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XC-180-black.php#!leecom-xc300b">XC系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XT-Line/XT-300-black.php#!leecom-xt300b">XT系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XE-Line/XE-300-black.php#!leecom-xe300b">XE系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!leecom-xk200">XK系列</a></li>
 					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php">XA系列</a></li>
-          <li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040">XF系列</a></li>
-					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860">XQ系列</a></li>
+          <li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!leecom-000000000000020040">XF系列</a></li>
+					<li><a href="<?php echo $site_url.'cn/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!leecom-000000000000023860">XQ系列</a></li>
 				</ul>
 				<ul>
           <li><a href="<?php echo $site_url.'cn/Products';?>/More/AQ-202.php">灯具系列</a></li>

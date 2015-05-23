@@ -14,17 +14,17 @@
                 <p>你总想时时关注爱鱼是如何点缀你空间的，<br />
 它每天都是如何愉快度过每一日的。<br />
 马上从XP系列水族箱开始你的水底探索之旅。</p>
-                <a class="button ci-shadow" href="<?php echo $site_url;?>cn/Products/Aquariums/XP-Line/XP-300-black.php#!juwel-xp300b" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Pure Lifestyle']);">了解更多</a>
+                <a class="button ci-shadow" href="<?php echo $site_url;?>cn/Products/Aquariums/XP-Line/XP-300-black.php#!leecom-xp300b" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Pure Lifestyle']);">了解更多</a>
             </div>
         </div>
-            <div class="item" style="background-color:#ffffff; background-image:url('out/pictures/promo/juwel_buehne_rekord_700(2).jpg');">
+            <div class="item" style="background-color:#ffffff; background-image:url('out/pictures/promo/leecom_buehne_rekord_700(2).jpg');">
                             <div class="page_margins item-content">
                             <h2 class="tk-myriad-pro tk-light">新的颜色</h2>
                 <h3 class="tk-myriad-pro tk-semibold">XT/XE白色</h3>
                 <p>对于简洁干净的感觉，<br />
 经典白色也是必选的。<br />
 我们的XT/XE系列鱼缸白色从此问世。<br /></p>
-                <a class="button ci-shadow" href="<?php echo $site_url;?>cn/Products/Aquariums/XT-Line/XT-190-black.php#!juwel-xt300w" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Your underwater world']);">了解更多</a>
+                <a class="button ci-shadow" href="<?php echo $site_url;?>cn/Products/Aquariums/XT-Line/XT-300-black.php#!leecom-xt300w" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Your underwater world']);">了解更多</a>
             </div>
         </div>
             <div class="item" style="background-color:#ffffff; background-image:url('out/pictures/promo/home_slider_1(2).jpg');">
@@ -44,7 +44,7 @@
 
 <script>
     $(function(){
-        juwel.homeSlider();
+        leecom.homeSlider();
     });
 </script>
 <div class="page_margins">
@@ -73,7 +73,7 @@
         <div class="grid_3 omega teaser-content">
             <h3>新的色调</h3>
             <p>让我们一睹XT系列经典白色的风姿</p>
-            <a class="arrow-link" href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XT-Line/XT-190-black.php#!juwel-xt300w" title="start now" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Automatic Feeder']);">从这里开始</a>
+            <a class="arrow-link" href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XT-Line/XT-300-black.php#!leecom-xt300w" title="start now" onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Automatic Feeder']);">从这里开始</a>
         </div>
     </div>
          </div>

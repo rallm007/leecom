@@ -24,38 +24,38 @@
     <meta property="og:type" content="og:product"/>
     <meta property="og:image" content="<?php echo $site_url; ?>out/pictures/master/product/1/xp300.png"/>
     <link rel="shortcut icon" href="<?php echo $site_url; ?>out/pictures/master/global/1/favicon.ico">
-    <link rel="stylesheet" href="<?php echo $site_url; ?>out/juwel/src/css/styles.css">
-    <link rel="stylesheet" href="<?php echo $site_url; ?>out/juwel/src/css/fr-FR.css">
-    <link rel="stylesheet" href="<?php echo $site_url; ?>out/juwel/src/css/colorbox.css">
-    <link rel="stylesheet" href="<?php echo $site_url; ?>out/juwel/src/css/jquery.jscrollpane.css">
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/libs/jquery.min.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/libs/jquery-ui-custom.min.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/libs/modernizr-1.7.min.js"></script>
+    <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/styles.css">
+    <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/fr-FR.css">
+    <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/colorbox.css">
+    <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/jquery.jscrollpane.css">
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/libs/jquery.min.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/libs/jquery-ui-custom.min.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/libs/modernizr-1.7.min.js"></script>
     <!--[if lt IE 9]>
-    <script src="<?php echo $site_url;?>out/juwel/src/js/libs/selectivizr-min.js" type="text/javascript"></script>
-    <script src="<?php echo $site_url;?>out/juwel/src/js/plugins/jquery-extra-selectors.js"
+    <script src="<?php echo $site_url;?>out/leecom/src/js/libs/selectivizr-min.js" type="text/javascript"></script>
+    <script src="<?php echo $site_url;?>out/leecom/src/js/plugins/jquery-extra-selectors.js"
             type="text/javascript"></script>
-    <link rel="stylesheet" href="<?php echo $site_url;?>out/juwel/src/css/ie.css">
+    <link rel="stylesheet" href="<?php echo $site_url;?>out/leecom/src/css/ie.css">
     <![endif]-->
     <!--[if lt IE 8]>
-    <link rel="stylesheet" href="<?php echo $site_url;?>out/juwel/src/css/ie7.css">
-    <script src="<?php echo $site_url;?>out/juwel/src/js/plugins/ie7-patch.js"></script>
+    <link rel="stylesheet" href="<?php echo $site_url;?>out/leecom/src/css/ie7.css">
+    <script src="<?php echo $site_url;?>out/leecom/src/js/plugins/ie7-patch.js"></script>
     <![endif]-->
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/plugins/jquery.address.min.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/plugins/jquery.easing-1.3.pack.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/plugins/jquery.mousewheel.min.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/plugins/mwheelIntent.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/plugins/jquery.touchwipe.1.1.1.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/plugins/jquery.carouFredSel.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/plugins/cloud-zoom.1.0.2_mod.min.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/plugins/jquery.jqtransform.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/plugins/jquery.tipsy.min.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/plugins/jquery.colorbox-min.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/plugins/jquery.jscrollpane.min.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/libs/infobox_packed.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/libs/markerwithlabel_packed.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/functions.js"></script>
-    <script src="<?php echo $site_url; ?>out/juwel/src/js/distr_finder.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.address.min.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.easing-1.3.pack.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.mousewheel.min.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/mwheelIntent.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.touchwipe.1.1.1.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.carouFredSel.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/cloud-zoom.1.0.2_mod.min.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.jqtransform.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.tipsy.min.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.colorbox-min.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.jscrollpane.min.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/libs/infobox_packed.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/libs/markerwithlabel_packed.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/functions.js"></script>
+    <script src="<?php echo $site_url; ?>out/leecom/src/js/distr_finder.js"></script>
 
     <xbasehref
     ="<?php echo $site_url; ?>">
@@ -126,34 +126,34 @@
                                 <li class="head"><h4>水族箱</h4></li>
                                 <!-- Aquarien -->
                                 <li>
-                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XP-Line/XP-300-black.php#!juwel-xp300b"
+                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XP-Line/XP-300-black.php#!leecom-xp300b"
                                        id="00000000031">XP系列</a></li>
                                 <!-- Aquarien -->
                                 <li>
-                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XC-Line/XC-180-black.php#!juwel-xc300b"
+                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XC-Line/XC-300-black.php#!leecom-xc300b"
                                        id="00000000041">XC系列</a></li>
                                 <!-- Aquarien -->
                                 <li>
-                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XT-Line/XT-190-black.php#!juwel-xt300b"
+                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XT-Line/XT-300-black.php#!leecom-xt300b"
                                        id="00000000051">XT系列</a></li>
                                 <!-- Aquarien -->
                                 <li>
-                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XE-Line/XE-120-black.php#!juwel-xe300b"
+                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XE-Line/XE-300-black.php#!leecom-xe300"
                                        id="00000000061">XE系列</a></li>
                                 <!-- Aquarien -->
                                 <li>
-                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XK-Line/XK-600-black-Int.php#!juwel-xk200w"
+                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XK-Line/XK-600-black-Int.php#!leecom-xk200"
                                        id="00000000071">XK系列</a></li>
                                 <!-- Aquarien -->
                                 <li>
-                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XA-Line/XA-40-black-Int.php#!leecom-xa815w"
+                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XA-Line/XA-40-black-Int.php#!leecom-xa815"
                                        id="00000001289">XA系列</a></li>
                                 <li>
-                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XF-Line/XF-40-black-Int.php#!juwel-xf060w"
+                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XF-Line/XF-40-black-Int.php#!leecom-xf060"
                                        id="00000001271">XF系列</a></li>
                                 <!-- Aquarien -->
                                 <li>
-                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XQ-Line/XQ-Line-60-Int.php#!juwel-xq200f"
+                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XQ-Line/XQ-Line-60-Int.php#!leecom-xq200"
                                        id="00000001281">XQ系列</a></li>
                             </ul>
                             <ul>
@@ -191,7 +191,7 @@
                             <div class="product-info clearfix" id="info-00000000031" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XP系列" src="<?php echo $site_url; ?>out/b/200/xp300.jpg">
+                                    <img alt="XP系列" src="<?php echo $site_url; ?>out/img/xp/xp300_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
                                     <h4 class="tk-myriad-pro tk-light"><span class="green">XP系列</span></h4>
@@ -205,11 +205,11 @@
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
                                     </ul>
                                     <ul class="sizes fl">
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xp300.jpg" alt="XP-300 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xp360.jpg" alt="XP-360 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xp400.jpg" alt="XP-400 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xp600.jpg" alt="XP-600 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xp800.jpg" alt="XP-800 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp300_35.jpg" alt="XP-300 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp360_35.jpg" alt="XP-360 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp400_35.jpg" alt="XP-400 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp600_35.jpg" alt="XP-600 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp800_35.jpg" alt="XP-800 "></li>
                                     </ul>
                                 </div>
                             </div>
@@ -217,7 +217,7 @@
                             <div class="product-info clearfix" id="info-00000000041" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XC系列" src="<?php echo $site_url; ?>out/b/200/xc300.jpg">
+                                    <img alt="XC系列" src="<?php echo $site_url; ?>out/img/xc/xc300_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
                                     <h4 class="tk-myriad-pro tk-light"><span class="green">XC系列</span></h4>
@@ -233,11 +233,11 @@
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
                                     </ul>
                                     <ul class="sizes fl">
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xc300.jpg" alt="XC-300 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xc360.jpg" alt="XC-360 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xc400.jpg" alt="XC-400 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xc460.jpg" alt="XC-460 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xc600.jpg" alt="XC-600 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc300_35.jpg" alt="XC-300 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc360_35.jpg" alt="XC-360 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc400_35.jpg" alt="XC-400 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc460_35.jpg" alt="XC-460 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc600_35.jpg" alt="XC-600 "></li>
                                     </ul>
                                 </div>
                             </div>
@@ -245,7 +245,7 @@
                             <div class="product-info clearfix" id="info-00000000051" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XT系列" src="<?php echo $site_url; ?>out/b/200/xt300.jpg">
+                                    <img alt="XT系列" src="<?php echo $site_url; ?>out/img/xt/xt300_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
                                     <h4 class="tk-myriad-pro tk-light"><span class="green">XT系列</span></h4>
@@ -261,12 +261,12 @@
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
                                     </ul>
                                     <ul class="sizes fl">
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xt300.jpg" alt="XT-300 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xt360.jpg" alt="XT-360 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xt400.jpg" alt="XT-400 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xt460.jpg" alt="XT-460 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xt600.jpg" alt="XT-600 "></li>
-                                        <!-- <li><img src="<?php echo $site_url; ?>out/b/35/xt800.jpg" alt="XT-800 "></li>    -->
+                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt300_35.jpg" alt="XT-300 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt360_35.jpg" alt="XT-360 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt400_35.jpg" alt="XT-400 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt460_35.jpg" alt="XT-460 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt600_35.jpg" alt="XT-600 "></li>
+                                        <!-- <li><img src="<?php echo $site_url; ?>out/img/xp/xt800.jpg" alt="XT-800 "></li>    -->
                                     </ul>
                                 </div>
                             </div>
@@ -274,7 +274,7 @@
                             <div class="product-info clearfix" id="info-00000000061" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XE系列" src="<?php echo $site_url; ?>out/b/200/xe300.jpg">
+                                    <img alt="XE系列" src="<?php echo $site_url; ?>out/img/xe/xe300_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
                                     <h4 class="tk-myriad-pro tk-light"><span class="green">XE系列</span></h4>
@@ -290,18 +290,18 @@
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
                                     </ul>
                                     <ul class="sizes fl">
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xe300.jpg" alt="XE-300 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xe360.jpg" alt="XE-360 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xe400.jpg" alt="XE-400 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xe460.jpg" alt="XE-460 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/b/35/xe600.jpg" alt="XE-600 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe300_35.jpg" alt="XE-300 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe360_35.jpg" alt="XE-360 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe400_35.jpg" alt="XE-400 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe460_35.jpg" alt="XE-460 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe600_35.jpg" alt="XE-600 "></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="product-info clearfix" id="info-00000000071" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XK系列" src="<?php echo $site_url; ?>out/w/200/xk200.jpg">
+                                    <img alt="XK系列" src="<?php echo $site_url; ?>out/img/xk/xk200_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
                                     <h4 class="tk-myriad-pro tk-light"><span class="green">XK系列</span></h4>
@@ -313,15 +313,14 @@
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
                                     </ul>
                                     <ul class="sizes fl">
-                                        <li><img src="<?php echo $site_url; ?>out/w/35/xk200.jpg" alt="XK-200 "></li>
-                                        <!-- <li><img src="<?php echo $site_url; ?>out/w/35/xk250.jpg" alt="XK-250 "></li> -->
+                                        <li><img src="<?php echo $site_url; ?>out/img/xk/xk200_35.jpg" alt="XK-200 "></li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="product-info clearfix" id="info-00000001289" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XA系列" src="<?php echo $site_url; ?>out/w/200/xa300.jpg">
+                                    <img alt="XA系列" src="<?php echo $site_url; ?>out/img/xa/xa300_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
                                     <h4 class="tk-myriad-pro tk-light"><span class="green">XA系列</span></h4>
@@ -332,7 +331,7 @@
                                         <li><img alt=""
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
                                         <ul class="sizes fl">
-                                            <li><img src="<?php echo $site_url; ?>out/w/35/xa815.jpg" alt="XA-815 ">
+                                            <li><img src="<?php echo $site_url; ?>out/img/xa/xa815_35.jpg" alt="XA-815 ">
                                             </li>
                                             <!-- <li><img src="<?php echo $site_url; ?>out/w/35/xa820.jpg" alt="XA-820 "></li>
 			                    			<li><img src="<?php echo $site_url; ?>out/w/35/xa825.jpg" alt="XA-825 "></li> -->
@@ -342,7 +341,7 @@
                             <div class="product-info clearfix" id="info-00000001271" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XF系列" src="<?php echo $site_url; ?>out/f/200/xf060.jpg">
+                                    <img alt="XF系列" src="<?php echo $site_url; ?>out/img/xf/xf060_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
                                     <h4 class="tk-myriad-pro tk-light"><span class="green">XF系列</span></h4>
@@ -357,15 +356,15 @@
                                         <li><img alt=""
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/3.png"></li>
                                         <ul class="sizes fl">
-                                            <li><img src="<?php echo $site_url; ?>out/f/35/xf060.jpg" alt="XF-060"></li>
-                                            <li><img src="<?php echo $site_url; ?>out/f/35/xf120.jpg" alt="XF-120"></li>
+                                            <li><img src="<?php echo $site_url; ?>out/img/xf/xf060_35.jpg" alt="XF-060"></li>
+                                            <li><img src="<?php echo $site_url; ?>out/img/xf/xf120_35.jpg" alt="XF-120"></li>
                                         </ul>
                                 </div>
                             </div>
                             <div class="product-info clearfix" id="info-00000001281" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XQ系列" src="<?php echo $site_url; ?>out/f/200/xq200.jpg">
+                                    <img alt="XQ系列" src="<?php echo $site_url; ?>out/img/xq/xq200_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
                                     <h4 class="tk-myriad-pro tk-light"><span class="green">XQ系列</span></h4>
@@ -380,9 +379,7 @@
                                         <li><img alt=""
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/5.png"></li>
                                         <ul class="sizes fl">
-                                            <li><img src="<?php echo $site_url; ?>out/f/35/xq200.jpg" alt="XQ-200"></li>
-                                            <!-- <li><img src="<?php echo $site_url; ?>out/l/35/xq200.jpg" alt="XQ-250"></li>
-	                                    	<li><img src="<?php echo $site_url; ?>out/lv/35/xq200.jpg" alt="XQ-300"></li> -->
+                                            <li><img src="<?php echo $site_url; ?>out/img/xq/xq200_35.jpg" alt="XQ-200"></li>
                                         </ul>
                                 </div>
                             </div>
@@ -448,7 +445,7 @@
 
 <script>
     $(function () {
-        juwel.productFlyout();
+        leecom.productFlyout();
     });
 
     /* Center Vimeo Videos */

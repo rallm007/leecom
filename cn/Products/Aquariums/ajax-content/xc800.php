@@ -12,7 +12,7 @@
                     <p>晶莹剔透水晶般的品质，给您温馨的居室不仅仅是美观更是一种完美极致的视觉享受。耐用、超静的水泵不但保证过滤系统的正常运行，令水质常年洁净，还令你静享生活，每天清晨睁开眼第一道风景线，仿佛置身于大自然的怀抱这般心旷神怡。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
                 </div>
                 <div class="grid_4">
-                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
+                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xc.jpg" alt="">
                 </div>
             </div>
                         
@@ -56,7 +56,7 @@
                     
                 </div>
                 <div class="grid_4">
-                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300_66300.jpg" alt="">
+                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300_2.jpg" alt="">
                 </div>
             </div>
                         

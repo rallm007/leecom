@@ -13,7 +13,7 @@
 </p>
                 </div>
                 <div class="grid_4">
-                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xp.jpg" alt="">
+                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010_1.jpg" alt="">
                 </div>
             </div>
                         
@@ -57,7 +57,7 @@
                     
                 </div>
                 <div class="grid_4">
-                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/xpxt01300.jpg" alt="">
+                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300_1.jpg" alt="">
                 </div>
             </div>
                         

@@ -177,38 +177,38 @@ The skimmer cup is generously sized and easy to access. This guarantees simple c
 </a></div><br />
 <br /><br />
 <br />
-<div class="prod_detail_2columns_right"><img style="margin-top: -40px; margin-bottom: 20px" src="../../../../../out/juwel/src/images/all/productdetails/seaskim01_right.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim01_right.jpg" alt="" /></div>
+<div class="prod_detail_2columns_right"><img style="margin-top: -40px; margin-bottom: 20px" src="../../../../../out/leecom/src/images/all/productdetails/seaskim01_right.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim01_right.jpg" alt="" /></div>
 <div class="prod_detail_2columns_clear"></div>
-<div class="prod_detail_2columns_left"><img style="margin-top: -40px; margin-bottom: 30px" src="../../../../../out/juwel/src/images/all/productdetails/seaskim02_left.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim02_left.jpg" alt="" /></div>
+<div class="prod_detail_2columns_left"><img style="margin-top: -40px; margin-bottom: 30px" src="../../../../../out/leecom/src/images/all/productdetails/seaskim02_left.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim02_left.jpg" alt="" /></div>
 <div class="prod_detail_2columns_right">
 <h5><br />
 Ideally coordinated components</h5><br />
 <ul class="list-skimmer">
-<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_01.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_01.png" alt="" /></li>
+<li><img src="../../../../../out/leecom/src/images/all/productdetails/bullet_01.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_01.png" alt="" /></li>
 <li><strong>Skimmer Cup</strong><br />
 Large foam chamber for long standing times and ease of use.<br />
 </li></ul><br />
 <br />
 <ul class="list-skimmer">
-<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_02.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_02.png" alt="" /></li>
+<li><img src="../../../../../out/leecom/src/images/all/productdetails/bullet_02.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_02.png" alt="" /></li>
 <li><strong>O2 Control</strong><br />
 Continuously adjustable oxygen supply for optimum setting of the foam moisture. <br />
 </li></ul><br />
 <br />
 <ul class="list-skimmer">
-<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_03.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_03.png" alt="" /></li>
+<li><img src="../../../../../out/leecom/src/images/all/productdetails/bullet_03.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_03.png" alt="" /></li>
 <li><strong>Top Clean</strong><br />
 Surface inlet with protective grill ensures a clean water surface. <br />
 </li></ul><br />
 <br />
 <ul class="list-skimmer">
-<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_04.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_04.png" alt="" /></li>
+<li><img src="../../../../../out/leecom/src/images/all/productdetails/bullet_04.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_04.png" alt="" /></li>
 <li><strong>O2 Infusion</strong><br />
 The finest air bubbles ensure optimum skimming results. <br />
 </li></ul><br />
 <br />
 <ul class="list-skimmer">
-<li><img src="../../../../../out/juwel/src/images/all/productdetails/bullet_05.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_05.png" alt="" /></li>
+<li><img src="../../../../../out/leecom/src/images/all/productdetails/bullet_05.png" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/bullet_05.png" alt="" /></li>
 <li><strong>Eccoflow SeaSkim Pump</strong><br />
 Highly efficient and whisper-quiet Eccoflow SeaSkim pump with double-mounted ceramic axle.<br />
 </li></ul><a class="arrow-link top scroll-link" href="#fb-root">Go To Top</a></div><br />
@@ -219,9 +219,9 @@ Highly efficient and whisper-quiet Eccoflow SeaSkim pump with double-mounted cer
 All operating elements are easily accessible on the top of the skimmer. The air controller and the water pressure controller enable ideal adjustment of the SeaSkim protein skimmer <br />
 <a class="arrow-link top scroll-link" href="#fb-root">Go To Top</a></div><br />
 <br />
-<div class="prod_detail_2columns_right"><img style="margin-top: -60px; margin-bottom: 45px" src="../../../../../out/juwel/src/images/all/productdetails/seaskim03_right.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim03_right.jpg" alt="" /></div>
+<div class="prod_detail_2columns_right"><img style="margin-top: -60px; margin-bottom: 45px" src="../../../../../out/leecom/src/images/all/productdetails/seaskim03_right.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim03_right.jpg" alt="" /></div>
 <div class="prod_detail_2columns_clear"></div>
-<div class="prod_detail_2columns_left"><img style="margin-top: -60px; margin-bottom: 45px" src="../../../../../out/juwel/src/images/all/productdetails/seaskim04_left.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim04_left.jpg" alt="" /></div>
+<div class="prod_detail_2columns_left"><img style="margin-top: -60px; margin-bottom: 45px" src="../../../../../out/leecom/src/images/all/productdetails/seaskim04_left.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim04_left.jpg" alt="" /></div>
 <div class="prod_detail_2columns_right">
 <h5>Easy installation</h5>
 The innovative retainer guarantees easy installation of the skimmer during servicing activities or operation.<br />
@@ -229,14 +229,14 @@ The innovative retainer guarantees easy installation of the skimmer during servi
 <br />
 <div class="prod_detail_2columns_clear"></div>
 <div class="prod_detail_2columns_left">
-<h5>Safety first â€“ the water remains in the aquarium!</h5>
+<h5>Safety first â€? the water remains in the aquarium!</h5>
 All components of the SeaSkim are integrated into the housing and there are no hose connections that lead out of the aquarium. Therefore, it is the safest way to operate a protein skimmer.<br />
 <a class="arrow-link top scroll-link" href="#fb-root">Go To Top</a></div><br />
 <br />
 <div class="prod_detail_2columns_right"><img
 <img="" style="margin-top: -25px; margin-bottom: 0" src="../../../../../out/juwel/src/images/all/productdetails/seaskim05_right.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim05_right.jpg" alt="" /></div>
 <div class="prod_detail_2columns_clear"></div>
-<div class="prod_detail_2columns_left"><img style="margin-top: -54px; margin-bottom: 0" src="../../../../../out/juwel/src/images/all/productdetails/seaskim06_left.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim06_left.jpg" alt="" /></div>
+<div class="prod_detail_2columns_left"><img style="margin-top: -54px; margin-bottom: 0" src="../../../../../out/leecom/src/images/all/productdetails/seaskim06_left.jpg" tppabs="<?php echo $site_url;?>out/juwel/src/images/all/productdetails/seaskim06_left.jpg" alt="" /></div>
 <div class="prod_detail_2columns_right">
 <h5>Compatible opening in the cover for mounting in all JUWEL aquariums.</h5>
 All of the aquariums in the XP, XC, XE-and XT-lines already have the matching opening in the cover and are therefore ideally prepared for seawater operation.<br />

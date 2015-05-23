@@ -12,7 +12,7 @@
                     <p>经典、永恒一如我们的XP-600水族箱， 61 x 36 x 44.8cm的外型轻松融入各种居家装修设计风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
                 </div>
                 <div class="grid_4">
-                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xp.jpg" alt="">
+                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010_1.jpg" alt="">
                 </div>
             </div>
                         
@@ -56,7 +56,7 @@
                     
                 </div>
                 <div class="grid_4">
-                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/xpxt600800.jpg" alt="">
+                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300_2.jpg" alt="">
                 </div>
             </div>
                         

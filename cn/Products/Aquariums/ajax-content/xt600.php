@@ -56,7 +56,7 @@
                     
                 </div>
                 <div class="grid_4">
-                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300_66300.jpg" alt="">
+                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300_2.jpg" alt="">
                 </div>
             </div>
                         

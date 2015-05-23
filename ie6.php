@@ -6,7 +6,7 @@
     
     <style>
         body {
-            background-image: url("out/juwel/src/images/all/footer-bg.jpg")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/footer-bg.jpg*/;
+            background-image: url("out/leecom/src/images/all/footer-bg.jpg")/*tpa=http://www.juwel-aquarium.de/out/juwel/src/images/all/footer-bg.jpg*/;
         }
         
         div#wrapper {
@@ -62,7 +62,7 @@
     
     <div id="wrapper">
         <div id="header">
-            <img src="out/juwel/src/images/all/juwel-logo.png" alt="JUWEL® Aquarium" />
+            <img src="out/leecom/src/images/all/juwel-logo.png" alt="JUWEL® Aquarium" />
             <h1>Bitte aktualisieren Sie Ihren Browser</h1>
         </div>
         

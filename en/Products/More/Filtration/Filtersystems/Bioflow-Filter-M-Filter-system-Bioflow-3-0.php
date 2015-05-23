@@ -17,39 +17,46 @@
         <meta property="og:description" content="Bioflow Filter M -Filter system -" />
         <meta property="og:type" content="og:product" />
                     	        <link rel="shortcut icon" href="http://www.juwel-aquarium.de/favicon.ico">
-        		<link rel="stylesheet" href="../../../../../out/juwel/src/css/styles.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/styles.css">
-									<link rel="stylesheet" href="../../../../../out/juwel/src/css/en-GB.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/en-GB.css">
-																		    <link rel="stylesheet" href="../../../../../out/juwel/src/css/colorbox.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/colorbox.css">
-    <link rel="stylesheet" href="../../../../../out/juwel/src/css/jquery.jscrollpane.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/jquery.jscrollpane.css">
+        		<link rel="stylesheet" href="../../../../../out/leecom/src/css/styles.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/styles.css">
+									<link rel="stylesheet" href="../../../../../out/leecom/src/css/en-GB.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/en-GB.css">
+																		    <link rel="stylesheet" href="../../../../../out/leecom/src/css/colorbox.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/colorbox.css">
+    <link rel="stylesheet" href="../../../../../out/leecom/src/css/jquery.jscrollpane.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/jquery.jscrollpane.css">
 
-	<script src="../../../../../out/juwel/src/js/libs/jquery.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/jquery.min.js"></script>
-	<script src="../../../../../out/juwel/src/js/libs/jquery-ui-custom.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/jquery-ui-custom.min.js"></script>
-	<script src="../../../../../out/juwel/src/js/libs/modernizr-1.7.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/modernizr-1.7.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/jquery.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/jquery.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/jquery-ui-custom.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/jquery-ui-custom.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/modernizr-1.7.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/modernizr-1.7.min.js"></script>
 	<!--[if lt IE 9]>
-		<script src="../../../../../out/juwel/src/js/libs/selectivizr-min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/selectivizr-min.js" type="text/javascript"></script>
-	    <script src="../../../../../out/juwel/src/js/plugins/jquery-extra-selectors.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery-extra-selectors.js" type="text/javascript"></script>
-	    <link rel="stylesheet" href="../../../../../out/juwel/src/css/ie.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/ie.css">
+	<script src="../../../../../out/leecom/src/js/libs/selectivizr-min.js"
+			tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/selectivizr-min.js"
+			type="text/javascript"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery-extra-selectors.js"
+			tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery-extra-selectors.js"
+			type="text/javascript"></script>
+	<link rel="stylesheet" href="../../../../../out/leecom/src/css/ie.css"
+		  tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/ie.css">
 	<![endif]-->
 	<!--[if lt IE 8]>
-		<link rel="stylesheet" href="../../../../../out/juwel/src/css/ie7.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/ie7.css">
-		<script src="../../../../../out/juwel/src/js/plugins/ie7-patch.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/ie7-patch.js"></script>
+	<link rel="stylesheet" href="../../../../../out/leecom/src/css/ie7.css"
+		  tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/ie7.css">
+	<script src="../../../../../out/leecom/src/js/plugins/ie7-patch.js"
+			tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/ie7-patch.js"></script>
 	<![endif]-->
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.address.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.address.min.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/jquery.easing-1.3.pack.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.easing-1.3.pack.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.mousewheel.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.mousewheel.min.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/mwheelIntent.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/mwheelIntent.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.touchwipe.1.1.1.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.touchwipe.1.1.1.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/jquery.carouFredSel.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.carouFredSel.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/cloud-zoom.1.0.2_mod.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/cloud-zoom.1.0.2_mod.min.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/jquery.jqtransform.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.jqtransform.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/jquery.tipsy.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.tipsy.min.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.colorbox-min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.colorbox-min.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.jscrollpane.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.jscrollpane.min.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.address.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.address.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery.easing-1.3.pack.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.easing-1.3.pack.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.mousewheel.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.mousewheel.min.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/mwheelIntent.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/mwheelIntent.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.touchwipe.1.1.1.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.touchwipe.1.1.1.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery.carouFredSel.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.carouFredSel.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/cloud-zoom.1.0.2_mod.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/cloud-zoom.1.0.2_mod.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery.jqtransform.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.jqtransform.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery.tipsy.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.tipsy.min.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.colorbox-min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.colorbox-min.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.jscrollpane.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.jscrollpane.min.js"></script>
 	<script type="text/javascript" src="../../../../../../maps.google.com/maps/api/js-sensor=false&v=3.15&language=en" tppabs="http://maps.google.com/maps/api/js?sensor=false&v=3.15&language=en"></script>
-	<script src="../../../../../out/juwel/src/js/libs/infobox_packed.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/infobox_packed.js"></script>
-	<script src="../../../../../out/juwel/src/js/libs/markerwithlabel_packed.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/markerwithlabel_packed.js"></script>
-    <script src="../../../../../out/juwel/src/js/functions.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/functions.js"></script>
-	<script src="../../../../../out/juwel/src/js/distr_finder.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/distr_finder.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/infobox_packed.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/infobox_packed.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/markerwithlabel_packed.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/markerwithlabel_packed.js"></script>
+    <script src="../../../../../out/leecom/src/js/functions.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/functions.js"></script>
+	<script src="../../../../../out/leecom/src/js/distr_finder.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/distr_finder.js"></script>
 
 	<!-- TypeKit -->
 	<script type="text/javascript" src="../../../../../../use.typekit.com/aqg5cjj.js" tppabs="http://use.typekit.com/aqg5cjj.js"></script>
@@ -828,9 +835,9 @@ var _gaq = _gaq || [];
 <h5>Large filter volumes and easy care</h5>
 The JUWEL Bioflow filter system stands out from the crowd with its extra-large filter volumes. This gives plenty of room for excellent mechanical, chemical and biological filtering and ensures a long filter service life and longer service intervals. The filter's design offers you easy access to the pump and heater and the use of special filter cages makes it easy to remove and clean the filter media.<br />
 <a class="arrow-link top scroll-link" href="#fb-root">Go to top</a></div>
-<div class="prod_detail_2columns_right"><img src="../../../../../out/juwel/src/images/all/dummy-accessories_tab-product-details1.jpg" tppabs="http://www.juwel-aquarium.de/out/juwel/src/images/all/dummy-accessories_tab-product-details1.jpg" alt="Lichtstimmung High Lite T5 Day" /></div>
+<div class="prod_detail_2columns_right"><img src="../../../../../out/leecom/src/images/all/dummy-accessories_tab-product-details1.jpg" tppabs="http://www.juwel-aquarium.de/out/juwel/src/images/all/dummy-accessories_tab-product-details1.jpg" alt="Lichtstimmung High Lite T5 Day" /></div>
 <div class="prod_detail_2columns_clear"></div>
-<div class="prod_detail_2columns_left"><img src="../../../../../out/juwel/src/images/all/dummy-accessories_tab-product-details2.jpg" tppabs="http://www.juwel-aquarium.de/out/juwel/src/images/all/dummy-accessories_tab-product-details2.jpg" alt="Lichtstimmung High Lite T5 Day" /></div>
+<div class="prod_detail_2columns_left"><img src="../../../../../out/leecom/src/images/all/dummy-accessories_tab-product-details2.jpg" tppabs="http://www.juwel-aquarium.de/out/juwel/src/images/all/dummy-accessories_tab-product-details2.jpg" alt="Lichtstimmung High Lite T5 Day" /></div>
 <div class="prod_detail_2columns_right">
 <h5>Excellent filtering using the bipolar current principle</h5>
 JUWEL Bioflow filter system's unique bipolar current principle makes it possible to achieve different flow velocities, which helps to create the extraordinarily high filtering performance of the Bioflow system.
@@ -842,13 +849,13 @@ For mechanical and chemical filtering in the upper part of the filter, a relativ
 JUWEL Bioflow filters come fitted with a highly efficient, silent Eccoflow circulation pump, with performance adjusted to the size of the filter system using scientific criteria.
 Bioflow Filters are also compatible for use with JUWEL heaters, which are perfectly embedded in the water circulation, ensuring an even distribution of heat through all areas of your aquarium.<br />
 <a class="arrow-link top scroll-link" href="#fb-root">Go to top</a></div>
-<div class="prod_detail_2columns_right"><img src="../../../../../out/juwel/src/images/all/dummy-accessories_tab-product-details3.jpg" tppabs="http://www.juwel-aquarium.de/out/juwel/src/images/all/dummy-accessories_tab-product-details3.jpg" alt="Lichtstimmung High Lite T5 Day" width="300" /></div>
+<div class="prod_detail_2columns_right"><img src="../../../../../out/leecom/src/images/all/dummy-accessories_tab-product-details3.jpg" tppabs="http://www.juwel-aquarium.de/out/juwel/src/images/all/dummy-accessories_tab-product-details3.jpg" alt="Lichtstimmung High Lite T5 Day" width="300" /></div>
 <div class="prod_detail_2columns_clear"></div>
-<div class="prod_detail_2columns_left"><img src="../../../../../out/juwel/src/images/all/dummy-accessories_tab-product-details4.jpg" tppabs="http://www.juwel-aquarium.de/out/juwel/src/images/all/dummy-accessories_tab-product-details4.jpg" alt="Lichtstimmung High Lite T5 Day" /></div>
+<div class="prod_detail_2columns_left"><img src="../../../../../out/leecom/src/images/all/dummy-accessories_tab-product-details4.jpg" tppabs="http://www.juwel-aquarium.de/out/juwel/src/images/all/dummy-accessories_tab-product-details4.jpg" alt="Lichtstimmung High Lite T5 Day" /></div>
 <div class="prod_detail_2columns_right">
-<h5>Safety first â€“ the water should stay in the aquarium!</h5>
+<h5>Safety first â€? the water should stay in the aquarium!</h5>
 The Bioflow filter system does not rely on hose connections which can reduce performance, often leading to leakages. The Bioflow system is the safest way of filtering the water in your aquarium.<br />
-<img alt="" src="../../../../../out/juwel/src/images/all/dummy-accessories_tuev.jpg" tppabs="http://www.juwel-aquarium.de/out/juwel/src/images/all/dummy-accessories_tuev.jpg" style="width: 300px" /><a class="arrow-link top scroll-link" href="#fb-root">Go to top</a></div>
+<img alt="" src="../../../../../out/leecom/src/images/all/dummy-accessories_tuev.jpg" tppabs="http://www.juwel-aquarium.de/out/juwel/src/images/all/dummy-accessories_tuev.jpg" style="width: 300px" /><a class="arrow-link top scroll-link" href="#fb-root">Go to top</a></div>
 <div class="prod_detail_2columns_clear"></div>
 <div class="prod_detail_2columns_left">
 <h5>Top-quality filter media </h5>

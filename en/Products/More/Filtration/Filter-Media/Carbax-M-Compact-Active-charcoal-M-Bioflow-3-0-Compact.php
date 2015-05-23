@@ -17,39 +17,46 @@
         <meta property="og:description" content="Carbax M (Compact) -Active charcoal -" />
         <meta property="og:type" content="og:product" />
                     	        <link rel="shortcut icon" href="http://www.juwel-aquarium.de/favicon.ico">
-        		<link rel="stylesheet" href="../../../../../out/juwel/src/css/styles.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/styles.css">
-									<link rel="stylesheet" href="../../../../../out/juwel/src/css/en-GB.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/en-GB.css">
-																		    <link rel="stylesheet" href="../../../../../out/juwel/src/css/colorbox.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/colorbox.css">
-    <link rel="stylesheet" href="../../../../../out/juwel/src/css/jquery.jscrollpane.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/jquery.jscrollpane.css">
+        		<link rel="stylesheet" href="../../../../../out/leecom/src/css/styles.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/styles.css">
+									<link rel="stylesheet" href="../../../../../out/leecom/src/css/en-GB.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/en-GB.css">
+																		    <link rel="stylesheet" href="../../../../../out/leecom/src/css/colorbox.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/colorbox.css">
+    <link rel="stylesheet" href="../../../../../out/leecom/src/css/jquery.jscrollpane.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/jquery.jscrollpane.css">
 
-	<script src="../../../../../out/juwel/src/js/libs/jquery.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/jquery.min.js"></script>
-	<script src="../../../../../out/juwel/src/js/libs/jquery-ui-custom.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/jquery-ui-custom.min.js"></script>
-	<script src="../../../../../out/juwel/src/js/libs/modernizr-1.7.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/modernizr-1.7.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/jquery.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/jquery.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/jquery-ui-custom.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/jquery-ui-custom.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/modernizr-1.7.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/modernizr-1.7.min.js"></script>
 	<!--[if lt IE 9]>
-		<script src="../../../../../out/juwel/src/js/libs/selectivizr-min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/selectivizr-min.js" type="text/javascript"></script>
-	    <script src="../../../../../out/juwel/src/js/plugins/jquery-extra-selectors.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery-extra-selectors.js" type="text/javascript"></script>
-	    <link rel="stylesheet" href="../../../../../out/juwel/src/css/ie.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/ie.css">
+	<script src="../../../../../out/leecom/src/js/libs/selectivizr-min.js"
+			tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/selectivizr-min.js"
+			type="text/javascript"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery-extra-selectors.js"
+			tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery-extra-selectors.js"
+			type="text/javascript"></script>
+	<link rel="stylesheet" href="../../../../../out/leecom/src/css/ie.css"
+		  tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/ie.css">
 	<![endif]-->
 	<!--[if lt IE 8]>
-		<link rel="stylesheet" href="../../../../../out/juwel/src/css/ie7.css" tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/ie7.css">
-		<script src="../../../../../out/juwel/src/js/plugins/ie7-patch.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/ie7-patch.js"></script>
+	<link rel="stylesheet" href="../../../../../out/leecom/src/css/ie7.css"
+		  tppabs="http://www.juwel-aquarium.de/out/juwel/src/css/ie7.css">
+	<script src="../../../../../out/leecom/src/js/plugins/ie7-patch.js"
+			tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/ie7-patch.js"></script>
 	<![endif]-->
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.address.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.address.min.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/jquery.easing-1.3.pack.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.easing-1.3.pack.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.mousewheel.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.mousewheel.min.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/mwheelIntent.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/mwheelIntent.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.touchwipe.1.1.1.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.touchwipe.1.1.1.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/jquery.carouFredSel.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.carouFredSel.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/cloud-zoom.1.0.2_mod.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/cloud-zoom.1.0.2_mod.min.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/jquery.jqtransform.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.jqtransform.js"></script>
-	<script src="../../../../../out/juwel/src/js/plugins/jquery.tipsy.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.tipsy.min.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.colorbox-min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.colorbox-min.js"></script>
-    <script src="../../../../../out/juwel/src/js/plugins/jquery.jscrollpane.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.jscrollpane.min.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.address.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.address.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery.easing-1.3.pack.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.easing-1.3.pack.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.mousewheel.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.mousewheel.min.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/mwheelIntent.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/mwheelIntent.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.touchwipe.1.1.1.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.touchwipe.1.1.1.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery.carouFredSel.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.carouFredSel.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/cloud-zoom.1.0.2_mod.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/cloud-zoom.1.0.2_mod.min.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery.jqtransform.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.jqtransform.js"></script>
+	<script src="../../../../../out/leecom/src/js/plugins/jquery.tipsy.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.tipsy.min.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.colorbox-min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.colorbox-min.js"></script>
+    <script src="../../../../../out/leecom/src/js/plugins/jquery.jscrollpane.min.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/plugins/jquery.jscrollpane.min.js"></script>
 	<script type="text/javascript" src="../../../../../../maps.google.com/maps/api/js-sensor=false&v=3.15&language=en" tppabs="http://maps.google.com/maps/api/js?sensor=false&v=3.15&language=en"></script>
-	<script src="../../../../../out/juwel/src/js/libs/infobox_packed.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/infobox_packed.js"></script>
-	<script src="../../../../../out/juwel/src/js/libs/markerwithlabel_packed.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/markerwithlabel_packed.js"></script>
-    <script src="../../../../../out/juwel/src/js/functions.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/functions.js"></script>
-	<script src="../../../../../out/juwel/src/js/distr_finder.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/distr_finder.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/infobox_packed.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/infobox_packed.js"></script>
+	<script src="../../../../../out/leecom/src/js/libs/markerwithlabel_packed.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/libs/markerwithlabel_packed.js"></script>
+    <script src="../../../../../out/leecom/src/js/functions.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/functions.js"></script>
+	<script src="../../../../../out/leecom/src/js/distr_finder.js" tppabs="http://www.juwel-aquarium.de/out/juwel/src/js/distr_finder.js"></script>
 
 	<!-- TypeKit -->
 	<script type="text/javascript" src="../../../../../../use.typekit.com/aqg5cjj.js" tppabs="http://use.typekit.com/aqg5cjj.js"></script>
@@ -847,14 +854,14 @@ var _gaq = _gaq || [];
 									
 
 		<div class="tab-teaser accessories_detail-prod_detail">
-			<h3>Carbax â€“ New standards in active charcoal filtering</h3>
+			<h3>Carbax â€? New standards in active charcoal filtering</h3>
             <p>The Carbax filter medium sets new standards in aquarium filtering with active charcoal. Carbax is a highly effective, hard coal based granulated active charcoal that has been specifically developed for cleaning and decolourisation of water-based liquids. In contrast to conventional charcoal filter media, with Carbax, the entire active charcoal grain is completely activated and not just the grain surface.</p>
 <p>Therefore, Carbax binds discolorations, odours and toxic substances particularly enduringly and quickly and ensures crystal-clear water in your aquarium.</p>
 <p><br />
-â€¢ Absorbs odour compounds and turbidity, as well as toxic compounds</p>
-<p>â€¢ Ensures crystal-clear water</p>
-<p>â€¢ Filters out residual medication</p>
-<p>â€¢ Suitable for use in freshwater and saltwater aquariums</p>
+â€? Absorbs odour compounds and turbidity, as well as toxic compounds</p>
+<p>â€? Ensures crystal-clear water</p>
+<p>â€? Filters out residual medication</p>
+<p>â€? Suitable for use in freshwater and saltwater aquariums</p>
 <p>&nbsp;</p>
 		</div>
 	        			
