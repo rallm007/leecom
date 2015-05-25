@@ -41,7 +41,7 @@
                         <img src="../../out/img/xc/xc300_346.png" alt="" width="347" height="420">
                         <map id="xcmap">
                             <area shape="rect" coords="0,0,347,420"
-                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XC-Line/XC-180-black.php" alt=""/>
+                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XC-Line/XC-300-black.php" alt=""/>
                         </map>
                     </div>
                     <div class="hidden">
@@ -54,7 +54,7 @@
                         <img src="../../out/img/xt/xt300_346.png" alt="" width="347" height="420">
                         <map id="xtmap">
                             <area shape="rect" coords="0,0,347,420"
-                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XT-Line/XT-190-black.php" alt=""/>
+                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XT-Line/XT-300-black.php" alt=""/>
                         </map>
                     </div>
                     <div class="hidden">
@@ -67,7 +67,7 @@
                         <img src="../../out/img/xe/xe300_346.png" alt="" width="347" height="420"></a>
                         <map id="xemap">
                             <area shape="rect" coords="0,0,347,420"
-                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XE-Line/XE-120-black.php" alt=""/>
+                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XE-Line/XE-300-black.php" alt=""/>
                         </map>
                     </div>
                     <div class="hidden">
