@@ -240,7 +240,7 @@ $(function(){
 				var sh = oh * 0.65;
 				var sw = ow * 0.65;
 				var imap = image_wrapper.find('map') // add 
-				var mapid = '#' + $("map").attr("id"); // get map id
+				var mapid = '#' + imap.attr("id"); // get map id
 				image.data({
 					'org_height' : oh,
 					'org_width' : ow,
@@ -257,6 +257,7 @@ $(function(){
 					headline.addClass('active')
 					pag_item.addClass('selected')
 					image.attr("usemap", mapid);
+
 				}else{ // all other items
 					item.css('width', '297px').removeClass('active')
 					image.css({'width' : sw, 'height' : sh})
@@ -327,6 +328,7 @@ $(function(){
 								height: oi_h
 							}, img_ani_time).parent().animate({ top : top }, img_ani_time);
 							oi_img.removeAttr("usemap"); // add, remove map
+
 							// new active item
 							ni.animate({
 								width: '347px' /* Set new width -> resize item (Wrapper) */
