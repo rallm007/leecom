@@ -22,8 +22,8 @@
                 <ul class="fl">
                     <li>您的位置:</li>
                     <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
-                    <li><a href="#" title="灯具系列">灯具系列</a></li>
-                    <li><a href="#" title="LD-0系列">LD-0系列</a></li>
+                    <li><a href="LD-030.php" title="灯具系列">灯具系列</a></li>
+                    <li><a href="LD-030.php" title="LD-0系列">LD-0系列</a></li>
                     <li>LD-046</li>
                 </ul>
             </div>
@@ -147,11 +147,12 @@
                         <div id="tabs-1">
 
 
-                            <div class="tab-teaser accessories_detail-prod_detail">
+                            <p class="tab-teaser accessories_detail-prod_detail">
                                 <h3>LD-046</h3>
 
-                                <p>可微调节长度塑胶支架，使用安全可靠的低压输入适配器，操作方便。全新LED灯照明完美升级，三条灯条，呼醒光合作用。色温极稳定，为水草提供一个优质的环境。</div>
+                                <p>可微调节长度塑胶支架，使用安全可靠的低压输入适配器，操作方便。全新LED灯照明完美升级，三条灯条，呼醒光合作用。色温极稳定，为水草提供一个优质的环境。</p>
                                 <p>LD-030 , LD-036 ,LD-040 , LD-046，LD-060，LD-080 一共6个型号以满足您不同的需求。</p>
+                            </div>
 
                         </div>
                         <div id="tabs-2">
@@ -228,8 +229,8 @@
         <ul>
             <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
             <li><a href="LD-030.php" title="灯具系列">灯具系列</a></li>
-            <li><a href="#" title=">LD-0系列">LD-0系列</a></li>
-            <li><a href="#" title="LD-046">LD-030</a></li>
+            <li><a href="LD-030.php" title=">LD-0系列">LD-0系列</a></li>
+            <li><a href="#" title="LD-046">LD-046</a></li>
         </ul>
     </div>
 </div>

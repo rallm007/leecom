@@ -22,8 +22,8 @@
                 <ul class="fl">
                     <li>您的位置:</li>
                     <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
-                    <li><a href="#" title="灯具系列">灯具系列</a></li>
-                    <li><a href="#" title="LD-0系列">LD-0系列</a></li>
+                    <li><a href="LD-030.php" title="灯具系列">灯具系列</a></li>
+                    <li><a href="LD-030.php" title="LD-0系列">LD-0系列</a></li>
                     <li>LD-080</li>
                 </ul>
             </div>
@@ -118,7 +118,8 @@
                         <div class="tabs product-images">
                             <div id="image-1">
                                 <a href="<?php echo $site_url; ?>out/img/detail/1/LD-030_863.jpg" class="cloud-zoom">
-                                    <img src="<?php echo $site_url; ?>out/img/detail/1/LD-030_278.png" alt="" width="278"
+                                    <img src="<?php echo $site_url; ?>out/img/detail/1/LD-030_278.png" alt=""
+                                         width="278"
                                          height="278">
                                 </a>
                             </div>
@@ -128,7 +129,7 @@
                     <div class="grid_4 omega accessories_detail_right" style="margin-top: 100px;">
 
 
-                        <h2 class="tk-myriad-pro tk-light">LD-030 </h2>
+                        <h2 class="tk-myriad-pro tk-light">LD-080 </h2>
 
                         <p class="desc">可微调节长度塑胶支架，使用安全可靠的低压输入适配器，操作方便。</p>
                     </div>
@@ -146,10 +147,13 @@
 
 
                             <div class="tab-teaser accessories_detail-prod_detail">
-                                <h3>LD-030</h3>
+                                <h3>LD-080</h3>
 
-                                <p>可微调节长度塑胶支架，使用安全可靠的低压输入适配器，操作方便。全新LED灯照明完美升级，三条灯条，呼醒光合作用。色温极稳定，为水草提供一个优质的环境。</div>
+                                <p>可微调节长度塑胶支架，使用安全可靠的低压输入适配器，操作方便。全新LED灯照明完美升级，三条灯条，呼醒光合作用。色温极稳定，为水草提供一个优质的环境。</p>
+
                                 <p>LD-030 , LD-036 ,LD-040 , LD-046，LD-060，LD-080 一共6个型号以满足您不同的需求。</p>
+                            </div>
+
                         </div>
                         <div id="tabs-2">
                             <div class="tab-teaser tab-teaser-technical">
@@ -225,8 +229,8 @@
         <ul>
             <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
             <li><a href="LD-030.php" title="灯具系列">灯具系列</a></li>
-            <li><a href="#" title=">LD-0系列">LD-0系列</a></li>
-            <li><a href="#" title="LD-030">LD-030</a></li>
+            <li><a href="LD-030.php" title=">LD-0系列">LD-0系列</a></li>
+            <li><a href="#" title="LD-080">LD-080</a></li>
         </ul>
     </div>
 </div>

@@ -22,8 +22,8 @@
                 <ul class="fl">
                     <li>您的位置:</li>
                     <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
-                    <li><a href="#" title="灯具系列">灯具系列</a></li>
-                    <li><a href="#" title="LD-0系列">LD-0系列</a></li>
+                    <li><a href="LD-030.php" title="灯具系列">灯具系列</a></li>
+                    <li><a href="LD-030.php" title="LD-0系列">LD-0系列</a></li>
                     <li>LD-060</li>
                 </ul>
             </div>
@@ -58,7 +58,7 @@
                                     </li>
                                 </ul>
                                 <ul>
-                                    <li   class="active">
+                                    <li class="active">
                                         <a href="LD-060.php">LD-060 </a>
                                     </li>
                                 </ul>
@@ -120,7 +120,8 @@
                         <div class="tabs product-images">
                             <div id="image-1">
                                 <a href="<?php echo $site_url; ?>out/img/detail/1/LD-030_863.jpg" class="cloud-zoom">
-                                    <img src="<?php echo $site_url; ?>out/img/detail/1/LD-030_278.png" alt="" width="278"
+                                    <img src="<?php echo $site_url; ?>out/img/detail/1/LD-030_278.png" alt=""
+                                         width="278"
                                          height="278">
                                 </a>
                             </div>
@@ -147,75 +148,78 @@
                         <div id="tabs-1">
 
 
-                            <div class="tab-teaser accessories_detail-prod_detail">
-                                <h3>LD-060</h3>
+                            <p class="tab-teaser accessories_detail-prod_detail">
 
-                                <p>可微调节长度塑胶支架，使用安全可靠的低压输入适配器，操作方便。全新LED灯照明完美升级，三条灯条，呼醒光合作用。色温极稳定，为水草提供一个优质的环境。</div>
-                                <p>LD-030 , LD-036 ,LD-040 , LD-046，LD-060，LD-080 一共6个型号以满足您不同的需求。</p>
+                            <h3>LD-060</h3>
 
-                        </div>
-                        <div id="tabs-2">
-                            <div class="tab-teaser tab-teaser-technical">
-                                <table>
-                                    <tbody>
-                                    <tr>
-                                        <td class="icon produkt">&nbsp;</td>
-                                        <td class="topic">产品名称</td>
-                                        <td>LD-060灯具</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="icon lichtfarbe">&nbsp;</td>
-                                        <td class="topic">可选灯光</td>
-                                        <td>双白光<br/>蓝白光<br/>双红光</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="icon energieverbrauch">&nbsp;</td>
-                                        <td class="topic">功率</td>
-                                        <td>29 W</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic">装箱数</td>
-                                        <td>12 PCS</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="icon measure">&nbsp;</td>
-                                        <td class="topic">长度调节</td>
-                                        <td>600-640 mm</td>
-                                    </tr>
-                                    </tbody>
-                                </table>
-                            </div>
+                            <p>可微调节长度塑胶支架，使用安全可靠的低压输入适配器，操作方便。全新LED灯照明完美升级，三条灯条，呼醒光合作用。色温极稳定，为水草提供一个优质的环境。</p>
 
+                            <p>LD-030 , LD-036 ,LD-040 , LD-046，LD-060，LD-080 一共6个型号以满足您不同的需求。</p>
                         </div>
 
                     </div>
+                    <div id="tabs-2">
+                        <div class="tab-teaser tab-teaser-technical">
+                            <table>
+                                <tbody>
+                                <tr>
+                                    <td class="icon produkt">&nbsp;</td>
+                                    <td class="topic">产品名称</td>
+                                    <td>LD-060灯具</td>
+                                </tr>
+                                <tr>
+                                    <td class="icon lichtfarbe">&nbsp;</td>
+                                    <td class="topic">可选灯光</td>
+                                    <td>双白光<br/>蓝白光<br/>双红光</td>
+                                </tr>
+                                <tr>
+                                    <td class="icon energieverbrauch">&nbsp;</td>
+                                    <td class="topic">功率</td>
+                                    <td>29 W</td>
+                                </tr>
+                                <tr>
+                                    <td class="icon lieferumfang">&nbsp;</td>
+                                    <td class="topic">装箱数</td>
+                                    <td>12 PCS</td>
+                                </tr>
+                                <tr>
+                                    <td class="icon measure">&nbsp;</td>
+                                    <td class="topic">长度调节</td>
+                                    <td>600-640 mm</td>
+                                </tr>
+                                </tbody>
+                            </table>
+                        </div>
+
+                    </div>
+
                 </div>
-                <!-- ende -> Tab-Content Bereich -->
-                <!-- CROSSSELLING / ACCESSORIES -->
-                <!-- /CROSSSELLING / ACCESSORIES -->
             </div>
+            <!-- ende -> Tab-Content Bereich -->
+            <!-- CROSSSELLING / ACCESSORIES -->
+            <!-- /CROSSSELLING / ACCESSORIES -->
         </div>
     </div>
+</div>
 
-    <script>
-        $(function () {
-            leecom.accessoriesDetail();
-            $("select.transform").jqTransSelect();
-        });
+<script>
+    $(function () {
+        leecom.accessoriesDetail();
+        $("select.transform").jqTransSelect();
+    });
 
-    </script>
+</script>
 
-    <script>
-        $(window).load(function () {
-            $('.sub-nav li > span').click(function () {
-                $(this).next('ul').slideToggle('slow', function () {
-                    $(this).parent().toggleClass('active');
-                });
-
+<script>
+    $(window).load(function () {
+        $('.sub-nav li > span').click(function () {
+            $(this).next('ul').slideToggle('slow', function () {
+                $(this).parent().toggleClass('active');
             });
+
         });
-    </script>
+    });
+</script>
 
 </div>
 <!-- /Main-Area -->
@@ -228,8 +232,8 @@
         <ul>
             <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
             <li><a href="LD-030.php" title="灯具系列">灯具系列</a></li>
-            <li><a href="#" title=">LD-0系列">LD-0系列</a></li>
-            <li><a href="#" title="LD-060">LD-030</a></li>
+            <li><a href="LD-030.php" title=">LD-0系列">LD-0系列</a></li>
+            <li><a href="#" title="LD-060">LD-060</a></li>
         </ul>
     </div>
 </div>

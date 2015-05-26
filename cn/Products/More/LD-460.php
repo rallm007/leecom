@@ -24,7 +24,7 @@
                     <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
                     <li><a href="LD-030.php" title="灯具系列">灯具系列</a></li>
                     <li><a href="LD-300.php" title="LD-3系列">LD-3系列</a></li>
-                    <li>LD-800</li>
+                    <li>LD-460</li>
                 </ul>
             </div>
             <!-- Links - Navigation und Teaser-Content -->
@@ -91,7 +91,7 @@
                                     </li>
                                 </ul>
                                 <ul>
-                                    <li>
+                                    <li class="active">
                                         <a href="LD-460.php">LD-460 </a>
                                     </li>
                                 </ul>
@@ -101,7 +101,7 @@
                                     </li>
                                 </ul>
                                 <ul>
-                                    <li class="active">
+                                    <li>
                                         <a href="LD-800.php">LD-800 </a>
                                     </li>
                                 </ul>
@@ -130,7 +130,7 @@
                     <div class="grid_4 omega accessories_detail_right" style="margin-top: 100px;">
 
 
-                        <h2 class="tk-myriad-pro tk-light">LD-800 </h2>
+                        <h2 class="tk-myriad-pro tk-light">LD-460 </h2>
 
                         <p class="desc">高亮度LED灯珠，多角度可调节铝合金灯支架。三档开光，安全可靠的适配器。</p>
                     </div>
@@ -148,10 +148,10 @@
 
 
                             <div class="tab-teaser accessories_detail-prod_detail">
-                                <h3>LD-800</h3>
+                                <h3>LD-460</h3>
 
                                 <p>高亮度LED灯珠，多角度可调节铝合金灯支架。三档开光，安全可靠的适配器。蓝白光，增加鱼缸梦幻般的感觉，还可以为水草缸植物生长提供充足的光合作用。使水体更加透明，呈现水草和热带鱼体色。充足的光源，让水族缸更漂亮生态更加健康。在夜间，蓝光更好的帮助您观赏鱼儿。还原自然色，更适合鱼与水草的生存。低耗节能，使用寿命长。LED灯片表面有高透明亚克力挡水板，更安全。</p>
-                                <p>LD-300 , LD-360 ,LD-400 , LD-600，LD-600，LD-800 一共6个型号以满足您不同的需求。</p>
+                                <p>LD-300 , LD-360 ,LD-400 , LD-460，LD-600，LD-800 一共6个型号以满足您不同的需求。</p>
                             </div>
 
 
@@ -163,7 +163,7 @@
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
                                         <td class="topic">产品名称</td>
-                                        <td>LD-800灯具</td>
+                                        <td>LD-460灯具</td>
                                     </tr>
                                     <tr>
                                         <td class="icon lichtfarbe">&nbsp;</td>
@@ -173,7 +173,7 @@
                                     <tr>
                                         <td class="icon energieverbrauch">&nbsp;</td>
                                         <td class="topic">功率</td>
-                                        <td>38 W</td>
+                                        <td>20 W</td>
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
@@ -183,7 +183,7 @@
                                     <tr>
                                         <td class="icon measure">&nbsp;</td>
                                         <td class="topic">长度调节</td>
-                                        <td>790-830 mm</td>
+                                        <td>450-490 mm</td>
                                     </tr>
                                     </tbody>
                                 </table>
@@ -231,7 +231,7 @@
             <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
             <li><a href="LD-030.php" title="灯具系列">灯具系列</a></li>
             <li><a href="LD-300.php" title=">LD-3系列">LD-0系列</a></li>
-            <li><a href="#" title="LD-800">LD-800</a></li>
+            <li><a href="#" title="LD-460">LD-460</a></li>
         </ul>
     </div>
 </div>
