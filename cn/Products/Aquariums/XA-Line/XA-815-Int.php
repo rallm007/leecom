@@ -6,8 +6,8 @@
     <script>
         window.fbAsyncInit = function () {
             FB.init({
-                appId: '532575290153827',                        // App ID from the app dashboard
-                status: true,                                 // Check Facebook Login status
+                appId: '532575290153827',                  // App ID from the app dashboard
+                status: true,                                // Check Facebook Login status
                 xfbml: true                                  // Look for social plugins on the page
             });
         };
@@ -32,17 +32,17 @@
 
                 <div class="slider-wrapper">
                     <div class="product-thumbnail-slider clearfix">
-                        <a href="#juwel-xa815w" class="caroufredsel">
+                        <a href="#leecom-xa815w" class="caroufredsel">
                             <!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                             <img data-src="<?php echo $site_url; ?>out/w/80/xa815.png" alt="XA-815 ">
                             XA-815
                         </a>
-                        <a href="#juwel-xa820w" class="caroufredsel">
+                        <a href="#leecom-xa820w" class="caroufredsel">
                             <!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                             <img data-src="<?php echo $site_url; ?>out/w/80/xa820.png" alt="XA-820 ">
                             XA-820
                         </a>
-                        <a href="#juwel-xa825w" class="caroufredsel">
+                        <a href="#leecom-xa825w" class="caroufredsel">
                             <!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                             <img data-src="<?php echo $site_url; ?>out/w/80/xa825.png" alt="XA-825 ">
                             XA-825
@@ -57,7 +57,7 @@
 
     <!-- Stage & Slider -->
     <div class="product-detail-stage"
-         style="background-color:#00508c; background-image:url(<?php echo $site_url; ?>out/juwel/src/images/all/content-product-detail-stage_bgImage.jpg)">
+         style="background-color:#00508c; background-image:url(<?php echo $site_url; ?>out/leecom/src/images/all/content-product-detail-stage_bgImage.jpg)">
         <!-- Hier kann der "Haupt-Hintergrund" gesetzt werden -->
         <!-- Slider Pagination (wird durch js generiert) -->
         <div class="page_margins stage-top-wrapper">
@@ -67,7 +67,7 @@
         <!-- Main-Stage-Slider -->
         <div class="stage-slider">
             <!-- Slider-Item (Produkt-Variante) -->
-            <div class="item" id="juwel-xa815w" data-variants="juwel-xa815w">
+            <div class="item" id="leecom-xa815w" data-variants="leecom-xa815w">
                 <!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
                 <div class="page_margins item-content">
                     <!-- Breadcrumb -->
@@ -81,10 +81,10 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="juwel-xa815w" title="LEECOM | XA-815 白色">
-                            <a href="<?php echo $site_url; ?>out/w/1173/xa815.jpg" class="cloud-zoom">
+                        <div class="product-image-wrapper" data-id="leecom-xa815w" title="LEECOM | XA-815 白色">
+                            <a href="<?php echo $site_url; ?>out/img/xa/xa815_1173.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-                                <img data-src="<?php echo $site_url; ?>out/w/378/xa815.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+                                <img data-src="<?php echo $site_url; ?>out/img/xa/xa815_378.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
                     </div>
@@ -98,7 +98,7 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XA-125-white.php#!juwel-xa815w" title="XA-815 白色"><img
+                                    <li><a href="XA-125-white.php#!leecom-xa815w" title="XA-815 白色"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -120,7 +120,7 @@
             </div>
             <!-- ende-> Slider-Item (Produkt-Variante) -->
             <!-- Slider-Item (Produkt-Variante) -->
-            <div class="item" id="juwel-xa820w" data-variants="juwel-xa820w">
+            <div class="item" id="leecom-xa820w" data-variants="leecom-xa820w">
                 <!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
                 <div class="page_margins item-content">
                     <!-- Breadcrumb -->
@@ -134,10 +134,10 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="juwel-xa820w" title="LEECOM | XA-820 白色">
-                            <a href="<?php echo $site_url; ?>out/w/1173/xa820.jpg" class="cloud-zoom">
+                        <div class="product-image-wrapper" data-id="leecom-xa820w" title="LEECOM | XA-820 白色">
+                            <a href="<?php echo $site_url; ?>out/img/xa/xa815_1173.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-                                <img data-src="<?php echo $site_url; ?>out/w/1173/xa820.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+                                <img data-src="<?php echo $site_url; ?>out/img/xa/xa815_378.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
                     </div>
@@ -151,7 +151,7 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XA-180-white.php#!juwel-xa820w" title="XA-820 白色"><img
+                                    <li><a href="XA-180-white.php#!leecom-xa820w" title="XA-820 白色"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -172,7 +172,7 @@
             </div>
             <!-- ende-> Slider-Item (Produkt-Variante) -->
             <!-- Slider-Item (Produkt-Variante) -->
-            <div class="item" id="juwel-xa825w" data-variants="juwel-xa825w">
+            <div class="item" id="leecom-xa825w" data-variants="leecom-xa825w">
                 <!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
                 <div class="page_margins item-content">
                     <!-- Breadcrumb -->
@@ -186,10 +186,10 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="juwel-xa825w" title="LEECOM | XA-825 白色">
-                            <a href="<?php echo $site_url; ?>out/w/1173/xa825.jpg" class="cloud-zoom">
+                        <div class="product-image-wrapper" data-id="leecom-xa825w" title="LEECOM | XA-825 白色">
+                            <a href="<?php echo $site_url; ?>out/img/xa/xa815_1173.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-                                <img data-src="<?php echo $site_url; ?>out/w/1173/xa825.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+                                <img data-src="<?php echo $site_url; ?>out/img/xa/xa815_378.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
                     </div>
@@ -203,7 +203,7 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XA-240-white.php#!juwel-xa825w" title="XA-825 白色"><img
+                                    <li><a href="XA-240-white.php#!leecom-xa825w" title="XA-825 白色"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -234,7 +234,7 @@
             // wird aufgerufen, wenn der Produkt-Slider (Caroussell) bewegt wird und wenn der Auswahl-Slider der Dekore bewegt wird
             loadContentByArtId = function (sArtId) {
 
-                var iArtId = sArtId.substr(6, 5);
+                var iArtId = sArtId.substr(7, 5);
                 // alert(iArtId);
                 //$('#sroverlay').show();
                 var contentBox = $('#ajax-content')
@@ -245,13 +245,13 @@
                 loader.show()			   // loader einblenden
 
                 // url für Request
-                // var url = 'http://www.juwel-aquarium.de/partials/produkt-detail/ajax-content/ajax.php/'
+                // var url = 'http://www.leecom.cn/partials/produkt-detail/ajax-content/ajax.php/'
                 var sData = "cl=srajax&fnc=getArticleContent&tpl=srarticlecontent.tpl&anid=" + iArtId + "";
 
                 //data: {artId: iArtId},
 
                 // if(window.location.protocol.indexOf("https") >= 0) {
-                // 	var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XA-Line/XA-300-black.php#!juwel-xa815wcl=srajax";
+                // 	var sUrl = "https://www.leecom.cn/cn/Products/Aquariums/XA-Line/XA-300-black.php#!leecom-xa815wcl=srajax";
                 // } else {
                 var sUrl = "../ajax-content/" + iArtId + ".php";
                 // }
@@ -280,14 +280,14 @@
             initTabContent = function () {
 
                 $('#ajax-content .tabs').tabs(); // jquery-ui tabs
-                juwel.productTabContent();
+                leecom.productTabContent();
                 $.fn.slideToggler(); // Faq-Accordion in Tab-Container
-                juwel.accessoriesSlider({width: 873}); // Cross-Selling-Slider
+                leecom.accessoriesSlider({width: 873}); // Cross-Selling-Slider
 
             }
 
             // übriges js für die Seite (in functions.js)
-            juwel.detailStage();
+            leecom.detailStage();
         });
     </script>
 

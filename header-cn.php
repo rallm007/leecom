@@ -142,18 +142,18 @@
                                        id="00000000061">XE系列</a></li>
                                 <!-- Aquarien -->
                                 <li>
-                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XK-Line/XK-600-black-Int.php#!leecom-xk200"
+                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XK-Line/XK-200-Int.php#!leecom-xk200"
                                        id="00000000071">XK系列</a></li>
                                 <!-- Aquarien -->
                                 <li>
-                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XA-Line/XA-40-black-Int.php#!leecom-xa815"
+                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XA-Line/XA-815-Int.php#!leecom-xa815"
                                        id="00000001289">XA系列</a></li>
                                 <li>
-                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XF-Line/XF-40-black-Int.php#!leecom-xf060"
+                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XF-Line/XF-060-white-Int.php#!leecom-xf060"
                                        id="00000001271">XF系列</a></li>
                                 <!-- Aquarien -->
                                 <li>
-                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XQ-Line/XQ-Line-60-Int.php#!leecom-xq200"
+                                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XQ-Line/XQ-200-Int.php#!leecom-xq200"
                                        id="00000001281">XQ系列</a></li>
                             </ul>
                             <ul>
@@ -356,8 +356,9 @@
                                         <li><img alt=""
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/3.png"></li>
                                         <ul class="sizes fl">
-                                            <li><img src="<?php echo $site_url; ?>out/img/xf/xf060_35.jpg" alt="XF-060"></li>
-                                            <li><img src="<?php echo $site_url; ?>out/img/xf/xf120_35.jpg" alt="XF-120"></li>
+                                            <li><img src="<?php echo $site_url; ?>out/img/xf/xf060_35_w.jpg" alt="XF-060"></li>
+                                            <li><img src="<?php echo $site_url; ?>out/img/xf/xf060_35_r.jpg" alt="XF-120"></li>
+                                            <li><img src="<?php echo $site_url; ?>out/img/xf/xf060_35_b.jpg" alt="XF-120"></li>
                                         </ul>
                                 </div>
                             </div>
@@ -379,7 +380,9 @@
                                         <li><img alt=""
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/5.png"></li>
                                         <ul class="sizes fl">
-                                            <li><img src="<?php echo $site_url; ?>out/img/xq/xq200_35.jpg" alt="XQ-200"></li>
+                                            <li><img src="<?php echo $site_url; ?>out/img/xq/xq200_35_r.jpg" alt="XQ-200"></li>
+                                            <li><img src="<?php echo $site_url; ?>out/img/xq/xq200_35_b.jpg" alt="XQ-200"></li>
+                                            <li><img src="<?php echo $site_url; ?>out/img/xq/xq200_35_g.jpg" alt="XQ-200"></li>
                                         </ul>
                                 </div>
                             </div>

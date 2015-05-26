@@ -80,7 +80,7 @@
                         <img src="../../out/img/xk/xk200_346.png" alt="" width="347" height="420">
                         <map id="xkmap">
                             <area shape="rect" coords="0,0,347,420"
-                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XK-Line/XK-600-black-Int.php"
+                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XK-Line/XK-200-Int.php"
                                   alt=""/>
                         </map>
                     </div>
@@ -94,7 +94,7 @@
                         <img src="../../out/img/xa/xa815_346.png" alt="" width="347" height="420">
                         <map id="xamap">
                             <area shape="rect" coords="0,0,347,420"
-                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XA-Line/XA-40-black-Int.php"
+                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XA-Line/XA-815-Int.php"
                                   alt=""/>
                         </map>
                     </div>
@@ -122,7 +122,7 @@
                         <img src="../../out/img/xq/xq200_346.png" alt="" width="347" height="420">
                         <map id="xqmap">
                             <area shape="rect" coords="0,0,347,420"
-                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XQ-Line/XQ-Line-60-Int.php"
+                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XQ-Line/XQ-200-Int.php"
                                   alt=""/>
                         </map>
                     </div>

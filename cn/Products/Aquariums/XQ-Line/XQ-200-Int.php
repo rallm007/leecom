@@ -32,12 +32,12 @@
 
                 <div class="slider-wrapper">
                     <div class="product-thumbnail-slider clearfix">
-                        <a href="#juwel-xq200lv" class="caroufredsel">
+                        <a href="#leecom-xq200lv" class="caroufredsel">
                             <!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                             <img data-src="<?php echo $site_url; ?>out/lv/80/xq200.png" alt="XQ-200 ">
                             XQ-200
                         </a>
-                        <a href="#juwel-xq250w" class="caroufredsel">
+                        <a href="#leecom-xq250w" class="caroufredsel">
                             <!-- (href="#vision180") ID dient zur Navigation zum jeweiligen Produkt im Main-Slider (siehe zeile 60)-->
                             <img data-src="<?php echo $site_url; ?>out/lv/80/xq250.png" alt="XQ-250 ">
                             XQ-250
@@ -52,7 +52,7 @@
 
     <!-- Stage & Slider -->
     <div class="product-detail-stage"
-         style="background-color:#00508c; background-image:url(<?php echo $site_url; ?>out/juwel/src/images/all/content-product-detail-stage_bgImage.jpg)">
+         style="background-color:#00508c; background-image:url(<?php echo $site_url; ?>out/leecom/src/images/all/content-product-detail-stage_bgImage.jpg)">
         <!-- Hier kann der "Haupt-Hintergrund" gesetzt werden -->
         <!-- Slider Pagination (wird durch js generiert) -->
         <div class="page_margins stage-top-wrapper">
@@ -62,7 +62,7 @@
         <!-- Main-Stage-Slider -->
         <div class="stage-slider">
             <!-- Slider-Item (Produkt-Variante) -->
-            <div class="item" id="juwel-xq200f" data-variants="juwel-xq200f">
+            <div class="item" id="leecom-xq200f" data-variants="leecom-xq200f">
                 <!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
                 <div class="page_margins item-content">
                     <!-- Breadcrumb -->
@@ -76,22 +76,22 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="juwel-xq200f" title="LEECOM | XQ-200 粉红色">
-                            <a href="<?php echo $site_url; ?>out/f/1173/xq200.jpg" class="cloud-zoom">
+                        <div class="product-image-wrapper" data-id="leecom-xq200f" title="LEECOM | XQ-200 粉红色">
+                            <a href="<?php echo $site_url; ?>out/img/xq/xq200_1173_r.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-                                <img data-src="<?php echo $site_url; ?>out/f/378/xq200.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+                                <img data-src="<?php echo $site_url; ?>out/img/xq/xq200_378_r.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="juwel-xq200l" title="LEECOM | XQ-200 蓝色">
-                            <a href="<?php echo $site_url; ?>out/l/1173/xq200.jpg" class="cloud-zoom">
+                        <div class="product-image-wrapper" data-id="leecom-xq200l" title="LEECOM | XQ-200 蓝色">
+                            <a href="<?php echo $site_url; ?>out/img/xq/xq200_1173_b.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-                                <img data-src="<?php echo $site_url; ?>out/l/378/xq200.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+                                <img data-src="<?php echo $site_url; ?>out/img/xq/xq200_378_b.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="juwel-xq200lv" title="LEECOM | XQ-200 绿色">
-                            <a href="<?php echo $site_url; ?>out/lv/1173/xq200.jpg" class="cloud-zoom">
+                        <div class="product-image-wrapper" data-id="leecom-xq200lv" title="LEECOM | XQ-200 绿色">
+                            <a href="<?php echo $site_url; ?>out/img/xq/xq200_1173_g.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-                                <img data-src="<?php echo $site_url; ?>out/lv/378/xq200.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+                                <img data-src="<?php echo $site_url; ?>out/img/xq/xq200_378_g.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
                     </div>
@@ -105,13 +105,13 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XQ-125-white.php#!juwel-xq200f" title="XQ-200 粉红色"><img
+                                    <li><a href="XQ-125-white.php#!leecom-xq200f" title="XQ-200 粉红色"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/2.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XQ-125-white.php#!juwel-xq200l" title="XQ-200 蓝色"><img
+                                    <li><a href="XQ-125-white.php#!leecom-xq200l" title="XQ-200 蓝色"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/3.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XQ-125-white.php#!juwel-xq200lv" title="XQ-200 绿色"><img
+                                    <li><a href="XQ-125-white.php#!leecom-xq200lv" title="XQ-200 绿色"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/5.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -135,7 +135,7 @@
             </div>
             <!-- ende-> Slider-Item (Produkt-Variante) -->
             <!-- Slider-Item (Produkt-Variante) -->
-            <div class="item" id="juwel-xq250f" data-variants="juwel-xq250f">
+            <div class="item" id="leecom-xq250f" data-variants="leecom-xq250f">
                 <!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
                 <div class="page_margins item-content">
                     <!-- Breadcrumb -->
@@ -149,22 +149,22 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="juwel-xq250f" title="LEECOM | XQ-250 粉红色">
-                            <a href="<?php echo $site_url; ?>out/f/1173/xq250.jpg" class="cloud-zoom">
+                        <div class="product-image-wrapper" data-id="leecom-xq250f" title="LEECOM | XQ-250 粉红色">
+                            <a href="<?php echo $site_url; ?>out/img/xq/xq200_1173_r.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-                                <img data-src="<?php echo $site_url; ?>out/f/378/xq250.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+                                <img data-src="<?php echo $site_url; ?>out/img/xq/xq200_378_r.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="juwel-xq250l" title="LEECOM | XQ-250 蓝色">
-                            <a href="<?php echo $site_url; ?>out/l/1173/xq250.jpg" class="cloud-zoom">
+                        <div class="product-image-wrapper" data-id="leecom-xq250l" title="LEECOM | XQ-250 蓝色">
+                            <a href="<?php echo $site_url; ?>out/img/xq/xq200_1173_b.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-                                <img data-src="<?php echo $site_url; ?>out/l/378/xq250.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+                                <img data-src="<?php echo $site_url; ?>out/img/xq/xq200_378_b.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="juwel-xq250lv" title="LEECOM | XQ-250 绿色">
-                            <a href="<?php echo $site_url; ?>out/lv/1173/xq250.jpg" class="cloud-zoom">
+                        <div class="product-image-wrapper" data-id="leecom-xq250lv" title="LEECOM | XQ-250 绿色">
+                            <a href="<?php echo $site_url; ?>out/img/xq/xq200_1173_g.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-                                <img data-src="<?php echo $site_url; ?>out/lv/1173/xq250.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+                                <img data-src="<?php echo $site_url; ?>out/img/xq/xq200_378_g.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
                     </div>
@@ -178,13 +178,13 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XQ-125-white.php#!juwel-xq250f" title="XQ-250 粉红色"><img
+                                    <li><a href="XQ-125-white.php#!leecom-xq250f" title="XQ-250 粉红色"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/2.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XQ-125-white.php#!juwel-xq250l" title="XQ-250 蓝色"><img
+                                    <li><a href="XQ-125-white.php#!leecom-xq250l" title="XQ-250 蓝色"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/3.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XQ-180-white.php#!juwel-xq250lv" title="XQ-250 绿色"><img
+                                    <li><a href="XQ-180-white.php#!leecom-xq250lv" title="XQ-250 绿色"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/5.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -207,7 +207,7 @@
                 <!-- ende-> versteckte Elemente -->
             </div>
 
-            <div class="item" id="juwel-xq300f" data-variants="juwel-xq250f">
+            <div class="item" id="leecom-xq300f" data-variants="leecom-xq250f">
                 <!-- hier als id den Produktnamen(z.B.) setzen -> wichtig für navigation: in thumbnail-navigation (href="#vision180") -->
                 <div class="page_margins item-content">
                     <!-- Breadcrumb -->
@@ -221,22 +221,22 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="juwel-xq300f" title="LEECOM | XQ-300 粉红色">
-                            <a href="<?php echo $site_url; ?>out/f/1173/xq300.jpg" class="cloud-zoom">
+                        <div class="product-image-wrapper" data-id="leecom-xq300f" title="LEECOM | XQ-300 粉红色">
+                            <a href="<?php echo $site_url; ?>out/img/xq/xq200_1173_r.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-                                <img data-src="<?php echo $site_url; ?>out/f/378/xq300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+                                <img data-src="<?php echo $site_url; ?>out/img/xq/xq200_378_r.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="juwel-xq300l" title="LEECOM | XQ-300 蓝色">
-                            <a href="<?php echo $site_url; ?>out/l/1173/xq300.jpg" class="cloud-zoom">
+                        <div class="product-image-wrapper" data-id="leecom-xq300l" title="LEECOM | XQ-300 蓝色">
+                            <a href="<?php echo $site_url; ?>out/img/xq/xq200_1173_b.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-                                <img data-src="<?php echo $site_url; ?>out/l/378/xq300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+                                <img data-src="<?php echo $site_url; ?>out/img/xq/xq200_378_b.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="juwel-xq300lv" title="LEECOM | XQ-300 绿色">
-                            <a href="<?php echo $site_url; ?>out/lv/1173/xq300.jpg" class="cloud-zoom">
+                        <div class="product-image-wrapper" data-id="leecom-xq300lv" title="LEECOM | XQ-300 绿色">
+                            <a href="<?php echo $site_url; ?>out/img/xq/xq200_1173_g.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-                                <img data-src="<?php echo $site_url; ?>out/lv/1173/xq300.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+                                <img data-src="<?php echo $site_url; ?>out/img/xq/xq200_378_g.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
                     </div>
@@ -251,13 +251,13 @@
                             <div class="oh">
                                 <ul>
 
-                                    <li><a href="XQ-125-white.php#!juwel-xq250f" title="XQ-300 粉红色"><img
+                                    <li><a href="XQ-125-white.php#!leecom-xq250f" title="XQ-300 粉红色"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/2.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XQ-125-white.php#!juwel-xq250l" title="XQ-300 蓝色"><img
+                                    <li><a href="XQ-125-white.php#!leecom-xq250l" title="XQ-300 蓝色"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/3.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XQ-180-white.php#!juwel-xq250lv" title="XQ-300 绿色"><img
+                                    <li><a href="XQ-180-white.php#!leecom-xq250lv" title="XQ-300 绿色"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/5.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -295,7 +295,7 @@
             // wird aufgerufen, wenn der Produkt-Slider (Caroussell) bewegt wird und wenn der Auswahl-Slider der Dekore bewegt wird
             loadContentByArtId = function (sArtId) {
 
-                var iArtId = sArtId.substr(6, 5);
+                var iArtId = sArtId.substr(7, 5);
                 // alert(iArtId);
                 //$('#sroverlay').show();
                 var contentBox = $('#ajax-content')
@@ -306,13 +306,13 @@
                 loader.show()			   // loader einblenden
 
                 // url für Request
-                // var url = 'http://www.juwel-aquarium.de/partials/produkt-detail/ajax-content/ajax.php/'
+                // var url = 'http://www.leecom.cn/partials/produkt-detail/ajax-content/ajax.php/'
                 var sData = "cl=srajax&fnc=getArticleContent&tpl=srarticlecontent.tpl&anid=" + iArtId + "";
 
                 //data: {artId: iArtId},
 
                 // if(window.location.protocol.indexOf("https") >= 0) {
-                // 	var sUrl = "https://www.juwel-aquarium.de/cn/Products/Aquariums/XQ-Line/XQ-300-black.php#!juwel-xq200wcl=srajax";
+                // 	var sUrl = "https://www.leecom.cn/cn/Products/Aquariums/XQ-Line/XQ-300-black.php#!leecom-xq200wcl=srajax";
                 // } else {
                 var sUrl = "../ajax-content/" + iArtId + ".php";
                 // }
@@ -341,14 +341,14 @@
             initTabContent = function () {
 
                 $('#ajax-content .tabs').tabs(); // jquery-ui tabs
-                juwel.productTabContent();
+                leecom.productTabContent();
                 $.fn.slideToggler(); // Faq-Accordion in Tab-Container
-                juwel.accessoriesSlider({width: 873}); // Cross-Selling-Slider
+                leecom.accessoriesSlider({width: 873}); // Cross-Selling-Slider
 
             }
 
             // übriges js für die Seite (in functions.js)
-            juwel.detailStage();
+            leecom.detailStage();
         });
     </script>
 
