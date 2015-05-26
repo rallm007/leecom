@@ -17,16 +17,16 @@
                         <!-- Thumbnail-Slider -->
             <div class="slider-wrapper">
                 <div class="product-thumbnail-slider clearfix">
-                	                    <a href="AU-202.php" title="AU-202 ">
+                	                    <a href="AU-312.php" title="AU-202 ">
                                         <img src="<?php echo $site_url;?>out/b/77/au202.png" alt="AU-202 ">
 							                                            </a>
-                	                    <a href="AU-203.php" title="AU-203 " class="selected">
+                	                    <a href="AU-313.php" title="AU-203 " class="selected">
                                         <img src="<?php echo $site_url;?>out/b/77/au203.png" alt="AU-203 ">
 							                                            </a>
-                	                    <a href="AU-204.php" title="AU-204 ">
+                	                    <a href="AU-314.php" title="AU-204 ">
                                         <img src="<?php echo $site_url;?>out/b/77/au204.png" alt="AU-204 ">
 							                                            </a>
-                	                    <a href="AU-205.php" title="AU-205 ">
+                	                    <a href="AU-315.php" title="AU-205 ">
                                          <img src="<?php echo $site_url;?>out/b/77/au205.png" alt="AU-205 ">
 							                                            </a>
                 	                    <a href="NI-218.php" title="NI-218 ">
@@ -51,7 +51,7 @@
         <li>您的位置:</li>
         			    				    <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
 			            			    				    <li><a href="../index.php" title="气泵系列">气泵系列</a></li>
-			            			    				    <li><a href="AU-202.php" title="AU气泵系列">AU气泵系列</a></li>
+			            			    				    <li><a href="AU-312.php" title="AU气泵系列">AU气泵系列</a></li>
 			                            <li>AU-203 </li>
 			</ul>
 </div>	
@@ -104,22 +104,22 @@
             <li class="active">
                         <ul>
                 <li>
-                    <a href="AU-202.php">AU-202 </a>                  
+                    <a href="AU-312.php">AU-202 </a>
                 </li>
             </ul>    
                         <ul>
                 <li class="active">
-                    <a href="AU-203.php">AU-203 </a>
+                    <a href="AU-313.php">AU-203 </a>
                 </li>
             </ul>    
                         <ul>
                 <li>
-                    <a href="AU-204.php">AU-204 </a>
+                    <a href="AU-314.php">AU-204 </a>
                 </li>
             </ul>
              <ul>
                 <li>
-                    <a href="AU-205.php">AU-205 </a>
+                    <a href="AU-315.php">AU-205 </a>
                 </li>
             </ul>
              <ul>

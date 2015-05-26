@@ -12,10 +12,6 @@
         </div>
     </div>
 
-    <script>
-
-    </script>
-
     <div class="page_margins">
         <div class="content clearfix accessories_detail">
             <div class="breadcrumb accessories-detail nav clearfix">
@@ -38,7 +34,7 @@
                         <ul>
                             <li class="active">
                                 <ul>
-                                    <li class="active">
+                                    <li>
                                         <a href="LD-030.php">LD-030 </a>
                                     </li>
                                 </ul>
@@ -71,7 +67,7 @@
                         </ul>
                     </li>
 
-                    <li  class="active">
+                    <li class="active">
                         <span>LD-3系列</span>
                         <ul>
                             <li class="active">
@@ -120,7 +116,8 @@
                         <div class="tabs product-images">
                             <div id="image-1">
                                 <a href="<?php echo $site_url; ?>out/img/detail/1/LD-030_863.jpg" class="cloud-zoom">
-                                    <img src="<?php echo $site_url; ?>out/img/detail/1/LD-030_278.png" alt="" width="278"
+                                    <img src="<?php echo $site_url; ?>out/img/detail/1/LD-030_278.png" alt=""
+                                         width="278"
                                          height="278">
                                 </a>
                             </div>
@@ -148,9 +145,11 @@
 
 
                             <div class="tab-teaser accessories_detail-prod_detail">
-                                <h3>LD-030</h3>
+                                <h3>LD-300</h3>
 
-                                <p>高亮度LED灯珠，多角度可调节铝合金灯支架。三档开光，安全可靠的适配器。蓝白光，增加鱼缸梦幻般的感觉，还可以为水草缸植物生长提供充足的光合作用。使水体更加透明，呈现水草和热带鱼体色。充足的光源，让水族缸更漂亮生态更加健康。在夜间，蓝光更好的帮助您观赏鱼儿。还原自然色，更适合鱼与水草的生存。低耗节能，使用寿命长。LED灯片表面有高透明亚克力挡水板，更安全。</p>
+                                <p>
+                                    高亮度LED灯珠，多角度可调节铝合金灯支架。三档开光，安全可靠的适配器。蓝白光，增加鱼缸梦幻般的感觉，还可以为水草缸植物生长提供充足的光合作用。使水体更加透明，呈现水草和热带鱼体色。充足的光源，让水族缸更漂亮生态更加健康。在夜间，蓝光更好的帮助您观赏鱼儿。还原自然色，更适合鱼与水草的生存。低耗节能，使用寿命长。LED灯片表面有高透明亚克力挡水板，更安全。</p>
+
                                 <p>LD-300 , LD-360 ,LD-400 , LD-460，LD-600，LD-800 一共6个型号以满足您不同的需求。</p>
                             </div>
 
@@ -197,7 +196,8 @@
                 <!-- CROSSSELLING / ACCESSORIES -->
                 <!-- /CROSSSELLING / ACCESSORIES -->
             </div>
-            <!-- ende -> rechte Hauptspalte -->        </div>
+            <!-- ende -> rechte Hauptspalte -->
+        </div>
     </div>
 
     <script>

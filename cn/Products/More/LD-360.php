@@ -38,7 +38,7 @@
                         <ul>
                             <li class="active">
                                 <ul>
-                                    <li class="active">
+                                    <li>
                                         <a href="LD-030.php">LD-030 </a>
                                     </li>
                                 </ul>
