@@ -9,7 +9,7 @@
 <!--[if IE 9 ]>
 <html lang="cn" class="no-js ie9"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!-->
-<html lang="fr" class="no-js" xmlns:fb="http://ogp.me/ns/fb#"> <!--<![endif]-->
+<html> <!--<![endif]-->
 <head>
     <title>LEECOM</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -25,7 +25,7 @@
     <meta property="og:image" content="<?php echo $site_url; ?>out/pictures/master/product/1/xp300.png"/>
     <link rel="shortcut icon" href="<?php echo $site_url; ?>out/pictures/master/global/1/favicon.ico">
     <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/styles.css">
-    <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/fr-FR.css">
+    <link rel="stylesheet" href="http://www.juwel-aquarium.de/out/juwel/src/css/en-GB.css">
     <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/colorbox.css">
     <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/jquery.jscrollpane.css">
     <script src="<?php echo $site_url; ?>out/leecom/src/js/libs/jquery.min.js"></script>
@@ -52,49 +52,33 @@
     <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.tipsy.min.js"></script>
     <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.colorbox-min.js"></script>
     <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.jscrollpane.min.js"></script>
-    <script src="<?php echo $site_url; ?>out/leecom/src/js/libs/infobox_packed.js"></script>
-    <script src="<?php echo $site_url; ?>out/leecom/src/js/libs/markerwithlabel_packed.js"></script>
+<!--    <script src="--><?php //echo $site_url; ?><!--out/leecom/src/js/libs/infobox_packed.js"></script>-->
+<!--    <script src="--><?php //echo $site_url; ?><!--out/leecom/src/js/libs/markerwithlabel_packed.js"></script>-->
     <script src="<?php echo $site_url; ?>out/leecom/src/js/functions.js"></script>
     <script src="<?php echo $site_url; ?>out/leecom/src/js/distr_finder.js"></script>
 
-    <xbasehref
-    ="<?php echo $site_url; ?>">
-    <script type="text/javascript">
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-10671386-1']);
-        _gaq.push(['_setDomainName', <?php echo $site_url;?>]);
-        _gaq.push(['_setAllowLinker', true]);
-        _gaq.push(['_gat._anonymizeIp']);
-        _gaq.push(['_trackPageview']);
-        (function () {
-            var ga = document.createElement('script');
-            ga.type = 'text/javascript';
-            ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www/') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(ga, s);
-        })();
-    </script>
-    <script type="text/javascript">
-        if (jQuery.browser.msie && jQuery.browser.version == 6.0) {
-            window.location = "<?php echo $site_url;?>ie6.php";
-        }
+    <xbase href="<?php echo $site_url; ?>">
 
-        function goto_cn() {
-            var _url = (this.location.href).replace('en', 'cn');
-            this.location.href = _url.replace('lang=1', 'lang=2');
-        }
-
-        function goto_en() {
-            var _url = (this.location.href).replace('cn', 'en');
-            _url2 = _url.replace('lang=2', 'lang=1');
-            if (this.location.href == _url2) {
-                this.location.href = "<?php echo $site_url;?>" + "index.php-lang=1&.php";
-            } else {
-                this.location.href = _url2;
+        <script type="text/javascript">
+            if (jQuery.browser.msie && jQuery.browser.version == 6.0) {
+                window.location = "<?php echo $site_url;?>ie6.php";
             }
-        }
-    </script>
+
+            function goto_cn() {
+                var _url = (this.location.href).replace('en', 'cn');
+                this.location.href = _url.replace('lang=1', 'lang=2');
+            }
+
+            function goto_en() {
+                var _url = (this.location.href).replace('cn', 'en');
+                _url2 = _url.replace('lang=2', 'lang=1');
+                if (this.location.href == _url2) {
+                    this.location.href = "<?php echo $site_url;?>" + "index.php-lang=1&.php";
+                } else {
+                    this.location.href = _url2;
+                }
+            }
+        </script>
 </head>
 <!-- OXID eShop Professional Edition, Version 4, Shopping Cart System (c) OXID eSales AG 2003 - 2015 - http://www.oxid-esales.com -->
 <body>
@@ -106,9 +90,11 @@
         </div>
         <!-- panel -->
         <div id="panel-nav" class="" style="height: 32px;margin-right:230px;margin-top:10px;width:100px">
-            <div style="padding-top:10px;"><a onclick="goto_cn()" style="display:inline;"><span
+            <div style="padding-top:10px;">
+                <a onclick="goto_cn()" style="display:inline;"><span
                         style="color:white;margin-left:10px;margin-right:7px;">中文</span></a>
-                <a onclick="goto_en()" style="display:inline;"><span style="color:white;">English</span></a></div>
+                <a onclick="goto_en()" style="display:inline;"><span style="color:white;">English</span></a>
+            </div>
         </div>
         <div id="panel-nav" style="margin-top:19px">
             <img src="<?php echo $site_url . 'out/pictures/master/global/1/qr.png' ?>" style="width:95px;"/>
@@ -159,7 +145,7 @@
                             <ul>
                                 <li class="head"><h4>更多</h4></li>
                                 <!-- Weiteres -->
-                                <li><a href="<?php echo $site_url . 'cn/Products'; ?>/More/AQ-202.php" id="00000000281">灯具系列</a>
+                                <li><a href="<?php echo $site_url . 'cn/Products'; ?>/More/LD-030.php" id="00000000280">灯具系列</a>
                                 </li>
                                 <li><a href="<?php echo $site_url . 'cn/Products'; ?>/More/AQ-202.php" id="00000000281">气泵系列</a>
                                 </li>
@@ -205,11 +191,16 @@
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
                                     </ul>
                                     <ul class="sizes fl">
-                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp300_35.jpg" alt="XP-300 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp360_35.jpg" alt="XP-360 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp400_35.jpg" alt="XP-400 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp600_35.jpg" alt="XP-600 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp800_35.jpg" alt="XP-800 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp300_35.jpg" alt="XP-300 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp360_35.jpg" alt="XP-360 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp400_35.jpg" alt="XP-400 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp600_35.jpg" alt="XP-600 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp800_35.jpg" alt="XP-800 ">
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -233,11 +224,16 @@
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
                                     </ul>
                                     <ul class="sizes fl">
-                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc300_35.jpg" alt="XC-300 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc360_35.jpg" alt="XC-360 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc400_35.jpg" alt="XC-400 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc460_35.jpg" alt="XC-460 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc600_35.jpg" alt="XC-600 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc300_35.jpg" alt="XC-300 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc360_35.jpg" alt="XC-360 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc400_35.jpg" alt="XC-400 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc460_35.jpg" alt="XC-460 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc600_35.jpg" alt="XC-600 ">
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -261,11 +257,16 @@
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
                                     </ul>
                                     <ul class="sizes fl">
-                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt300_35.jpg" alt="XT-300 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt360_35.jpg" alt="XT-360 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt400_35.jpg" alt="XT-400 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt460_35.jpg" alt="XT-460 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt600_35.jpg" alt="XT-600 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt300_35.jpg" alt="XT-300 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt360_35.jpg" alt="XT-360 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt400_35.jpg" alt="XT-400 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt460_35.jpg" alt="XT-460 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt600_35.jpg" alt="XT-600 ">
+                                        </li>
                                         <!-- <li><img src="<?php echo $site_url; ?>out/img/xp/xt800.jpg" alt="XT-800 "></li>    -->
                                     </ul>
                                 </div>
@@ -290,11 +291,16 @@
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
                                     </ul>
                                     <ul class="sizes fl">
-                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe300_35.jpg" alt="XE-300 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe360_35.jpg" alt="XE-360 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe400_35.jpg" alt="XE-400 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe460_35.jpg" alt="XE-460 "></li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe600_35.jpg" alt="XE-600 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe300_35.jpg" alt="XE-300 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe360_35.jpg" alt="XE-360 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe400_35.jpg" alt="XE-400 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe460_35.jpg" alt="XE-460 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe600_35.jpg" alt="XE-600 ">
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -313,7 +319,8 @@
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
                                     </ul>
                                     <ul class="sizes fl">
-                                        <li><img src="<?php echo $site_url; ?>out/img/xk/xk200_35.jpg" alt="XK-200 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xk/xk200_35.jpg" alt="XK-200 ">
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -331,7 +338,8 @@
                                         <li><img alt=""
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
                                         <ul class="sizes fl">
-                                            <li><img src="<?php echo $site_url; ?>out/img/xa/xa815_35.jpg" alt="XA-815 ">
+                                            <li><img src="<?php echo $site_url; ?>out/img/xa/xa815_35.jpg"
+                                                     alt="XA-815 ">
                                             </li>
                                             <!-- <li><img src="<?php echo $site_url; ?>out/w/35/xa820.jpg" alt="XA-820 "></li>
 			                    			<li><img src="<?php echo $site_url; ?>out/w/35/xa825.jpg" alt="XA-825 "></li> -->
@@ -356,9 +364,12 @@
                                         <li><img alt=""
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/3.png"></li>
                                         <ul class="sizes fl">
-                                            <li><img src="<?php echo $site_url; ?>out/img/xf/xf060_35_w.jpg" alt="XF-060"></li>
-                                            <li><img src="<?php echo $site_url; ?>out/img/xf/xf060_35_r.jpg" alt="XF-120"></li>
-                                            <li><img src="<?php echo $site_url; ?>out/img/xf/xf060_35_b.jpg" alt="XF-120"></li>
+                                            <li><img src="<?php echo $site_url; ?>out/img/xf/xf060_35_w.jpg"
+                                                     alt="XF-060"></li>
+                                            <li><img src="<?php echo $site_url; ?>out/img/xf/xf060_35_r.jpg"
+                                                     alt="XF-120"></li>
+                                            <li><img src="<?php echo $site_url; ?>out/img/xf/xf060_35_b.jpg"
+                                                     alt="XF-120"></li>
                                         </ul>
                                 </div>
                             </div>
@@ -380,39 +391,46 @@
                                         <li><img alt=""
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/5.png"></li>
                                         <ul class="sizes fl">
-                                            <li><img src="<?php echo $site_url; ?>out/img/xq/xq200_35_r.jpg" alt="XQ-200"></li>
-                                            <li><img src="<?php echo $site_url; ?>out/img/xq/xq200_35_b.jpg" alt="XQ-200"></li>
-                                            <li><img src="<?php echo $site_url; ?>out/img/xq/xq200_35_g.jpg" alt="XQ-200"></li>
+                                            <li><img src="<?php echo $site_url; ?>out/img/xq/xq200_35_r.jpg"
+                                                     alt="XQ-200"></li>
+                                            <li><img src="<?php echo $site_url; ?>out/img/xq/xq200_35_b.jpg"
+                                                     alt="XQ-200"></li>
+                                            <li><img src="<?php echo $site_url; ?>out/img/xq/xq200_35_g.jpg"
+                                                     alt="XQ-200"></li>
                                         </ul>
                                 </div>
                             </div>
+
+                            <div class="product-info clearfix" id="info-00000000280" style="display: none;">
+                                <img alt="QP" src="<?php echo $site_url; ?>out/img/more/ld030_545.png">
+                            </div>
                             <div class="product-info clearfix" id="info-00000000281" style="display: none;">
-                                <img alt="QP" src="<?php echo $site_url; ?>out/b/545/qb.jpg">
+                                <img alt="QP" src="<?php echo $site_url; ?>out/img/more/aq_au_ni_545.jpg">
                             </div>
                             <div class="product-info clearfix" id="info-00000000291" style="display: none;">
-                                <img alt="Decoration" src="<?php echo $site_url; ?>out/b/545/sb.jpg"
+                                <img alt="Decoration" src="<?php echo $site_url; ?>out/img/more/pf_ps_545.jpg"
                                      style="width:545px;">
                             </div>
                             <div class="product-info clearfix" id="info-00000000301" style="display: none;">
-                                <img alt="Accessories" src="<?php echo $site_url; ?>out/b/545/cc.jpg">
+                                <img alt="Accessories" src="<?php echo $site_url; ?>out/img/more/er_545.jpg">
                             </div>
                             <div class="product-info clearfix" id="info-00000000311" style="display: none;">
-                                <img alt="Marine" src="<?php echo $site_url; ?>out/b/545/fj.jpg">
+                                <img alt="Marine" src="<?php echo $site_url; ?>out/img/more/acc_545.jpg">
                             </div>
                             <div class="product-info clearfix" id="info-00000000312" style="display: none;">
-                                <img alt="Marine" src="<?php echo $site_url; ?>out/b/545/bw.jpg">
+                                <img alt="Marine" src="<?php echo $site_url; ?>out/img/more/kc_545.jpg">
                             </div>
                             <div class="product-info clearfix" id="info-00000000313" style="display: none;">
-                                <img alt="Marine" src="<?php echo $site_url; ?>out/b/545/gw.jpg">
+                                <img alt="Marine" src="<?php echo $site_url; ?>out/img/more/hi_545.jpg">
                             </div>
                             <div class="product-info clearfix" id="info-00000000314" style="display: none;">
-                                <img alt="Marine" src="<?php echo $site_url; ?>out/b/545/gn.jpg">
+                                <img alt="Marine" src="<?php echo $site_url; ?>out/img/more/hi_545_2.jpg">
                             </div>
                             <div class="product-info clearfix" id="info-00000000315" style="display: none;">
-                                <img alt="Marine" src="<?php echo $site_url; ?>out/b/545/cf.jpg">
+                                <img alt="Marine" src="<?php echo $site_url; ?>out/img/more/cf_545.jpg">
                             </div>
                             <div class="product-info clearfix" id="info-00000000316" style="display: none;">
-                                <img alt="Marine" src="<?php echo $site_url; ?>out/b/545/qd.jpg">
+                                <img alt="Marine" src="<?php echo $site_url; ?>out/img/more/qd_545.jpg">
                             </div>
                         </div>
                     </div>

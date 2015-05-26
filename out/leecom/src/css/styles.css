@@ -1594,13 +1594,13 @@ li.has-tip:hover .panel-tip{
 	.content-tabs { padding: 0 0 65px 0 } /* position: relative prevents IE scroll bug (element with position: relative inside container with overflow: auto appear as "fixed") */
 	.content-tabs.full {padding-bottom: 0}
 	.content-tabs .ui-tabs-nav, .content-tabs > ul { border-bottom: 1px solid #d7dcdf}
-	.content-tabs .ui-tabs-nav li, .content-tabs > ul li { background: #f3f7f9; top: 1px; margin: 0 4px 0 0; width: 204px }
+	.content-tabs .ui-tabs-nav li, .content-tabs > ul li { background: #f3f7f9; top: 1px; margin: 0 4px 0 0; width: 306px }
 	.content-tabs.full .ui-tabs-nav li, .content-tabs.full > ul li{width: 232px}
 	.content-tabs.full .quantity-3.ui-tabs-nav li{width: 310px}
 	.content-tabs .ui-tabs-nav li:last-child, .content-tabs .ui-tabs-nav li.last{margin: 0}
 	.content-tabs .ui-tabs-nav li.ui-state-hover{background:#edf1f3}
 	.content-tabs .ui-tabs-nav li a, .content-tabs > ul li a { color: #5c6062; font-size: 12px; font-weight: bold; margin: 0 auto; padding: 15px 0 10px 0 }
-	.content-tabs .ui-tabs-nav li.ui-tabs-selected { background: #fff; border: 1px solid #d7dcdf; border-bottom:none; margin-bottom:0; padding-bottom: 1px; width: 202px }
+	.content-tabs .ui-tabs-nav li.ui-tabs-selected { background: #fff; border: 1px solid #d7dcdf; border-bottom:none; margin-bottom:0; padding-bottom: 1px; width: 306px }
 	.content-tabs.full .ui-tabs-nav li.ui-tabs-selected{width: 230px}
 	.content-tabs.full .quantity-3.ui-tabs-nav li.ui-tabs-selected{width: 310px}
 	.content-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a { cursor: text }
@@ -3193,12 +3193,12 @@ li.has-tip:hover .panel-tip{
 		padding-bottom: 54px
 	}
 	/* top-area (images & shopping) */
-	.accessories_detail_top{height: 570px;}
+	.accessories_detail_top{height: 370px;}
 
 		/* accessories-detail product-images */
 		.accessories_detail_images .product-images{margin-bottom: 54px;}
 		.accessories_detail_images .product-images:before{
-			background: url("../images/all/icon_magnifier.png")/*tpa=http://www.leecom.cn/out/leecom/src/images/all/icon_magnifier.png*/ no-repeat 0px 0px;
+			/*background: url("../images/all/icon_magnifier.png") no-repeat 0px 0px; */
 			content: "\0020";
 			display: block;
 			height: 20px;
