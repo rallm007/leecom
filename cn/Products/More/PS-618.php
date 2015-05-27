@@ -9,34 +9,6 @@
         <p>还您一个宁静的世界</p>
     </div>
     </div>
-<!-- Flyout Thumbnail-Navigation-->
-<div class="product-thumbnail-navi accessories_detail-thumb-nav clearfix">
-    <div class="page_margins ">
-        <h1 class="tk-myriad-pro tk-light">PS系列</h1>
-                                <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一个</a><!-- Navigieren im Slider nach links -->
-                        <!-- Thumbnail-Slider -->
-            <div class="slider-wrapper">
-                <div class="product-thumbnail-slider clearfix">
-                                        <a href="PS-618.php" title="PS-618 " class="selected">
-                                        <img src="<?php echo $site_url;?>out/b/77/ps618.png" alt="PS-618 ">
-                                                                        </a>
-                                        <a href="PS-628.php" title="PS-628 ">
-                                        <img src="<?php echo $site_url;?>out/b/77/ps628.png" alt="PS-628 ">
-                                                                        </a>
-                                                                        <a href="PS-638.php" title="PS-638 ">
-                                        <img src="<?php echo $site_url;?>out/b/77/ps638.png" alt="PS-638 ">
-                                                                        </a>
-                                    </div>
-            </div>
-            <!-- ende -> Thumbnail-Slider -->
-                        <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">下一个</a> <!-- Navigieren im Slider nach rechts -->
-                        </div>
-</div>
-<!-- end Flyout Thumbnail-Navigation-->
-
-<script>
-
-</script>
 
 <div class="page_margins">
     <div class="content clearfix accessories_detail">
@@ -125,17 +97,10 @@
                                                                                                                 
 <div class="tabs product-images">
     <div id="image-1">
-        <a href="<?php echo $site_url;?>out/b/863/ps618.jpg" class="cloud-zoom">
-            <img src="<?php echo $site_url;?>out/b/278/ps618.png" alt="" width="278" height="278">
+        <a href="<?php echo $site_url;?>out/img/detail/8/PS618_863.jpg" class="cloud-zoom">
+            <img src="<?php echo $site_url;?>out/img/detail/8/PS618_278.png" alt="" width="278" height="278">
         </a>
     </div>
-     <!-- Bilder-Navigation -->
-     <div class="clearfix">
-                    <ul class="product-images-nav clearfix">
-                            <li><a href="#image-1"><img src="<?php echo $site_url;?>out/b/50/ps618.png" alt=""></a></li>
-                        </ul>
-            </div>
-    <!-- ende -> Tab-Navigation -->
 </div>
             </div>
                 
@@ -249,7 +214,7 @@
 
 <script>
     $(function(){
-        juwel.accessoriesDetail();
+        leecom.accessoriesDetail();
         $("select.transform").jqTransSelect();
     });
 

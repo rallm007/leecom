@@ -9,40 +9,6 @@
         <p>培养高密度硝化菌的专家</p>
     </div>
     </div>
-<!-- Flyout Thumbnail-Navigation-->
-<div class="product-thumbnail-navi accessories_detail-thumb-nav clearfix">
-    <div class="page_margins ">
-        <h1 class="tk-myriad-pro tk-light">IF系列</h1>
-                                <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一个</a><!-- Navigieren im Slider nach links -->
-                        <!-- Thumbnail-Slider -->
-            <div class="slider-wrapper">
-                <div class="product-thumbnail-slider clearfix">
-                                        <a href="IF-730.php" title="IF-730 ">
-                                        <img src="<?php echo $site_url;?>out/b/77/if730.png" alt="IF-730 ">
-                                                                        </a>
-                                                                        <a href="IF-731.php" title="IF-731 ">
-                                        <img src="<?php echo $site_url;?>out/b/77/if731.png" alt="IF-731 ">
-                                                                        </a>
-                                                                        <a href="IF-732.php" title="IF-732 ">
-                                        <img src="<?php echo $site_url;?>out/b/77/if732.png" alt="IF-732 ">
-                                                                        </a>
-                                                                        <a href="IF-733.php" title="IF-733 ">
-                                        <img src="<?php echo $site_url;?>out/b/77/if733.png" alt="IF-733 ">
-                                                                        </a>
-                                                                        <a href="IF-734.php" title="IF-734 " class="selected">
-                                        <img src="<?php echo $site_url;?>out/b/77/if734.png" alt="IF-734 ">
-                                                                        </a>
-                                    </div>
-            </div>
-            <!-- ende -> Thumbnail-Slider -->
-                        <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">下一个</a> <!-- Navigieren im Slider nach rechts -->
-                        </div>
-</div>
-<!-- end Flyout Thumbnail-Navigation-->
-
-<script>
-
-</script>
 
 <div class="page_margins">
     <div class="content clearfix accessories_detail">
@@ -121,17 +87,10 @@
                                                                                                                 
 <div class="tabs product-images">
     <div id="image-1">
-        <a href="<?php echo $site_url;?>out/b/863/if734.jpg" class="cloud-zoom">
-            <img src="<?php echo $site_url;?>out/b/278/if734.png" alt="" width="278" height="278">
+        <a href="<?php echo $site_url;?>out/img/detail/10/IF734_863.jpg" class="cloud-zoom">
+            <img src="<?php echo $site_url;?>out/img/detail/10/IF734_278.png" alt="" width="278" height="278">
         </a>
     </div>
-     <!-- Bilder-Navigation -->
-     <div class="clearfix">
-                    <ul class="product-images-nav clearfix">
-                            <li><a href="#image-1"><img src="<?php echo $site_url;?>out/b/50/if734.png" alt=""></a></li>
-                        </ul>
-            </div>
-    <!-- ende -> Tab-Navigation -->
 </div>
             </div>
                 
@@ -234,7 +193,7 @@
 
 <script>
     $(function(){
-        juwel.accessoriesDetail();
+        leecom.accessoriesDetail();
         $("select.transform").jqTransSelect();
     });
 

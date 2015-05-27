@@ -9,37 +9,6 @@
         <p>从未体验过的水族精品</p>
     </div>
     </div>
-<!-- Flyout Thumbnail-Navigation-->
-<div class="product-thumbnail-navi accessories_detail-thumb-nav clearfix">
-    <div class="page_margins ">
-        <h1 class="tk-myriad-pro tk-light">HI缸外过滤系列</h1>
-                                <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一个</a><!-- Navigieren im Slider nach links -->
-                        <!-- Thumbnail-Slider -->
-            <div class="slider-wrapper">
-                <div class="product-thumbnail-slider clearfix">
-                                        <a href="HI-330.php" title="HI-330 ">
-                                        <img src="<?php echo $site_url;?>out/b/77/hi330.png" alt="HI-330 ">
-                                                                        </a>
-                                                                        <a href="HI-430.php" title="HI-430 " class="selected">
-                                        <img src="<?php echo $site_url;?>out/b/77/hi430.png" alt="HI-430 ">
-                                                                        </a>
-                                                                        <a href="HI-530.php" title="HI-530 ">
-                                        <img src="<?php echo $site_url;?>out/b/77/hi530.png" alt="HI-530 ">
-                                                                        </a>
-                                                                        <a href="HI-630.php" title="HI-630 ">
-                                        <img src="<?php echo $site_url;?>out/b/77/hi630.png" alt="HI-630 ">
-                                                                        </a>
-                                    </div>
-            </div>
-            <!-- ende -> Thumbnail-Slider -->
-                        <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">下一个</a> <!-- Navigieren im Slider nach rechts -->
-                        </div>
-</div>
-<!-- end Flyout Thumbnail-Navigation-->
-
-<script>
-
-</script>
 
 <div class="page_margins">
     <div class="content clearfix accessories_detail">
@@ -97,17 +66,10 @@
                                                                                                                 
 <div class="tabs product-images">
     <div id="image-1">
-        <a href="<?php echo $site_url;?>out/b/863/hi430.jpg" class="cloud-zoom">
-            <img src="<?php echo $site_url;?>out/b/278/hi430.png" alt="" width="278" height="278">
+        <a href="<?php echo $site_url;?>out/img/detail/7/HI430_863.jpg" class="cloud-zoom">
+            <img src="<?php echo $site_url;?>out/img/detail/7/HI430_278.png" alt="" width="278" height="278">
         </a>
     </div>
-     <!-- Bilder-Navigation -->
-     <div class="clearfix">
-                    <ul class="product-images-nav clearfix">
-                            <li><a href="#image-1"><img src="<?php echo $site_url;?>out/b/50/hi430.png" alt=""></a></li>
-                        </ul>
-            </div>
-    <!-- ende -> Tab-Navigation -->
 </div>
             </div>
                 
@@ -227,7 +189,7 @@
 
 <script>
     $(function(){
-        juwel.accessoriesDetail();
+        leecom.accessoriesDetail();
         $("select.transform").jqTransSelect();
     });
 

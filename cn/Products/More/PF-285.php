@@ -9,36 +9,6 @@
         <p>还您一个宁静的世界</p>
     </div>
     </div>
-<!-- Flyout Thumbnail-Navigation-->
-<div class="product-thumbnail-navi accessories_detail-thumb-nav clearfix">
-    <div class="page_margins ">
-        <h1 class="tk-myriad-pro tk-light">PF-2系列</h1>
-                                <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一个</a><!-- Navigieren im Slider nach links -->
-                        <!-- Thumbnail-Slider -->
-            <div class="slider-wrapper">
-                <div class="product-thumbnail-slider clearfix">
-                                        <a href="PF-282.php" title="PF-282 ">
-                                        <img src="<?php echo $site_url;?>out/b/77/pf282.png" alt="PF-282 ">
-                                                                        </a>
-                                        <a href="PF-283.php" title="PF-283 ">
-                                        <img src="<?php echo $site_url;?>out/b/77/pf283.png" alt="PF-283 ">
-                                                                        </a>
-                                                                        <a href="PF-284.php" title="PF-284 ">
-                                        <img src="<?php echo $site_url;?>out/b/77/pf284.png" alt="PF-284 ">
-                                                                        </a>
-                                                                        <a href="PF-285.php" title="PF-285 " class="selected">
-                                        <img src="<?php echo $site_url;?>out/b/77/pf285.png" alt="PF-285 ">
-                                                                        </a>
-                                                                        <a href="PF-286.php" title="PF-286 ">
-                                        <img src="<?php echo $site_url;?>out/b/77/pf286.png" alt="PF-286 ">
-                                                                        </a>
-                                    </div>
-            </div>
-            <!-- ende -> Thumbnail-Slider -->
-                        <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">下一个</a> <!-- Navigieren im Slider nach rechts -->
-                        </div>
-</div>
-<!-- end Flyout Thumbnail-Navigation-->
 
 <script>
 
@@ -131,17 +101,10 @@
                                                                                                                 
 <div class="tabs product-images">
     <div id="image-1">
-        <a href="<?php echo $site_url;?>out/b/863/pf285.jpg" class="cloud-zoom">
-            <img src="<?php echo $site_url;?>out/b/278/pf285.png" alt="" width="278" height="278">
+        <a href="<?php echo $site_url;?>out/img/detail/8/PF285_863.jpg" class="cloud-zoom">
+            <img src="<?php echo $site_url;?>out/img/detail/8/PF285_278.png" alt="" width="278" height="278">
         </a>
     </div>
-     <!-- Bilder-Navigation -->
-     <div class="clearfix">
-                    <ul class="product-images-nav clearfix">
-                            <li><a href="#image-1"><img src="<?php echo $site_url;?>out/b/50/pf285.png" alt=""></a></li>
-                        </ul>
-            </div>
-    <!-- ende -> Tab-Navigation -->
 </div>
             </div>
                 
@@ -261,7 +224,7 @@
 
 <script>
     $(function(){
-        juwel.accessoriesDetail();
+        leecom.accessoriesDetail();
         $("select.transform").jqTransSelect();
     });
 
