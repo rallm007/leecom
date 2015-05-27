@@ -94,8 +94,8 @@
 
                         <div class="tabs product-images">
                             <div id="image-1">
-                                <a href="<?php echo $site_url; ?>out/b/863/cc1.jpg" class="cloud-zoom">
-                                    <img src="<?php echo $site_url; ?>out/b/278/cc1.png" alt="" width="278"
+                                <a href="<?php echo $site_url; ?>out/img/detail/4/hema_863.jpg" class="cloud-zoom">
+                                    <img src="<?php echo $site_url; ?>out/img/detail/4/hema_278.png" alt="" width="278"
                                          height="278">
                                 </a>
                             </div>
@@ -187,7 +187,7 @@
 
     <script>
         $(function () {
-            juwel.accessoriesDetail();
+            leecom.accessoriesDetail();
             $("select.transform").jqTransSelect();
         });
 
