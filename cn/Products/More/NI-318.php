@@ -30,7 +30,7 @@
 
 				<ul class="sub-nav">
 
-					<li class="active">
+					<li>
 						<span>AQ气泵系列</span>
 						<ul>
 							<li class="active">
@@ -55,40 +55,40 @@
 									</li>
 								</ul>
 								<ul>
-									<li class="active">
-										<a href="NI-318.php">NI-318 </a>
+									<li>
+										<a href="NI-218.php">NI-218 </a>
 									</li>
 								</ul>
 							</li>
 						</ul>
 					</li>
 
-					<li>
+					<li class="active">
 						<span>AU气泵系列</span>
 						<ul>
 							<li class="active">
 								<ul>
 									<li>
-										<a href="AU-312.php">AU-202 </a>
+										<a href="AU-312.php">AU-312 </a>
 									</li>
 								</ul>
 								<ul>
 									<li>
-										<a href="AU-313.php">AU-203 </a>
+										<a href="AU-313.php">AU-313 </a>
 									</li>
 								</ul>
 								<ul>
 									<li>
-										<a href="AU-314.php">AU-204 </a>
+										<a href="AU-314.php">AU-314 </a>
 									</li>
 								</ul>
 								<ul>
 									<li>
-										<a href="AU-315.php">AU-205 </a>
+										<a href="AU-315.php">AU-315 </a>
 									</li>
 								</ul>
 								<ul>
-									<li>
+									<li class="active">
 										<a href="NI-318.php">NI-318 </a>
 									</li>
 								</ul>

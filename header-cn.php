@@ -52,8 +52,8 @@
     <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.tipsy.min.js"></script>
     <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.colorbox-min.js"></script>
     <script src="<?php echo $site_url; ?>out/leecom/src/js/plugins/jquery.jscrollpane.min.js"></script>
-<!--    <script src="--><?php //echo $site_url; ?><!--out/leecom/src/js/libs/infobox_packed.js"></script>-->
-<!--    <script src="--><?php //echo $site_url; ?><!--out/leecom/src/js/libs/markerwithlabel_packed.js"></script>-->
+    <!--    <script src="--><?php //echo $site_url; ?><!--out/leecom/src/js/libs/infobox_packed.js"></script>-->
+    <!--    <script src="--><?php //echo $site_url; ?><!--out/leecom/src/js/libs/markerwithlabel_packed.js"></script>-->
     <script src="<?php echo $site_url; ?>out/leecom/src/js/functions.js"></script>
     <script src="<?php echo $site_url; ?>out/leecom/src/js/distr_finder.js"></script>
 
@@ -197,6 +197,8 @@
                                         </li>
                                         <li><img src="<?php echo $site_url; ?>out/img/xp/xp400_35.jpg" alt="XP-400 ">
                                         </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xp/xp460_35.jpg" alt="XP-460 ">
+                                        </li>
                                         <li><img src="<?php echo $site_url; ?>out/img/xp/xp600_35.jpg" alt="XP-600 ">
                                         </li>
                                         <li><img src="<?php echo $site_url; ?>out/img/xp/xp800_35.jpg" alt="XP-800 ">
@@ -229,6 +231,8 @@
                                         <li><img src="<?php echo $site_url; ?>out/img/xc/xc360_35.jpg" alt="XC-360 ">
                                         </li>
                                         <li><img src="<?php echo $site_url; ?>out/img/xc/xc400_35.jpg" alt="XC-400 ">
+                                        </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xc/xc460_35.jpg" alt="XC-460 ">
                                         </li>
                                         <li><img src="<?php echo $site_url; ?>out/img/xc/xc460_35.jpg" alt="XC-460 ">
                                         </li>
@@ -267,7 +271,7 @@
                                         </li>
                                         <li><img src="<?php echo $site_url; ?>out/img/xt/xt600_35.jpg" alt="XT-600 ">
                                         </li>
-                                        <!-- <li><img src="<?php echo $site_url; ?>out/img/xp/xt800.jpg" alt="XT-800 "></li>    -->
+                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt800_35.jpg" alt="XT-800 "></li>
                                     </ul>
                                 </div>
                             </div>
@@ -301,6 +305,7 @@
                                         </li>
                                         <li><img src="<?php echo $site_url; ?>out/img/xe/xe600_35.jpg" alt="XE-600 ">
                                         </li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe800_35.jpg" alt="XE-800 "></li>
                                     </ul>
                                 </div>
                             </div>
@@ -366,8 +371,10 @@
                                         <ul class="sizes fl">
                                             <li><img src="<?php echo $site_url; ?>out/img/xf/xf060_35_w.jpg"
                                                      alt="XF-060"></li>
+                                            <li></li>
                                             <li><img src="<?php echo $site_url; ?>out/img/xf/xf060_35_r.jpg"
                                                      alt="XF-120"></li>
+                                            <li></li>
                                             <li><img src="<?php echo $site_url; ?>out/img/xf/xf060_35_b.jpg"
                                                      alt="XF-120"></li>
                                         </ul>
@@ -393,8 +400,10 @@
                                         <ul class="sizes fl">
                                             <li><img src="<?php echo $site_url; ?>out/img/xq/xq200_35_r.jpg"
                                                      alt="XQ-200"></li>
+                                            <li></li>
                                             <li><img src="<?php echo $site_url; ?>out/img/xq/xq200_35_b.jpg"
                                                      alt="XQ-200"></li>
+                                            <li></li>
                                             <li><img src="<?php echo $site_url; ?>out/img/xq/xq200_35_g.jpg"
                                                      alt="XQ-200"></li>
                                         </ul>

@@ -115,8 +115,8 @@
 
                         <div class="tabs product-images">
                             <div id="image-1">
-                                <a href="<?php echo $site_url; ?>out/img/detail/1/LD-030_863.jpg" class="cloud-zoom">
-                                    <img src="<?php echo $site_url; ?>out/img/detail/1/LD-030_278.png" alt=""
+                                <a href="<?php echo $site_url; ?>out/img/detail/1/LD-300_863.jpg" class="cloud-zoom">
+                                    <img src="<?php echo $site_url; ?>out/img/detail/1/LD-300_278.png" alt=""
                                          width="278"
                                          height="278">
                                 </a>

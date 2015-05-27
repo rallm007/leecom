@@ -11,41 +11,6 @@
             <p>您爱鱼的有氧生态舱</p>
         </div>
     </div>
-    <!-- Flyout Thumbnail-Navigation-->
-    <div class="product-thumbnail-navi accessories_detail-thumb-nav clearfix">
-        <div class="page_margins ">
-            <h1 class="tk-myriad-pro tk-light">AQ气泵系列</h1>
-            <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一个</a><!-- Navigieren im Slider nach links -->
-            <!-- Thumbnail-Slider -->
-            <div class="slider-wrapper">
-                <div class="product-thumbnail-slider clearfix">
-                    <a href="AQ-202.php" title="AQ-202 ">
-                        <img src="<?php echo $site_url; ?>out/b/77/aq202.png" alt="AQ-202 ">
-                    </a>
-                    <a href="AQ-203.php" title="AQ-203 " class="selected">
-                        <img src="<?php echo $site_url; ?>out/b/77/aq203.png" alt="AQ-203 ">
-                    </a>
-                    <a href="AQ-204.php" title="AQ-204 ">
-                        <img src="<?php echo $site_url; ?>out/b/77/aq204.png" alt="AQ-204 ">
-                    </a>
-                    <a href="AQ-205.php" title="AQ-205 ">
-                        <img src="<?php echo $site_url; ?>out/b/77/aq205.png" alt="AQ-205 ">
-                    </a>
-                    <a href="NI-218.php" title="NI-218 ">
-                        <img src="<?php echo $site_url; ?>out/b/77/ni218.png" alt="NI-218 ">
-                    </a>
-                </div>
-            </div>
-            <!-- ende -> Thumbnail-Slider -->
-            <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">下一个</a>
-            <!-- Navigieren im Slider nach rechts -->
-        </div>
-    </div>
-    <!-- end Flyout Thumbnail-Navigation-->
-
-    <script>
-
-    </script>
 
     <div class="page_margins">
         <div class="content clearfix accessories_detail">

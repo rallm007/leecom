@@ -712,7 +712,7 @@ li.has-tip:hover .panel-tip{
 						}
 							.main-nav .flyout .sizes li{
 								float: left;
-								margin-right: 15px
+								margin-right: 5px;
 							}
 							.main-nav .flyout .sizes li:last-child{
 								margin-right: 0
@@ -1596,13 +1596,13 @@ li.has-tip:hover .panel-tip{
 	.content-tabs .ui-tabs-nav, .content-tabs > ul { border-bottom: 1px solid #d7dcdf}
 	.content-tabs .ui-tabs-nav li, .content-tabs > ul li { background: #f3f7f9; top: 1px; margin: 0 4px 0 0; width: 306px }
 	.content-tabs.full .ui-tabs-nav li, .content-tabs.full > ul li{width: 232px}
-	.content-tabs.full .quantity-3.ui-tabs-nav li{width: 310px}
+	.content-tabs.full .quantity-3.ui-tabs-nav li{width: 465px}
 	.content-tabs .ui-tabs-nav li:last-child, .content-tabs .ui-tabs-nav li.last{margin: 0}
 	.content-tabs .ui-tabs-nav li.ui-state-hover{background:#edf1f3}
 	.content-tabs .ui-tabs-nav li a, .content-tabs > ul li a { color: #5c6062; font-size: 12px; font-weight: bold; margin: 0 auto; padding: 15px 0 10px 0 }
 	.content-tabs .ui-tabs-nav li.ui-tabs-selected { background: #fff; border: 1px solid #d7dcdf; border-bottom:none; margin-bottom:0; padding-bottom: 1px; width: 306px }
 	.content-tabs.full .ui-tabs-nav li.ui-tabs-selected{width: 230px}
-	.content-tabs.full .quantity-3.ui-tabs-nav li.ui-tabs-selected{width: 310px}
+	.content-tabs.full .quantity-3.ui-tabs-nav li.ui-tabs-selected{width: 465px}
 	.content-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a { cursor: text }
 	.content-tabs .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible .ui-tabs-nav li.ui-tabs-selected a { cursor: pointer } /* first selector in group seems obsolete, but required to overcome bug in Opera applying cursor: text overall if defined elsewhere... */
 	.content-tabs .ui-tabs-nav .ui-state-active a{color: #a5c400 !important; padding: 14px 0 11px 0 }
@@ -5227,10 +5227,10 @@ a.with-tooltip:hover .tooltip-box{
 		display: block;
 		padding-bottom: 7px
 	}
-		.contact .address strong{
-			display: block;
-			padding-bottom: 7px
-		}
+	.contact .address strong{
+		display: block;
+		padding-bottom: 7px
+	}
 	.contact .grid_4 h4{
 		line-height: 1em;
 		padding: 0 0 24px 0
