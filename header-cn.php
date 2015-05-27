@@ -25,7 +25,7 @@
     <meta property="og:image" content="<?php echo $site_url; ?>out/pictures/master/product/1/xp300.png"/>
     <link rel="shortcut icon" href="<?php echo $site_url; ?>out/pictures/master/global/1/favicon.ico">
     <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/styles.css">
-    <link rel="stylesheet" href="http://www.juwel-aquarium.de/out/juwel/src/css/en-GB.css">
+    <link rel="stylesheet" href="/out/leecom/src/css/en-GB.css">
     <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/colorbox.css">
     <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/jquery.jscrollpane.css">
     <script src="<?php echo $site_url; ?>out/leecom/src/js/libs/jquery.min.js"></script>
@@ -271,7 +271,8 @@
                                         </li>
                                         <li><img src="<?php echo $site_url; ?>out/img/xt/xt600_35.jpg" alt="XT-600 ">
                                         </li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt800_35.jpg" alt="XT-800 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xt/xt800_35.jpg" alt="XT-800 ">
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
@@ -305,7 +306,8 @@
                                         </li>
                                         <li><img src="<?php echo $site_url; ?>out/img/xe/xe600_35.jpg" alt="XE-600 ">
                                         </li>
-                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe800_35.jpg" alt="XE-800 "></li>
+                                        <li><img src="<?php echo $site_url; ?>out/img/xe/xe800_35.jpg" alt="XE-800 ">
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
