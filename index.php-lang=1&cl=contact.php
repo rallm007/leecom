@@ -1,152 +1,125 @@
-<?php include($_SERVER['DOCUMENT_ROOT']."/leecom/header-en.php");?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-cn.php"); ?>
 
-<!-- Main-Area -->
+<!-- Main-Area tes t -->
 <div id="main">
-	
-<!-- Main-Area -->
-<div id="main">
-   	<!-- Slider -->
-   	<!-- Stage mit Googel-Maps -->
-	<div id="contact_map" class="simple-stage contact_map">
+    <div class="home-stage">
+        <div class="page_margins pagination-wrapper">
+            <div id="home-stage-pagination" class="stage-slider-pagination"></div>
+        </div>
+        <div class="home-stage-slider" data-pause="250000">
+            <div class="item"
+                 style="background-color:#ffffff; background-image:url('out/pictures/promo/led_buehne.jpg');">
+                <div class="page_margins item-content">
+                    <h2 class="tk-myriad-pro tk-light">水底的故事</h2>
 
-	</div>
-	<!-- ende-> Stage mit Googel-Maps -->
-<script>
-$(function(){
+                    <h3 class="tk-myriad-pro tk-semibold">XP黑色</h3>
 
-	contact_map();
+                    <p>你总想时时关注爱鱼是如何点缀你空间的，<br/>
+                        它每天都是如何愉快度过每一日的。<br/>
+                        马上从XP系列水族箱开始你的水底探索之旅。</p>
+                    <a class="button ci-shadow"
+                       href="<?php echo $site_url; ?>cn/Products/Aquariums/XP-Line/XP-300-black.php#!leecom-xp300b"
+                       onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Pure Lifestyle']);">了解更多</a>
+                </div>
+            </div>
+            <div class="item"
+                 style="background-color:#ffffff; background-image:url('out/pictures/promo/leecom_buehne_rekord_700(2).jpg');">
+                <div class="page_margins item-content">
+                    <h2 class="tk-myriad-pro tk-light">新的颜色</h2>
 
-	// google maps
-	function contact_map(){
+                    <h3 class="tk-myriad-pro tk-semibold">XT/XE白色</h3>
 
-	  // settings
-	  var point = new google.maps.LatLng(53.125221,9.356571); // Koordinaten
-	  var MapOptions = {
-		zoom: 12,
-		center: point,
-		mapTypeId: google.maps.MapTypeId.ROADMAP,
-		streetViewControl : false,
-		mapTypeControl: false,
-		panControl: false,
-		zoomControl: true,
-	  	zoomControlOptions: {
-		  style: google.maps.ZoomControlStyle.SMALL,
-		  position: google.maps.ControlPosition.RIGHT_CENTER
-	    }
-	  };
-	  // custom marker-icon
-	  var icon = new google.maps.MarkerImage(
-		'out/juwel/src/images/all/maps/juwel_map_marker.png',
-		new google.maps.Size(73,82),
-		new google.maps.Point(0,0),
-		new google.maps.Point(37,82)
-	  );
-	  // Schatten für Icon
-	  var shadow = new google.maps.MarkerImage(
-		'out/juwel/src/images/all/maps/shadow.png',
-		 new google.maps.Size(122,82),
-		 new google.maps.Point(0,0),
-		 new google.maps.Point(37,82)
-	  );
-	  // klickbarer Bereich des Marker-Icons
-	  var shape = {
-    	coord: [68,0,70,1,71,2,71,3,72,4,72,5,72,6,72,7,72,8,72,9,72,10,72,11,72,12,72,13,72,14,72,15,72,16,72,17,72,18,72,19,72,20,72,21,72,22,72,23,72,24,72,25,72,26,72,27,72,28,72,29,72,30,72,31,72,32,72,33,72,34,72,35,72,36,72,37,72,38,72,39,72,40,72,41,72,42,72,43,72,44,72,45,72,46,72,47,72,48,72,49,72,50,72,51,72,52,72,53,72,54,72,55,72,56,72,57,72,58,72,59,72,60,72,61,72,62,72,63,72,64,72,65,72,66,72,67,72,68,72,69,72,70,71,71,71,72,70,73,68,74,42,75,41,76,40,77,40,78,39,79,38,80,36,81,36,81,34,80,33,79,32,78,31,77,30,76,29,75,4,74,2,73,1,72,1,71,0,70,0,69,0,68,0,67,0,66,0,65,0,64,0,63,0,62,0,61,0,60,0,59,0,58,0,57,0,56,0,55,0,54,0,53,0,52,0,51,0,50,0,49,0,48,0,47,0,46,0,45,0,44,0,43,0,42,0,41,0,40,0,39,0,38,0,37,0,36,0,35,0,34,0,33,0,32,0,31,0,30,0,29,0,28,0,27,0,26,0,25,0,24,0,23,0,22,0,21,0,20,0,19,0,18,0,17,0,16,0,15,0,14,0,13,0,12,0,11,0,10,0,9,0,8,0,7,0,6,0,5,0,4,1,3,1,2,2,1,4,0,68,0],
-		type: 'poly'
-	  };
+                    <p>对于简洁干净的感觉，<br/>
+                        经典白色也是必选的。<br/>
+                        我们的XT/XE系列鱼缸白色从此问世。<br/></p>
+                    <a class="button ci-shadow"
+                       href="<?php echo $site_url; ?>cn/Products/Aquariums/XT-Line/XT-300-black.php#!leecom-xt300w"
+                       onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Your underwater world']);">了解更多</a>
+                </div>
+            </div>
+            <div class="item"
+                 style="background-color:#ffffff; background-image:url('out/pictures/promo/home_slider_1(2).jpg');">
+                <div class="page_margins item-content">
+                    <h2 class="tk-myriad-pro tk-light">静的味道</h2>
 
-	  // map
-	  var map = new google.maps.Map(document.getElementById("contact_map"),MapOptions);
-	  // marker
-	  var marker = new google.maps.Marker({
-		icon: icon,
-		shadow: shadow,
-		shape: shape,
-		map: map,
-		position: point
-	  });
+                    <h3 class="tk-myriad-pro tk-semibold">HI挂缸</h3>
 
-	}
-});
-</script>
+                    <p>源于自然，聆听细细水流，<br/>
+                        淹没在寂静的空间，<br/>
+                        享受这静谧的韵味。</p>
+                    <a class="button ci-shadow" href="<?php echo $site_url; ?>cn/Products/More/HI-330.php"
+                       onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Marine']);">了解更多</a>
+                </div>
+            </div>
+        </div>
+        <a id="stage-prev" class="home-stage-nav ir" href="#">上一张</a>
+        <a id="stage-next" class="home-stage-nav ir" href="#">下一张</a>
+    </div>
+
+    <script>
+        $(function () {
+            leecom.homeSlider();
+        });
+    </script>
     <div class="page_margins">
-    <div class="content clearfix contact">
-    	<!-- Breadcrumb -->
-    	<div class="breadcrumb nav clearfix">
-            <ul class="fl">
-                <li>You are here:</li>
-                <li>Contact</li>
-            </ul>
-        </div>
-        <h1>Your contact to Juwel Aquarium</h1>
-    	<div class="grid_7 alpha">
-        	<p class="introduction">
-		    			    			    		Questions and suggestions from our customers are always welcome. That's why our Service team are always on hand to help you. Write and tell us what is on your mind. We will endeavour to process your enquiry within two working days.<br><br>Please note that inquiries can be answered only in English or German.
-			    	            </p>
-															
-		    				           	
+        <div class="content clearfix">
+            <!-- Headline -->
+            <h1 class="home-welcome tk-myriad-pro tk-light">
+                <div align="center"><font size="5"><strong class="tk-myriad-pro tk-regular">做最好的产品一直是我们的宗旨与追求</strong>，不论国内，还是国外，
+                        <strong class="tk-myriad-pro tk-regular">我们都秉承同样的经营理念。让每一个客户都享有同质量的产品，最优质的服务。不断进取，不断创新。</strong><br/>
+                        <span class="uppercase">与LEECOM一起</span>——<span class="uppercase">发现<strong
+                                class="tk-myriad-pro tk-regular">生活的美。</strong></span></font></div>
+            </h1>
+            <!-- 2er Teaser -->
+            <div class="clearfix home-teaser-wrap">
+                <div class="grid_6 alpha home-teaser-big">
+                    <!-- um den "NEW"-Störer anzuzeigen hier die class "new" setzen -->
+                    <div class="grid_3 alpha teaser-img"> <!-- Bilder dürfen eine maximale Größe von 220x220 haben -->
+                        <img src="out/pictures/promo/proShow.jpg" alt="产品Show">
+                    </div>
+                    <div class="grid_3 omega teaser-content">
+                        <h3>产品show</h3>
 
-<form class="jqtransform" action="<?php echo $site_url;?>index.php?lang=1&force_sid=rourg7mdqqqm5ppt19cs5hlfm7&" method="POST">
-    <div>
-        <input type="hidden" name="fnc" value="send"/>
-        <input type="hidden" name="cl" value="contact"/>
-                <input type="hidden" name="c_mach" value="rou1a1cedce7bcf61ef3b33f01ce452e"/>
-    </div>
-	<!-- Formularfelder -->
-    <div class="clearfix">
-        <label for="00Nb0000009Olwe" style="display:none; visibility:hidden">
-            Don't change the value of this field or it won't be processed!
-            <input type="text" name="00Nb0000009Olwe" value="notspam" />
-        </label>
-        
-    </div>
-</form>
+                        <p>与我们一起感受水族点缀的MODERN世界</p>
+                        <a class="arrow-link" href="<?php echo $site_url . 'cn/Products/index.php'; ?>"
+                           title="start now">从这里开始</a>
+                    </div>
+                </div>
+                <div class="grid_6 alpha home-teaser-big">
+                    <!-- um den "NEW"-Störer anzuzeigen hier die class "new" setzen -->
+                    <div class="grid_3 alpha teaser-img"> <!-- Bilder dürfen eine maximale Größe von 220x220 haben -->
+                        <img src="out/pictures/promo/newcolor_1.png" alt="新的色调">
+                    </div>
+                    <div class="grid_3 omega teaser-content">
+                        <h3>新的色调</h3>
 
-<script>
-    $(function(){
-        $('form.jqtransform').jqTransform();
-    });
-</script>		    		
-		            </div>
-
-    	<div class="grid_4 omega">
-			<p class="address"><strong>JUWEL®Aquarium GmbH &amp; Co KG</strong>
-        		Karl-Göx-Straße 1<br />
-
-        		27356 Rotenburg / Wümme<br />
-				Deutschland                </p>
-<h4 class="tk-myriad-pro tk-semibold green">Customer service</h4>
-<div class="tk-myriad-pro tk-semibold tel">
-+86-20-34691002            </div>
-<div class="tk-myriad-pro tk-semibold fax">
-+49 (0) 4261 9379 856</div>
-<div class="tk-myriad-pro tk-semibold email">
-            	simon.lee@LEECOM.cn           </div>
-<div class="contact_faq">
-<p class="lh20">Find quick answers to frequently asked questions in our question and answer (FAQ) section</p> <a class="arrow-link" href="<?php echo $site_url.'en/Service/FAQ/index.php';?>" title="FAQ">FAQ</a>      </div>
-</div>
-			
+                        <p>让我们一睹XT系列经典白色的风姿</p>
+                        <a class="arrow-link"
+                           href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XT-Line/XT-300-black.php#!leecom-xt300w"
+                           title="start now"
+                           onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Automatic Feeder']);">从这里开始</a>
+                    </div>
+                </div>
+            </div>
+            <!-- 3er Teaser -->
         </div>
     </div>
-</div>
-
-
+    <script>
+        $(window).load(function () {
+            // vertikale Zentrierung der der Bilder in den 2er-Teasern
+            // -> Sinnvoll? oder andere Positionierungs-Logik, oder Bilder immer auf Max-Format(220x220) zugeschnitten?
+            $('.home-teaser-big .teaser-img').vAlign('img');
+        });
+    </script>
 
 </div>
 <!-- /Main-Area -->
 
 <!-- Footer-Area -->
-																								
 
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-cn.php"); ?>
 
-	<div id="breadcrumb-bottom" class="nav">
-    <div class="page_margins">
-        <ul>
-						    <li><a href="index.php-lang=1&cl=contact.php" title="Contact">Contact</a></li>
-			    			        </ul>                        
-    </div>
-</div>
-<?php echo include($_SERVER['DOCUMENT_ROOT'].'/leecom/footer-en.php');?>
-            
-	<div id="sroverlay" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999999999999999;display: none;"></div>
+<div id="sroverlay"
+     style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999999999999999;display: none;"></div>
 </body>
 </html>

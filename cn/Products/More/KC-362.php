@@ -193,7 +193,7 @@
 
     <script>
         $(function () {
-           leecom .accessoriesDetail();
+            leecom.accessoriesDetail();
             $("select.transform").jqTransSelect();
         });
 

@@ -6435,7 +6435,7 @@ dl.prepayment-info dd.amount {
 /* FAQ */
 .service .faq .introduction {
     margin-bottom: 25px;
-    background: transparent url("../images/all/icon_faq.png") /*tpa=http://www.leecom.cn/out/leecom/src/images/all/icon_faq.png*/ no-repeat right top;
+    background: transparent url("../images/all/icon_faq_contact.png") /*tpa=http://www.leecom.cn/out/leecom/src/images/all/icon_faq.png*/ no-repeat right top;
 }
 
 .service .faq h3 {

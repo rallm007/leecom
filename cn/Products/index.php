@@ -148,7 +148,7 @@
 
             <a class="grid_4 accessories-teaser" href="More/AQ-202.php">
                 <div class="image">
-                    <img src="../../out/b/545/qb.jpg" alt="" style="height: 177px; width: 254px;"></div>
+                    <img src="../../out/img/more/aq_au_ni_545.jpg" alt="" style="height: 177px; width: 254px;"></div>
                 <div class="content" style="height: 150px;">
                     <h2>气泵系列</h2>
 
@@ -158,7 +158,7 @@
             </a>
             <a class="grid_4 accessories-teaser" href="More/PF-120.php">
                 <div class="image">
-                    <img src="../../out/b/545/sb.jpg" alt="" style="height: 177px; width: 254px;"></div>
+                    <img src="../../out/img/more/pf_ps_545.jpg" alt="" style="height: 177px; width: 254px;"></div>
                 <div class="content" style="height: 150px;">
                     <h2>水泵系列</h2>
 
@@ -168,7 +168,7 @@
             </a>
             <a class="grid_4 accessories-teaser" href="More/CC1.php">
                 <div class="image">
-                    <img src="../../out/b/545/cc.jpg" alt="" style="height: 177px; width: 254px;"></div>
+                    <img src="../../out/img/more/er_545.jpg" alt="" style="height: 177px; width: 254px;"></div>
                 <div class="content" style="height: 150px;">
                     <h2>磁擦系列</h2>
 

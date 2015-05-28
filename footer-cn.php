@@ -9,7 +9,7 @@
                     <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XP-Line/XP-300-black.php#!leecom-xp300b">XP系列</a>
                 </li>
                 <li>
-                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XC-180-black.php#!leecom-xc300b">XC系列</a>
+                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XC-Line/XC-300-black.php#!leecom-xc300b">XC系列</a>
                 </li>
                 <li>
                     <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XT-Line/XT-300-black.php#!leecom-xt300b">XT系列</a>
@@ -18,7 +18,7 @@
                     <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XE-Line/XE-300-black.php#!leecom-xe300b">XE系列</a>
                 </li>
                 <li>
-                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/Rekord-Line/XK-200-Int.php#!leecom-xk200">XK系列</a>
+                    <a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XK-Line/XK-200-Int.php#!leecom-xk200">XK系列</a>
                 </li>
                 <li><a href="<?php echo $site_url . 'cn/Products/Aquariums'; ?>/XA-Line/XA-815-Int.php">XA系列</a></li>
                 <li>
@@ -28,7 +28,7 @@
                 </li>
             </ul>
             <ul>
-                <li><a href="<?php echo $site_url . 'cn/Products'; ?>/More/AQ-202.php">灯具系列</a></li>
+                <li><a href="<?php echo $site_url . 'cn/Products'; ?>/More/LD-030.php">灯具系列</a></li>
                 <li><a href="<?php echo $site_url . 'cn/Products'; ?>/More/AQ-202.php">气泵系列</a></li>
                 <li><a href="<?php echo $site_url . 'cn/Products'; ?>/More/PF-120.php">水泵系列</a></li>
                 <li><a href="<?php echo $site_url . 'cn/Products'; ?>/More/CC1.php">磁擦系列</a></li>
