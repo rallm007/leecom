@@ -42,7 +42,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XF series</li>
                             <li>XF-060</li>
                         </ul>
@@ -74,7 +74,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XF-060 </span></h2>
                         <!-- varianten headline -->
-                        <p>节能、环保，轻松加水投饲，精巧、简约，尤其适合办公室、家居的桌面摆设。</p>
+                        <p>Energy saving, environmental protection, water feeding easy, compact, simple, especially for the office, home desktop decoration.</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -115,7 +115,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XF series</li>
                             <li>XF-120</li>
                         </ul>
@@ -147,7 +147,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XF-120 </span></h2>
                         <!-- varianten headline -->
-                        <p>节能、环保，轻松加水投饲，精巧、简约，尤其适合办公室、家居的桌面摆设。</p>
+                        <p>Energy saving, environmental protection, water feeding easy, compact, simple, especially for the office, home desktop decoration.</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -270,7 +270,7 @@
 <div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-            <li><a href="../../index.php" title="产品展示">产品展示</a></li>
+            <li><a href="../../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="#" title="">XF series</a></li>
         </ul>
     </div>

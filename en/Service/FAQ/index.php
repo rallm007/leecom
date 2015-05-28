@@ -18,9 +18,9 @@
             <!-- Breadcrumb -->
             <div class="breadcrumb nav clearfix">
                 <ul class="fl">
-                    <li>您的位置:</li>
+                    <li>You are here:</li>
                     <li><a href="../index.php">SERVICE</a></li>
-                    <li>常见问题</li>
+                    <li>FAQ</li>
                 </ul>
             </div>
             <!-- ende-> Breadcrumb -->
@@ -62,7 +62,7 @@
                 <div class="clearfix faq">
                     <h2 class="tk-myriad-pro tk-light">常见问答</h2>
 
-                    <p class="introduction">轻松快速地找到与广州日创产品问题的答案。我们的“问答数据库”中包含有用的提示和解答常见问题。首先，在底部选择一个主题，并迅速找到您所需要的信息。</p>
+                    <p class="introduction">轻松快速地找到与广州日创产品问题的答案。我们的“问答数据库”中包含有用的提示和解答FAQ。首先，在底部选择一个主题，并迅速找到您所需要的信息。</p>
 
                     <div class="tab-teaser">
                         <h3>请选择一个主题</h3>
@@ -254,7 +254,7 @@
         <div class="page_margins">
             <ul>
                 <li><a href="../index.php" title="Service">SERVICE</a></li>
-                <li><a href="index.php" title="FAQ">常见问题</a></li>
+                <li><a href="index.php" title="FAQ">FAQ</a></li>
             </ul>
         </div>
     </div>

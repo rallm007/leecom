@@ -16,8 +16,8 @@
         <div class="content clearfix accessories_detail">
             <div class="breadcrumb accessories-detail nav clearfix">
                 <ul class="fl">
-                    <li>您的位置:</li>
-                    <li><a href="../index.php" title="产品展示">产品展示</a></li>
+                    <li>You are here:</li>
+                    <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Filter air series">Filter air series</a></li>
                     <li><a href="IM-018.php" title="IM系列">IM系列</a></li>
                     <li>IM-018水妖精</li>
@@ -121,7 +121,7 @@
                                 <h3>IM-018水妖精</h3>
 
                                 <p>
-                                    时尚美观，体积小巧，气泵的超级搭档，模拟大自然的过滤系统，滤盒中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附水族箱内残留的鱼铒、鱼烘等杂质，和高效活性炭最大程度保证水质的洁净。而优质的汽泡石则可增加氧气在水中的溶解度，令增氧效果更好；底部的过滤石有效阻挡水中大量的微粒保证水质的洁净。</p>
+                                    时尚美观，体积小巧，气泵的超级搭档，模拟大自然的过滤系统，滤盒中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附Aquariums内残留的鱼铒、鱼烘等杂质，和高效活性炭最大程度保证水质的洁净。而优质的汽泡石则可增加氧气在水中的溶解度，令增氧效果更好；底部的过滤石有效阻挡水中大量的微粒保证水质的洁净。</p>
 
                                 <p><br/><br/>透明、粉色、蓝色、绿色点亮您不同的居家风格。<br/>
                                     替换滤材型号：SI-18</p>
@@ -203,7 +203,7 @@
 <div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-            <li><a href="../index.php" title="产品展示">产品展示</a></li>
+            <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Filter air series">Filter air series</a></li>
             <li><a href="#" title="IM系列">IM系列</a></li>
         </ul>

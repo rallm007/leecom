@@ -66,16 +66,14 @@
 
             function goto_cn() {
                 var _url = (this.location.href).replace('en', 'cn');
-                this.location.href = _url.replace('lang=1', 'lang=2');
+                this.location.href = _url.replace('_us', '');
             }
 
             function goto_en() {
-                var _url = (this.location.href).replace('cn', 'en');
-                _url2 = _url.replace('lang=2', 'lang=1');
-                if (this.location.href == _url2) {
-                    this.location.href = "<?php echo $site_url;?>" + "index.php-lang=1&.php";
+                if(this.location.href == '<?php echo $site_url; ?>'+'index.php') {
+                    this.location.href = '<?php echo $site_url; ?>'+'index_us.php';
                 } else {
-                    this.location.href = _url2;
+                    this.location.href = (this.location.href).replace('cn', 'en');
                 }
             }
         </script>

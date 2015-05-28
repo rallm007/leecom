@@ -66,16 +66,14 @@
 
             function goto_cn() {
                 var _url = (this.location.href).replace('en', 'cn');
-                this.location.href = _url.replace('lang=1', 'lang=2');
+                this.location.href = _url.replace('_us', '');
             }
 
             function goto_en() {
-                var _url = (this.location.href).replace('cn', 'en');
-                _url2 = _url.replace('lang=2', 'lang=1');
-                if (this.location.href == _url2) {
-                    this.location.href = "<?php echo $site_url;?>" + "index.php-lang=1&.php";
+                if(this.location.href == '<?php echo $site_url; ?>'+'index.php') {
+                    this.location.href = '<?php echo $site_url; ?>'+'index_us.php';
                 } else {
-                    this.location.href = _url2;
+                    this.location.href = (this.location.href).replace('cn', 'en');
                 }
             }
         </script>
@@ -86,7 +84,7 @@
 <div class="clearfix" id="header">
     <div class="page_margins">
         <div id="logo">
-            <a title="LEECOM" href="<?php echo $site_url; ?>index.php" class="ir">LEECOM</a>
+            <a title="LEECOM" href="<?php echo $site_url; ?>index_us.php" class="ir">LEECOM</a>
         </div>
         <!-- panel -->
         <div id="panel-nav" class="" style="height: 32px;margin-right:230px;margin-top:10px;width:100px">
@@ -104,69 +102,69 @@
         <div class="main-nav nav clearfix">
             <ul>
                 <li class="products has-drop">
-                    <a href="<?php echo $site_url . 'en/Products/'; ?>index.php"><span>产品展示</span></a>
+                    <a href="<?php echo $site_url . 'en/Products/'; ?>index.php"><span>PRODUCTS</span></a>
 
                     <div class="drop flyout closed clearfix">
                         <div class="grid_5 left" style="height:360px;">
                             <ul>
-                                <li class="head"><h4>水族箱</h4></li>
+                                <li class="head"><h4>Aquarium</h4></li>
                                 <!-- Aquarien -->
                                 <li>
                                     <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XP-Line/XP-300-black.php#!leecom-xp300b"
-                                       id="00000000031">XP系列</a></li>
+                                       id="00000000031">XP Series</a></li>
                                 <!-- Aquarien -->
                                 <li>
                                     <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XC-Line/XC-300-black.php#!leecom-xc300b"
-                                       id="00000000041">XC系列</a></li>
+                                       id="00000000041">XC Series</a></li>
                                 <!-- Aquarien -->
                                 <li>
                                     <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XT-Line/XT-300-black.php#!leecom-xt300b"
-                                       id="00000000051">XT系列</a></li>
+                                       id="00000000051">XT Series</a></li>
                                 <!-- Aquarien -->
                                 <li>
                                     <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XE-Line/XE-300-black.php#!leecom-xe300"
-                                       id="00000000061">XE系列</a></li>
+                                       id="00000000061">XE Series</a></li>
                                 <!-- Aquarien -->
                                 <li>
                                     <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XK-Line/XK-200-Int.php#!leecom-xk200"
-                                       id="00000000071">XK系列</a></li>
+                                       id="00000000071">XK Series</a></li>
                                 <!-- Aquarien -->
                                 <li>
                                     <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XA-Line/XA-815-Int.php#!leecom-xa815"
-                                       id="00000001289">XA系列</a></li>
+                                       id="00000001289">XA Series</a></li>
                                 <li>
                                     <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XF-Line/XF-060-white-Int.php#!leecom-xf060"
-                                       id="00000001271">XF系列</a></li>
+                                       id="00000001271">XF Series</a></li>
                                 <!-- Aquarien -->
                                 <li>
                                     <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XQ-Line/XQ-200-Int.php#!leecom-xq200"
-                                       id="00000001281">XQ系列</a></li>
+                                       id="00000001281">XQ Series</a></li>
                             </ul>
                             <ul>
-                                <li class="head"><h4>更多</h4></li>
+                                <li class="head"><h4>More</h4></li>
                                 <!-- Weiteres -->
-                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/LD-030.php" id="00000000280">灯具系列</a>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/LD-030.php" id="00000000280">LED Series</a>
                                 </li>
-                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/AQ-202.php" id="00000000281">气泵系列</a>
-                                </li>
-                                <!-- Weiteres -->
-                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/PF-120.php" id="00000000291">水泵系列</a>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/AQ-202.php" id="00000000281">Air Series</a>
                                 </li>
                                 <!-- Weiteres -->
-                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/CC1.php" id="00000000301">磁擦系列</a>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/PF-120.php" id="00000000291">Power head</a>
                                 </li>
                                 <!-- Weiteres -->
-                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/MT-100.php" id="00000000311">附件系列</a>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/CC1.php" id="00000000301">Magnetic series</a>
                                 </li>
-                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/KC-361.php" id="00000000312">保温棒系列</a>
+                                <!-- Weiteres -->
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/MT-100.php" id="00000000311">Accessories Series</a>
                                 </li>
-                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/HI-330.php" id="00000000313">缸外过滤系列</a>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/KC-361.php" id="00000000312">Heater Series</a>
                                 </li>
-                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/PF-282.php" id="00000000314">缸内过滤系列</a>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/HI-330.php" id="00000000313">Hang-on filter Series</a>
                                 </li>
-                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/CF-600.php" id="00000000315">上部过滤系列</a>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/PF-282.php" id="00000000314">Internal filter Series</a>
                                 </li>
-                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/IF-730.php" id="00000000316">气动过滤系列</a>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/CF-600.php" id="00000000315">Top filter Series</a>
+                                </li>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/IF-730.php" id="00000000316">Filter air Series</a>
                                 </li>
                             </ul>
                             <ul>
@@ -177,13 +175,13 @@
                             <div class="product-info clearfix" id="info-00000000031" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XP系列" src="<?php echo $site_url; ?>out/img/xp/xp300_200.jpg">
+                                    <img alt="XP Series" src="<?php echo $site_url; ?>out/img/xp/xp300_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
-                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XP系列</span></h4>
-                                    <h5>永久的经典</h5>
+                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XP Series</span></h4>
+                                    <h5>Permanent classic</h5>
 
-                                    <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词</p>
+                                    <p>Simple yet elegant, modern and yet elegant. Simple, stylish, elegance is synonymous with our</p>
                                     <ul class="decor fl">
                                         <li><img alt=""
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/1.png"></li>
@@ -210,13 +208,13 @@
                             <div class="product-info clearfix" id="info-00000000041" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XC系列" src="<?php echo $site_url; ?>out/img/xc/xc300_200.jpg">
+                                    <img alt="XC Series" src="<?php echo $site_url; ?>out/img/xc/xc300_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
-                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XC系列</span></h4>
-                                    <h5>用心制造</h5>
+                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XC Series</span></h4>
+                                    <h5>Intention of manufacturing</h5>
 
-                                    <p>细节决定成败，关注每一处细节，用心自我体验。每一个产品都经过漫长的反复多次的测试与试验，从粗到精的漫长过程，以最完美的身姿呈现在您面前。</p>
+                                    <p>Details determine success or failure, attention to every detail, the intentions of self-experience. Every product through a long testing and test repeated many times, from coarse to fine long process, the most perfect posture presented in front of you.</p>
                                     <ul class="decor fl">
 
                                         <li><img alt=""
@@ -245,13 +243,13 @@
                             <div class="product-info clearfix" id="info-00000000051" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XT系列" src="<?php echo $site_url; ?>out/img/xt/xt300_200.jpg">
+                                    <img alt="XT Series" src="<?php echo $site_url; ?>out/img/xt/xt300_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
-                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XT系列</span></h4>
-                                    <h5>简约的美丽</h5>
+                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XT Series</span></h4>
+                                    <h5>Simple beauty</h5>
 
-                                    <p>高雅却不张扬，奢华却不累赘，不经意营造一种浪漫而独具魅力的气息。</p>
+                                    <p>Elegant but discreet, luxurious but not cumbersome, inadvertently create a romantic and charming atmosphere.</p>
                                     <ul class="decor fl">
 
                                         <li><img alt=""
@@ -280,13 +278,13 @@
                             <div class="product-info clearfix" id="info-00000000061" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XE系列" src="<?php echo $site_url; ?>out/img/xe/xe300_200.jpg">
+                                    <img alt="XE Series" src="<?php echo $site_url; ?>out/img/xe/xe300_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
-                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XE系列</span></h4>
-                                    <h5>永恒的色调</h5>
+                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XE Series</span></h4>
+                                    <h5>Eternal tone</h5>
 
-                                    <p>黑白永远是主流的经典色调，正如我们的XE系列如此永恒、经久不衰。</p>
+                                    <p>Black and white is always classic mainstream tone, as our XE series so timeless, enduring.</p>
                                     <ul class="decor fl">
 
                                         <li><img alt=""
@@ -314,13 +312,13 @@
                             <div class="product-info clearfix" id="info-00000000071" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XK系列" src="<?php echo $site_url; ?>out/img/xk/xk200_200.jpg">
+                                    <img alt="XK Series" src="<?php echo $site_url; ?>out/img/xk/xk200_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
-                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XK系列</span></h4>
-                                    <h5>世界是洁净透明的</h5>
+                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XK Series</span></h4>
+                                    <h5>The world is clean and transparent</h5>
 
-                                    <p>世界顶级浮法玻璃，通透大气，打造透明的世界，每一个棱角，每一道线条都追求完美。</p>
+                                    <p>World-class float glass, transparent atmosphere, creating a transparent world, every corner, every line are the pursuit of perfection.</p>
                                     <ul class="decor fl">
                                         <li><img alt=""
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
@@ -334,13 +332,13 @@
                             <div class="product-info clearfix" id="info-00000001289" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XA系列" src="<?php echo $site_url; ?>out/img/xa/xa300_200.jpg">
+                                    <img alt="XA Series" src="<?php echo $site_url; ?>out/img/xa/xa300_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
-                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XA系列</span></h4>
-                                    <h5>带上你的宠宝，畅游吧</h5>
+                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XA Series</span></h4>
+                                    <h5>Bring your pet treasure, dip it</h5>
 
-                                    <p>自由自在，轻松出行，享受自由，享受自在</p>
+                                    <p>Free, easy travel, enjoy freedom, enjoy free</p>
                                     <ul class="decor fl">
                                         <li><img alt=""
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
@@ -356,13 +354,13 @@
                             <div class="product-info clearfix" id="info-00000001271" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XF系列" src="<?php echo $site_url; ?>out/img/xf/xf060_200.jpg">
+                                    <img alt="XF Series" src="<?php echo $site_url; ?>out/img/xf/xf060_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
-                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XF系列</span></h4>
-                                    <h5>桌面小精灵</h5>
+                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XF Series</span></h4>
+                                    <h5>Desktop elf</h5>
 
-                                    <p>节能、环保，轻松加水投饲，精巧、简约，尤其适合办公室、家居的桌面摆设。</p>
+                                    <p>Energy saving, environmental protection, water feeding easy, compact, simple, especially for the office, home desktop decoration.</p>
                                     <ul class="decor fl">
                                         <li><img alt=""
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/4.png"></li>
@@ -385,13 +383,13 @@
                             <div class="product-info clearfix" id="info-00000001281" style="display: none;">
                                 <div class="image">
 
-                                    <img alt="XQ系列" src="<?php echo $site_url; ?>out/img/xq/xq200_200.jpg">
+                                    <img alt="XQ Series" src="<?php echo $site_url; ?>out/img/xq/xq200_200.jpg">
                                 </div>
                                 <div class="descr clearfix">
-                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XQ系列</span></h4>
-                                    <h5>带上你的宠宝，畅游吧</h5>
+                                    <h4 class="tk-myriad-pro tk-light"><span class="green">XQ Series</span></h4>
+                                    <h5>Bring your pet treasure, dip it</h5>
 
-                                    <p>自由自在，轻松出行，享受自由，享受自在</p>
+                                    <p>Free, easy travel, enjoy freedom, enjoy free</p>
                                     <ul class="decor fl">
                                         <li><img alt=""
                                                  src="<?php echo $site_url; ?>out/pictures/master/global/1/2.png"></li>
@@ -449,24 +447,24 @@
                 <li class="company has-drop">
                     <div class="drop">
                         <ul>
-                            <li><a href="<?php echo $site_url . 'cn'; ?>/Company/index.php">关于我们</a></li>
+                            <li><a href="<?php echo $site_url . 'cn'; ?>/Company/index.php">About us</a></li>
                         </ul>
                         <div class="drop-btm"></div>
                     </div>
-                    <a href="<?php echo $site_url . 'cn'; ?>/Company/index.php"><span>公司简介</span></a>
+                    <a href="<?php echo $site_url . 'cn'; ?>/Company/index.php"><span>COMPANY</span></a>
                 </li>
                 <li class="service has-drop">
                     <div class="drop">
                         <ul>
                             <li><a onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Servicecenter']);"
-                                   href="<?php echo $site_url . 'cn'; ?>/Service/FAQ/index.php">常见问题</a></li>
+                                   href="<?php echo $site_url . 'cn'; ?>/Service/FAQ/index.php">FAQ</a></li>
                         </ul>
                         <div class="drop-btm"></div>
                     </div>
-                    <a href="<?php echo $site_url . 'cn'; ?>/Service/FAQ/index.php"><span>服务中心</span></a>
+                    <a href="<?php echo $site_url . 'cn'; ?>/Service/FAQ/index.php"><span>SERVICE</span></a>
                 </li>
                 <li class="contact">
-                    <a href="<?php echo $site_url; ?>index.php-lang=2&amp;cl=contact.php"><span>联系我们</span></a>
+                    <a href="<?php echo $site_url; ?>contact_us.php"><span>CONTACT</span></a>
                 </li>
             </ul>
         </div>

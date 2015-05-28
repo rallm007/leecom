@@ -16,8 +16,8 @@
         <div class="content clearfix accessories_detail">
             <div class="breadcrumb accessories-detail nav clearfix">
                 <ul class="fl">
-                    <li>您的位置:</li>
-                    <li><a href="../index.php" title="产品展示">产品展示</a></li>
+                    <li>You are here:</li>
+                    <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Filter air series">Filter air series</a></li>
                     <li><a href="IF-730.php" title="IF系列">IF系列</a></li>
                     <li>IF-731</li>
@@ -203,7 +203,7 @@
 <div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-            <li><a href="../index.php" title="产品展示">产品展示</a></li>
+            <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Filter air series">Filter air series</a></li>
             <li><a href="#" title="IF系列">IF系列</a></li>
         </ul>

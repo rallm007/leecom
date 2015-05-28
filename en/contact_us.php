@@ -16,7 +16,7 @@
 
                     <p>你总想时时关注爱鱼是如何点缀你空间的，<br/>
                         它每天都是如何愉快度过每一日的。<br/>
-                        马上从XP系列水族箱开始你的水底探索之旅。</p>
+                        马上从XP系列Aquariums开始你的水底探索之旅。</p>
                     <a class="button ci-shadow"
                        href="<?php echo $site_url; ?>cn/Products/Aquariums/XP-Line/XP-300-black.php#!leecom-xp300b"
                        onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Pure Lifestyle']);">了解更多</a>

@@ -16,8 +16,8 @@
         <div class="content clearfix accessories_detail">
             <div class="breadcrumb accessories-detail nav clearfix">
                 <ul class="fl">
-                    <li>您的位置:</li>
-                    <li><a href="../index.php" title="产品展示">产品展示</a></li>
+                    <li>You are here:</li>
+                    <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Top filter series">Top filter series</a></li>
                     <li>CF-600上部过滤器</li>
                 </ul>
@@ -92,7 +92,7 @@
                                 <h3>CF-600上部过滤器</h3>
 
                                 <p>
-                                    CF系列上部过滤是一个高效过滤和抽水、增氧完美融合于一体的系统，外壳采用优质增强型ABS原材料，坚固耐用，防腐蚀、耐酸碱、经久耐用，性能更卓越，过滤泵头主体部份全部采用进口铜线，性能更高，更有效省电，顶部灌胶密封，杜绝漏电安全隐患。三重过滤的炭棉板滤材，不但替换方便，性能更出色，当中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附水族箱内残留的鱼铒、鱼烘等杂质，和高效生化棉最大程度保证水质的洁净。</p>
+                                    CF系列上部过滤是一个高效过滤和抽水、增氧完美融合于一体的系统，外壳采用优质增强型ABS原材料，坚固耐用，防腐蚀、耐酸碱、经久耐用，性能更卓越，过滤泵头主体部份全部采用进口铜线，性能更高，更有效省电，顶部灌胶密封，杜绝漏电安全隐患。三重过滤的炭棉板滤材，不但替换方便，性能更出色，当中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附Aquariums内残留的鱼铒、鱼烘等杂质，和高效生化棉最大程度保证水质的洁净。</p>
 
                                 <p><br/><br/>
                                     CF-300,360,400,460,600,800六个型号满足您不同尺寸的鱼缸需求。<br/>
@@ -199,7 +199,7 @@
 <div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-            <li><a href="../index.php" title="产品展示">产品展示</a></li>
+            <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Top filter series">Top filter series</a></li>
             <li><a href="#">CF-600 </a></li>
         </ul>

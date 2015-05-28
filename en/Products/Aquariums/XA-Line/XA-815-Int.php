@@ -73,7 +73,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XA series</li>
                             <li>XA-815</li>
                         </ul>
@@ -93,7 +93,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XA-815 </span></h2>
                         <!-- varianten headline -->
-                        <p>自由自在，轻松出行，享受自由，享受自在</p>
+                        <p>Free, easy travel, enjoy freedom, enjoy free</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -126,7 +126,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XA series</li>
                             <li>XA-820</li>
                         </ul>
@@ -146,7 +146,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XA-820 </span></h2>
                         <!-- varianten headline -->
-                        <p>自由自在，轻松出行，享受自由，享受自在</p>
+                        <p>Free, easy travel, enjoy freedom, enjoy free</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -178,7 +178,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XA series</li>
                             <li>XA-825</li>
                         </ul>
@@ -198,7 +198,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XA-825 </span></h2>
                         <!-- varianten headline -->
-                        <p>自由自在，轻松出行，享受自由，享受自在</p>
+                        <p>Free, easy travel, enjoy freedom, enjoy free</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -308,7 +308,7 @@
 <div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-            <li><a href="../../index.php" title="产品展示">产品展示</a></li>
+            <li><a href="../../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="#" title="">XA series</a></li>
         </ul>
     </div>

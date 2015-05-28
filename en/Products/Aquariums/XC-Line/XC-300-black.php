@@ -89,7 +89,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XC series</li>
                             <li>XC-300</li>
                         </ul>
@@ -115,7 +115,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-300 </span></h2>
                         <!-- varianten headline -->
-                        <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+                        <p>Simple yet elegant, modern and yet elegant. Simple, stylish, elegance is synonymous with our。</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -154,7 +154,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XC series</li>
                             <li>XC-360</li>
                         </ul>
@@ -180,7 +180,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-360 </span></h2>
                         <!-- varianten headline -->
-                        <p>细节决定成败，关注每一处细节，用心自我体验。每一个产品都经过漫长的反复多次的测试与试验，从粗到精的漫长过程，以最完美的身姿呈现在您面前。</p>
+                        <p>Details determine success or failure, attention to every detail, the intentions of self-experience. Every product through a long testing and test repeated many times, from coarse to fine long process, the most perfect posture presented in front of you.</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -219,7 +219,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XC series</li>
                             <li>XC-400</li>
                         </ul>
@@ -245,7 +245,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-400 </span></h2>
                         <!-- varianten headline -->
-                        <p>细节决定成败，关注每一处细节，用心自我体验。每一个产品都经过漫长的反复多次的测试与试验，从粗到精的漫长过程，以最完美的身姿呈现在您面前。</p>
+                        <p>Details determine success or failure, attention to every detail, the intentions of self-experience. Every product through a long testing and test repeated many times, from coarse to fine long process, the most perfect posture presented in front of you.</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -282,7 +282,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XC series</li>
                             <li>XC-460</li>
                         </ul>
@@ -308,7 +308,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-460 </span></h2>
                         <!-- varianten headline -->
-                        <p>细节决定成败，关注每一处细节，用心自我体验。每一个产品都经过漫长的反复多次的测试与试验，从粗到精的漫长过程，以最完美的身姿呈现在您面前。</p>
+                        <p>Details determine success or failure, attention to every detail, the intentions of self-experience. Every product through a long testing and test repeated many times, from coarse to fine long process, the most perfect posture presented in front of you.</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -345,7 +345,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XC series</li>
                             <li>XC-600</li>
                         </ul>
@@ -371,7 +371,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-600 </span></h2>
                         <!-- varianten headline -->
-                        <p>细节决定成败，关注每一处细节，用心自我体验。每一个产品都经过漫长的反复多次的测试与试验，从粗到精的漫长过程，以最完美的身姿呈现在您面前。</p>
+                        <p>Details determine success or failure, attention to every detail, the intentions of self-experience. Every product through a long testing and test repeated many times, from coarse to fine long process, the most perfect posture presented in front of you.</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -407,7 +407,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XC series</li>
                             <li>XC-800</li>
                         </ul>
@@ -433,7 +433,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XC-800 </span></h2>
                         <!-- varianten headline -->
-                        <p>细节决定成败，关注每一处细节，用心自我体验。每一个产品都经过漫长的反复多次的测试与试验，从粗到精的漫长过程，以最完美的身姿呈现在您面前。</p>
+                        <p>Details determine success or failure, attention to every detail, the intentions of self-experience. Every product through a long testing and test repeated many times, from coarse to fine long process, the most perfect posture presented in front of you.</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -549,7 +549,7 @@
 <div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-            <li><a href="../../index.php" title="产品展示">产品展示</a></li>
+            <li><a href="../../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="#" title="">XC series</a></li>
         </ul>
     </div>

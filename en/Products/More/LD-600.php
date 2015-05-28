@@ -20,8 +20,8 @@
         <div class="content clearfix accessories_detail">
             <div class="breadcrumb accessories-detail nav clearfix">
                 <ul class="fl">
-                    <li>您的位置:</li>
-                    <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
+                    <li>You are here:</li>
+                    <li><a href="../../../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="LD-030.php" title="LED series">LED series</a></li>
                     <li><a href="LD-300.php" title="LD-3系列">LD-3系列</a></li>
                     <li>LD-600</li>
@@ -228,7 +228,7 @@
 <div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-            <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
+            <li><a href="../../../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="LD-030.php" title="LED series">LED series</a></li>
             <li><a href="LD-300.php" title=">LD-3系列">LD-0系列</a></li>
             <li><a href="#" title="LD-600">LD-600</a></li>

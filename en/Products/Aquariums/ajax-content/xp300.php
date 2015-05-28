@@ -69,14 +69,14 @@
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">XP-300水族箱</td>
+                    <td colspan="3">XP-300Aquariums</td>
                 </tr>
                 </thead>
                 <tbody>
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">产品名称</td>
-                    <td>XP-300水族箱</td>
+                    <td>XP-300Aquariums</td>
                 </tr>
                 <tr>
                     <td class="icon dekore">&nbsp;</td>

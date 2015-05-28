@@ -16,8 +16,8 @@
         <div class="content clearfix accessories_detail">
             <div class="breadcrumb accessories-detail nav clearfix">
                 <ul class="fl">
-                    <li>您的位置:</li>
-                    <li><a href="../../index.php" title="产品展示">产品展示</a></li>
+                    <li>You are here:</li>
+                    <li><a href="../../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="CC1.php" title="Magnetic series">Magnetic series</a></li>
                     <li>海星磁擦</li>
                 </ul>
@@ -126,7 +126,7 @@
 
                                 <p>
                                     采用优质树脂制作，品质更高，手感更舒适，超强稀土钕磁铁，磁性超强。新颖动物造型，，好动的河马，以星形得名的海星，浑身是刺的石头鱼，终生不眠的海豚，凶狠的鲨鱼，霸气的螃蟹，好吃蚊子的大肚鱼，幽远的海螺
-                                    ，惹人喜爱的乌龟。使用时将一块放入水族箱内，另一块放在缸外即可吸附一起，移动外面一块可带动里面一块随意活动，宛若栩栩如生的海底动物在缸内愉悦地玩耍。为您的鱼缸更添一份点缀且真实的气息。</p>
+                                    ，惹人喜爱的乌龟。使用时将一块放入Aquariums内，另一块放在缸外即可吸附一起，移动外面一块可带动里面一块随意活动，宛若栩栩如生的海底动物在缸内愉悦地玩耍。为您的鱼缸更添一份点缀且真实的气息。</p>
 
                                 <p><br/><br/>可选造型：河马、海星、石头鱼、海豚、鲨鱼、小蟹、大肚鱼、乌龟、海螺<br/>
                                 </p>
@@ -213,7 +213,7 @@
 <div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-            <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
+            <li><a href="../../../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Magnetic series">Magnetic series</a></li>
             <li><a href="#">海星磁擦 </a></li>
         </ul>

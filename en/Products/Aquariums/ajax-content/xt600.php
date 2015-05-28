@@ -11,7 +11,7 @@
                 <h2>XT-600</h2>
 
                 <p>
-                    全新LED灯照明完美升级，独立上部过滤系统，鱼缸美学巅峰之作，带给您无与伦比的自然体验！独立上部过滤系统，一个高效过滤和抽水、增氧完美融合于一体的系统。高质量优质水族箱，高粘结力，高抗拉强度，持久的柔韧性，确保产品的抗衰性和防爆性，别具一格的开放式设计，典雅精致。</p>
+                    全新LED灯照明完美升级，独立上部过滤系统，鱼缸美学巅峰之作，带给您无与伦比的自然体验！独立上部过滤系统，一个高效过滤和抽水、增氧完美融合于一体的系统。高质量优质Aquariums，高粘结力，高抗拉强度，持久的柔韧性，确保产品的抗衰性和防爆性，别具一格的开放式设计，典雅精致。</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xt.jpg" alt="">
@@ -68,14 +68,14 @@
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">XT-600水族箱</td>
+                    <td colspan="3">XT-600Aquariums</td>
                 </tr>
                 </thead>
                 <tbody>
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">产品名称</td>
-                    <td>XT-600水族箱</td>
+                    <td>XT-600Aquariums</td>
                 </tr>
                 <tr>
                     <td class="icon dekore">&nbsp;</td>

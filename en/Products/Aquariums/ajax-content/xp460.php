@@ -10,7 +10,7 @@
             <div class="grid_8">
                 <h2>XP-460 随意替换滤材，水质永远都这么干净。</h2>
 
-                <p>简约时尚，力求精致、安全是我们精心为您打造的专属水族箱。47 X 29 X　39.8CM的外型为您沉稳、典雅的客厅增添一道亮丽的风景线。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
+                <p>简约时尚，力求精致、安全是我们精心为您打造的专属Aquariums。47 X 29 X　39.8CM的外型为您沉稳、典雅的客厅增添一道亮丽的风景线。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
                     可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。
                 </p>
             </div>
@@ -69,14 +69,14 @@
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">XP-460水族箱</td>
+                    <td colspan="3">XP-460Aquariums</td>
                 </tr>
                 </thead>
                 <tbody>
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">产品名称</td>
-                    <td>XP-460水族箱</td>
+                    <td>XP-460Aquariums</td>
                 </tr>
                 <tr>
                     <td class="icon dekore">&nbsp;</td>

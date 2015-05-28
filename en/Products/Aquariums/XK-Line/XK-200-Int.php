@@ -68,7 +68,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XK series</li>
                             <li>XK-200</li>
                         </ul>
@@ -88,7 +88,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XK-200 </span></h2>
                         <!-- varianten headline -->
-                        <p>世界顶级浮法玻璃，通透大气，打造透明的世界，每一个棱角，每一道线条都追求完美。</p>
+                        <p>World-class float glass, transparent atmosphere, creating a transparent world, every corner, every line are the pursuit of perfection.</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -120,7 +120,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XK series</li>
                             <li>XK-250</li>
                         </ul>
@@ -140,7 +140,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XK-250 </span></h2>
                         <!-- varianten headline -->
-                        <p>世界顶级浮法玻璃，通透大气，打造透明的世界，每一个棱角，每一道线条都追求完美。</p>
+                        <p>World-class float glass, transparent atmosphere, creating a transparent world, every corner, every line are the pursuit of perfection.</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -254,7 +254,7 @@
 <div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-            <li><a href="../../index.php" title="产品展示">产品展示</a></li>
+            <li><a href="../../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="#" title="">XK series</a></li>
         </ul>
     </div>

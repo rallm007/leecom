@@ -89,7 +89,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XE series</li>
                             <li>XE-300</li>
                         </ul>
@@ -115,7 +115,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE-300 </span></h2>
                         <!-- varianten headline -->
-                        <p>简洁而不失大方，现代而不失典雅。简约，时尚、优雅是我们的代名词。</p>
+                        <p>Simple yet elegant, modern and yet elegant. Simple, stylish, elegance is synonymous with our。</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -154,7 +154,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XE series</li>
                             <li>XE-360</li>
                         </ul>
@@ -180,7 +180,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE-360 </span></h2>
                         <!-- varianten headline -->
-                        <p>高雅却不张扬，奢华却不累赘，不经意营造一种浪漫而独具魅力的气息。</p>
+                        <p>Elegant but discreet, luxurious but not cumbersome, inadvertently create a romantic and charming atmosphere.</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -219,7 +219,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XE series</li>
                             <li>XE-400</li>
                         </ul>
@@ -245,7 +245,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE-400 </span></h2>
                         <!-- varianten headline -->
-                        <p>高雅却不张扬，奢华却不累赘，不经意营造一种浪漫而独具魅力的气息。</p>
+                        <p>Elegant but discreet, luxurious but not cumbersome, inadvertently create a romantic and charming atmosphere.</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -282,7 +282,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XE series</li>
                             <li>XE-460</li>
                         </ul>
@@ -308,7 +308,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE-460 </span></h2>
                         <!-- varianten headline -->
-                        <p>高雅却不张扬，奢华却不累赘，不经意营造一种浪漫而独具魅力的气息。</p>
+                        <p>Elegant but discreet, luxurious but not cumbersome, inadvertently create a romantic and charming atmosphere.</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -345,7 +345,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XE series</li>
                             <li>XE-600</li>
                         </ul>
@@ -371,7 +371,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE-600 </span></h2>
                         <!-- varianten headline -->
-                        <p>高雅却不张扬，奢华却不累赘，不经意营造一种浪漫而独具魅力的气息。</p>
+                        <p>Elegant but discreet, luxurious but not cumbersome, inadvertently create a romantic and charming atmosphere.</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -407,7 +407,7 @@
                     <!-- Breadcrumb -->
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
-                            <li>您的位置:</li>
+                            <li>You are here:</li>
                             <li>XE series</li>
                             <li>XE-800</li>
                         </ul>
@@ -433,7 +433,7 @@
                     <div class="right">
                         <h2 class="tk-myriad-pro tk-light"><span class="product-line green">XE-800 </span></h2>
                         <!-- varianten headline -->
-                        <p>高雅却不张扬，奢华却不累赘，不经意营造一种浪漫而独具魅力的气息。</p>
+                        <p>Elegant but discreet, luxurious but not cumbersome, inadvertently create a romantic and charming atmosphere.</p>
                         <!-- Dekor-/Farb-Auswahl -->
                         <div class="variations nav clearfix">
                             <div class="oh">
@@ -549,7 +549,7 @@
 <div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-            <li><a href="../../index.php" title="产品展示">产品展示</a></li>
+            <li><a href="../../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="#" title="">XE series</a></li>
         </ul>
     </div>

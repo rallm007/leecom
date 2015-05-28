@@ -16,8 +16,8 @@
         <div class="content clearfix accessories_detail">
             <div class="breadcrumb accessories-detail nav clearfix">
                 <ul class="fl">
-                    <li>您的位置:</li>
-                    <li><a href="../../index.php" title="产品展示">产品展示</a></li>
+                    <li>You are here:</li>
+                    <li><a href="../../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Power head">Power head</a></li>
                     <li><a href="PF-120.php" title="PFPower head">PFPower head</a></li>
                     <li>PF-140</li>
@@ -245,7 +245,7 @@
 <div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-            <li><a href="../../../index.php" title="产品展示">产品展示</a></li>
+            <li><a href="../../../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Power head">Power head</a></li>
             <li><a href="#" title="PFPower head">PFPower head</a></li>
         </ul>

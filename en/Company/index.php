@@ -17,7 +17,7 @@
             <!-- Breadcrumb -->
             <div class="breadcrumb nav clearfix">
                 <ul class="fl">
-                    <li>您的位置:</li>
+                    <li>You are here:</li>
                     <li><a href="index.htm">COMPANY</a></li>
                 </ul>
             </div>
@@ -27,7 +27,7 @@
             <div class="grid_3 nav">
                 <ul class="sub-nav simple">
                     <li class="active">
-                        <span>关于我们</span>
+                        <span>About us</span>
                     </li>
                 </ul>
 
@@ -41,7 +41,7 @@
                 <div class="ueber-uns"><!-- Newsfeed -->
                     <div class="content-detail">
                         <h2>
-                            关于我们</h2>
+                            About us</h2>
 
                         <p>
                             广州日创橡塑电器有限公司创建于2002年，经过多年的不懈努力和科技创新，已发展成为实力雄厚，
