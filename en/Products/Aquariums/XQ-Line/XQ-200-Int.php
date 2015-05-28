@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-cn.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-en.php"); ?>
 
 <!-- Main-Area -->
 <div id="main">
@@ -27,7 +27,7 @@
     <div class="product-thumbnail-navi clearfix closed">
         <div class="page_margins">
             <div class="inner-wrapper">
-                <h1 class="tk-myriad-pro tk-light">XQ系列</h1>
+                <h1 class="tk-myriad-pro tk-light">XQ series</h1>
                 <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一页</a>
 
                 <div class="slider-wrapper">
@@ -69,7 +69,7 @@
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
                             <li>您的位置:</li>
-                            <li>XQ系列</li>
+                            <li>XQ series</li>
                             <li>XQ-200</li>
                         </ul>
                     </div>
@@ -142,7 +142,7 @@
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
                             <li>您的位置:</li>
-                            <li>XQ系列</li>
+                            <li>XQ series</li>
                             <li>XQ-250</li>
                         </ul>
                     </div>
@@ -214,7 +214,7 @@
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
                             <li>您的位置:</li>
-                            <li>XQ系列</li>
+                            <li>XQ series</li>
                             <li>XQ-250</li>
                         </ul>
                     </div>
@@ -306,13 +306,13 @@
                 loader.show()			   // loader einblenden
 
                 // url für Request
-                // var url = 'http://www.leecom.cn/partials/produkt-detail/ajax-content/ajax.php/'
+                // var url = 'http://www.leecom.en/partials/produkt-detail/ajax-content/ajax.php/'
                 var sData = "cl=srajax&fnc=getArticleContent&tpl=srarticlecontent.tpl&anid=" + iArtId + "";
 
                 //data: {artId: iArtId},
 
                 // if(window.location.protocol.indexOf("https") >= 0) {
-                // 	var sUrl = "https://www.leecom.cn/cn/Products/Aquariums/XQ-Line/XQ-300-black.php#!leecom-xq200wcl=srajax";
+                // 	var sUrl = "https://www.leecom.en/en/Products/Aquariums/XQ-Line/XQ-300-black.php#!leecom-xq200wcl=srajax";
                 // } else {
                 var sUrl = "../ajax-content/" + iArtId + ".php";
                 // }
@@ -370,11 +370,11 @@
     <div class="page_margins">
         <ul>
             <li><a href="../../index.php" title="产品展示">产品展示</a></li>
-            <li><a href="#" title="">XQ系列</a></li>
+            <li><a href="#" title="">XQ series</a></li>
         </ul>
     </div>
 </div>
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-cn.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-en.php"); ?>
 
 <div id="sroverlay"
      style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999999999999999;display: none;"></div>

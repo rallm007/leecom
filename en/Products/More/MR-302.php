@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-cn.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-en.php"); ?>
 
 <!-- Main-Area -->
 <div id="main">
@@ -6,7 +6,7 @@
     <div class="simple-stage">
         <div class="page_margins inner_stage"
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
-            <h1 class="tk-myriad-pro tk-light">附件系列</h1>
+            <h1 class="tk-myriad-pro tk-light">Accessories series</h1>
 
             <p>您不可或缺的鱼缸伴侣</p>
         </div>
@@ -18,7 +18,7 @@
                 <ul class="fl">
                     <li>您的位置:</li>
                     <li><a href="../index.php" title="产品展示">产品展示</a></li>
-                    <li><a href="../index.php" title="附件系列">附件系列</a></li>
+                    <li><a href="../index.php" title="Accessories series">Accessories series</a></li>
                     <li>MR-302生化球</li>
                 </ul>
             </div>
@@ -29,7 +29,7 @@
                 <ul class="sub-nav">
 
                     <li class="active">
-                        <span>附件系列</span>
+                        <span>Accessories series</span>
 
 
                         <ul>
@@ -205,12 +205,12 @@
     <div class="page_margins">
         <ul>
             <li><a href="../index.php" title="产品展示">产品展示</a></li>
-            <li><a href="../index.php" title="附件系列">附件系列</a></li>
+            <li><a href="../index.php" title="Accessories series">Accessories series</a></li>
             <li><a href="#">MR-302生化球 </a></li>
         </ul>
     </div>
 </div>
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-cn.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-en.php"); ?>
 <div id="sroverlay"
      style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999999999999999;display: none;"></div>
 </body>

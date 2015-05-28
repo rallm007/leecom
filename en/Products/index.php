@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-cn.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-en.php"); ?>
 
 <!-- Main-Area -->
 <div id="main">
@@ -28,7 +28,7 @@
                         <img src="../../out/img/xp/xp300_346.png" alt="" width="347" height="420">
                         <map id="xpmap">
                             <area shape="rect" coords="0,0,347,420"
-                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XP-Line/XP-300-black.php" alt=""/>
+                                  href="<?php echo $site_url ?>en/Products/Aquariums/XP-Line/XP-300-black.php" alt=""/>
                         </map>
                     </div>
                     <div class="hidden">
@@ -41,7 +41,7 @@
                         <img src="../../out/img/xc/xc300_346.png" alt="" width="347" height="420">
                         <map id="xcmap">
                             <area shape="rect" coords="0,0,347,420"
-                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XC-Line/XC-300-black.php" alt=""/>
+                                  href="<?php echo $site_url ?>en/Products/Aquariums/XC-Line/XC-300-black.php" alt=""/>
                         </map>
                     </div>
                     <div class="hidden">
@@ -54,7 +54,7 @@
                         <img src="../../out/img/xt/xt300_346.png" alt="" width="347" height="420">
                         <map id="xtmap">
                             <area shape="rect" coords="0,0,347,420"
-                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XT-Line/XT-300-black.php" alt=""/>
+                                  href="<?php echo $site_url ?>en/Products/Aquariums/XT-Line/XT-300-black.php" alt=""/>
                         </map>
                     </div>
                     <div class="hidden">
@@ -67,7 +67,7 @@
                         <img src="../../out/img/xe/xe300_346.png" alt="" width="347" height="420"></a>
                         <map id="xemap">
                             <area shape="rect" coords="0,0,347,420"
-                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XE-Line/XE-300-black.php" alt=""/>
+                                  href="<?php echo $site_url ?>en/Products/Aquariums/XE-Line/XE-300-black.php" alt=""/>
                         </map>
                     </div>
                     <div class="hidden">
@@ -80,7 +80,7 @@
                         <img src="../../out/img/xk/xk200_346.png" alt="" width="347" height="420">
                         <map id="xkmap">
                             <area shape="rect" coords="0,0,347,420"
-                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XK-Line/XK-200-Int.php"
+                                  href="<?php echo $site_url ?>en/Products/Aquariums/XK-Line/XK-200-Int.php"
                                   alt=""/>
                         </map>
                     </div>
@@ -94,7 +94,7 @@
                         <img src="../../out/img/xa/xa815_346.png" alt="" width="347" height="420">
                         <map id="xamap">
                             <area shape="rect" coords="0,0,347,420"
-                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XA-Line/XA-815-Int.php"
+                                  href="<?php echo $site_url ?>en/Products/Aquariums/XA-Line/XA-815-Int.php"
                                   alt=""/>
                         </map>
                     </div>
@@ -108,7 +108,7 @@
                         <img src="../../out/img/xf/xf060_346.png" alt="" width="347" height="420">
                         <map id="xfmap">
                             <area shape="rect" coords="0,0,347,420"
-                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XF-Line/XF-40-black-Int.php"
+                                  href="<?php echo $site_url ?>en/Products/Aquariums/XF-Line/XF-40-black-Int.php"
                                   alt=""/>
                         </map>
                     </div>
@@ -122,7 +122,7 @@
                         <img src="../../out/img/xq/xq200_346.png" alt="" width="347" height="420">
                         <map id="xqmap">
                             <area shape="rect" coords="0,0,347,420"
-                                  href="<?php echo $site_url ?>cn/Products/Aquariums/XQ-Line/XQ-200-Int.php"
+                                  href="<?php echo $site_url ?>en/Products/Aquariums/XQ-Line/XQ-200-Int.php"
                                   alt=""/>
                         </map>
                     </div>
@@ -150,7 +150,7 @@
                 <div class="image">
                     <img src="../../out/img/more/aq_au_ni_545.jpg" alt="" style="height: 177px; width: 254px;"></div>
                 <div class="content" style="height: 150px;">
-                    <h2>气泵系列</h2>
+                    <h2>Air pump</h2>
 
                     <p>您爱鱼的有氧生态舱</p>
                     <span class="button ci3">了解详情</span>
@@ -160,7 +160,7 @@
                 <div class="image">
                     <img src="../../out/img/more/pf_ps_545.jpg" alt="" style="height: 177px; width: 254px;"></div>
                 <div class="content" style="height: 150px;">
-                    <h2>水泵系列</h2>
+                    <h2>Power head</h2>
 
                     <p>澎湃性能，高效超凡</p>
                     <span class="button ci3">了解详情</span>
@@ -170,7 +170,7 @@
                 <div class="image">
                     <img src="../../out/img/more/er_545.jpg" alt="" style="height: 177px; width: 254px;"></div>
                 <div class="content" style="height: 150px;">
-                    <h2>磁擦系列</h2>
+                    <h2>Magnetic series</h2>
 
                     <p>一切创新是为了给你不一样的体验</p>
                     <span class="button ci3">了解详情</span>
@@ -191,7 +191,7 @@
         </ul>
     </div>
 </div>
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-cn.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-en.php"); ?>
 
 <div id="sroverlay"
      style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999999999999999;display: none;"></div>

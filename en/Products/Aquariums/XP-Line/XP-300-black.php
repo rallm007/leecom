@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-cn.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-en.php"); ?>
 
 <!-- Main-Area -->
 <div id="main">
@@ -43,7 +43,7 @@
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
                             <li>您的位置:</li>
-                            <li>XP系列</li>
+                            <li>XP series</li>
                             <li>XP-300</li>
                         </ul>
                     </div>
@@ -108,7 +108,7 @@
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
                             <li>您的位置:</li>
-                            <li>XP系列</li>
+                            <li>XP series</li>
                             <li>XP-360</li>
                         </ul>
                     </div>
@@ -173,7 +173,7 @@
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
                             <li>您的位置:</li>
-                            <li>XP系列</li>
+                            <li>XP series</li>
                             <li>XP-400</li>
                         </ul>
                     </div>
@@ -236,7 +236,7 @@
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
                             <li>您的位置:</li>
-                            <li>XP系列</li>
+                            <li>XP series</li>
                             <li>XP-460</li>
                         </ul>
                     </div>
@@ -298,7 +298,7 @@
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
                             <li>您的位置:</li>
-                            <li>XP系列</li>
+                            <li>XP series</li>
                             <li>XP-600</li>
                         </ul>
                     </div>
@@ -360,7 +360,7 @@
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
                             <li>您的位置:</li>
-                            <li>XP系列</li>
+                            <li>XP series</li>
                             <li>XP-800</li>
                         </ul>
                     </div>
@@ -438,13 +438,13 @@
                 loader.show()			   // loader einblenden
 // alert(substr(iArtId,0,5));
                 // url für Request
-                // var url = 'http://www.leecom.cnpartials/produkt-detail/ajax-content/ajax.php/'
+                // var url = 'http://www.leecom.enpartials/produkt-detail/ajax-content/ajax.php/'
                 var sData = "cl=srajax&fnc=getArticleContent&tpl=srarticlecontent.tpl&anid=" + iArtId + "";
 
                 //data: {artId: iArtId},
 
                 // if(window.location.protocol.indexOf("https") >= 0) {
-                // 	var sUrl = "https://www.leecom.cncn/Products/Aquariums/XP-Line/XP-300-black.php#!leecom-xp300bcl=srajax";
+                // 	var sUrl = "https://www.leecom.enen/Products/Aquariums/XP-Line/XP-300-black.php#!leecom-xp300bcl=srajax";
                 // } else {
                 var sUrl = "../ajax-content/" + iArtId + ".php";
                 // }
@@ -502,11 +502,11 @@
     <div class="page_margins">
         <ul>
             <li><a href="../../index.php" title="产品展示">产品展示</a></li>
-            <li><a href="#" title="">XP系列</a></li>
+            <li><a href="#" title="">XP series</a></li>
         </ul>
     </div>
 </div>
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-cn.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-en.php"); ?>
 
 <div id="sroverlay"
      style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999999999999999;display: none;"></div>

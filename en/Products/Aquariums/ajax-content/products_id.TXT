@@ -68,7 +68,7 @@ w/1173/xp300.png
   /750/
 b/1173/
 
-<a href="<?php echo $site_url?>cn/Products/Aquariums/XP-Line/XP-300-black.php">
+<a href="<?php echo $site_url?>en/Products/Aquariums/XP-Line/XP-300-black.php">
 more
 77*77		png格式
 278*278		png格式

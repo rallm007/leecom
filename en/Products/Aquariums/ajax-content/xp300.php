@@ -10,7 +10,7 @@
             <div class="grid_8">
                 <h2>XP-300 不同的灯色，不同的感受</h2>
 
-                <p>XP-300是整个XP系列里最小的成员，简约而不简单，奢华而不俗套的外观，32 X 21 X 33.5CM的Tiny
+                <p>XP-300是整个XP series里最小的成员，简约而不简单，奢华而不俗套的外观，32 X 21 X 33.5CM的Tiny
                     Size，轻松融入各种居家装修设计风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
                     可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。
                     <br/><br/>黑色、白色任您选择。
@@ -154,7 +154,7 @@
                 <thead>
                 <tr>
                     <td colspan="3">CF-300/360上部过滤器<a
-                            href="../../../../cn/Products/More/QP/Filtersystems/Bioflow-Filter-M-Filter-system-Bioflow-3-0.php"
+                            href="../../../../en/Products/More/QP/Filtersystems/Bioflow-Filter-M-Filter-system-Bioflow-3-0.php"
                             class="arrow-link">产品</a></td>
                 </tr>
                 </thead>

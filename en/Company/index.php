@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-cn.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-en.php"); ?>
 
 <!-- Main-Area -->
 <div id="main">
@@ -6,7 +6,7 @@
     <div class="simple-stage" aktuelles>
         <div class="page_margins inner_stage"
              style="background-image:url(<?php echo $site_url; ?>out/pictures/master/category/subheader/decontent.png)">
-            <h1 class="tk-myriad-pro tk-light">公司简介</h1>
+            <h1 class="tk-myriad-pro tk-light">COMPANY</h1>
 
             <p></p>
         </div>
@@ -18,7 +18,7 @@
             <div class="breadcrumb nav clearfix">
                 <ul class="fl">
                     <li>您的位置:</li>
-                    <li><a href="index.htm">公司简介</a></li>
+                    <li><a href="index.htm">COMPANY</a></li>
                 </ul>
             </div>
             <!-- ende-> Breadcrumb -->
@@ -71,11 +71,11 @@
     <div id="breadcrumb-bottom" class="nav">
         <div class="page_margins">
             <ul>
-                <li><a href="index.htm" title="Company">公司简介</a></li>
+                <li><a href="index.htm" title="Company">COMPANY</a></li>
             </ul>
         </div>
     </div>
-    <?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-cn.php"); ?>
+    <?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-en.php"); ?>
 
     <div id="sroverlay"
          style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999999999999999;display: none;"></div>

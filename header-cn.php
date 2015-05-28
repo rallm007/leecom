@@ -15,7 +15,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=1024"/>
-    <meta name="description" content="XP-300 black -">
+    <meta name="description" content="XP-300">
     <meta name="keywords" content="xp-300, 125, black, products, aquariums, line">
     <meta property="og:locale" content="fr_FR"/>
     <meta property="fb:app_id" content="532575290153827"/>

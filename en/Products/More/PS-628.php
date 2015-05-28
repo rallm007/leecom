@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-cn.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-en.php"); ?>
 
 <!-- Main-Area -->
 <div id="main">
@@ -6,7 +6,7 @@
     <div class="simple-stage">
         <div class="page_margins inner_stage"
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
-            <h1 class="tk-myriad-pro tk-light">缸内过滤系列</h1>
+            <h1 class="tk-myriad-pro tk-light">Internal filter series</h1>
 
             <p>还您一个宁静的世界</p>
         </div>
@@ -18,7 +18,7 @@
                 <ul class="fl">
                     <li>您的位置:</li>
                     <li><a href="../index.php" title="产品展示">产品展示</a></li>
-                    <li><a href="../index.php" title="缸内过滤系列">缸内过滤系列</a></li>
+                    <li><a href="../index.php" title="Internal filter series">Internal filter series</a></li>
                     <li><a href="PS-618.php" title="PS系列">PS系列</a></li>
                     <li>PS-628</li>
                 </ul>
@@ -225,12 +225,12 @@
     <div class="page_margins">
         <ul>
             <li><a href="../index.php" title="产品展示">产品展示</a></li>
-            <li><a href="../index.php" title="缸内过滤系列">缸内过滤系列</a></li>
+            <li><a href="../index.php" title="Internal filter series">Internal filter series</a></li>
             <li><a href="#" title="PS系列">PS系列</a></li>
         </ul>
     </div>
 </div>
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-cn.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-en.php"); ?>
 <div id="sroverlay"
      style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999999999999999;display: none;"></div>
 </body>

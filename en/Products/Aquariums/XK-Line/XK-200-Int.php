@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-cn.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-en.php"); ?>
 
 <!-- Main-Area -->
 <div id="main">
@@ -27,7 +27,7 @@
     <div class="product-thumbnail-navi clearfix closed">
         <div class="page_margins">
             <div class="inner-wrapper">
-                <h1 class="tk-myriad-pro tk-light">XK系列</h1>
+                <h1 class="tk-myriad-pro tk-light">XK series</h1>
                 <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一页</a>
 
                 <div class="slider-wrapper">
@@ -69,7 +69,7 @@
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
                             <li>您的位置:</li>
-                            <li>XK系列</li>
+                            <li>XK series</li>
                             <li>XK-200</li>
                         </ul>
                     </div>
@@ -121,7 +121,7 @@
                     <div class="breadcrumb nav fl clearfix">
                         <ul class="fl">
                             <li>您的位置:</li>
-                            <li>XK系列</li>
+                            <li>XK series</li>
                             <li>XK-250</li>
                         </ul>
                     </div>
@@ -191,13 +191,13 @@
                 loader.show()			   // loader einblenden
 
                 // url für Request
-                // var url = 'http://www.leecom.cn/partials/produkt-detail/ajax-content/ajax.php/'
+                // var url = 'http://www.leecom.en/partials/produkt-detail/ajax-content/ajax.php/'
                 var sData = "cl=srajax&fnc=getArticleContent&tpl=srarticlecontent.tpl&anid=" + iArtId + "";
 
                 //data: {artId: iArtId},
 
                 // if(window.location.protocol.indexOf("https") >= 0) {
-                // 	var sUrl = "https://www.leecom.cn/cn/Products/Aquariums/XK-Line/XK-300-black.php#!leecom-xk200wcl=srajax";
+                // 	var sUrl = "https://www.leecom.en/en/Products/Aquariums/XK-Line/XK-300-black.php#!leecom-xk200wcl=srajax";
                 // } else {
                 var sUrl = "../ajax-content/" + iArtId + ".php";
                 // }
@@ -255,11 +255,11 @@
     <div class="page_margins">
         <ul>
             <li><a href="../../index.php" title="产品展示">产品展示</a></li>
-            <li><a href="#" title="">XK系列</a></li>
+            <li><a href="#" title="">XK series</a></li>
         </ul>
     </div>
 </div>
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-cn.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-en.php"); ?>
 
 <div id="sroverlay"
      style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999999999999999;display: none;"></div>
