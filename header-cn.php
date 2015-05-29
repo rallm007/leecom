@@ -464,7 +464,7 @@
                     <a href="<?php echo $site_url . 'cn'; ?>/Service/FAQ/index.php"><span>服务中心</span></a>
                 </li>
                 <li class="contact">
-                    <a href="<?php echo $site_url; ?>index.php-lang=2&amp;cl=contact.php"><span>联系我们</span></a>
+                    <a href="<?php echo $site_url; ?>cn/contact.php"><span>联系我们</span></a>
                 </li>
             </ul>
         </div>

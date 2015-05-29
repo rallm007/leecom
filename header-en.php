@@ -1,13 +1,13 @@
 <?php $site_url = 'http://' . $_SERVER['SERVER_NAME'] . '/leecom/'; ?>
 <!DOCTYPE HTML>
 <!--[if lt IE 7 ]>
-<html lang="cn" class="no-js ie6"> <![endif]-->
+<html lang="en" class="no-js ie6"> <![endif]-->
 <!--[if IE 7 ]>
-<html lang="cn" class="no-js ie7"> <![endif]-->
+<html lang="en" class="no-js ie7"> <![endif]-->
 <!--[if IE 8 ]>
-<html lang="cn" class="no-js ie8"> <![endif]-->
+<html lang="en" class="no-js ie8"> <![endif]-->
 <!--[if IE 9 ]>
-<html lang="cn" class="no-js ie9"> <![endif]-->
+<html lang="en" class="no-js ie9"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!-->
 <html> <!--<![endif]-->
 <head>
@@ -65,7 +65,7 @@
             }
 
             function goto_cn() {
-                var _url = (this.location.href).replace('en', 'cn');
+                var _url = (this.location.href).replace('en', 'en');
                 this.location.href = _url.replace('_us', '');
             }
 
@@ -73,7 +73,7 @@
                 if(this.location.href == '<?php echo $site_url; ?>'+'index.php') {
                     this.location.href = '<?php echo $site_url; ?>'+'index_us.php';
                 } else {
-                    this.location.href = (this.location.href).replace('cn', 'en');
+                    this.location.href = (this.location.href).replace('en', 'en');
                 }
             }
         </script>
@@ -447,24 +447,24 @@
                 <li class="company has-drop">
                     <div class="drop">
                         <ul>
-                            <li><a href="<?php echo $site_url . 'cn'; ?>/Company/index.php">About us</a></li>
+                            <li><a href="<?php echo $site_url . 'en'; ?>/Company/index.php">About us</a></li>
                         </ul>
                         <div class="drop-btm"></div>
                     </div>
-                    <a href="<?php echo $site_url . 'cn'; ?>/Company/index.php"><span>COMPANY</span></a>
+                    <a href="<?php echo $site_url . 'en'; ?>/Company/index.php"><span>COMPANY</span></a>
                 </li>
                 <li class="service has-drop">
                     <div class="drop">
                         <ul>
                             <li><a onclick="_gaq.push(['_trackEvent', 'FAQ Quelle', 'click', 'Servicecenter']);"
-                                   href="<?php echo $site_url . 'cn'; ?>/Service/FAQ/index.php">FAQ</a></li>
+                                   href="<?php echo $site_url . 'en'; ?>/Service/FAQ/index.php">FAQ</a></li>
                         </ul>
                         <div class="drop-btm"></div>
                     </div>
-                    <a href="<?php echo $site_url . 'cn'; ?>/Service/FAQ/index.php"><span>SERVICE</span></a>
+                    <a href="<?php echo $site_url . 'en'; ?>/Service/FAQ/index.php"><span>SERVICE</span></a>
                 </li>
                 <li class="contact">
-                    <a href="<?php echo $site_url; ?>contact_us.php"><span>CONTACT</span></a>
+                    <a href="<?php echo $site_url; ?>en/contact.php"><span>CONTACT</span></a>
                 </li>
             </ul>
         </div>
