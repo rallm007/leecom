@@ -19,7 +19,7 @@
                     <li>You are here:</li>
                     <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Internal filter series">Internal filter series</a></li>
-                    <li><a href="PF-282.php" title="PF-2系列">PF-2系列</a></li>
+                    <li><a href="PF-282.php" title="PF-2 Series">PF-2 Series</a></li>
                     <li>PF-284</li>
                 </ul>
             </div>
@@ -30,7 +30,7 @@
                 <ul class="sub-nav">
 
                     <li class="active">
-                        <span>PF-2系列</span>
+                        <span>PF-2 Series</span>
 
 
                         <ul>
@@ -65,7 +65,7 @@
                     </li>
 
                     <li>
-                        <span>PS系列</span>
+                        <span>PS Series</span>
 
 
                         <ul>
@@ -121,8 +121,8 @@
                     <div class="tabs content-tabs">
                         <!-- Tab-Navigations-Laschen -->
                         <ul class="clearfix">
-                            <li><a href="#tabs-1">产品详情</a></li>
-                            <li><a href="#tabs-2">技术参数</a></li>
+                            <li><a href="#tabs-1">Product details</a></li>
+                            <li><a href="#tabs-2">Technical data</a></li>
                         </ul>
                         <div id="tabs-1">
 
@@ -131,7 +131,7 @@
                                 <h3>PF-284</h3>
 
                                 <p>
-                                    过滤、增氧、造浪于一体的三合一过滤器，外壳采用顶级加强型ABS塑料制造而成，过滤泵头主体部份全部采用进口铜线，性能更高，更有效省电，顶部灌胶密封，杜绝漏电安全隐患。多种过滤材质配置在内，起到更好的过滤功能。当中的高效活性炭有效净化水质，令水质更清澈；超大生化棉加大了被过滤面积，从而起到更好的过滤作用。过滤盒可拆卸，可以随时替换滤材以永保水质洁净。特别配置雨淋管和加氧管出水，接法多种多样，可以根据自己需求随意调节流量大小。</p>
+                                    过滤、增氧、造浪于一体的三合一过滤器，外壳采用顶级加强型ABS塑料制造而成，过滤泵头主体部份全部采用进口铜线，性能更高，更有效省电，顶部灌胶密封，杜绝漏电安全隐患。多种Filter material item配置在内，起到更好的过滤功能。当中的高效活性炭有效净化水质，令水质更清澈；超大生化棉加大了被过滤面积，从而起到更好的过滤作用。过滤盒可拆卸，可以随时替换滤材以永保水质洁净。特别配置雨淋管和加氧管出水，接法多种多样，可以根据自己需求随意调节流量大小。</p>
 
                                 <p><br/><br/>PF-282,283,284,285,286五个型号满足您不同鱼缸的需求。
                                     活性炭替换滤材型号：SP-22,SP-23,SP-24,SP-25,SP-26
@@ -149,7 +149,7 @@
                                     <tbody>
                                     <tr>
                                         <td class="icon energieverbrauch">&nbsp;</td>
-                                        <td class="topic">功率</td>
+                                        <td class="topic"> power</td>
                                         <td>7.0 W</td>
                                     </tr>
                                     <tr>
@@ -232,7 +232,7 @@
         <ul>
             <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Internal filter series">Internal filter series</a></li>
-            <li><a href="#" title="PF-2系列">PF-2系列</a></li>
+            <li><a href="#" title="PF-2 Series">PF-2 Series</a></li>
         </ul>
     </div>
 </div>

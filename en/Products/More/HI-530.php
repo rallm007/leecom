@@ -90,8 +90,8 @@
                     <div class="tabs content-tabs">
                         <!-- Tab-Navigations-Laschen -->
                         <ul class="clearfix">
-                            <li><a href="#tabs-1">产品详情</a></li>
-                            <li><a href="#tabs-2">技术参数</a></li>
+                            <li><a href="#tabs-1">Product details</a></li>
+                            <li><a href="#tabs-2">Technical data</a></li>
                         </ul>
                         <div id="tabs-1">
 
@@ -118,7 +118,7 @@
                                     <tbody>
                                     <tr>
                                         <td class="icon energieverbrauch">&nbsp;</td>
-                                        <td class="topic">功率</td>
+                                        <td class="topic"> power</td>
                                         <td>3.0 W</td>
                                     </tr>
                                     <tr>

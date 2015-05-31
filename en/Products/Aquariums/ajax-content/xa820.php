@@ -1,7 +1,7 @@
 <div class="tabs content-tabs full ui-tabs ui-widget ui-widget-content ui-corner-all">
     <ul class="clearfix ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all quantity-3">
-        <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">产品详情</a></li>
-        <li class="ui-state-default ui-corner-top"><a href="#tabs-2">技术参数</a></li>
+        <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">Product details</a></li>
+        <li class="ui-state-default ui-corner-top"><a href="#tabs-2">Technical data</a></li>
     </ul>
     <div id="tabs-1" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
 
@@ -11,7 +11,7 @@
                 <h2>XA-820设计经典，做工精美</h2>
 
                 <p>
-                    顶级的汽车级浮法玻璃，工艺精湛，晶莹剔透的感觉，经典大方的款式，特适合置于办公桌，闲暇之余，看一看悠游的爱鱼带走工作的疲累，享一份内心的宁静。开放式的设计令你加水或投食都如此便利，气量宏大的气泵静静地为水妖精输入源源不断的氧气，不但永远保持水质的洁净，还保证您的爱鱼永远都有足够的氧气。0.7W的LED灯不仅永远安全，而且还为您鱼缸增添一道光芒，给您的爱鱼添一份姿色。</p>
+                    顶级的汽车级浮法玻璃，工艺精湛，晶莹剔透的感觉，经典大方的款式，特适合置于办公桌，闲暇之余，看一看悠游的爱鱼带走工作的疲累，享一份内心的宁静。开放式的设计令你加水或投食都如此便利，气量宏大的气泵静静地为水妖精输入源源不断的氧气，不但永远保持水质的洁净，还保证您的爱鱼永远都有足够的氧气。0.7W的LED light不仅永远安全，而且还为您鱼缸增添一道光芒，给您的爱鱼添一份姿色。</p>
             </div>
             <!--  <div class="grid_4">
                  <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
@@ -23,7 +23,7 @@
                 <h3 class="icon-headline hight-lite">LQ灯---简约美观，让您尽享生活乐趣</h3>
 
                 <p>
-                    选用高亮度优质环保节能LED灯珠，色温高达8000K，具有强烈的渗透性，使您的爱鱼色彩更加艳丽夺目。最接近光合作用的光谱使水体清澈、透明，即便在光线极弱的夜间也照得您的鱼缸如此晶莹通透，给您无与伦比奇妙的视觉感受。<br>
+                    选用高亮度优质环保节能LED light珠，色温高达8000K，具有强烈的渗透性，使您的爱鱼色彩更加艳丽夺目。最接近光合作用的光谱使水体清澈、透明，即便在光线极弱的夜间也照得您的鱼缸如此晶莹通透，给您无与伦比奇妙的视觉感受。<br>
                 </p>
 
             </div>
@@ -87,7 +87,7 @@
                 <tbody>
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
-                    <td class="topic">产品名称</td>
+                    <td class="topic">Product name</td>
                     <td>XA-820迷你鱼缸</td>
                 </tr>
                 <tr>
@@ -108,19 +108,19 @@
                 </tr>
                 <tr>
                     <td class="icon measure">&nbsp;</td>
-                    <td class="topic">规格</td>
+                    <td class="topic">Specification</td>
                     <td>205 x205 x260 mm</td>
                 </tr>
 
                 <tr>
                     <td class="icon gewicht">&nbsp;</td>
-                    <td class="topic">重量</td>
+                    <td class="topic">Weight</td>
                     <td>4.1 Kg</td>
                 </tr>
 
                 <tr>
                     <td class="icon liter">&nbsp;</td>
-                    <td class="topic">容量</td>
+                    <td class="topic">Capacity</td>
                     <td>9.5 L</td>
                 </tr>
                 <tr>
@@ -140,7 +140,7 @@
                 </tr>
                 <tr>
                     <td class="icon watt">&nbsp;</td>
-                    <td class="topic">LED灯功率</td>
+                    <td class="topic">LED light power</td>
                     <td>1.5 W</td>
                 </tr>
                 <tr>

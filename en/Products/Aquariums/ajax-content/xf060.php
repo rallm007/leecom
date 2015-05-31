@@ -1,7 +1,7 @@
 <div class="tabs content-tabs full ui-tabs ui-widget ui-widget-content ui-corner-all">
     <ul class="clearfix ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all quantity-3">
-        <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">产品详情</a></li>
-        <li class="ui-state-default ui-corner-top"><a href="#tabs-2">技术参数</a></li>
+        <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">Product details</a></li>
+        <li class="ui-state-default ui-corner-top"><a href="#tabs-2">Technical data</a></li>
     </ul>
     <div id="tabs-1" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
 
@@ -25,7 +25,7 @@
                 <h3 class="icon-headline filter-heater">合二为一的生化过滤系统和节能照明系统</h3>
 
                 <p>
-                    节能环保的高亮度LED灯，想开就开想关就关，绝然不影响生化过滤系统的正常运作，过滤、增氧、照明系统的浑然一体令您的爱鱼享有更多的活动空间，满足您简约时尚的品味。滤盒中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附Aquariums内残留的鱼铒、鱼烘等杂质，和高效活性炭最大程度保证水质的洁净。<br>
+                    节能环保的高亮度LED light，想开就开想关就关，绝然不影响生化过滤系统的正常运作，过滤、增氧、照明系统的浑然一体令您的爱鱼享有更多的活动空间，满足您简约时尚的品味。滤盒中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附Aquariums内残留的鱼铒、鱼烘等杂质，和高效活性炭最大程度保证水质的洁净。<br>
                 </p>
 
             </div>
@@ -50,7 +50,7 @@
                 <tbody>
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
-                    <td class="topic">产品名称</td>
+                    <td class="topic">Product name</td>
                     <td>XF-060迷你鱼缸</td>
                 </tr>
                 <tr>
@@ -68,7 +68,7 @@
                 </tr>
                 <tr>
                     <td class="icon watt">&nbsp;</td>
-                    <td class="topic">LED灯功率</td>
+                    <td class="topic">LED light power</td>
                     <td>3 W</td>
                 </tr>
                 <tr>
@@ -78,24 +78,24 @@
                 </tr>
                 <tr>
                     <td class="icon measure">&nbsp;</td>
-                    <td class="topic">规格</td>
+                    <td class="topic">Specification</td>
                     <td>272 x166 x231 mm</td>
                 </tr>
 
                 <tr>
                     <td class="icon gewicht">&nbsp;</td>
-                    <td class="topic">重量</td>
+                    <td class="topic">Weight</td>
                     <td>3.1 Kg</td>
                 </tr>
 
                 <tr>
                     <td class="icon liter">&nbsp;</td>
-                    <td class="topic">容量</td>
+                    <td class="topic">Capacity</td>
                     <td>6 L</td>
                 </tr>
                 <tr>
                     <td class="icon energieverbrauch">&nbsp;</td>
-                    <td class="topic">水泵功率</td>
+                    <td class="topic">水泵 power</td>
                     <td>3 W</td>
                 </tr>
                 <tr>

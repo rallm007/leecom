@@ -5,22 +5,62 @@
 			<div class="col products">
         	<h4>Products</h4>
 				<ul>
-					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XP-Line/XP-125-black.php#!juwel-000000000000001300">XP-Line</a></li>
-					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XC-180-black.php#!juwel-xc300b">XC-Line</a></li>
-					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XT-Line/XT-190-black.php#!juwel-xt300b">XT-Line</a></li>
-					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XE-Line/XE-120-black.php#!juwel-xe300b">XE-Line</a></li>
-					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/Rekord-Line/Rekord-600-black-Int.php#!juwel-xk200b">迷你缸</a></li>
-					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XF-Line/XF-40-black-Int.php#!juwel-000000000000020040">XF-Line</a></li>
-					<li><a href="<?php echo $site_url.'en/Products/Aquariums';?>/XQ-Line/XQ-Line-60-Int.php#!juwel-000000000000023860">XQ Line</a></li>
-				</ul>
+					<li>
+                                    <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XP-Line/XP-300-black.php#!leecom-xp300b"
+                                       id="00000000031">XP Series</a></li>
+                                <!-- Aquarien -->
+                                <li>
+                                    <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XC-Line/XC-300-black.php#!leecom-xc300b"
+                                       id="00000000041">XC Series</a></li>
+                                <!-- Aquarien -->
+                                <li>
+                                    <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XT-Line/XT-300-black.php#!leecom-xt300b"
+                                       id="00000000051">XT Series</a></li>
+                                <!-- Aquarien -->
+                                <li>
+                                    <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XE-Line/XE-300-black.php#!leecom-xe300"
+                                       id="00000000061">XE Series</a></li>
+                                <!-- Aquarien -->
+                                <li>
+                                    <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XK-Line/XK-200-Int.php#!leecom-xk200"
+                                       id="00000000071">XK Series</a></li>
+                                <!-- Aquarien -->
+                                <li>
+                                    <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XA-Line/XA-815-Int.php#!leecom-xa815"
+                                       id="00000001289">XA Series</a></li>
+                                <li>
+                                    <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XF-Line/XF-060-white-Int.php#!leecom-xf060"
+                                       id="00000001271">XF Series</a></li>
+                                <!-- Aquarien -->
+                                <li>
+                                    <a href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XQ-Line/XQ-200-Int.php#!leecom-xq200"
+                                       id="00000001281">XQ Series</a></li>
+          </ul>
 				<ul>
-					<li><a href="<?php echo $site_url.'en/Products';?>/More/Lighting/Lighting-Tubes/HiLite-T5-Lighting-Tubes/HiLite-Day-438-mm-24-W-Tube-T5-24-W-T5-438-mm.php">LED Light</a></li>
-					<li><a href="<?php echo $site_url.'en/Products';?>/More/M1/Filter-Media/bioPad-S-Super-Comp-S-Poly-Pad-Bioflow-Super-Compact-Super.php">Filter</a></li>
-					<li><a href="<?php echo $site_url.'en/Products';?>/More/Decoration/Cliff-Dark/Background-Cliff-Dark-oxid.php">Air Pump</a></li>
-					<li><a href="<?php echo $site_url.'en/Products';?>/More/Accessories/Automatic-Feeder/EasyFeed-Automatic-Feeder.php">Accessories</a></li>
-					<li><a href="<?php echo $site_url.'en/Products';?>/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">磁擦</a></li>
-                    <li><a href="<?php echo $site_url.'en/Products';?>/More/Marine/Skimmer/Juwel-SeaSkim-INT.php">Insulation Rod</a></li>
-				</ul>
+					<li><a href="<?php echo $site_url . 'en/Products'; ?>/More/LD-030.php" id="00000000280">LED Series</a>
+                                </li>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/AQ-202.php" id="00000000281">Air Series</a>
+                                </li>
+                                <!-- Weiteres -->
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/PF-120.php" id="00000000291">Power head</a>
+                                </li>
+                                <!-- Weiteres -->
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/CC1.php" id="00000000301">Magnetic series</a>
+                                </li>
+                                <!-- Weiteres -->
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/MT-100.php" id="00000000311">Accessories Series</a>
+                                </li>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/KC-361.php" id="00000000312">Heater Series</a>
+                                </li>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/HI-330.php" id="00000000313">Hang-on filter Series</a>
+                                </li>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/PF-282.php" id="00000000314">Internal filter Series</a>
+                                </li>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/CF-600.php" id="00000000315">Top filter Series</a>
+                                </li>
+                                <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/IF-730.php" id="00000000316">Filter air Series</a>
+                                </li>
+          </ul>
 			</div> 
                 <div class="col">
         	<h4>Company</h4>
@@ -42,28 +82,11 @@
                 <li><a>Email：simon.lee@LEECOM.cn</a></li>
             </ul>
 		</div>
-        <div class="bottom-col clearfix">
-        	<ul class="payment display-none">
-                <li class="ir mastercard">MasterCard</li>
-                <li class="ir visa">Visa</li>
-                <li class="ir elv">ELV</li>
-            </ul>
-            <ul class="inline-nav clearfix">
-            	<li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic2.php">Cancellation</a></li>
-                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic3.php">Privacy policy</a></li>
-                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic4.php">Guarantee policy</a></li>
-            </ul>
-        </div>
     </div>
     <div id="footer-bottom">
         <div class="page_margins">
-        	<div class="ir"></div>
+        	<div class="ir" style="margin-left:300px;"></div>
             <span>2015 LEECOM - All rights reserved</span>
-            <ul class="inline-nav">
-                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=contact.php">Contact</a></li>
-                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic1.php">Imprint</a></li>
-                <li><a href="<?php echo $site_url;?>index.php-lang=1&cl=alist&cnid=destatic5.php">Businessterms</a></li>
-            </ul>
         </div>
     </div>
 </div>

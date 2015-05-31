@@ -245,7 +245,7 @@
             </div>
             <div id="product-loading-content"></div>
             <div class="go-top clear clearfix">
-                <a class="arrow-link top fr scroll-link" href="#header">回到页首</a>
+                <a class="arrow-link top fr scroll-link" href="#header">Go to top</a>
             </div>
         </div>
     </div>

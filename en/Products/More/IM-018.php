@@ -19,7 +19,7 @@
                     <li>You are here:</li>
                     <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Filter air series">Filter air series</a></li>
-                    <li><a href="IM-018.php" title="IM系列">IM系列</a></li>
+                    <li><a href="IM-018.php" title="IM Series">IM Series</a></li>
                     <li>IM-018水妖精</li>
                 </ul>
             </div>
@@ -30,7 +30,7 @@
                 <ul class="sub-nav">
 
                     <li>
-                        <span>IF系列</span>
+                        <span>IF Series</span>
 
 
                         <ul>
@@ -65,7 +65,7 @@
                     </li>
 
                     <li class="active">
-                        <span>IM系列</span>
+                        <span>IM Series</span>
 
 
                         <ul>
@@ -111,8 +111,8 @@
                     <div class="tabs content-tabs">
                         <!-- Tab-Navigations-Laschen -->
                         <ul class="clearfix">
-                            <li><a href="#tabs-1">产品详情</a></li>
-                            <li><a href="#tabs-2">技术参数</a></li>
+                            <li><a href="#tabs-1">Product details</a></li>
+                            <li><a href="#tabs-2">Technical data</a></li>
                         </ul>
                         <div id="tabs-1">
 
@@ -205,7 +205,7 @@
         <ul>
             <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Filter air series">Filter air series</a></li>
-            <li><a href="#" title="IM系列">IM系列</a></li>
+            <li><a href="#" title="IM Series">IM Series</a></li>
         </ul>
     </div>
 </div>

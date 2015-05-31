@@ -1,7 +1,7 @@
 <div class="tabs content-tabs full ui-tabs ui-widget ui-widget-content ui-corner-all">
     <ul class="clearfix ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all quantity-3">
-        <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">产品详情</a></li>
-        <li class="ui-state-default ui-corner-top"><a href="#tabs-2">技术参数</a></li>
+        <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">Product details</a></li>
+        <li class="ui-state-default ui-corner-top"><a href="#tabs-2">Technical data</a></li>
     </ul>
     <div id="tabs-1" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
 
@@ -39,7 +39,7 @@
                 <tbody>
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
-                    <td class="topic">产品名称</td>
+                    <td class="topic">Product name</td>
                     <td>XQ-300塑胶缸</td>
                 </tr>
                 <tr>
@@ -63,12 +63,12 @@
                 </tr>
                 <tr>
                     <td class="icon measure">&nbsp;</td>
-                    <td class="topic">规格</td>
+                    <td class="topic">Specification</td>
                     <td>328x 200x 250 mm</td>
                 </tr>
                 <tr>
                     <td class="icon liter">&nbsp;</td>
-                    <td class="topic">容量</td>
+                    <td class="topic">Capacity</td>
                     <td>11 L</td>
                 </tr>
                 </tbody>

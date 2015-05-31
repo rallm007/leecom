@@ -70,18 +70,18 @@
             <!-- Breadcrumb -->
             <div class="breadcrumb nav clearfix">
                 <ul class="fl">
-                    <li>您的位置：</li>
-                    <li>联系我们</li>
+                    <li>You are here：</li>
+                    <li>Contact Us</li>
                 </ul>
             </div>
-            <h1><strong>欢迎来到日创水族</strong></h1>
+            <h1><strong>Welcome to Leecom</strong></h1>
 
             <div class="grid_7 alpha">
                 <p class="introduction">
-                    <strong>保修条款</strong><br/>
-                    ☆自购买日期开始一年内，提供保修服务。<br/>
-                    ☆保修方式为送修方式，用户需将产品送到日创公司<br/>
-                    ☆超过保修期的产品，需提供维修服务时，请联络日创售后服务中心。
+                    <strong>Warranty</strong><br/>
+                    ☆Product warranty 12 months under normal use.<br/>
+                    ☆The users need to sent the air pump back to the Leecom company for repairs if needed.<br/>
+                    ☆More than the warranty period of the product, to provide maintenance services, please contact the service center at creating.
                 </p>
 
                 <script>
@@ -93,20 +93,20 @@
 
             <div class="grid_4 omega">
                 <p class="address"><strong>广州日创橡塑电器有限公司</strong><br/>
-                    址址：广东省广州市番禺区南村镇<br/>
+                    Address：广东省广州市番禺区南村镇<br/>
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     兴业路江南工业大道7号
                 </p>
                 <h4 class="tk-myriad-pro tk-semibold green">客户服务</h4>
 
                 <div class="tk-myriad-pro tk-semibold tel">
-                    电话：+86-20-34691002
+                    Tel：+86-20-34691002
                 </div>
                 <div class="tk-myriad-pro tk-semibold fax">
-                    传真：+86-20-3482 8538
+                    Fax：+86-20-3482 8538
                 </div>
                 <div class="tk-myriad-pro tk-semibold email">
-                    邮箱：simon.lee@leecom.cn
+                    Email：simon.lee@leecom.cn
                 </div>
                 <div class="tk-myriad-pro tk-semibold email">
                     邮箱：Sales02@leecom.cn
@@ -129,7 +129,7 @@
 <div id="breadcrumb-bottom" class="nav">
     <div class="page_margins">
         <ul>
-            <li><a href="index.php-lang=2&cl=contact.php" title="Contact">联系我们</a></li>
+            <li><a href="index.php-lang=2&cl=contact.php" title="Contact">Contact Us</a></li>
         </ul>
     </div>
 </div>

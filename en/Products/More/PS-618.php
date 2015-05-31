@@ -19,7 +19,7 @@
                     <li>You are here:</li>
                     <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Internal filter series">Internal filter series</a></li>
-                    <li><a href="PS-618.php" title="PS系列">PS系列</a></li>
+                    <li><a href="PS-618.php" title="PS Series">PS Series</a></li>
                     <li>PS-618</li>
                 </ul>
             </div>
@@ -30,7 +30,7 @@
                 <ul class="sub-nav">
 
                     <li>
-                        <span>PF系列</span>
+                        <span>PF Series</span>
 
 
                         <ul>
@@ -65,7 +65,7 @@
                     </li>
 
                     <li class="active">
-                        <span>PS系列</span>
+                        <span>PS Series</span>
 
 
                         <ul>
@@ -122,8 +122,8 @@
                     <div class="tabs content-tabs">
                         <!-- Tab-Navigations-Laschen -->
                         <ul class="clearfix">
-                            <li><a href="#tabs-1">产品详情</a></li>
-                            <li><a href="#tabs-2">技术参数</a></li>
+                            <li><a href="#tabs-1">Product details</a></li>
+                            <li><a href="#tabs-2">Technical data</a></li>
                         </ul>
                         <div id="tabs-1">
 
@@ -149,7 +149,7 @@
                                     <tbody>
                                     <tr>
                                         <td class="icon energieverbrauch">&nbsp;</td>
-                                        <td class="topic">功率</td>
+                                        <td class="topic"> power</td>
                                         <td>8 W</td>
                                     </tr>
                                     <tr>
@@ -227,7 +227,7 @@
         <ul>
             <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Internal filter series">Internal filter series</a></li>
-            <li><a href="#" title="PS系列">PS系列</a></li>
+            <li><a href="#" title="PS Series">PS Series</a></li>
         </ul>
     </div>
 </div>

@@ -129,8 +129,8 @@
                     <div class="tabs content-tabs">
                         <!-- Tab-Navigations-Laschen -->
                         <ul class="clearfix">
-                            <li><a href="#tabs-1">产品详情</a></li>
-                            <li><a href="#tabs-2">技术参数</a></li>
+                            <li><a href="#tabs-1">Product details</a></li>
+                            <li><a href="#tabs-2">Technical data</a></li>
                         </ul>
                         <div id="tabs-1">
 
@@ -142,7 +142,7 @@
                                     我们生产的不是配件或简单的产品，而是品质与乐趣。独有的空气压缩系统和减震系统，多级消声设计，噪声极低。特种合成橡胶组件，压力，气量恒定。绿色特殊防震橡胶脚，采用原始硅胶，杜绝使用再生料，以保证气泵的防震功能，及确保不管放置时间多长也不会留下胶脚的印记而弄脏您的家具。微调式调节气量功能，任你随心所欲，按您对气量的大小需求而随意调节。</p>
 
                                 <p><br/>单孔、双孔出气口满足您不同的鱼缸需求。<br/>
-                                    精心为您准备好的NI-218套装系列，内有气泵，气管，止逆阀，气动过滤器，安装完毕即可立马使用。<br/><br/>
+                                    精心为您准备好的NI-218套装 Series，内有气泵，气管，止逆阀，气动过滤器，安装完毕即可立马使用。<br/><br/>
                                     推荐配套产品:</p>
 
                                 <p><br/>
@@ -173,12 +173,12 @@
                                     <tbody>
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
-                                        <td class="topic">产品名称</td>
+                                        <td class="topic">Product name</td>
                                         <td>AU-312气泵</td>
                                     </tr>
                                     <tr>
                                         <td class="icon energieverbrauch">&nbsp;</td>
-                                        <td class="topic">功率</td>
+                                        <td class="topic"> power</td>
                                         <td>1.5 W</td>
                                     </tr>
                                     <tr>
@@ -225,7 +225,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon gewicht">&nbsp;</td>
-                                        <td class="topic">重量</td>
+                                        <td class="topic">Weight</td>
                                         <td>19 Kg</td>
                                     </tr>
                                     <tr>

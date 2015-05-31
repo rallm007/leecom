@@ -23,7 +23,7 @@
                     <li>You are here:</li>
                     <li><a href="../../../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="LD-030.php" title="LED series">LED series</a></li>
-                    <li><a href="LD-300.php" title="LD-3系列">LD-3系列</a></li>
+                    <li><a href="LD-300.php" title="LD-3 Series">LD-3 Series</a></li>
                     <li>LD-800</li>
                 </ul>
             </div>
@@ -34,7 +34,7 @@
                 <ul class="sub-nav">
 
                     <li>
-                        <span>LD-0系列</span>
+                        <span>LD-0 Series</span>
                         <ul>
                             <li class="active">
                                 <ul>
@@ -72,7 +72,7 @@
                     </li>
 
                     <li  class="active">
-                        <span>LD-3系列</span>
+                        <span>LD-3 Series</span>
                         <ul>
                             <li class="active">
                                 <ul>
@@ -132,7 +132,7 @@
 
                         <h2 class="tk-myriad-pro tk-light">LD-800 </h2>
 
-                        <p class="desc">高亮度LED灯珠，多角度可调节铝合金灯支架。三档开光，安全可靠的适配器。</p>
+                        <p class="desc">高亮度LED light珠，多角度可调节铝合金灯支架。三档开光，安全可靠的适配器。</p>
                     </div>
                 </div>
                 <!-- ende -> oberer Bereich-->
@@ -141,8 +141,8 @@
                     <div class="tabs content-tabs">
                         <!-- Tab-Navigations-Laschen -->
                         <ul class="clearfix">
-                            <li><a href="#tabs-1">产品详情</a></li>
-                            <li><a href="#tabs-2">技术参数</a></li>
+                            <li><a href="#tabs-1">Product details</a></li>
+                            <li><a href="#tabs-2">Technical data</a></li>
                         </ul>
                         <div id="tabs-1">
 
@@ -150,7 +150,7 @@
                             <div class="tab-teaser accessories_detail-prod_detail">
                                 <h3>LD-800</h3>
 
-                                <p>高亮度LED灯珠，多角度可调节铝合金灯支架。三档开光，安全可靠的适配器。蓝白光，增加鱼缸梦幻般的感觉，还可以为水草缸植物生长提供充足的光合作用。使水体更加透明，呈现水草和热带鱼体色。充足的光源，让水族缸更漂亮生态更加健康。在夜间，蓝光更好的帮助您观赏鱼儿。还原自然色，更适合鱼与水草的生存。低耗节能，使用寿命长。LED灯片表面有高透明亚克力挡水板，更安全。</p>
+                                <p>高亮度LED light珠，多角度可调节铝合金灯支架。三档开光，安全可靠的适配器。蓝白光，增加鱼缸梦幻般的感觉，还可以为水草缸植物生长提供充足的光合作用。使水体更加透明，呈现水草和热带鱼体色。充足的光源，让水族缸更漂亮生态更加健康。在夜间，蓝光更好的帮助您观赏鱼儿。还原自然色，更适合鱼与水草的生存。低耗节能，使用寿命长。LED light片表面有高透明亚克力挡水板，更安全。</p>
                                 <p>LD-300 , LD-360 ,LD-400 , LD-600，LD-600，LD-800 一共6个型号以满足您不同的需求。</p>
                             </div>
 
@@ -162,7 +162,7 @@
                                     <tbody>
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
-                                        <td class="topic">产品名称</td>
+                                        <td class="topic">Product name</td>
                                         <td>LD-800灯具</td>
                                     </tr>
                                     <tr>
@@ -172,7 +172,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon energieverbrauch">&nbsp;</td>
-                                        <td class="topic">功率</td>
+                                        <td class="topic"> power</td>
                                         <td>38 W</td>
                                     </tr>
                                     <tr>
@@ -230,7 +230,7 @@
         <ul>
             <li><a href="../../../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="LD-030.php" title="LED series">LED series</a></li>
-            <li><a href="LD-300.php" title=">LD-3系列">LD-0系列</a></li>
+            <li><a href="LD-300.php" title=">LD-3 Series">LD-0 Series</a></li>
             <li><a href="#" title="LD-800">LD-800</a></li>
         </ul>
     </div>

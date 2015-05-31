@@ -1,7 +1,7 @@
 <div class="tabs content-tabs full ui-tabs ui-widget ui-widget-content ui-corner-all">
     <ul class="clearfix ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all quantity-3">
-        <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">产品详情</a></li>
-        <li class="ui-state-default ui-corner-top"><a href="#tabs-2">技术参数</a></li>
+        <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">Product details</a></li>
+        <li class="ui-state-default ui-corner-top"><a href="#tabs-2">Technical data</a></li>
     </ul>
     <div id="tabs-1" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
 
@@ -13,7 +13,7 @@
                 <p>新颖完美的造型设计，产品经科学优化设计，采用优质、环保的原材料，每一道工序都有严格的质量控制，确保产品的先进的使用功能和安全可靠的质量。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
                     可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。
                     <br/><br/>黑色、白色任您选择。
-                    节能灯、LED灯按您需求制作。</p>
+                    Saving lamp、LED light按您需求制作。</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xc.jpg" alt="">
@@ -23,10 +23,11 @@
 
         <div id="light" class="tab-teaser-prod_details clearfix">
             <div class="grid_8">
-                <h3 class="icon-headline hight-lite">形式多变，满足你不同的需求</h3>
+                <h3 class="icon-headline hight-lite">Form of changeable, meet your different needs</h3>
 
-                <p>三档开关给您不同的视觉感受，灯光明暗形成不同的风格。开关防水帽的安全设计杜绝任何的安全隐患。<br>
-                    21世纪的主题是节能，故我们的节能灯系列也选用高品质的灯管和灯丝及电子元件，比普通白炽灯省电80%。<br></p>
+                <p>Form of changeable, meet your different needs
+Three gears switch give you different visual feeling, light and shade to form different style.The switch waterproof cap safety design to eliminate any potential safety hazard.<br>
+                    Energy saving is the theme of the 21st century, the energy-saving lamps series of reason we also selects the high quality tubes and filament and electronic components, save electricity by 80% than ordinary incandescent bulbs.<br></p>
 
             </div>
             <div class="grid_4">
@@ -37,9 +38,9 @@
 
         <div id="filter" class="tab-teaser-prod_details clearfix right">
             <div class="grid_8">
-                <h3 class="icon-headline filter-heater">CF系列上部过滤系统</h3>
+                <h3 class="icon-headline filter-heater">CF series upper filter system</h3>
 
-                <p>CF系列上部过滤是一个高效过滤和抽水、增氧完美融合于一体的系统，过滤泵头主体部份全部采用进口铜线，性能更高，更有效省电。顶部灌胶密封，杜绝漏电安全隐患。<br></p>
+                <p>CF series upper filter is a highly efficient and pumping, the perfect fusion of increasing oxygen in the integration of system, filter pump head body parts are all made of imported copper wire, higher performance and more effective.At the top of the glue sealing, prevent leakage safety hidden trouble.<br></p>
 
             </div>
             <div class="grid_4">
@@ -50,9 +51,9 @@
 
         <div id="floorunit" class="tab-teaser-prod_details clearfix">
             <div class="grid_8">
-                <h3 class="icon-headline floorunit">完美组合：底柜</h3>
+                <h3 class="icon-headline floorunit">Perfect combination: bottom ark</h3>
 
-                <p>30年经验老师傅精心设计打造的厚重高密度板底柜，可承压千斤以上重物，即便您的鱼缸装上满满一缸水也固若金汤，不存在任何安全隐患。优雅的线条，高档经典的色泽，是与您鱼缸搭配的最佳元素。</p>
+                <p>30 years of experience return an elaborate design of thick high-density plate bottom ark, can be weighed on more than one thousand jins weight, even if your tank is fitted with a full tank of water, there is no any security hidden danger.Elegant line, the colour and lustre of high-grade classic, is the best elements to match with your aquarium.</p>
 
             </div>
             <div class="grid_4">
@@ -70,19 +71,19 @@
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">XP-300Aquariums</td>
+                    <td colspan="3">XP-300 Aquarium</td>
                 </tr>
                 </thead>
                 <tbody>
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
-                    <td class="topic">产品名称</td>
-                    <td>XC-300Aquariums</td>
+                    <td class="topic">Product name</td>
+                    <td>XC-300 Aquarium</td>
                 </tr>
                 <tr>
                     <td class="icon dekore">&nbsp;</td>
                     <td class="topic">
-                        可选颜色
+                        Optional color
                     </td>
                     <td>
                         <ul class="decor fl">
@@ -93,24 +94,24 @@
                 </tr>
                 <tr>
                     <td class="icon leuchtmedium">&nbsp;</td>
-                    <td class="topic">可选光源</td>
-                    <td>节能灯/LED灯</td>
+                    <td class="topic">Optional light source</td>
+                    <td>Saving lamp/LED light</td>
                 </tr>
                 <tr>
                     <td class="icon measure">&nbsp;</td>
-                    <td class="topic">规格</td>
+                    <td class="topic">Specification</td>
                     <td>32 x 21 x 33.5 cm</td>
                 </tr>
 
                 <tr>
                     <td class="icon gewicht">&nbsp;</td>
-                    <td class="topic">重量</td>
+                    <td class="topic">Weight</td>
                     <td>4.5 Kg</td>
                 </tr>
 
                 <tr>
                     <td class="icon liter">&nbsp;</td>
-                    <td class="topic">容量</td>
+                    <td class="topic">Capacity</td>
                     <td>15 L</td>
                 </tr>
                 </tbody>
@@ -125,23 +126,23 @@
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">灯源</td>
+                    <td colspan="3">Light source</td>
                 </tr>
                 </thead>
                 <tbody>
                 <tr>
                     <td class="icon leuchtmedium">&nbsp;</td>
-                    <td class="topic">可选光源</td>
-                    <td>节能灯/LED灯</td>
+                    <td class="topic">Optional light source</td>
+                    <td>Saving lamp/LED light</td>
                 </tr>
                 <tr>
                     <td class="icon watt">&nbsp;</td>
-                    <td class="topic">LED灯功率</td>
+                    <td class="topic">LED light power</td>
                     <td>10 W</td>
                 </tr>
                 <tr>
                     <td class="icon watt">&nbsp;</td>
-                    <td class="topic">节能灯功率</td>
+                    <td class="topic">Saving lamp power</td>
                     <td>13 W</td>
                 </tr>
                 </tbody>
@@ -154,7 +155,7 @@
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">CF-300/360上部过滤器<a
+                    <td colspan="3">CF Top filter<a
                             href="../../../../en/Products/More/QP/Filtersystems/Bioflow-Filter-M-Filter-system-Bioflow-3-0.php"
                             class="arrow-link">产品</a></td>
                 </tr>
@@ -162,13 +163,13 @@
                 <tbody>
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
-                    <td class="topic">产品名称</td>
-                    <td>CF-300/360上部过滤器</td>
+                    <td class="topic">Product name</td>
+                    <td>CF Top filter</td>
                 </tr>
                 <tr>
                     <td class="icon dekore">&nbsp;</td>
                     <td class="topic">
-                        可选颜色
+                        Optional color
                     </td>
                     <td>
                         <ul class="decor fl">
@@ -179,12 +180,12 @@
                 </tr>
                 <tr>
                     <td class="icon measure">&nbsp;</td>
-                    <td class="topic">规格</td>
+                    <td class="topic">Specification</td>
                     <td>29.5 x 5 x 27 cm</td>
                 </tr>
                 <tr>
                     <td class="icon energieverbrauch">&nbsp;</td>
-                    <td class="topic">水泵功率</td>
+                    <td class="topic">水泵 power</td>
                     <td>2.5 W</td>
                 </tr>
                 <tr>
@@ -194,7 +195,7 @@
                 </tr>
                 <tr>
                     <td class="icon filtermedium">&nbsp;</td>
-                    <td class="topic">过滤材质</td>
+                    <td class="topic">Filter material item</td>
                     <td>SC-30炭棉板滤材，SH-20生化棉滤材</td>
                 </tr>
                 </tbody>
@@ -213,13 +214,13 @@
                 <tbody>
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
-                    <td class="topic">产品名称</td>
+                    <td class="topic">Product name</td>
                     <td>TR-300底柜<br>
                     </td>
                 </tr>
                 <tr>
                     <td class="icon dekore">&nbsp;</td>
-                    <td class="topic">可选颜色</td>
+                    <td class="topic">Optional color</td>
                     <td>
                         <ul class="decor fl">
                             <li><img alt="" src="../../../../out/pictures/master/global/1/1.png"></li>
@@ -229,13 +230,13 @@
                 </tr>
                 <tr>
                     <td class="icon measure">&nbsp;</td>
-                    <td class="topic">规格</td>
+                    <td class="topic">Specification</td>
                     <td>32 x 21 x 75 cm<br>
                     </td>
                 </tr>
                 <tr>
                     <td class="icon gewicht">&nbsp;</td>
-                    <td class="topic">重量</td>
+                    <td class="topic">Weight</td>
                     <td>10 KG<br>
                     </td>
                 </tr>
@@ -247,7 +248,7 @@
 
     <!-- CROSSSELLING / ACCESSORIES -->
     <div class="accessories clearfix">
-        <h4>搭配零配件</h4>
+        <h4>Recommend spare part</h4>
 
         <div class="caroufredsel_wrapper"
              style="float: none; position: relative; top: auto; right: auto; bottom: auto; left: auto; width: 873px; height: 124px; margin: 30px 0px 0px 34px; overflow: hidden;">

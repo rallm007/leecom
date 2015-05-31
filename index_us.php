@@ -19,7 +19,7 @@
                         Start your traveling from LEECOM XP series aquarium.</p>
                     <a class="button ci-shadow"
                        href="<?php echo $site_url; ?>en/Products/Aquariums/XP-Line/XP-300-black.php#!leecom-xp300b"
-                       onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Pure Lifestyle']);">了解更多</a>
+                       onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Pure Lifestyle']);">More detail</a>
                 </div>
             </div>
             <div class="item"
@@ -34,21 +34,21 @@
                         <br/></p>
                     <a class="button ci-shadow"
                        href="<?php echo $site_url; ?>en/Products/Aquariums/XT-Line/XT-300-black.php#!leecom-xt300w"
-                       onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Your underwater world']);">了解更多</a>
+                       onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Your underwater world']);">More detail</a>
                 </div>
             </div>
             <div class="item"
                  style="background-color:#ffffff; background-image:url('out/pictures/promo/home_slider_1(2).jpg');">
                 <div class="page_margins item-content">
-                    <h2 class="tk-myriad-pro tk-light">静的味道</h2>
+                    <h2 class="tk-myriad-pro tk-light">The flavor of the static</h2>
 
-                    <h3 class="tk-myriad-pro tk-semibold">HI挂缸</h3>
+                    <h3 class="tk-myriad-pro tk-semibold">HI Hang-on filter</h3>
 
                     <p>Sterms from the nature,<br/>
                         to listen carefully currents,<br/>
                         submerged in the silent space,enjoy the quiet charm.</p>
                     <a class="button ci-shadow" href="<?php echo $site_url; ?>en/Products/More/HI-330.php"
-                       onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Marine']);">了解更多</a>
+                       onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Marine']);">More detail</a>
                 </div>
             </div>
         </div>
@@ -78,11 +78,11 @@
                         <img src="out/pictures/promo/proShow.jpg" alt="产品Show">
                     </div>
                     <div class="grid_3 omega teaser-content">
-                        <h3>产品show</h3>
+                        <h3>Show room</h3>
 
-                        <p>与我们一起感受水族点缀的MODERN世界</p>
+                        <p>Experience modern living in aquarium environment.</p>
                         <a class="arrow-link" href="<?php echo $site_url . 'en/Products/index.php'; ?>"
-                           title="start now">从这里开始</a>
+                           title="start now">Start now</a>
                     </div>
                 </div>
                 <div class="grid_6 alpha home-teaser-big">
@@ -91,13 +91,13 @@
                         <img src="out/pictures/promo/newcolor_1.png" alt="新的色调">
                     </div>
                     <div class="grid_3 omega teaser-content">
-                        <h3>新的色调</h3>
+                        <h3>New colour</h3>
 
-                        <p>让我们一睹XT系列经典白色的风姿</p>
+                        <p>Let’s view the elegent beauty of classic white</p>
                         <a class="arrow-link"
                            href="<?php echo $site_url . 'en/Products/Aquariums'; ?>/XT-Line/XT-300-black.php#!leecom-xt300w"
                            title="start now"
-                           onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Automatic Feeder']);">从这里开始</a>
+                           onclick="_gaq.push(['_trackEvent', 'Teaserklicks Startseite', 'click', 'Automatic Feeder']);">Start now</a>
                     </div>
                 </div>
             </div>

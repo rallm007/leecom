@@ -60,9 +60,9 @@
     <xbase href="<?php echo $site_url; ?>">
 
         <script type="text/javascript">
-            if (jQuery.browser.msie && jQuery.browser.version == 6.0) {
-                window.location = "<?php echo $site_url;?>ie6.php";
-            }
+            // if (jQuery.browser.msie && jQuery.browser.version == 6.0) {
+            //     window.location = "<?php echo $site_url;?>ie6.php";
+            // }
 
             function goto_cn() {
                 var _url = (this.location.href).replace('en', 'en');
@@ -70,7 +70,7 @@
             }
 
             function goto_en() {
-                if(this.location.href == '<?php echo $site_url; ?>'+'index.php') {
+                if(this.location.href == '<?php echo $site_url; ?>'+'index.php' || this.location.href == '<?php echo $site_url; ?>') {
                     this.location.href = '<?php echo $site_url; ?>'+'index_us.php';
                 } else {
                     this.location.href = (this.location.href).replace('en', 'en');

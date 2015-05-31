@@ -44,17 +44,12 @@
                             About us</h2>
 
                         <p>
-                            广州日创橡塑电器有限公司创建于2002年，经过多年的不懈努力和科技创新，已发展成为实力雄厚，
-                            集产品研发、模具制造、注塑成型、橡胶成型、五金冲压和生产制造于一体的综合性企业。公司凭
-                            借强大的设计、研发能力与先进精良的生产设备，与国际及国内众多知名品牌成为战略性合作伙伴。
-                            多年来，日创积累了丰富的研发和制造经验，创立了日创自主品牌LEECOM发展自有专利的新型产品,
-                            以制造高科技、高精度和高技术的水族产品及厨房产品享誉于业界。公司始终坚持“做最好的产品”
-                            的经营理念，不断进取，不断创新，向客户提供一流的产品、一流的技术和服务。</p>
+                            Guangzhou RiChuang rubber and plastic eletric appliance Co.,Ltd was founded in 2002, after years of unremitting efforts and technological innovation, has developed into a strong, set product development, mold manufacturing, injection molding, rubber molding, metal stamping and manufacturing integrated enterprise. Companies with a strong design, development capability and advanced sophisticated production equipment, and many well-known international and domestic brands as strategic partners. For many years, Japan has accumulated a wealth creating development and manufacturing experience, the creation of independent brands LEECOM at creating its own proprietary development of new products, in order to create high-tech, high-precision and high-tech aquarium products and kitchen products renowned in the industry. We always adhere to "do the best products" business philosophy, keep making progress, innovation, to provide first-class products, first-class technology and services.</p>
 
                     </div>
                     <!-- Aktuelles -->
 
-                    <div class="go-top-detail"><a href="#header" class="arrow-link top fr scroll-link">回到页首</a></div>
+                    <div class="go-top-detail"><a href="#header" class="arrow-link top fr scroll-link">Go to top</a></div>
                     <!-- ende -> Newsfeed --></div>
 
             </div>

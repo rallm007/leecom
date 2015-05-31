@@ -126,8 +126,8 @@
                     <div class="tabs content-tabs">
                         <!-- Tab-Navigations-Laschen -->
                         <ul class="clearfix">
-                            <li><a href="#tabs-1">产品详情</a></li>
-                            <li><a href="#tabs-2">技术参数</a></li>
+                            <li><a href="#tabs-1">Product details</a></li>
+                            <li><a href="#tabs-2">Technical data</a></li>
                         </ul>
                         <div id="tabs-1">
 
@@ -152,12 +152,12 @@
                                     <tbody>
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
-                                        <td class="topic">产品名称</td>
+                                        <td class="topic">Product name</td>
                                         <td>PF-150水泵</td>
                                     </tr>
                                     <tr>
                                         <td class="icon energieverbrauch">&nbsp;</td>
-                                        <td class="topic">功率</td>
+                                        <td class="topic"> power</td>
                                         <td>14 W</td>
                                     </tr>
                                     <tr>
@@ -199,7 +199,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon gewicht">&nbsp;</td>
-                                        <td class="topic">重量</td>
+                                        <td class="topic">Weight</td>
                                         <td>16.2 Kg</td>
                                     </tr>
                                     <tr>

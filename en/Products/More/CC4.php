@@ -117,8 +117,8 @@
                     <div class="tabs content-tabs">
                         <!-- Tab-Navigations-Laschen -->
                         <ul class="clearfix">
-                            <li><a href="#tabs-1">产品详情</a></li>
-                            <li><a href="#tabs-2">技术参数</a></li>
+                            <li><a href="#tabs-1">Product details</a></li>
+                            <li><a href="#tabs-2">Technical data</a></li>
                         </ul>
                         <div id="tabs-1">
 
@@ -144,7 +144,7 @@
                                     <tbody>
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
-                                        <td class="topic">产品名称</td>
+                                        <td class="topic">Product name</td>
                                         <td>海豚磁擦</td>
                                     </tr>
                                     <tr>
@@ -159,7 +159,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon gewicht">&nbsp;</td>
-                                        <td class="topic">重量/个</td>
+                                        <td class="topic">Weight/个</td>
                                         <td>0.1</td>
                                     </tr>
                                     <tr>

@@ -24,7 +24,7 @@
 
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XP</span>系列</h2>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XP</span> Series</h2>
                         <img src="../../out/img/xp/xp300_346.png" alt="" width="347" height="420">
                         <map id="xpmap">
                             <area shape="rect" coords="0,0,347,420"
@@ -37,7 +37,7 @@
                 </div>
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XC</span>系列</h2>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XC</span> Series</h2>
                         <img src="../../out/img/xc/xc300_346.png" alt="" width="347" height="420">
                         <map id="xcmap">
                             <area shape="rect" coords="0,0,347,420"
@@ -50,7 +50,7 @@
                 </div>
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XT</span>系列</h2>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XT</span> Series</h2>
                         <img src="../../out/img/xt/xt300_346.png" alt="" width="347" height="420">
                         <map id="xtmap">
                             <area shape="rect" coords="0,0,347,420"
@@ -63,7 +63,7 @@
                 </div>
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XE</span>系列</h2>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XE</span> Series</h2>
                         <img src="../../out/img/xe/xe300_346.png" alt="" width="347" height="420"></a>
                         <map id="xemap">
                             <area shape="rect" coords="0,0,347,420"
@@ -76,7 +76,7 @@
                 </div>
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XK</span>系列</h2>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XK</span> Series</h2>
                         <img src="../../out/img/xk/xk200_346.png" alt="" width="347" height="420">
                         <map id="xkmap">
                             <area shape="rect" coords="0,0,347,420"
@@ -90,7 +90,7 @@
                 </div>
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XA</span>系列</h2>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XA</span> Series</h2>
                         <img src="../../out/img/xa/xa815_346.png" alt="" width="347" height="420">
                         <map id="xamap">
                             <area shape="rect" coords="0,0,347,420"
@@ -104,7 +104,7 @@
                 </div>
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XF</span>系列</h2>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XF</span> Series</h2>
                         <img src="../../out/img/xf/xf060_346.png" alt="" width="347" height="420">
                         <map id="xfmap">
                             <area shape="rect" coords="0,0,347,420"
@@ -118,7 +118,7 @@
                 </div>
                 <div class="item">
                     <div class="image">
-                        <h2 class="tk-myriad-pro tk-light"><span class="green">XQ</span>系列</h2>
+                        <h2 class="tk-myriad-pro tk-light"><span class="green">XQ</span> Series</h2>
                         <img src="../../out/img/xq/xq200_346.png" alt="" width="347" height="420">
                         <map id="xqmap">
                             <area shape="rect" coords="0,0,347,420"
@@ -153,7 +153,7 @@
                     <h2>Air pump</h2>
 
                     <p>您爱鱼的有氧生态舱</p>
-                    <span class="button ci3">了解详情</span>
+                    <span class="button ci3">More detail</span>
                 </div>
             </a>
             <a class="grid_4 accessories-teaser" href="More/PF-120.php">
@@ -163,7 +163,7 @@
                     <h2>Power head</h2>
 
                     <p>澎湃性能，高效超凡</p>
-                    <span class="button ci3">了解详情</span>
+                    <span class="button ci3">More detail</span>
                 </div>
             </a>
             <a class="grid_4 accessories-teaser" href="More/CC1.php">
@@ -173,7 +173,7 @@
                     <h2>Magnetic series</h2>
 
                     <p>一切创新是为了给你不一样的体验</p>
-                    <span class="button ci3">了解详情</span>
+                    <span class="button ci3">More detail</span>
                 </div>
             </a>
         </div>

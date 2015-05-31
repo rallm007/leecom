@@ -80,8 +80,8 @@
                     <div class="tabs content-tabs">
                         <!-- Tab-Navigations-Laschen -->
                         <ul class="clearfix">
-                            <li><a href="#tabs-1">产品详情</a></li>
-                            <li><a href="#tabs-2">技术参数</a></li>
+                            <li><a href="#tabs-1">Product details</a></li>
+                            <li><a href="#tabs-2">Technical data</a></li>
                         </ul>
                         <div id="tabs-1">
 
@@ -90,7 +90,7 @@
                                 <h3>CF-800上部过滤器</h3>
 
                                 <p>
-                                    CF系列上部过滤是一个高效过滤和抽水、增氧完美融合于一体的系统，外壳采用优质增强型ABS原材料，坚固耐用，防腐蚀、耐酸碱、经久耐用，性能更卓越，过滤泵头主体部份全部采用进口铜线，性能更高，更有效省电，顶部灌胶密封，杜绝漏电安全隐患。三重过滤的炭棉板滤材，不但替换方便，性能更出色，当中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附Aquariums内残留的鱼铒、鱼烘等杂质，和高效生化棉最大程度保证水质的洁净。</p>
+                                    CF Series上部过滤是一个高效过滤和抽水、增氧完美融合于一体的系统，外壳采用优质增强型ABS原材料，坚固耐用，防腐蚀、耐酸碱、经久耐用，性能更卓越，过滤泵头主体部份全部采用进口铜线，性能更高，更有效省电，顶部灌胶密封，杜绝漏电安全隐患。三重过滤的炭棉板滤材，不但替换方便，性能更出色，当中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附Aquariums内残留的鱼铒、鱼烘等杂质，和高效生化棉最大程度保证水质的洁净。</p>
 
                                 <p><br/><br/>
                                     CF-300,360,400,460,600,800六个型号满足您不同尺寸的鱼缸需求。<br/>
@@ -108,7 +108,7 @@
                                     <tbody>
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
-                                        <td class="topic">产品名称</td>
+                                        <td class="topic">Product name</td>
                                         <td>CF-800上部过滤器</td>
                                     </tr>
                                     <tr>
@@ -118,7 +118,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon measure">&nbsp;</td>
-                                        <td class="topic">规格</td>
+                                        <td class="topic">Specification</td>
                                         <td>74.5 x 12 x 49 cm</td>
                                     </tr>
                                     <tr>
@@ -128,13 +128,13 @@
                                     </tr>
                                     <tr>
                                         <td class="icon filtervolumen">&nbsp;</td>
-                                        <td class="topic">水泵功率</td>
+                                        <td class="topic">水泵 power</td>
                                         <td>13 W</td>
                                     </tr>
 
                                     <tr>
                                         <td class="icon pumpenleistung">&nbsp;</td>
-                                        <td class="topic">过滤材质</td>
+                                        <td class="topic">Filter material item</td>
                                         <td>SC-80炭棉板滤材</td>
                                     </tr>
 
