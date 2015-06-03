@@ -114,7 +114,7 @@
                                     <tr>
                                         <td class="icon energieverbrauch">&nbsp;</td>
                                         <td class="topic">颜色</td>
-                                        <td>黑色</td>
+                                        <td>Black</td>
                                     </tr>
                                     <tr>
                                         <td class="icon measure">&nbsp;</td>
@@ -128,7 +128,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon filtervolumen">&nbsp;</td>
-                                        <td class="topic">水泵 power</td>
+                                        <td class="topic">Pump power</td>
                                         <td>13 W</td>
                                     </tr>
 

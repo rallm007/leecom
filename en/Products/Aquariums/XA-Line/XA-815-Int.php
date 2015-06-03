@@ -28,7 +28,7 @@
         <div class="page_margins">
             <div class="inner-wrapper">
                 <h1 class="tk-myriad-pro tk-light">XA series</h1>
-                <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一页</a>
+                <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">Prev</a>
 
                 <div class="slider-wrapper">
                     <div class="product-thumbnail-slider clearfix">
@@ -49,7 +49,7 @@
                         </a>
                     </div>
                 </div>
-                <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">下一页</a>
+                <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">Next</a>
             </div>
 
         </div>
@@ -81,7 +81,7 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="leecom-xa815w" title="LEECOM | XA-815 白色">
+                        <div class="product-image-wrapper" data-id="leecom-xa815w" title="LEECOM | XA-815 White">
                             <a href="<?php echo $site_url; ?>out/img/xa/xa815_1173.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xa/xa815_378.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
@@ -98,7 +98,7 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XA-125-white.php#!leecom-xa815w" title="XA-815 白色"><img
+                                    <li><a href="XA-125-white.php#!leecom-xa815w" title="XA-815 White"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -134,7 +134,7 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="leecom-xa820w" title="LEECOM | XA-820 白色">
+                        <div class="product-image-wrapper" data-id="leecom-xa820w" title="LEECOM | XA-820 White">
                             <a href="<?php echo $site_url; ?>out/img/xa/xa815_1173.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xa/xa815_378.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
@@ -151,7 +151,7 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XA-180-white.php#!leecom-xa820w" title="XA-820 白色"><img
+                                    <li><a href="XA-180-white.php#!leecom-xa820w" title="XA-820 White"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -186,7 +186,7 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="leecom-xa825w" title="LEECOM | XA-825 白色">
+                        <div class="product-image-wrapper" data-id="leecom-xa825w" title="LEECOM | XA-825 White">
                             <a href="<?php echo $site_url; ?>out/img/xa/xa815_1173.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xa/xa815_378.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
@@ -203,7 +203,7 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XA-240-white.php#!leecom-xa825w" title="XA-825 白色"><img
+                                    <li><a href="XA-240-white.php#!leecom-xa825w" title="XA-825 White"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>

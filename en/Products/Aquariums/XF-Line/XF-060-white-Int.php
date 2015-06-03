@@ -50,19 +50,19 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="leecom-xf060w" title="LEECOM | XF-060 白色">
+                        <div class="product-image-wrapper" data-id="leecom-xf060w" title="LEECOM | XF-060 White">
                             <a href="<?php echo $site_url; ?>out/img/xf/xf060_1173_w.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xf/xf060_378_w.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="leecom-xf060f" title="LEECOM | XF-060 粉红色">
+                        <div class="product-image-wrapper" data-id="leecom-xf060f" title="LEECOM | XF-060 Pink">
                             <a href="<?php echo $site_url; ?>out/img/xf/xf060_1173_r.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xf/xf060_378_r.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="leecom-xf060l" title="LEECOM | XF-060 蓝色">
+                        <div class="product-image-wrapper" data-id="leecom-xf060l" title="LEECOM | XF-060 Blue">
                             <a href="<?php echo $site_url; ?>out/img/xf/xf060_1172_b.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xf/xf060_378_b.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
@@ -79,13 +79,13 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XF-060-white.php#!leecom-xf060w" title="XF-060 白色"><img
+                                    <li><a href="XF-060-white.php#!leecom-xf060w" title="XF-060 White"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XF-060-white.php#!leecom-xf060f" title="XF-060 粉红色"><img
+                                    <li><a href="XF-060-white.php#!leecom-xf060f" title="XF-060 Pink"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/2.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XF-060-white.php#!leecom-xf060l" title="XF-060 蓝色"><img
+                                    <li><a href="XF-060-white.php#!leecom-xf060l" title="XF-060 Blue"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/3.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -123,19 +123,19 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="leecom-xf120w" title="LEECOM | XF-120 白色">
+                        <div class="product-image-wrapper" data-id="leecom-xf120w" title="LEECOM | XF-120 White">
                             <a href="<?php echo $site_url; ?>out/img/xf/xf120_1173_w.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xf/xf120_378_w.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="leecom-xf120f" title="LEECOM | XF-120 粉红色">
+                        <div class="product-image-wrapper" data-id="leecom-xf120f" title="LEECOM | XF-120 Pink">
                             <a href="<?php echo $site_url; ?>out/img/xf/xf120_1173_r.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xf/xf120_378_r.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="leecom-xf120l" title="LEECOM | XF-120 蓝色">
+                        <div class="product-image-wrapper" data-id="leecom-xf120l" title="LEECOM | XF-120 Blue">
                             <a href="<?php echo $site_url; ?>out/img/xf/xf120_1173_b.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xf/xf120_378_b.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
@@ -152,13 +152,13 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XF-060-white.php#!leecom-xf120w" title="XF-120 白色"><img
+                                    <li><a href="XF-060-white.php#!leecom-xf120w" title="XF-120 White"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XF-060-white.php#!leecom-xf120f" title="XF-120 粉红色"><img
+                                    <li><a href="XF-060-white.php#!leecom-xf120f" title="XF-120 Pink"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/2.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XF-060-white.php#!leecom-xf120l" title="XF-120 蓝色"><img
+                                    <li><a href="XF-060-white.php#!leecom-xf120l" title="XF-120 Blue"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/3.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>

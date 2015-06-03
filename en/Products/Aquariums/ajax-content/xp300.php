@@ -8,13 +8,11 @@
 
         <div class="tab-teaser-prod_details top clearfix">
             <div class="grid_8">
-                <h2>XP-300 不同的灯色，不同的感受</h2>
+                <h2>XP different light color, different feelings</h2>
 
-                <p>XP-300是整个XP series里最小的成员，简约而不简单，奢华而不俗套的外观，32 X 21 X 33.5CM的Tiny
-                    Size，轻松融入各种居家装修设计风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
-                    可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。
-                    <br/><br/>黑色、白色任您选择。
-                    Saving lamp、LED light按您需求制作。</p>
+                <p>XP-300 is the smallest member in the XP series, contracted and not simple, costly and not the appearance of the mould, 32 X 33.5 CM X 21 Tiny Size, fit easily into a variety of home decoration design style.Lighting and perfect cover into an organic whole, waterproof switch cap is your security guards work 24 hours.The upper filter of replaceable filter material which makes you always keep the clean water quality state, large-scale activities of feeding cover makes you hurl food and water are so convenient and easy.
+                    <br/><br/>Black and white for your choice.
+                    Energy-saving lamps, LED lights according to your demand production.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010_1.jpg" alt="">
@@ -155,8 +153,8 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <thead>
                 <tr>
                     <td colspan="3">CF Top filter<a
-                            href="../../../../en/Products/More/QP/Filtersystems/Bioflow-Filter-M-Filter-system-Bioflow-3-0.php"
-                            class="arrow-link">产品</a></td>
+                            href="../../../../en/Products/More/CF-600.php"
+                            class="arrow-link">Product</a></td>
                 </tr>
                 </thead>
                 <tbody>
@@ -184,7 +182,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 </tr>
                 <tr>
                     <td class="icon energieverbrauch">&nbsp;</td>
-                    <td class="topic">水泵 power</td>
+                    <td class="topic">Pump power</td>
                     <td>2.5 W</td>
                 </tr>
                 <tr>

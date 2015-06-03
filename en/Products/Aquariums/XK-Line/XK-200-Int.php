@@ -28,7 +28,7 @@
         <div class="page_margins">
             <div class="inner-wrapper">
                 <h1 class="tk-myriad-pro tk-light">XK series</h1>
-                <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一页</a>
+                <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">Prev</a>
 
                 <div class="slider-wrapper">
                     <div class="product-thumbnail-slider clearfix">
@@ -44,7 +44,7 @@
                         </a>
                     </div>
                 </div>
-                <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">下一页</a>
+                <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">Next</a>
             </div>
 
         </div>
@@ -76,7 +76,7 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="leecom-xk200w" title="LEECOM | XK-200 白色">
+                        <div class="product-image-wrapper" data-id="leecom-xk200w" title="LEECOM | XK-200 White">
                             <a href="<?php echo $site_url; ?>out/img/xk/xk200_1173_w.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xk/xk200_378_w.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
@@ -93,7 +93,7 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XK-125-white.php#!leecom-xk200w" title="XK-200 白色"><img
+                                    <li><a href="XK-125-white.php#!leecom-xk200w" title="XK-200 White"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -128,7 +128,7 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="leecom-xk250w" title="LEECOM | XK-250 白色">
+                        <div class="product-image-wrapper" data-id="leecom-xk250w" title="LEECOM | XK-250 White">
                             <a href="<?php echo $site_url; ?>out/img/xk/xk250_1173_w.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xk/xk250_378_w.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
@@ -145,7 +145,7 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XK-180-white.php#!leecom-xk250w" title="XK-250 白色"><img
+                                    <li><a href="XK-180-white.php#!leecom-xk250w" title="XK-250 White"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>

@@ -12,7 +12,7 @@
 
                 <p>设计新颖，玻璃级别的高透明度，做工精细，协调美观，无可挑剔的透，体现最本真的美，是居家、办公亲近自然的最佳法宝，给您增添一点绿，尽享原生态。开关防水帽是你24小时不下班的安全卫士，
                     可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，小巧喂食口令您投饲或加水都如此便捷。
-                    <br/><br/>白色、粉色、蓝色依据您的品味选择</p>
+                    <br/><br/>White、粉色、Blue依据您的品味选择</p>
             </div>
             <!-- <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
@@ -95,7 +95,7 @@
                 </tr>
                 <tr>
                     <td class="icon energieverbrauch">&nbsp;</td>
-                    <td class="topic">水泵 power</td>
+                    <td class="topic">Pump power</td>
                     <td>3 W</td>
                 </tr>
                 <tr>

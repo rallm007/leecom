@@ -154,8 +154,8 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <thead>
                 <tr>
                     <td colspan="3">CF Top filter<a
-                            href="../../../../en/Products/More/QP/Filtersystems/Bioflow-Filter-M-Filter-system-Bioflow-3-0.php"
-                            class="arrow-link">产品</a></td>
+                            href="../../../../en/Products/More/CF-600.php"
+                            class="arrow-link">Product</a></td>
                 </tr>
                 </thead>
                 <tbody>
@@ -183,7 +183,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 </tr>
                 <tr>
                     <td class="icon energieverbrauch">&nbsp;</td>
-                    <td class="topic">水泵 power</td>
+                    <td class="topic">Pump power</td>
                     <td>2.5 W</td>
                 </tr>
                 <tr>

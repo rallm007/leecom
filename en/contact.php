@@ -97,7 +97,7 @@
                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                     兴业路江南工业大道7号
                 </p>
-                <h4 class="tk-myriad-pro tk-semibold green">客户服务</h4>
+                <h4 class="tk-myriad-pro tk-semibold green">Customer Server</h4>
 
                 <div class="tk-myriad-pro tk-semibold tel">
                     Tel：+86-20-34691002
@@ -109,7 +109,7 @@
                     Email：simon.lee@leecom.cn
                 </div>
                 <div class="tk-myriad-pro tk-semibold email">
-                    邮箱：Sales02@leecom.cn
+                    Email：Sales02@leecom.cn
                 </div>
                 <!-- <div class="contact_faq">
 <p class="lh20">Find quick answers to frequently asked questions in our question and answer (FAQ) section</p> <a class="arrow-link" href="<?php echo $site_url . 'en/Service/FAQ/index.php'; ?>" title="FAQ">FAQ</a>      </div>

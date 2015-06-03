@@ -12,7 +12,7 @@
 
                 <p>新颖完美的造型设计，产品经科学优化设计，采用优质、环保的原材料，每一道工序都有严格的质量控制，确保产品的先进的使用功能和安全可靠的质量。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
                     可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。
-                    <br/><br/>黑色、白色任您选择。
+                    <br/><br/>Black、White任您选择。
                     Saving lamp、LED light按您需求制作。</p>
             </div>
             <div class="grid_4">
@@ -156,8 +156,8 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <thead>
                 <tr>
                     <td colspan="3">CF Top filter<a
-                            href="../../../../en/Products/More/QP/Filtersystems/Bioflow-Filter-M-Filter-system-Bioflow-3-0.php"
-                            class="arrow-link">产品</a></td>
+                            href="../../../../en/Products/More/CF-600.php"
+                            class="arrow-link">Product</a></td>
                 </tr>
                 </thead>
                 <tbody>
@@ -185,7 +185,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 </tr>
                 <tr>
                     <td class="icon energieverbrauch">&nbsp;</td>
-                    <td class="topic">水泵 power</td>
+                    <td class="topic">Pump power</td>
                     <td>2.5 W</td>
                 </tr>
                 <tr>

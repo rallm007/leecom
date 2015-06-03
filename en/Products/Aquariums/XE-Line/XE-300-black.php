@@ -28,7 +28,7 @@
         <div class="page_margins">
             <div class="inner-wrapper">
                 <h1 class="tk-myriad-pro tk-light">XE series</h1>
-                <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">上一页</a>
+                <a id="thumb-product-prev" class="ir prod-thumb-nav" href="#">Prev</a>
 
                 <div class="slider-wrapper">
                     <div class="product-thumbnail-slider clearfix">
@@ -64,7 +64,7 @@
                         </a>
                     </div>
                 </div>
-                <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">下一页</a>
+                <a id="thumb-product-next" class="ir prod-thumb-nav" href="#">Next</a>
             </div>
 
         </div>
@@ -97,13 +97,13 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="leecom-xe300b" title="LEECOM | XE-300 黑色">
+                        <div class="product-image-wrapper" data-id="leecom-xe300b" title="LEECOM | XE-300 Black">
                             <a href="<?php echo $site_url; ?>out/img/xe/xe300_1173_b.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xe/xe300_378_b.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="leecom-xe300w" title="LEECOM | XE-300 白色">
+                        <div class="product-image-wrapper" data-id="leecom-xe300w" title="LEECOM | XE-300 White">
                             <a href="<?php echo $site_url; ?>out/img/xe/xe300_1173_w.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xe/xe300_378_w.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
@@ -120,10 +120,10 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XE-300-black.php#!leecom-xe300b" title="XE-300 黑色"><img
+                                    <li><a href="XE-300-black.php#!leecom-xe300b" title="XE-300 Black"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/1.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XE-300-black.php#!leecom-xe300w" title="XE-300 白色"><img
+                                    <li><a href="XE-300-black.php#!leecom-xe300w" title="XE-300 White"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -162,13 +162,13 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="leecom-xe360b" title="LEECOM | XE-360 黑色">
+                        <div class="product-image-wrapper" data-id="leecom-xe360b" title="LEECOM | XE-360 Black">
                             <a href="<?php echo $site_url; ?>out/img/xe/xe360_1173_b.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xe/xe360_378_b.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="leecom-xe360w" title="LEECOM | XE-360 白色">
+                        <div class="product-image-wrapper" data-id="leecom-xe360w" title="LEECOM | XE-360 White">
                             <a href="<?php echo $site_url; ?>out/img/xe/xe360_1173_w.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xe/xe360_378_w.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
@@ -185,10 +185,10 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XE-360-black.php#!leecom-xe360b" title="XE-360 黑色"><img
+                                    <li><a href="XE-360-black.php#!leecom-xe360b" title="XE-360 Black"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/1.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XE-180-white.php#!leecom-xe360w" title="XE-360 白色"><img
+                                    <li><a href="XE-180-white.php#!leecom-xe360w" title="XE-360 White"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -227,13 +227,13 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="leecom-xe400b" title="LEECOM | XE-400 黑色">
+                        <div class="product-image-wrapper" data-id="leecom-xe400b" title="LEECOM | XE-400 Black">
                             <a href="<?php echo $site_url; ?>out/img/xe/xe400_1173_b.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xe/xe400_378_b.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="leecom-xe400w" title="LEECOM | XE-400 白色">
+                        <div class="product-image-wrapper" data-id="leecom-xe400w" title="LEECOM | XE-400 White">
                             <a href="<?php echo $site_url; ?>out/img/xe/xe400_1173_w.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xe/xe400_378_w.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
@@ -250,10 +250,10 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XE-400-black.php#!leecom-xe400b" title="XE-400 黑色"><img
+                                    <li><a href="XE-400-black.php#!leecom-xe400b" title="XE-400 Black"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/1.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XE-240-white.php#!leecom-xe400w" title="XE-400 白色"><img
+                                    <li><a href="XE-240-white.php#!leecom-xe400w" title="XE-400 White"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -290,13 +290,13 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="leecom-xe460b" title="LEECOM | XE-460 黑色">
+                        <div class="product-image-wrapper" data-id="leecom-xe460b" title="LEECOM | XE-460 Black">
                             <a href="<?php echo $site_url; ?>out/img/xe/xe460_1173_b.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xe/xe460_378_b.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="leecom-xe460w" title="LEECOM | XE-460 白色">
+                        <div class="product-image-wrapper" data-id="leecom-xe460w" title="LEECOM | XE-460 White">
                             <a href="<?php echo $site_url; ?>out/img/xe/xe460_1173_w.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xe/xe460_378_w.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
@@ -313,10 +313,10 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XE-600-black.php#!leecom-xe460b" title="XE-460 黑色"><img
+                                    <li><a href="XE-600-black.php#!leecom-xe460b" title="XE-460 Black"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/1.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XE-300-white.php#!leecom-xe460w" title="XE-460 白色"><img
+                                    <li><a href="XE-300-white.php#!leecom-xe460w" title="XE-460 White"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -353,13 +353,13 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="leecom-xe600b" title="LEECOM | XE-600 黑色">
+                        <div class="product-image-wrapper" data-id="leecom-xe600b" title="LEECOM | XE-600 Black">
                             <a href="<?php echo $site_url; ?>out/img/xe/xe600_1173_b.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xe/xe600_378_b.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="leecom-xe600w" title="LEECOM | XE-600 白色">
+                        <div class="product-image-wrapper" data-id="leecom-xe600w" title="LEECOM | XE-600 White">
                             <a href="<?php echo $site_url; ?>out/img/xe/xe600_1173_w.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xe/xe600_378_w.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
@@ -376,10 +376,10 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XE-400-black.php#!leecom-xe600b" title="XE-600 黑色"><img
+                                    <li><a href="XE-400-black.php#!leecom-xe600b" title="XE-600 Black"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/1.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XE-400-white.php#!leecom-xe600w" title="XE-600 白色"><img
+                                    <li><a href="XE-400-white.php#!leecom-xe600w" title="XE-600 White"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>
@@ -415,13 +415,13 @@
                     <!-- ende -> Breadcrumb -->
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
-                        <div class="product-image-wrapper" data-id="leecom-xe800b" title="LEECOM | XE-800 黑色">
+                        <div class="product-image-wrapper" data-id="leecom-xe800b" title="LEECOM | XE-800 Black">
                             <a href="<?php echo $site_url; ?>out/img/xe/xe800_1173_b.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xe/xe800_378_b.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
-                        <div class="product-image-wrapper" data-id="leecom-xe800w" title="LEECOM | XE-800 白色">
+                        <div class="product-image-wrapper" data-id="leecom-xe800w" title="LEECOM | XE-800 White">
                             <a href="<?php echo $site_url; ?>out/img/xe/xe800_1173_w.jpg" class="cloud-zoom">
                                 <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
                                 <img data-src="<?php echo $site_url; ?>out/img/xe/xe800_378_w.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
@@ -438,10 +438,10 @@
                         <div class="variations nav clearfix">
                             <div class="oh">
                                 <ul>
-                                    <li><a href="XE-400-black.php#!leecom-xe800b" title="XE-800 黑色"><img
+                                    <li><a href="XE-400-black.php#!leecom-xe800b" title="XE-800 Black"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/1.png"
                                                 width="33" height="33" alt=""></a></li>
-                                    <li><a href="XE-400-white.php#!leecom-xe800w" title="XE-800 白色"><img
+                                    <li><a href="XE-400-white.php#!leecom-xe800w" title="XE-800 White"><img
                                                 src="<?php echo $site_url; ?>out/pictures/master/global/2/4.png"
                                                 width="33" height="33" alt=""></a></li>
                                 </ul>

@@ -10,7 +10,7 @@
             <div class="grid_8">
                 <h2>XC-360 节能环保，高亮度可调LED light源</h2>
 
-                <p>与生俱来的优雅与尊贵宛如极致简单的艺术，不论时光如何流逝，都不失高雅、精致。黑色或白色的经典搭配，可兼顾各种装饰风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
+                <p>与生俱来的优雅与尊贵宛如极致简单的艺术，不论时光如何流逝，都不失高雅、精致。Black或White的经典搭配，可兼顾各种装饰风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
                     可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
             </div>
             <div class="grid_4">
@@ -154,8 +154,8 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <thead>
                 <tr>
                     <td colspan="3">CF Top filter<a
-                            href="../../../../en/Products/More/QP/Filtersystems/Bioflow-Filter-M-Filter-system-Bioflow-3-0.php"
-                            class="arrow-link">产品</a></td>
+                            href="../../../../en/Products/More/CF-600.php"
+                            class="arrow-link">Product</a></td>
                 </tr>
                 </thead>
                 <tbody>
@@ -183,7 +183,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 </tr>
                 <tr>
                     <td class="icon energieverbrauch">&nbsp;</td>
-                    <td class="topic">水泵 power</td>
+                    <td class="topic">Pump power</td>
                     <td>2.5 W</td>
                 </tr>
                 <tr>

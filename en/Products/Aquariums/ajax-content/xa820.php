@@ -131,12 +131,12 @@
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">气动过滤型号</td>
-                    <td>IM-018 蓝色</td>
+                    <td>IM-018 Blue</td>
                 </tr>
                 <tr>
                     <td class="icon leuchtmedium">&nbsp;</td>
                     <td class="topic">灯型号</td>
-                    <td>LQ-106 白色</td>
+                    <td>LQ-106 White</td>
                 </tr>
                 <tr>
                     <td class="icon watt">&nbsp;</td>

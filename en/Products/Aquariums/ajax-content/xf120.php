@@ -10,7 +10,7 @@
                 <div class="grid_8">
                     <h2>XF-120---为您空间增添另一道风景</h2>
                     <p>超节能电机不但安静还省电，一体成形，现代时尚设计，易清洗，通透无瑕，无论放到哪里都是一道亮丽的风景线。开关防水帽是你24小时不下班的安全卫士， 可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，小巧喂食口令您投饲或加水都如此便捷。
-                        <br/><br/>白色、粉色、蓝色依据您的品味选择</p>
+                        <br/><br/>White、粉色、Blue依据您的品味选择</p>
                 </div>
                <!--  <div class="grid_4">
                     <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
@@ -91,7 +91,7 @@
                     </tr>
                     <tr>
                         <td class="icon energieverbrauch">&nbsp;</td>
-                        <td class="topic">水泵 power</td>
+                        <td class="topic">Pump power</td>
                         <td>3 W</td>
                     </tr>
                     <tr>

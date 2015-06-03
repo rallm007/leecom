@@ -88,7 +88,7 @@
                     </tr>
                     <tr>
                         <td class="icon energieverbrauch">&nbsp;</td>
-                        <td class="topic">水泵 power</td>
+                        <td class="topic">Pump power</td>
                         <td>3 W</td>
                     </tr>
                     </tbody>
