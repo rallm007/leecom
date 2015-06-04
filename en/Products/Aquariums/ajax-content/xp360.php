@@ -8,10 +8,9 @@
 
         <div class="tab-teaser-prod_details top clearfix">
             <div class="grid_8">
-                <h2>XP-360 头顶防水帽，安全有保障</h2>
+                <h2>Waterproof XP-360 head cap, ensuring security</h2>
 
-                <p>简洁大方的外形是XP-360广受大众喜爱的主要原因，37 X 24 X 35.2CM的外型轻松融入各种居家装修设计风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
-                    可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
+                <p>Concise and easy appearance is the main cause of XP-360 widely popular, the shapes of 37 X 24 X 35.2 CM fit easily into a variety of home decoration design style.Lighting and perfect cover into an organic whole, waterproof switch cap is your security guards work 24 hours.The upper filter of replaceable filter material which makes you always keep the clean water quality state, large-scale activities of feeding cover makes you hurl food and water are so convenient and easy.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010_1.jpg" alt="">
@@ -162,7 +161,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">Product name</td>
-                    <td>CF Top filter</td>
+                    <td>CF-300/360 top filter</td>
                 </tr>
                 <tr>
                     <td class="icon dekore">&nbsp;</td>
@@ -194,7 +193,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon filtermedium">&nbsp;</td>
                     <td class="topic">Filter material item</td>
-                    <td>SC-30炭棉板滤材，SH-20生化棉滤材</td>
+                    <td>SC-30 Carbon cartridge replacement，SH-20 Bio-sponge replacement</td>
                 </tr>
                 </tbody>
             </table>
@@ -205,7 +204,7 @@ Three gears switch give you different visual feeling, light and shade to form di
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">TH-360底柜<br>
+                    <td colspan="3">TH-360 Cabinet<br>
                     </td>
                 </tr>
                 </thead>
@@ -213,7 +212,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">Product name</td>
-                    <td>TH-360底柜<br>
+                    <td>TH-360 Cabinet<br>
                     </td>
                 </tr>
                 <tr>

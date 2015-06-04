@@ -147,7 +147,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon filtervolumen">&nbsp;</td>
-                                        <td class="topic">炭棉板滤材号</td>
+                                        <td class="topic"> Carbon cartridge replacement号</td>
                                         <td>SI-34</td>
                                     </tr>
                                     <tr>

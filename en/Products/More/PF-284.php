@@ -164,12 +164,12 @@
                                     </tr>
                                     <tr>
                                         <td class="icon filtervolumen">&nbsp;</td>
-                                        <td class="topic">炭棉板滤材号</td>
+                                        <td class="topic"> Carbon cartridge replacement号</td>
                                         <td>SH-24</td>
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic">生化棉滤材号</td>
+                                        <td class="topic"> Bio-sponge replacement号</td>
                                         <td>SH-84</td>
                                     </tr>
                                     <tr>

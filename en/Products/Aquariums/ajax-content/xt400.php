@@ -153,7 +153,7 @@ Three gears switch give you different visual feeling, light and shade to form di
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">CF-400/460上部过滤器<a
+                    <td colspan="3">CF-400/460 top filter<a
                             href="../../../../en/Products/More/CF-600.php"
                             class="arrow-link">Product</a></td>
                 </tr>
@@ -162,7 +162,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">Product name</td>
-                    <td>CF-400/460上部过滤器</td>
+                    <td>CF-400/460 top filter</td>
                 </tr>
                 <tr>
                     <td class="icon dekore">&nbsp;</td>
@@ -194,7 +194,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon filtermedium">&nbsp;</td>
                     <td class="topic">Filter material item</td>
-                    <td>SC-40炭棉板滤材，SH-20生化棉滤材</td>
+                    <td>SC-40 Carbon cartridge replacement，SH-20 Bio-sponge replacement</td>
                 </tr>
                 </tbody>
             </table>
@@ -205,7 +205,7 @@ Three gears switch give you different visual feeling, light and shade to form di
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">TR-400底柜<br>
+                    <td colspan="3">TR-400 Cabinet<br>
                     </td>
                 </tr>
                 </thead>
@@ -213,7 +213,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">Product name</td>
-                    <td>TR-400底柜<br>
+                    <td>TR-400 Cabinet<br>
                     </td>
                 </tr>
                 <tr>

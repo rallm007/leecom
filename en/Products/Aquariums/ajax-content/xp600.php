@@ -8,10 +8,9 @@
 
         <div class="tab-teaser-prod_details top clearfix">
             <div class="grid_8">
-                <h2>XP-600 永不过时，永恒经典</h2>
+                <h2>XP-600 will never be out of date, eternal classic</h2>
 
-                <p>经典、永恒一如我们的XP-600Aquariums， 61 x 36 x 44.8cm的外型轻松融入各种居家装修设计风格。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
-                    可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
+                <p>Classic aquatic animals box, eternal, as our XP-600, 61 x 44.8 cm x 36 appearance fit easily into a variety of home decoration design style.Lighting and perfect cover into an organic whole, waterproof switch cap is your security guards work 24 hours.The upper filter of replaceable filter material which makes you always keep the clean water quality state, large-scale activities of feeding cover makes you hurl food and water are so convenient and easy.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010_1.jpg" alt="">
@@ -194,7 +193,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon filtermedium">&nbsp;</td>
                     <td class="topic">Filter material item</td>
-                    <td>SC-60炭棉板滤材，SH-20生化棉滤材</td>
+                    <td>SC-60 Carbon cartridge replacement，SH-20 Bio-sponge replacement</td>
                 </tr>
                 </tbody>
             </table>
@@ -205,7 +204,7 @@ Three gears switch give you different visual feeling, light and shade to form di
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">TH-600底柜<br>
+                    <td colspan="3">TH-600 Cabinet<br>
                     </td>
                 </tr>
                 </thead>
@@ -213,7 +212,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">Product name</td>
-                    <td>TH-600底柜<br>
+                    <td>TH-600 Cabinet<br>
                     </td>
                 </tr>
                 <tr>

@@ -162,7 +162,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">Product name</td>
-                    <td>CF Top filter</td>
+                    <td>CF-300/360 top filter</td>
                 </tr>
                 <tr>
                     <td class="icon dekore">&nbsp;</td>
@@ -194,7 +194,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon filtermedium">&nbsp;</td>
                     <td class="topic">Filter material item</td>
-                    <td>SC-30炭棉板滤材，SH-20生化棉滤材</td>
+                    <td>SC-30 Carbon cartridge replacement，SH-20 Bio-sponge replacement</td>
                 </tr>
                 </tbody>
             </table>
@@ -205,7 +205,7 @@ Three gears switch give you different visual feeling, light and shade to form di
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">TR-360底柜<br>
+                    <td colspan="3">TR-360 Cabinet<br>
                     </td>
                 </tr>
                 </thead>
@@ -213,7 +213,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">Product name</td>
-                    <td>TR-360底柜<br>
+                    <td>TR-360 Cabinet<br>
                     </td>
                 </tr>
                 <tr>

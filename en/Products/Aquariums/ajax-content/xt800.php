@@ -195,7 +195,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon filtermedium">&nbsp;</td>
                     <td class="topic">Filter material item</td>
-                    <td>SC-80炭棉板滤材，SH-20生化棉滤材</td>
+                    <td>SC-80 Carbon cartridge replacement，SH-20 Bio-sponge replacement</td>
                 </tr>
                 </tbody>
             </table>
@@ -206,7 +206,7 @@ Three gears switch give you different visual feeling, light and shade to form di
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">TH-800底柜<br>
+                    <td colspan="3">TH-800 Cabinet<br>
                     </td>
                 </tr>
                 </thead>
@@ -214,7 +214,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">Product name</td>
-                    <td>TH-800底柜<br>
+                    <td>TH-800 Cabinet<br>
                     </td>
                 </tr>
                 <tr>
