@@ -8,10 +8,9 @@
 
         <div class="tab-teaser-prod_details top clearfix">
             <div class="grid_8">
-                <h2>XC-460 这道亮丽的风景线</h2>
+                <h2>XC-460, this beautiful scenery line</h2>
 
-                <p>从构思到选材，从研发到生产，从试验到出品，我们始终秉承最高度负责的态度为爱家爱鱼的您精心设计。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
-                    可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
+                <p>From conception to select material, from research to production, from test to production, we are always adhering to the highly responsible attitude to love family love fish you elaborate design.Lighting and perfect cover into an organic whole, waterproof switch cap is your security guards work 24 hours.The upper filter of replaceable filter material which makes you always keep the clean water quality state, large-scale activities of feeding cover makes you hurl food and water are so convenient and easy.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xc.jpg" alt="">

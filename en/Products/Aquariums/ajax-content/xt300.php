@@ -11,7 +11,8 @@
                 <h2>XT-300</h2>
 
                 <p>
-                    经典水草缸设计，别具一格的开放式设计，典雅精致。提供一个照明，过滤，增氧于一体化的生态环境，让您时刻近距离，更清晰，感受大自然。玻璃晶莹剔透，色彩多样，即可办公室摆放也可家居使用，让你把大自然带回家。健康与你同在！</p>
+                    Classic water tank design, having a unique style of open mode design, elegant and delicate.Provide a lighting, filtering, increasing oxygen in the integration of the ecological environment, let you moment at close range, more clear, feel the nature.Glass glittering and translucent get rid of is appeared, colour diversity, can put office also can use household, let you bring home nature.Health be with you!
+                    <br/><br/>Black and white for your choice.<br/>High brightness SMD type LED lamp, lamp more optional.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xt.jpg" alt="">

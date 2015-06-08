@@ -11,7 +11,7 @@
                 <h2>XT-460</h2>
 
                 <p>
-                    低噪音，高效的过滤装置，可有效清洁水质污渍，使现代居观赏更加的高效节能，方便舒适。优美的设计，外形高档美观，尽显其高贵优雅。提供一个照明，过滤，增氧于一体的生态环境，让您时刻近距离，更清晰，感受大自然。样式经典，造型时尚动感，玻璃晶莹剔透，色彩多样，即可办公室摆放也可家居使用。</p>
+                    3.4 low noise, high efficiency of filtering device, can effectively clean the water stain, make modern watch more energy efficient, convenient and comfortable.Elegant design, high-grade, beautiful appearance, show its noble and elegant.Provide a lighting, filtering, increasing oxygen in the integration of ecological environment, let you moment at close range, more clear, feel the nature.Style is classical, kinetic modelling, glass glittering and translucent get rid of is appeared, colour diversity, can put can also use household office.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xt.jpg" alt="">

@@ -11,7 +11,7 @@
                 <h2>XT-400</h2>
 
                 <p>
-                    别具一格的开放式设计，典雅精致。雨淋式过滤槽下水孔，无水流冲击声！超节能电机，静音更省电！提供一个照明，过滤，增氧于一体的生态环境，让您时刻近距离，更清晰，感受大自然。自然水景能为您的办公室增加风水，带来升级与活力，让您在工作之余，能够观赏到美丽的自然水景，增加工作乐趣。</p>
+                    Unique open design, elegant and delicate.Hole under the rain type filter tank, the absence of water rushing sound!Super energy-saving motor, mute more save electricity!Provide a lighting, filtering, increasing oxygen in the integration of ecological environment, let you moment at close range, more clear, feel the nature.Natural water features bring to your office add to feng shui, upgrade and vitality, let you in the work, can see the beauty of the natural water, a fun job.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xt.jpg" alt="">

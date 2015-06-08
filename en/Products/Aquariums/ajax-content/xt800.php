@@ -11,8 +11,7 @@
                 <h2>XT-800</h2>
 
                 <p>
-                    优美的弧线设计，外形高档美观，尽显其高贵优雅。采用高效节能LED light，省电，低电压输入，安全可靠，操作方便。采用内置过滤器，三重过滤功能，过滤效果极佳。黑白两色，永经典。一直被模仿，无法被超越。不一样的精致享受，得到的，不仅仅只有表面看到的，意想不到的收获功能
-                    ，给你一个健康舒适的生活空间。每个细节都如此完美，每一处都是精心设计。</p>
+                    With high efficiency and energy saving LED lights, save electricity, low input voltage, safe and reliable, easy to operate.Using the built-in filter, triple filter function, excellent filtering effect.Black and white and dichromatic, eternal classic.Has been copied, can't be transcended.Different delicate, enjoy, not just the surface seen, unexpected harvest function, give you a healthy and comfortable living space.Every detail is so perfect, each is carefully designed.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xt.jpg" alt="">

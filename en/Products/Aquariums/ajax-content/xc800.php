@@ -8,11 +8,10 @@
 
         <div class="tab-teaser-prod_details top clearfix">
             <div class="grid_8">
-                <h2>XC-800 高清透亮、超视觉盛宴</h2>
+                <h2>XC-800 high-definition bright, super visual feast</h2>
 
                 <p>
-                    晶莹剔透水晶般的品质，给您温馨的居室不仅仅是美观更是一种完美极致的视觉享受。耐用、超静的水泵不但保证过滤系统的正常运行，令水质常年洁净，还令你静享生活，每天清晨睁开眼第一道风景线，仿佛置身于大自然的怀抱这般心旷神怡。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
-                    可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
+                    Glittering and translucent get rid of the crystalline quality, give you warm bedroom is not only beautiful but also a kind of perfect acme visual enjoyment.Durable, super static water pump not only guarantee the normal operation of the filter system, make the water clean all the year round, also make you enjoy life, every morning opened his eyes the first scenery, as if place oneself in nature so relaxed and happy.Lighting and perfect cover into an organic whole, waterproof switch cap is your security guards work 24 hours.The upper filter of replaceable filter material which makes you always keep the clean water quality state, large-scale activities of feeding cover makes you hurl food and water are so convenient and easy.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xc.jpg" alt="">

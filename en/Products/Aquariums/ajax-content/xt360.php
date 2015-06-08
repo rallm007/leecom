@@ -11,7 +11,7 @@
                 <h2>XT-360</h2>
 
                 <p>
-                    高亮度LED铝合金灯，安全更省电。亚克力灯罩，起到防水效果。航天级强耐腐蚀铝型材质，强度大，散热快，安全耐用，长时间使用也不烫手。优美的设计，外形高档美观，尽显其高贵优雅。独创的三重过滤系统，过滤棉、活性炭，生化环的有机结合，过滤更彻底。提供一个照明，过滤，增氧于一体的生态环境，让您时刻近距离，更清晰，感受大自然。</p>
+                    High brightness LED aluminum alloy lamp, safe and more.Acrylic lampshade, have waterproof effect.Space level strong corrosion resistant aluminum quality, strength, heat fast, safe, durable, use for a long time also not hot.Elegant design, high-grade, beautiful appearance, show its noble and elegant.Original triple filtration system, filter cotton, activated carbon, the combination of biochemical ring, filter more thoroughly.Provide a lighting, filtering, increasing oxygen in the integration of ecological environment, let you moment at close range, more clear, feel the nature.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xt.jpg" alt="">

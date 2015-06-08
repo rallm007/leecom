@@ -8,11 +8,10 @@
 
         <div class="tab-teaser-prod_details top clearfix">
             <div class="grid_8">
-                <h2>XC-400 模仿大自然的生态过滤，永保水质优良</h2>
+                <h2>XC-400 imitating nature ecological filter, and excellent water quality</h2>
 
                 <p>
-                    采用超强多重的生态过滤系统，更有效过滤杂质令水质永远处于最优质的状态，闲暇之余看看鱼、欣赏一下疯狂的水草，宛若置身于大自然，让疲劳与压抑一看而散。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
-                    可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
+                    Using super multiple ecological filter system, more effective filtering impurities to water quality always is in a state of the highest quality, leisure look at fish, enjoy the wild grass, like place oneself in nature, dispersed let fatigue and depression.Lighting and perfect cover into an organic whole, waterproof switch cap is your security guards work 24 hours.The upper filter of replaceable filter material which makes you always keep the clean water quality state, large-scale activities of feeding cover makes you hurl food and water are so convenient and easy.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xc.jpg" alt="">

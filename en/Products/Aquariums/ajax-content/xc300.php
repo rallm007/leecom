@@ -8,12 +8,11 @@
 
         <div class="tab-teaser-prod_details top clearfix">
             <div class="grid_8">
-                <h2>XC-300 超完美弧度，热弯一次成型</h2>
+                <h2>XC-300 super perfect radian, hot bending forming at a time</h2>
 
-                <p>新颖完美的造型设计，产品经科学优化设计，采用优质、环保的原材料，每一道工序都有严格的质量控制，确保产品的先进的使用功能和安全可靠的质量。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
-                    可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。
-                    <br/><br/>Black、White任您选择。
-                    Saving lamp、LED light按您需求制作。</p>
+                <p>Novel and perfect design, the product optimization design scientifically, using high quality raw materials, environmental protection, each procedure has strict quality control, to ensure the safety of the products of advanced functions and reliable quality.Lighting and perfect cover into an organic whole, waterproof switch cap is your security guards work 24 hours.The upper filter of replaceable filter material which makes you always keep the clean water quality state, large-scale activities of feeding cover makes you hurl food and water are so convenient and easy.
+                    <br/><br/>Black and white for your choice.
+                    Energy-saving lamps, LED lights according to your demand production.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xc.jpg" alt="">

@@ -25,7 +25,7 @@
     <meta property="og:image" content="<?php echo $site_url; ?>out/pictures/master/product/1/xp300.png"/>
     <link rel="shortcut icon" href="<?php echo $site_url; ?>out/pictures/master/global/1/favicon.ico">
     <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/styles.css">
-    <link rel="stylesheet" href="/out/leecom/src/css/en-GB.css">
+    <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/en-GB.css">
     <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/colorbox.css">
     <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/jquery.jscrollpane.css">
     <script src="<?php echo $site_url; ?>out/leecom/src/js/libs/jquery.min.js"></script>

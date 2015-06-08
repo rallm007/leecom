@@ -11,7 +11,7 @@
                 <h2>XT-600</h2>
 
                 <p>
-                    全新LED light照明完美升级，独立上部过滤系统，鱼缸美学巅峰之作，带给您无与伦比的自然体验！独立上部过滤系统，一个高效过滤和抽水、增氧完美融合于一体的系统。高质量优质Aquariums，高粘结力，高抗拉强度，持久的柔韧性，确保产品的抗衰性和防爆性，别具一格的开放式设计，典雅精致。</p>
+                    New LED lights lighting perfect upgrade, independent upper filter system, peak tank aesthetics, bring you incomparable natural experience!Independent upper filter system, an efficient filter and pump, the perfect fusion of increasing oxygen in the integration of the system.High quality high quality aquatic animals box, high cohesive force, high tensile strength, flexibility, ensure that the product of the decay resistance and anti explosion, having a unique style of open mode design, elegant and delicate.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xt.jpg" alt="">
