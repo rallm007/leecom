@@ -48,13 +48,13 @@
                                 <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/CC1.php" id="00000000301">Magnetic series</a>
                                 </li>
                                 <!-- Weiteres -->
-                                <li style="width: 115px;"><a href="<?php echo $site_url . 'en/Products'; ?>/More/MT-100.php" id="00000000311">Accessories Series</a>
+                                <li style="width: 125px;"><a href="<?php echo $site_url . 'en/Products'; ?>/More/MT-100.php" id="00000000311">Accessories Series</a>
                                 </li>
-                                <li style="width: 115px;"><a href="<?php echo $site_url . 'en/Products'; ?>/More/KC-361.php" id="00000000312">Heater Series</a>
+                                <li style="width: 125px;"><a href="<?php echo $site_url . 'en/Products'; ?>/More/KC-361.php" id="00000000312">Heater Series</a>
                                 </li>
-                                <li style="width: 115px;"><a href="<?php echo $site_url . 'en/Products'; ?>/More/HI-330.php" id="00000000313">Hang-on filter Series</a>
+                                <li style="width: 125px;"><a href="<?php echo $site_url . 'en/Products'; ?>/More/HI-330.php" id="00000000313">Hang-on filter Series</a>
                                 </li>
-                                <li style="width: 115px;"><a href="<?php echo $site_url . 'en/Products'; ?>/More/PF-282.php" id="00000000314">Internal filter Series</a>
+                                <li style="width: 125px;"><a href="<?php echo $site_url . 'en/Products'; ?>/More/PF-282.php" id="00000000314">Internal filter Series</a>
                                 </li>
                                 <li><a href="<?php echo $site_url . 'en/Products'; ?>/More/CF-600.php" id="00000000315">Top filter Series</a>
                                 </li>
