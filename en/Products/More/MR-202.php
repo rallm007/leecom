@@ -36,7 +36,7 @@
                             <li class="active">
                                 <ul>
                                     <li>
-                                        <a href="MT-100.php">MT-100 止逆阀 </a>
+                                        <a href="MT-100.php">MT-100 Check Valve </a>
                                     </li>
                                 </ul>
                                 <ul>
@@ -76,12 +76,12 @@
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MQ-100.php">MQ-100气管调节阀 </a>
+                                        <a href="MQ-100.php">MQ-100 Air pipe regulator </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="QPS.php">气泡石 </a>
+                                        <a href="QPS.php">Air stone </a>
                                     </li>
                                 </ul>
                             </li>

@@ -11,7 +11,7 @@
                 <h2>XE-360</h2>
 
                 <p>
-                    高亮度LED铝合金灯，安全更省电。亚克力灯罩，起到防水效果。航天级强耐腐蚀铝型材质，强度大，散热快，安全耐用，长时间使用也不烫手。优美的设计，外形高档美观，尽显其高贵优雅。独创的三重过滤系统，过滤棉、活性炭，生化环的有机结合，过滤更彻底。提供一个照明，过滤，增氧于一体的生态环境，让您时刻近距离，更清晰，感受大自然。</p>
+                    High brightness LED aluminum alloy lamp, safe and more.Acrylic lampshade, have waterproof effect.Space level strong corrosion resistant aluminum quality, strength, heat fast, safe, durable, use for a long time also not hot.Elegant design, high-grade, beautiful appearance, show its noble and elegant.Original triple filtration system, filter cotton, activated carbon, the combination of biochemical ring, filter more thoroughly.Provide a lighting, filtering, increasing oxygen in the integration of ecological environment, let you moment at close range, more clear, feel the nature.Perfect streamline modelling, humanized rounded design, high-end atmosphere, safe use.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xt.jpg" alt="">
@@ -250,33 +250,33 @@ Three gears switch give you different visual feeling, light and shade to form di
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="MT-100 止逆阀2个装" style=""><img
+                   original-title="MT-100 Check Valve 2 Pack" style=""><img
                         src="../../../../out/pictures/generated/srcms/1/618_342_80/86930.png"
-                        alt="MT-100 止逆阀2个装" title="MT-100 止逆阀2个装"></a>
+                        alt="MT-100 Check Valve 2 Pack" title="MT-100 Check Valve 2 Pack"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="MQ-100气管调节阀" style=""><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86262.png" alt="MQ-100气管调节阀"
-                        title="MQ-100气管调节阀"></a>
+                   original-title="MQ-100 Air pipe regulator" style=""><img
+                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86262.png" alt="MQ-100 Air pipe regulator"
+                        title="MQ-100 Air pipe regulator"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="MT-100 止逆阀" style=""><img
+                   original-title="MT-100 Check Valve" style=""><img
                         src="../../../../out/pictures/generated/srcms/1/618_342_80/86923.png"
-                        alt="MT-100 止逆阀" title="MT-100 止逆阀"></a>
+                        alt="MT-100 Check Valve" title="MT-100 Check Valve"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="黄粉" style=""><img
+                   original-title="Yellow Powder" style=""><img
                         src="../../../../out/pictures/generated/srcms/1/618_342_80/86944.png"
-                        alt="D黄粉" title="黄粉"></a>
+                        alt="DYellow Powder" title="Yellow Powder"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="气泡石" style="margin-right: 873px;"><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="气泡石"
-                        title="气泡石"></a>
+                   original-title="Air stone" style="margin-right: 873px;"><img
+                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="Air stone"
+                        title="Air stone"></a>
             </div>
         </div>
         <a class="accessories-nav accessories-prev disabled"

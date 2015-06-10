@@ -250,33 +250,33 @@ Three gears switch give you different visual feeling, light and shade to form di
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="MT-100 止逆阀2个装" style=""><img
+                   original-title="MT-100 Check Valve 2 Pack" style=""><img
                         src="../../../../out/pictures/generated/srcms/1/618_342_80/86930.png"
-                        alt="MT-100 止逆阀2个装" title="MT-100 止逆阀2个装"></a>
+                        alt="MT-100 Check Valve 2 Pack" title="MT-100 Check Valve 2 Pack"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="MQ-100气管调节阀" style=""><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86262.png" alt="MQ-100气管调节阀"
-                        title="MQ-100气管调节阀"></a>
+                   original-title="MQ-100 Air pipe regulator" style=""><img
+                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86262.png" alt="MQ-100 Air pipe regulator"
+                        title="MQ-100 Air pipe regulator"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="MT-100 止逆阀" style=""><img
+                   original-title="MT-100 Check Valve" style=""><img
                         src="../../../../out/pictures/generated/srcms/1/618_342_80/86923.png"
-                        alt="MT-100 止逆阀" title="MT-100 止逆阀"></a>
+                        alt="MT-100 Check Valve" title="MT-100 Check Valve"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="黄粉" style=""><img
+                   original-title="Yellow Powder" style=""><img
                         src="../../../../out/pictures/generated/srcms/1/618_342_80/86944.png"
-                        alt="D黄粉" title="黄粉"></a>
+                        alt="DYellow Powder" title="Yellow Powder"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="气泡石" style="margin-right: 873px;"><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="气泡石"
-                        title="气泡石"></a>
+                   original-title="Air stone" style="margin-right: 873px;"><img
+                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="Air stone"
+                        title="Air stone"></a>
             </div>
         </div>
         <a class="accessories-nav accessories-prev disabled"

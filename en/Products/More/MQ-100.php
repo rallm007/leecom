@@ -19,7 +19,7 @@
                     <li>You are here:</li>
                     <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Accessories series">Accessories series</a></li>
-                    <li>MQ-100气管调节阀</li>
+                    <li>MQ-100 Air pipe regulator</li>
                 </ul>
             </div>
             <!-- Links - Navigation und Teaser-Content -->
@@ -36,7 +36,7 @@
                             <li class="active">
                                 <ul>
                                     <li>
-                                        <a href="MT-100.php">MT-100 止逆阀 </a>
+                                        <a href="MT-100.php">MT-100 Check Valve </a>
                                     </li>
                                 </ul>
                                 <ul>
@@ -76,12 +76,12 @@
                                 </ul>
                                 <ul>
                                     <li class="active">
-                                        <a href="MQ-100.php">MQ-100气管调节阀 </a>
+                                        <a href="MQ-100.php">MQ-100 Air pipe regulator </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="QPS.php">气泡石 </a>
+                                        <a href="QPS.php">Air stone </a>
                                     </li>
                                 </ul>
                             </li>
@@ -110,7 +110,7 @@
 
                     <div class="grid_4 omega accessories_detail_right" style="margin-top: 100px;">
 
-                        <h2 class="tk-myriad-pro tk-light">MQ-100气管调节阀 </h2>
+                        <h2 class="tk-myriad-pro tk-light">MQ-100 Air pipe regulator </h2>
 
                         <p class="desc"></p>
                     </div>
@@ -128,7 +128,7 @@
 
 
                             <div class="tab-teaser accessories_detail-prod_detail">
-                                <h3>MQ-100气管调节阀</h3>
+                                <h3>MQ-100 Air pipe regulator</h3>
 
                                 <p>外观时尚，做工精致，独特的设计使气管在使用过程中不易脱落，将气管一分为二，两头用空气调节阀重新连接上，然后通过控制旋扭来自由调节气流流通的大小。</p>
 
@@ -147,7 +147,7 @@
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
                                         <td class="topic">Product name</td>
-                                        <td>MQ-100气管调节阀</td>
+                                        <td>MQ-100 Air pipe regulator</td>
                                     </tr>
                                     <tr>
                                         <td class="icon dekore">&nbsp;</td>
@@ -204,7 +204,7 @@
         <ul>
             <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Accessories series">Accessories series</a></li>
-            <li><a href="#">MQ-100气管调节阀 </a></li>
+            <li><a href="#">MQ-100 Air pipe regulator </a></li>
         </ul>
     </div>
 </div>

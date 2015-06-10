@@ -8,10 +8,9 @@
 
         <div class="tab-teaser-prod_details top clearfix">
             <div class="grid_8">
-                <h2>XP-800 优雅，不变的经典</h2>
+                <h2>XP-800</h2>
 
-                <p>时尚、大气，尽显尊贵81 X 41 X 52.8CM的超大外型让您无论在哪个角度都能给您最佳的视觉感受，为您的家居生活增添活力。灯光与上盖完美融于一体，开关防水帽是你24小时不下班的安全卫士。
-                    可替换滤材的上部过滤器令您的水质永远保持最洁净的状态，大型活动的喂食盖令你不管是投食还是加水都如此的便捷、轻松。</p>
+                <p>Sleek lines design, high-grade, beautiful appearance, show its noble and elegant.Adopt high efficiency and energy saving LED lights, save electricity, low input voltage, safe and reliable, easy to operate.Using the built-in filter, triple filter function, excellent filtering effect.Black and white and dichromatic, eternal classic.Has been copied, can't be transcended.Different delicate, enjoy, not just the surface seen, unexpected harvest function, give you a healthy and comfortable living space.Every detail is so perfect, each is carefully designed.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xt.jpg" alt="">
@@ -153,8 +152,8 @@ Three gears switch give you different visual feeling, light and shade to form di
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">CF-800上部过滤器<a
-                            href="../../../../en/Products/More/CF-600.php"
+                    <td colspan="3">CF-800 top filter<a
+                            href="../../../../en/Products/More/CF-800.php"
                             class="arrow-link">Product</a></td>
                 </tr>
                 </thead>
@@ -162,7 +161,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">Product name</td>
-                    <td>CF-800上部过滤器</td>
+                    <td>CF-800 top filter</td>
                 </tr>
                 <tr>
                     <td class="icon dekore">&nbsp;</td>
@@ -255,33 +254,33 @@ Three gears switch give you different visual feeling, light and shade to form di
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="MT-100 止逆阀2个装" style=""><img
+                   original-title="MT-100 Check Valve 2 Pack" style=""><img
                         src="../../../../out/pictures/generated/srcms/1/618_342_80/86930.png"
-                        alt="MT-100 止逆阀2个装" title="MT-100 止逆阀2个装"></a>
+                        alt="MT-100 Check Valve 2 Pack" title="MT-100 Check Valve 2 Pack"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="MQ-100气管调节阀" style=""><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86262.png" alt="MQ-100气管调节阀"
-                        title="MQ-100气管调节阀"></a>
+                   original-title="MQ-100 Air pipe regulator" style=""><img
+                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86262.png" alt="MQ-100 Air pipe regulator"
+                        title="MQ-100 Air pipe regulator"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="MT-100 止逆阀" style=""><img
+                   original-title="MT-100 Check Valve" style=""><img
                         src="../../../../out/pictures/generated/srcms/1/618_342_80/86923.png"
-                        alt="MT-100 止逆阀" title="MT-100 止逆阀"></a>
+                        alt="MT-100 Check Valve" title="MT-100 Check Valve"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="黄粉" style=""><img
+                   original-title="Yellow Powder" style=""><img
                         src="../../../../out/pictures/generated/srcms/1/618_342_80/86944.png"
-                        alt="D黄粉" title="黄粉"></a>
+                        alt="DYellow Powder" title="Yellow Powder"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="气泡石" style="margin-right: 873px;"><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="气泡石"
-                        title="气泡石"></a>
+                   original-title="Air stone" style="margin-right: 873px;"><img
+                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="Air stone"
+                        title="Air stone"></a>
             </div>
         </div>
         <a class="accessories-nav accessories-prev disabled"

@@ -19,7 +19,7 @@
                     <li>You are here:</li>
                     <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Top filter series">Top filter series</a></li>
-                    <li>CF-800上部过滤器</li>
+                    <li>CF-800 top filter</li>
                 </ul>
             </div>
             <!-- Links - Navigation und Teaser-Content -->
@@ -36,12 +36,12 @@
                             <li class="active">
                                 <ul>
                                     <li>
-                                        <a href="CF-600.php">CF-600上部过滤器 </a>
+                                        <a href="CF-600.php">CF-600 top filter </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li class="active">
-                                        <a href="CF-800.php">CF-800上部过滤器 </a>
+                                        <a href="CF-800.php">CF-800 top filter </a>
                                     </li>
                                 </ul>
                             </li>
@@ -69,7 +69,7 @@
 
                     <div class="grid_4 omega accessories_detail_right" style="margin-top: 100px;">
 
-                        <h2 class="tk-myriad-pro tk-light">CF-800上部过滤器 </h2>
+                        <h2 class="tk-myriad-pro tk-light">CF-800 top filter </h2>
 
                         <p class="desc"></p>
                     </div>
@@ -87,7 +87,7 @@
 
 
                             <div class="tab-teaser accessories_detail-prod_detail">
-                                <h3>CF-800上部过滤器</h3>
+                                <h3>CF-800 top filter</h3>
 
                                 <p>
                                     CF Series上部过滤是一个高效过滤和抽水、增氧完美融合于一体的系统，外壳采用优质增强型ABS原材料，坚固耐用，防腐蚀、耐酸碱、经久耐用，性能更卓越，过滤泵头主体部份全部采用进口铜线，性能更高，更有效省电，顶部灌胶密封，杜绝漏电安全隐患。三重过滤的 Carbon cartridge replacement，不但替换方便，性能更出色，当中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附Aquariums内残留的鱼铒、鱼烘等杂质，和高效生化棉最大程度保证水质的洁净。</p>
@@ -109,7 +109,7 @@
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
                                         <td class="topic">Product name</td>
-                                        <td>CF-800上部过滤器</td>
+                                        <td>CF-800 top filter</td>
                                     </tr>
                                     <tr>
                                         <td class="icon energieverbrauch">&nbsp;</td>

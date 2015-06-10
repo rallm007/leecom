@@ -61,10 +61,10 @@
 
         <div id="floorunit" class="tab-teaser-prod_details clearfix left">
             <div class="grid_8">
-                <h3 class="icon-headline floorunit">止逆阀：您的安全守卫士</h3>
+                <h3 class="icon-headline floorunit">Check Valve：您的安全守卫士</h3>
 
                 <p>
-                    当气泵摆放的位置低于鱼缸水位时，由于突然停电或其他原因导致气泵停止工作时，可能会导致鱼缸内的水倒流入气泵，致使气泵进水损坏或烧坏，甚至会水漫地板。而配套使用止逆阀即可轻松解决此问题，令您无后顾之忧，尽享美景。</p>
+                    当气泵摆放的位置低于鱼缸水位时，由于突然停电或其他原因导致气泵停止工作时，可能会导致鱼缸内的水倒流入气泵，致使气泵进水损坏或烧坏，甚至会水漫地板。而配套使用Check Valve即可轻松解决此问题，令您无后顾之忧，尽享美景。</p>
 
             </div>
             <!-- <div class="grid_4">

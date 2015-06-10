@@ -18,7 +18,7 @@
                     <li>You are here:</li>
                     <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Accessories series">Accessories series</a></li>
-                    <li>气泡石</li>
+                    <li>Air stone</li>
                 </ul>
             </div>
             <!-- Links - Navigation und Teaser-Content -->
@@ -35,7 +35,7 @@
                             <li class="active">
                                 <ul>
                                     <li>
-                                        <a href="MT-100.php">MT-100 止逆阀 </a>
+                                        <a href="MT-100.php">MT-100 Check Valve </a>
                                     </li>
                                 </ul>
                                 <ul>
@@ -75,12 +75,12 @@
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MQ-100.php">MQ-100气管调节阀 </a>
+                                        <a href="MQ-100.php">MQ-100 Air pipe regulator </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li class="active">
-                                        <a href="QPS.php">气泡石 </a>
+                                        <a href="QPS.php">Air stone </a>
                                     </li>
                                 </ul>
                             </li>
@@ -110,7 +110,7 @@
 
                     <div class="grid_4 omega accessories_detail_right" style="margin-top: 100px;">
 
-                        <h2 class="tk-myriad-pro tk-light">气泡石 </h2>
+                        <h2 class="tk-myriad-pro tk-light">Air stone </h2>
 
                         <p class="desc"></p>
                     </div>
@@ -128,9 +128,9 @@
 
 
                             <div class="tab-teaser accessories_detail-prod_detail">
-                                <h3>气泡石</h3>
+                                <h3>Air stone</h3>
 
-                                <p>高温烧结的气泡石，散气性能更优、过滤性更佳，是净化、过滤和水质臭氧杀菌和增氧的不二选择。接上氣泡石後，可以使氧氣在水中更有效擴散，增加水中含氧量。</p>
+                                <p>高温烧结的Air stone，散气性能更优、过滤性更佳，是净化、过滤和水质臭氧杀菌和增氧的不二选择。接上氣泡石後，可以使氧氣在水中更有效擴散，增加水中含氧量。</p>
 
                                 <p><br/><br/><br/>
                                 </p>
@@ -147,7 +147,7 @@
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
                                         <td class="topic">Product name</td>
-                                        <td>气泡石</td>
+                                        <td>Air stone</td>
                                     </tr>
                                     <tr>
                                         <td class="icon dekore">&nbsp;</td>
@@ -204,7 +204,7 @@
         <ul>
             <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Accessories series">Accessories series</a></li>
-            <li><a href="#">气泡石 </a></li>
+            <li><a href="#">Air stone </a></li>
         </ul>
     </div>
 </div>

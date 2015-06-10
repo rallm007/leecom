@@ -11,7 +11,7 @@
                 <h2>XE-600</h2>
 
                 <p>
-                    弧形设计，精心呵护小孩。全新LED light照明完美升级，独立上部过滤系统，鱼缸美学巅峰之作，带给您无与伦比的自然体验！独立上部过滤系统，一个高效过滤和抽水、增氧完美融合于一体的系统。高质量优质Aquariums，高粘结力，高抗拉强度，持久的柔韧性，确保产品的抗衰性和防爆性，别具一格的开放式设计，典雅精致。</p>
+                    Arc design, care for the children.New LED lights lighting perfect upgrade, independent upper filter system, peak tank aesthetics, bring you incomparable natural experience!Independent upper filter system, an efficient filter and pump, the perfect fusion of increasing oxygen in the integration of the system.High quality high quality aquatic animals box, high cohesive force, high tensile strength, flexibility, ensure that the product of the decay resistance and anti explosion, having a unique style of open mode design, elegant and delicate.</p>
             </div>
             <div class="grid_4">
                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010xt.jpg" alt="">
@@ -153,7 +153,7 @@ Three gears switch give you different visual feeling, light and shade to form di
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">CF-600上部过滤器<a
+                    <td colspan="3">CF-600 top filter<a
                             href="../../../../en/Products/More/CF-600.php"
                             class="arrow-link">Product</a></td>
                 </tr>
@@ -162,7 +162,7 @@ Three gears switch give you different visual feeling, light and shade to form di
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">Product name</td>
-                    <td>CF-600上部过滤器</td>
+                    <td>CF-600 top filter</td>
                 </tr>
                 <tr>
                     <td class="icon dekore">&nbsp;</td>
@@ -255,33 +255,33 @@ Three gears switch give you different visual feeling, light and shade to form di
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="MT-100 止逆阀2个装" style=""><img
+                   original-title="MT-100 Check Valve 2 Pack" style=""><img
                         src="../../../../out/pictures/generated/srcms/1/618_342_80/86930.png"
-                        alt="MT-100 止逆阀2个装" title="MT-100 止逆阀2个装"></a>
+                        alt="MT-100 Check Valve 2 Pack" title="MT-100 Check Valve 2 Pack"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="MQ-100气管调节阀" style=""><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86262.png" alt="MQ-100气管调节阀"
-                        title="MQ-100气管调节阀"></a>
+                   original-title="MQ-100 Air pipe regulator" style=""><img
+                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86262.png" alt="MQ-100 Air pipe regulator"
+                        title="MQ-100 Air pipe regulator"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="MT-100 止逆阀" style=""><img
+                   original-title="MT-100 Check Valve" style=""><img
                         src="../../../../out/pictures/generated/srcms/1/618_342_80/86923.png"
-                        alt="MT-100 止逆阀" title="MT-100 止逆阀"></a>
+                        alt="MT-100 Check Valve" title="MT-100 Check Valve"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="黄粉" style=""><img
+                   original-title="Yellow Powder" style=""><img
                         src="../../../../out/pictures/generated/srcms/1/618_342_80/86944.png"
-                        alt="D黄粉" title="黄粉"></a>
+                        alt="DYellow Powder" title="Yellow Powder"></a>
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="气泡石" style="margin-right: 873px;"><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="气泡石"
-                        title="气泡石"></a>
+                   original-title="Air stone" style="margin-right: 873px;"><img
+                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="Air stone"
+                        title="Air stone"></a>
             </div>
         </div>
         <a class="accessories-nav accessories-prev disabled"

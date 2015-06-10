@@ -19,7 +19,7 @@
                     <li>You are here:</li>
                     <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Accessories series">Accessories series</a></li>
-                    <li>MT-100 止逆阀</li>
+                    <li>MT-100 Check Valve</li>
                 </ul>
             </div>
             <!-- Links - Navigation und Teaser-Content -->
@@ -36,7 +36,7 @@
                             <li class="active">
                                 <ul>
                                     <li class="active">
-                                        <a href="MT-100.php">MT-100 止逆阀 </a>
+                                        <a href="MT-100.php">MT-100 Check Valve </a>
                                     </li>
                                 </ul>
                                 <ul>
@@ -76,12 +76,12 @@
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MQ-100.php">MQ-100气管调节阀 </a>
+                                        <a href="MQ-100.php">MQ-100 Air pipe regulator </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="QPS.php">气泡石 </a>
+                                        <a href="QPS.php">Air stone </a>
                                     </li>
                                 </ul>
                             </li>
@@ -110,7 +110,7 @@
 
                     <div class="grid_4 omega accessories_detail_right" style="margin-top: 100px;">
 
-                       <h2 class="tk-myriad-pro tk-light">MT-100 止逆阀 </h2>
+                       <h2 class="tk-myriad-pro tk-light">MT-100 Check Valve </h2>
 
                         <p class="desc"></p>
                     </div>
@@ -128,10 +128,10 @@
 
 
                             <div class="tab-teaser accessories_detail-prod_detail">
-                                <h3>MT-100 止逆阀</h3>
+                                <h3>MT-100 Check Valve</h3>
 
                                 <p>
-                                    当气泵摆放的位置低于鱼缸水位时，由于突然停电或其他原因导致气泵停止工作时，可能会导致鱼缸内的水倒流入气泵，致使气泵进水损坏或烧坏，甚至会水漫地板。而配套使用止逆阀即可轻松解决此问题，令您无后顾之忧，尽享美景。</p>
+                                    当气泵摆放的位置低于鱼缸水位时，由于突然停电或其他原因导致气泵停止工作时，可能会导致鱼缸内的水倒流入气泵，致使气泵进水损坏或烧坏，甚至会水漫地板。而配套使用Check Valve即可轻松解决此问题，令您无后顾之忧，尽享美景。</p>
 
                                 <p><br/><br/>Black、White、橙色、红色满足您对色彩不同的需求
                                     100个的大包装，单个独立包装或是2个包装应对您不同的包装需要。<br/>
@@ -149,7 +149,7 @@
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
                                         <td class="topic">Product name</td>
-                                        <td>MT-100 止逆阀</td>
+                                        <td>MT-100 Check Valve</td>
                                     </tr>
                                     <tr>
                                         <td class="icon dekore">&nbsp;</td>
@@ -206,7 +206,7 @@
         <ul>
             <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Accessories series">Accessories series</a></li>
-            <li><a href="#">MT-100 止逆阀 </a></li>
+            <li><a href="#">MT-100 Check Valve </a></li>
         </ul>
     </div>
 </div>
