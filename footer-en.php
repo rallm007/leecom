@@ -77,7 +77,7 @@
         <div class="col" style="width: 240px;">
         	<h4>Contact</h4>
             <ul>
-				<li><a>Add: No.7 Jiangnan Industrial Road Nancun town, Panyu District, Guangzhou, Guangdong, China</a></li>
+				<li><a>Guangzhou RiChuang rubber and plastic eletric appliance Co.,Ltd</a></li>
                 <li><a>Tel：+86-20-34691002</a></li>
                 <li><a>Email：simon.lee@LEECOM.cn</a></li>
             </ul>

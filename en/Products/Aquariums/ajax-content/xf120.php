@@ -1,108 +1,122 @@
 <div class="tabs content-tabs full ui-tabs ui-widget ui-widget-content ui-corner-all">
     <ul class="clearfix ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all quantity-3">
-        <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">Product details</a></li>
+        <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">Product
+                details</a></li>
         <li class="ui-state-default ui-corner-top"><a href="#tabs-2">Technical data</a></li>
     </ul>
     <div id="tabs-1" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
-            
 
-            <div class="tab-teaser-prod_details top clearfix">
-                <div class="grid_8">
-                    <h2>XF-120---为您空间增添另一道风景</h2>
-                    <p>超节能电机不但安静还省电，一体成形，现代时尚设计，易清洗，通透无瑕，无论放到哪里都是一道亮丽的风景线。开关防水帽是你24小时不下班的安全卫士， 可替换滤材的 top filter令您的水质永远保持最洁净的状态，小巧喂食口令您投饲或加水都如此便捷。
-                        <br/><br/>White、粉色、Blue依据您的品味选择</p>
-                </div>
-               <!--  <div class="grid_4">
-                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
-                </div> -->
+
+        <div class="tab-teaser-prod_details top clearfix">
+            <div class="grid_8">
+                <h2>XF - 120 - a space for you to add another scenery</h2>
+
+                <p>Super energy-saving motor not only silence also save electricity, forming an organic whole, modern
+                    fashion design, easy to clean, connect fully, no matter where is a beautiful scenery line.Switch
+                    waterproof cap is 24 hours security guard from work, you can replace the upper part of the filter to
+                    the filter material you always keep the clean water quality state, small feeding feeding or password
+                    you add water is so convenient.
+                    <br/><br/>White, pink, blue, according to your taste</p>
             </div>
-                        
-            
+            <!--  <div class="grid_4">
+                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
+             </div> -->
+        </div>
 
-            
-                        
-            
 
-            <div id="filter" class="tab-teaser-prod_details clearfix">
-                <div class="grid_8">
-                    <h3 class="icon-headline filter-heater">合二为一的生化过滤系统和节能照明系统</h3>
-                    <p>节能环保的高亮度LED light，想开就开想关就关，绝然不影响生化过滤系统的正常运作，过滤、增氧、照明系统的浑然一体令您的爱鱼享有更多的活动空间，满足您简约时尚的品味。滤盒中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附Aquariums内残留的鱼铒、鱼烘等杂质，和高效活性炭最大程度保证水质的洁净。<br></p>
-                    
-                </div>
-                <!-- <div class="grid_4">
-                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(2).jpg" alt="">
-                </div> -->
+        <div id="filter" class="tab-teaser-prod_details clearfix">
+            <div class="grid_8">
+                <h3 class="icon-headline filter-heater">unity of biological filtration system and energy-saving lighting
+                    system</h3>
+
+                <p>Energy conservation and environmental protection high brightness leds, would like to open it on to
+                    shut off, therefore does not affect the normal operation of biological filtration system, filter,
+                    add oxygen, one integrated mass of the system which makes you love fish enjoy more activity space,
+                    meet your simple fashion taste.The efficient activated carbon in the filter box is effective to
+                    purify water quality, make the water more clear;High density filtering cotton adsorption tank of
+                    residual impurities such as fish erbium, baking, and efficient activated carbon maintain clean water
+                    quality to the greatest extent.<br>
+                </p>
+
             </div>
-                        
-        
+            <!-- <div class="grid_4">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(2).jpg" alt="">
+            </div> -->
+        </div>
+
+
     </div>
     <div id="tabs-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom ui-tabs-hide">
-<div class="tab-teaser-technical clearfix">
-    <!-- <div class="image">
-                    <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010.jpg" alt="">
-            </div> -->
-    <table>
-                                <thead>
-                    <tr>
-                        <td colspan="3">XF-120迷你鱼缸</td>
-                    </tr>
+        <div class="tab-teaser-technical clearfix">
+            <!-- <div class="image">
+                            <img src="../../../../out/pictures/generated/srcms/1/618_342_80/00010.jpg" alt="">
+                    </div> -->
+            <table>
+                <thead>
+                <tr>
+                    <td colspan="3">XK-120 Mini aquarium</td>
+                </tr>
                 </thead>
-                                <tbody>                              
-                    <tr>
-                        <td class="icon produkt">&nbsp;</td>
-                        <td class="topic">Product name</td>
-                        <td>XF-120迷你鱼缸</td>
-                    </tr>
-                    <tr>
-<td class="icon dekore">&nbsp;</td>
-<td class="topic">
-                        颜色</td>
-<td>
-<ul class="decor fl">
-<li><img alt="" src="../../../../out/pictures/master/global/1/4.png"></li>
-<li><img alt="" src="../../../../out/pictures/master/global/1/2.png"></li>
-<li><img alt="" src="../../../../out/pictures/master/global/1/3.png"></li></ul></td></tr>
-<tr>
-                        <td class="icon watt">&nbsp;</td>
-                        <td class="topic">LED light power</td>
-                        <td>3 W</td>
-                    </tr>
-                        <tr>
-                        <td class="icon filtervolumen">&nbsp;</td>
-                        <td class="topic">装箱数</td>
-                        <td>6 PCS</td>
-                    </tr>
-                 <tr>
-                        <td class="icon measure">&nbsp;</td>
-                        <td class="topic">Specification</td>
-                        <td>272 x166 x231 mm</td>
-                    </tr>
-                                                                                                                                                                        
-                    <tr>
-                        <td class="icon gewicht">&nbsp;</td>
-                        <td class="topic">Weight</td>
-                        <td>4.6 Kg</td>
-                    </tr>
-                                                                        
-                    <tr>
-                        <td class="icon liter">&nbsp;</td>
-                        <td class="topic">Capacity</td>
-                        <td>11 L</td>
-                    </tr>
-                    <tr>
-                        <td class="icon energieverbrauch">&nbsp;</td>
-                        <td class="topic">Pump power</td>
-                        <td>3 W</td>
-                    </tr>
-                    <tr>
-                        <td class="icon filtermedium">&nbsp;</td>
-                        <td class="topic">滤材型号</td>
-                        <td>SX-16</td>
-                    </tr>
-                    </tbody>
-    </table>
-</div>
-                        
-    </div>
+                <tbody>
+                <tr>
+                    <td class="icon produkt">&nbsp;</td>
+                    <td class="topic">Product name</td>
+                    <td>XK-120 Mini aquarium</td>
+                </tr>
+                <tr>
+                    <td class="icon dekore">&nbsp;</td>
+                    <td class="topic">
+                        Colour
+                    </td>
+                    <td>
+                        <ul class="decor fl">
+                            <li><img alt="" src="../../../../out/pictures/master/global/1/4.png"></li>
+                            <li><img alt="" src="../../../../out/pictures/master/global/1/2.png"></li>
+                            <li><img alt="" src="../../../../out/pictures/master/global/1/3.png"></li>
+                        </ul>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="icon watt">&nbsp;</td>
+                    <td class="topic">LED light power</td>
+                    <td>3 W</td>
+                </tr>
+                <tr>
+                    <td class="icon filtervolumen">&nbsp;</td>
+                    <td class="topic">PCS/CTN</td>
+                    <td>6 PCS</td>
+                </tr>
+                <tr>
+                    <td class="icon measure">&nbsp;</td>
+                    <td class="topic">Specification</td>
+                    <td>272 x166 x231 mm</td>
+                </tr>
+
+                <tr>
+                    <td class="icon gewicht">&nbsp;</td>
+                    <td class="topic">Weight</td>
+                    <td>4.6 Kg</td>
+                </tr>
+
+                <tr>
+                    <td class="icon liter">&nbsp;</td>
+                    <td class="topic">Capacity</td>
+                    <td>11 L</td>
+                </tr>
+                <tr>
+                    <td class="icon energieverbrauch">&nbsp;</td>
+                    <td class="topic">Pump power</td>
+                    <td>3 W</td>
+                </tr>
+                <tr>
+                    <td class="icon filtermedium">&nbsp;</td>
+                    <td class="topic">Filter material item</td>
+                    <td>SX-16</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
 
     </div>
+
+</div>

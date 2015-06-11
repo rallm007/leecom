@@ -1,6 +1,7 @@
 <div class="tabs content-tabs full ui-tabs ui-widget ui-widget-content ui-corner-all">
     <ul class="clearfix ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all quantity-3">
-        <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">Product details</a></li>
+        <li class="ui-state-default ui-corner-top ui-tabs-selected ui-state-active"><a href="#tabs-1">Product
+                details</a></li>
         <li class="ui-state-default ui-corner-top"><a href="#tabs-2">Technical data</a></li>
     </ul>
     <div id="tabs-1" class="ui-tabs-panel ui-widget-content ui-corner-bottom">
@@ -8,10 +9,16 @@
 
         <div class="tab-teaser-prod_details top clearfix">
             <div class="grid_8">
-                <h2>XA-820设计经典，做工精美</h2>
+                <h2>XA - 820 classic design, fine craftsmanship</h2>
 
                 <p>
-                    顶级的汽车级浮法玻璃，工艺精湛，晶莹剔透的感觉，经典大方的款式，特适合置于办公桌，闲暇之余，看一看悠游的爱鱼带走工作的疲累，享一份内心的宁静。开放式的设计令你加水或投食都如此便利，气量宏大的气泵静静地为水妖精输入源源不断的氧气，不但永远保持水质的洁净，还保证您的爱鱼永远都有足够的氧气。0.7W的LED light不仅永远安全，而且还为您鱼缸增添一道光芒，给您的爱鱼添一份姿色。</p>
+                    Top grade car float glass, exquisite workmanship, glittering and translucent get rid of the feeling,
+                    and easy style, classic, suitable for in the desk, leisure, take a look at a simple love fish take
+                    work tired, enjoy a peace of mind.Open design makes you add water or hurl food is so convenient, the
+                    pump of gas grand quietly enter a steady stream of oxygen for water goblins, forever not only keep
+                    the water clean, also ensure your love fish there would always be enough oxygen.The 0.7 W leds is
+                    not only safe forever, but also add a light for your tank, give you add a feminine beauty love
+                    fish.</p>
             </div>
             <!--  <div class="grid_4">
                  <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(19).jpg" alt="">
@@ -20,38 +27,51 @@
 
         <div id="light" class="tab-teaser-prod_details clearfix">
             <div class="grid_8">
-                <h3 class="icon-headline hight-lite">LQ灯---简约美观，让您尽享生活乐趣</h3>
+                <h3 class="icon-headline hight-lite">LQ lamp - simple and beautiful, let you enjoy the life fun</h3>
 
                 <p>
-                    选用高亮度优质环保节能LED light珠，色温高达8000K，具有强烈的渗透性，使您的爱鱼色彩更加艳丽夺目。最接近光合作用的光谱使水体清澈、透明，即便在光线极弱的夜间也照得您的鱼缸如此晶莹通透，给您无与伦比奇妙的视觉感受。<br>
-                </p>
-
-            </div>
-            <!-- <div class="grid_4">
-                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/t5_2.png" alt="">
-            </div> -->
-        </div>
-
-
-        <div id="filter" class="tab-teaser-prod_details clearfix left">
-            <div class="grid_8">
-                <h3 class="icon-headline filter-heater">水妖精---只为气泵而存在的高效气动过滤器</h3>
-
-                <p>
-                    时尚美观，体积小巧，气泵的超级搭档，模拟大自然的过滤系统，滤盒中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附Aquariums内残留的鱼铒、鱼烘等杂质，和高效活性炭最大程度保证水质的洁净。而优质的汽泡石则可增加氧气在水中的溶解度，令增氧效果更好；底部的过滤石有效阻挡水中大量的微粒保证水质的洁净。<br>
+                    Selects the high quality environmental protection and energy saving LED brightness
+                    Light bead, the color temperature as high as 8000 k, with strong permeability, make your love fish
+                    color more gorgeous and dazzing.Closest to the photosynthesis of spectrum of water is clear and
+                    transparent, even in the night with very weak light according to your aquarium so glittering and
+                    translucent connect fully, give you unique wonderful visual perception.<br>
                 </p>
 
             </div>
             <!--  <div class="grid_4">
-                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(2).jpg" alt="">
+                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/t5_2.png" alt="">
              </div> -->
+        </div>
+
+        <div id="filter" class="tab-teaser-prod_details clearfix left">
+            <div class="grid_8">
+                <h3 class="icon-headline filter-heater">Water goblins - only for the existence of high efficiency air
+                    filter pump</h3>
+
+                <p>
+                    Fashionable and beautiful, small size, pump super partner, simulate the filtration system of nature,
+                    the efficient activated carbon in the filter box effectively purify water quality, make water
+                    quality more clear;High density filtering cotton adsorption tank of residual impurities such as fish
+                    erbium, baking, and efficient activated carbon maintain clean water quality to the greatest
+                    extent.While high quality bubble stone can increase the solubility of oxygen in the water,
+                    increasing oxygen effect is better;Filter stone effectively block the water at the bottom of the
+                    large number of particles to ensure that the water clean.<br>
+                </p>
+
+            </div>
+            <!-- <div class="grid_4">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/01300(2).jpg" alt="">
+            </div> -->
         </div>
 
         <div id="filter" class="tab-teaser-prod_details clearfix">
             <div class="grid_8">
-                <h3 class="icon-headline filter-heater">气泵---我是你的天然氧吧</h3>
+                <h3 class="icon-headline filter-heater">Pump - I am your natural oxygen bar</h3>
 
-                <p>独有的空气压缩系统和减震系统，多级消声设计，噪声极低。特种合成橡胶组件，压力，气量恒定，是您爱鱼的有氧生态舱，自由呼吸在这里。我们生产的不是配件或简单的产品，而是品质与乐趣。</p>
+                <p>Unique air compressed system and suspension system, multistage muffler design, noise is extremely
+                    low.Special synthetic rubber components, pressure, gas constant, is you love fish aerobic ecological
+                    space, to breathe here.Our production is not a product of the accessories or simple, but the quality
+                    and fun.</p>
 
             </div>
             <!--  <div class="grid_4">
@@ -61,10 +81,15 @@
 
         <div id="floorunit" class="tab-teaser-prod_details clearfix left">
             <div class="grid_8">
-                <h3 class="icon-headline floorunit">Check Valve：您的安全守卫士</h3>
+                <h3 class="icon-headline floorunit">Check Valve：keep your security guard</h3>
 
                 <p>
-                    当气泵摆放的位置低于鱼缸水位时，由于突然停电或其他原因导致气泵停止工作时，可能会导致鱼缸内的水倒流入气泵，致使气泵进水损坏或烧坏，甚至会水漫地板。而配套使用Check Valve即可轻松解决此问题，令您无后顾之忧，尽享美景。</p>
+                    When the location of pump is lower than the water pump stop working due to sudden power failure or
+                    other reasons, may result in an aquarium water to pour into the air pump, the pump into the water
+                    damage or burn out, even the water flood the floor.And supporting the use of check valve can easily
+                    solve this problem, which makes you no trouble back at home, enjoy the beautiful scenery.
+
+                </p>
 
             </div>
             <!-- <div class="grid_4">
@@ -81,19 +106,19 @@
             <table>
                 <thead>
                 <tr>
-                    <td colspan="3">XA-820迷你鱼缸</td>
+                    <td colspan="3">XA-820 Mini aquarium</td>
                 </tr>
                 </thead>
                 <tbody>
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
                     <td class="topic">Product name</td>
-                    <td>XA-820迷你鱼缸</td>
+                    <td>XA-820 Mini aquarium</td>
                 </tr>
                 <tr>
                     <td class="icon dekore">&nbsp;</td>
                     <td class="topic">
-                        颜色
+                        Colour
                     </td>
                     <td>
                         <ul class="decor fl">
@@ -103,7 +128,7 @@
                 </tr>
                 <tr>
                     <td class="icon filtervolumen">&nbsp;</td>
-                    <td class="topic">装箱数</td>
+                    <td class="topic">PCS/CTN</td>
                     <td>4 PCS</td>
                 </tr>
                 <tr>
@@ -125,17 +150,17 @@
                 </tr>
                 <tr>
                     <td class="icon energieverbrauch">&nbsp;</td>
-                    <td class="topic">气泵型号</td>
+                    <td class="topic">Air pump model</td>
                     <td>AQ-202</td>
                 </tr>
                 <tr>
                     <td class="icon produkt">&nbsp;</td>
-                    <td class="topic">气动过滤型号</td>
+                    <td class="topic">Filter air model</td>
                     <td>IM-018 Blue</td>
                 </tr>
                 <tr>
                     <td class="icon leuchtmedium">&nbsp;</td>
-                    <td class="topic">灯型号</td>
+                    <td class="topic">Light model</td>
                     <td>LQ-106 White</td>
                 </tr>
                 <tr>
@@ -145,7 +170,7 @@
                 </tr>
                 <tr>
                     <td class="icon filtermedium">&nbsp;</td>
-                    <td class="topic">炭棉盒滤材</td>
+                    <td class="topic">Filter material replacement item</td>
                     <td>SI-18</td>
                 </tr>
                 </tbody>

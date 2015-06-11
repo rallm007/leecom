@@ -214,7 +214,7 @@
                                     <h4 class="tk-myriad-pro tk-light"><span class="green">XC Series</span></h4>
                                     <h5>Intention of manufacturing</h5>
 
-                                    <p>Details determine success or failure, attention to every detail, the intentions of self-experience. Every product through a long testing and test repeated many times, from coarse to fine long process, the most perfect posture presented in front of you.</p>
+                                    <p>Details determine success or failure, attention to every detail, the intentions of self-experience. Every product through a long testing and test repeated many times, the most perfect posture presented in front of you.</p>
                                     <ul class="decor fl">
 
                                         <li><img alt=""

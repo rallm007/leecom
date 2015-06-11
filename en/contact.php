@@ -92,11 +92,14 @@
             </div>
 
             <div class="grid_4 omega">
-                <p class="address"><strong>广州日创橡塑电器有限公司</strong><br/>
-                    Address：广东省广州市番禺区南村镇<br/>
-                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    兴业路江南工业大道7号
+                <p class="address"><strong>Guangzhou RiChuang rubber and plastic eletric appliance Co.,Ltd</strong><br/>
+                    Address：No.7 Jiangnan Industrial Road <br/>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+                    Nancun town, Panyu District,<br/>
+                    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+                    Guangzhou, Guangdong, China
                 </p>
+                <br/>
                 <h4 class="tk-myriad-pro tk-semibold green">Customer Server</h4>
 
                 <div class="tk-myriad-pro tk-semibold tel">
