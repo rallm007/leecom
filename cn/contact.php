@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-cn.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/header-cn.php"); ?>
 
 <!-- Main-Area -->
 <div id="main">

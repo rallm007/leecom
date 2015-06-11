@@ -1,4 +1,4 @@
-<?php $site_url = 'http://' . $_SERVER['SERVER_NAME'] . '/leecom/'; ?>
+<?php $site_url = 'http://' . $_SERVER['SERVER_NAME'] . '/'; ?>
 <!DOCTYPE HTML>
 <!--[if lt IE 7 ]>
 <html lang="en" class="no-js ie6"> <![endif]-->

@@ -1,4 +1,4 @@
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/header-en.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/header-en.php"); ?>
 
 <!-- Main-Area tes t -->
 <div id="main">
@@ -117,7 +117,7 @@
 
 <!-- Footer-Area -->
 
-<?php include($_SERVER['DOCUMENT_ROOT'] . "/leecom/footer-en.php"); ?>
+<?php include($_SERVER['DOCUMENT_ROOT'] . "/footer-en.php"); ?>
 
 <div id="sroverlay"
      style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999999999999999;display: none;"></div>
