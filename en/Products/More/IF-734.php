@@ -142,7 +142,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon pumpenleistung">&nbsp;</td>
-                                        <td class="topic">装箱数</td>
+                                        <td class="topic">PCS/CTN</td>
                                         <td>40</td>
                                     </tr>
                                     <tr>

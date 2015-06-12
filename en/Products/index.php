@@ -152,7 +152,7 @@
                 <div class="content" style="height: 150px;">
                     <h2>Air pump</h2>
 
-                    <p>您爱鱼的有氧生态舱</p>
+                    <p>you love fish aerobic ecological AQ pump series</p>
                     <span class="button ci3">More detail</span>
                 </div>
             </a>
@@ -162,7 +162,7 @@
                 <div class="content" style="height: 150px;">
                     <h2>Power head</h2>
 
-                    <p>澎湃性能，高效超凡</p>
+                    <p>surging performance, efficient prowess</p>
                     <span class="button ci3">More detail</span>
                 </div>
             </a>

@@ -8,7 +8,7 @@
 			 style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
 			<h1 class="tk-myriad-pro tk-light">Air pump</h1>
 
-			<p>您爱鱼的有氧生态舱</p>
+			<p>you love fish aerobic ecological AQ pump series</p>
 		</div>
 	</div>
 
@@ -146,7 +146,7 @@
 
 						<h2 class="tk-myriad-pro tk-light">NI-318 </h2>
 
-						<p class="desc">我们生产的不是配件或简单的产品，而是品质与乐趣。</p>
+						<p class="desc">Our production is not a product of the accessories or simple, but the quality and fun.</p>
 					</div>
 				</div>
 				<!-- ende -> oberer Bereich-->
@@ -165,11 +165,11 @@
 								<h3>NI-318</h3>
 
 								<p>
-									我们生产的不是配件或简单的产品，而是品质与乐趣。独有的空气压缩系统和减震系统，多级消声设计，噪声极低。特种合成橡胶组件，压力，气量恒定。Green特殊防震橡胶脚，采用原始硅胶，杜绝使用再生料，以保证气泵的防震功能，及确保不管放置时间多长也不会留下胶脚的印记而弄脏您的家具。微调式调节气量功能，任你随心所欲，按您对气量的大小需求而随意调节。</p>
+									Our production is not a product of the accessories or simple, but the quality and fun. Unique air compressed system and suspension system, multistage muffler design, noise is extremely low.Special synthetic rubber components, pressure, gas constant.Green special shockproof rubber feet, USES the original silica gel, put an end to use reworked material, to ensure the pump of shockproof function, and make sure that no matter how long time will not leave the stamp of the rubber feet and dirty your furniture.Fine-tuning gas type adjustment function, let you follow one's inclinations, according to your demand for the size of the volume and adjust at will.</p>
 
-								<p><br/>单孔、双孔出气口满足您不同的鱼缸需求。<br/>
-									精心为您准备好的NI-318套装 Series，内有气泵，气管，Check Valve，气动过滤器，安装完毕即可立马使用。<br/><br/>
-									推荐配套产品:</p>
+								<p><br/>Single and double hole the outlet meet your needs different fish tank.<br/>
+									Carefully prepared for you suit NI - 218 series, with air pump, trachea, check valve, air filter, installation can be used immediately.<br/><br/>
+									Recommended products:</p>
 
 								<p><br/>
 									1. Check Valve</p>
@@ -180,13 +180,13 @@
 
 								<p>4. Air stone</p>
 
-								<p>5. 调节阀</p>
+								<p>5. The regulator</p>
 
-								<p>6. Y型管</p>
+								<p>6. Y type pipe</p>
 
-								<p>7. L型管</p>
+								<p>7. L type pipe</p>
 
-								<p>8. 直通</p>
+								<p>8. Direct</p>
 
 								<p>&nbsp;</p>
 							</div>
@@ -199,22 +199,22 @@
 									<tbody>
 									<tr>
 										<td class="icon produkt">&nbsp;</td>
-										<td class="topic">气泵型号</td>
-										<td>AQ-312气泵</td>
+										<td class="topic">Air pump model</td>
+										<td>AQ-312 air pump</td>
 									</tr>
 									<tr>
 										<td class="icon energieverbrauch">&nbsp;</td>
-										<td class="topic">气动过滤器型号</td>
+										<td class="topic">Filter air model</td>
 										<td>IM-018 Blue</td>
 									</tr>
 									<tr>
 										<td class="icon pumpenleistung">&nbsp;</td>
-										<td class="topic">Check Valve型号</td>
+										<td class="topic">Check Valve model</td>
 										<td>MT-100 Black</td>
 									</tr>
 									<tr>
 										<td class="icon measure">&nbsp;</td>
-										<td class="topic">外箱尺寸</td>
+										<td class="topic">Outer box size</td>
 										<td></td>
 									</tr>
 									<tr>

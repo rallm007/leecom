@@ -153,12 +153,12 @@
                                     </tr>
                                     <tr>
                                         <td class="icon lumen">&nbsp;</td>
-                                        <td class="topic">流量</td>
+                                        <td class="topic">L/Min</td>
                                         <td>1100 L/H</td>
                                     </tr>
                                     <tr>
                                         <td class="icon pumpenleistung">&nbsp;</td>
-                                        <td class="topic">装箱数</td>
+                                        <td class="topic">PCS/CTN</td>
                                         <td>16</td>
                                     </tr>
                                     <tr>
@@ -178,7 +178,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon volumen">&nbsp;</td>
-                                        <td class="topic">适合鱼缸大小</td>
+                                        <td class="topic">Suitable for fish tank size</td>
                                         <td></td>
                                     </tr>
                                     </tbody>

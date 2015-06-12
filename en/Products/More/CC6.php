@@ -131,7 +131,7 @@
 
                         <h2 class="tk-myriad-pro tk-light">小蟹磁擦 </h2>
 
-                        <p class="desc">外壳采用增强ABS全新原材料，防腐蚀、耐酸碱，长久使用也不会污染水质。</p>
+                        <p class="desc">Shell adopts reinforced ABS new raw materials, corrosion resistance, acid and alkali resistance, use for a long time also won't pollution water quality.</p>
                     </div>
                 </div>
                 <!-- ende -> oberer Bereich-->
@@ -177,12 +177,12 @@
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic">装箱数</td>
+                                        <td class="topic">PCS/CTN</td>
                                         <td>72</td>
                                     </tr>
                                     <tr>
                                         <td class="icon gewicht">&nbsp;</td>
-                                        <td class="topic">Weight/个</td>
+                                        <td class="topic">Weight/PCS</td>
                                         <td>0.13</td>
                                     </tr>
                                     <tr>

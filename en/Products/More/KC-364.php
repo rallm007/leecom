@@ -142,7 +142,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic">装箱数</td>
+                                        <td class="topic">PCS/CTN</td>
                                         <td>36</td>
                                     </tr>
                                     <tr>
@@ -162,7 +162,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon volumen">&nbsp;</td>
-                                        <td class="topic">适合鱼缸大小</td>
+                                        <td class="topic">Suitable for fish tank size</td>
                                         <td></td>
                                     </tr>
                                     <tr>
@@ -172,7 +172,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon lichtfarbe">&nbsp;</td>
-                                        <td class="topic">电压/频率</td>
+                                        <td class="topic">Voltage/Frequency</td>
                                         <td>220~240 V/50Hz<br/>220~240 V/60Hz<br/>100~120 V/60Hz</td>
                                     </tr>
                                     </tbody>

@@ -130,7 +130,7 @@
                             <div class="tab-teaser accessories_detail-prod_detail">
                                 <h3>MQ-100 Air pipe regulator</h3>
 
-                                <p>外观时尚，做工精致，独特的设计使气管在使用过程中不易脱落，将气管一分为二，两头用空气调节阀重新连接上，然后通过控制旋扭来自由调节气流流通的大小。</p>
+                                <p>外观时尚，做工精致，独特的设计使气管在使用过程中不易脱落，将气管一分为二，两头用空气The regulator重新连接上，然后通过控制旋扭来自由调节气流流通的大小。</p>
 
                                 <p><br/><br/><br/>
                                 </p>

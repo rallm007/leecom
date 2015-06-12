@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">Power head</h1>
 
-            <p>澎湃性能，高效超凡</p>
+            <p>surging performance, efficient prowess</p>
         </div>
     </div>
 
@@ -112,7 +112,7 @@
 
                         <h2 class="tk-myriad-pro tk-light">PF-140 </h2>
 
-                        <p class="desc">外壳采用增强ABS全新原材料，防腐蚀、耐酸碱，长久使用也不会污染水质。</p>
+                        <p class="desc">Shell adopts reinforced ABS new raw materials, corrosion resistance, acid and alkali resistance, use for a long time also won't pollution water quality.</p>
                     </div>
                 </div>
                 <!-- ende -> oberer Bereich-->
@@ -131,9 +131,9 @@
                                 <h3>PF-140</h3>
 
                                 <p>
-                                    外壳采用增强ABS全新原材料，防腐蚀、耐酸碱，长久使用也不会污染水质，高强度耐磨轴芯,高效节能,使用寿命长,动力强劲持久,独特的树脂灌封,密封绝缘性能更强，杜绝任何的安全隐患。高强度耐磨不锈钢轴芯，超强磁力转子，高效节能，使用寿命更长，动力更强。不但可以潜入缸内保持水流的循环，还可以为您的假山做瀑布造景，甚至可置于干燥的陆地以作抽水泵使用，为您浇花淋菜。</p>
+                                    Shell adopts reinforced ABS new raw materials, corrosion resistance, acid and alkali resistance, use for a long time also won't pollution water quality, the high strength wear resistant shaft core, high efficiency and energy saving, long service life, power strong, sustained unique resin potting and sealing insulation performance is stronger, put an end to any security hidden danger.High strength wear resistant stainless steel shaft core, super magnetic rotor, high efficiency and energy saving, service life is longer and stronger power.Can not only keeps up the circulation of the water into the cylinder, still can do for your rockery waterfall scenery, even can be used on dry land for pump, water the flowers for you food.</p>
 
-                                <p><br/><br/>PF-120,130,140,150,160一共5个型号以满足您不同的需求。<br/>
+                                <p><br/><br/>PF-120,130,140,150,160 a total of five models to meet your different needs.<br/>
                                 </p>
 
                                 <p><br/>
@@ -148,7 +148,7 @@
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
                                         <td class="topic">Product name</td>
-                                        <td>PF-140水泵</td>
+                                        <td>PF-140 power head</td>
                                     </tr>
                                     <tr>
                                         <td class="icon energieverbrauch">&nbsp;</td>
@@ -157,39 +157,39 @@
                                     </tr>
                                     <tr>
                                         <td class="icon lumen">&nbsp;</td>
-                                        <td class="topic">流量</td>
+                                        <td class="topic">L/Min</td>
                                         <td>600 L/H</td>
                                     </tr>
                                     <tr>
                                         <td class="icon filtervolumen">&nbsp;</td>
-                                        <td class="topic">扬程</td>
+                                        <td class="topic">Cable length<br/>
                                         <td>1.2 m</td>
                                     </tr>
 
                                     <tr>
                                         <td class="icon pumpenleistung">&nbsp;</td>
-                                        <td class="topic">是否可调节水流量</td>
-                                        <td>是</td>
+                                        <td class="topic">Flow adjusted or not</td>
+                                        <td>Yes</td>
                                     </tr>
 
                                     <tr>
                                         <td class="icon kabellaenge">&nbsp;</td>
-                                        <td class="topic">电源线长</td>
-                                        <td>1.5 米</td>
+                                        <td class="topic">Cable length</td>
+                                        <td>1.5 M</td>
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic">装箱数</td>
+                                        <td class="topic">PCS/CTN</td>
                                         <td>72 PCS</td>
                                     </tr>
                                     <tr>
                                         <td class="icon lichtfarbe">&nbsp;</td>
-                                        <td class="topic">电压/频率</td>
+                                        <td class="topic">Voltage/Frequency</td>
                                         <td>220~240 V/50Hz<br/>220~240 V/60Hz<br/>100~120 V/60Hz</td>
                                     </tr>
                                     <tr>
                                         <td class="icon measure">&nbsp;</td>
-                                        <td class="topic">外箱尺寸</td>
+                                        <td class="topic">Outer box size</td>
                                         <td>42 x 33 x 33.2 cm</td>
                                     </tr>
                                     <tr>
@@ -199,7 +199,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon volumen">&nbsp;</td>
-                                        <td class="topic">适合鱼缸大小</td>
+                                        <td class="topic">Suitable for fish tank size</td>
                                         <td></td>
                                     </tr>
                                     </tbody>

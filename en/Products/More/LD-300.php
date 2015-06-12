@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">LED series</h1>
 
-            <p>LED时代的来临！</p>
+            <p>LED are coming!</p>
         </div>
     </div>
 
@@ -129,7 +129,7 @@
 
                         <h2 class="tk-myriad-pro tk-light">LD-300 </h2>
 
-                        <p class="desc">高亮度LED light珠，多角度可调节铝合金灯支架。三档开光，安全可靠的适配器。</p>
+                        <p class="desc">High brightness LED lamp beads, multi-angle adjustable aluminum lamp holder. Stalls opening, secure the adapter.</p>
                     </div>
                 </div>
                 <!-- ende -> oberer Bereich-->
@@ -148,9 +148,9 @@
                                 <h3>LD-300</h3>
 
                                 <p>
-                                    高亮度LED light珠，多角度可调节铝合金灯支架。三档开光，安全可靠的适配器。蓝白光，增加鱼缸梦幻般的感觉，还可以为水草缸植物生长提供充足的光合作用。使水体更加透明，呈现水草和热带鱼体色。充足的光源，让水族缸更漂亮生态更加健康。在夜间，蓝光更好的帮助您观赏鱼儿。还原自然色，更适合鱼与水草的生存。低耗节能，使用寿命长。LED light片表面有高透明亚克力挡水板，更安全。</p>
+                                    High brightness LED lamp beads, multi-angle adjustable aluminum lamp holder. Stalls opening, secure the adapter.Blue and white，increasing the aquarium fantastic feeling, but also that the growth of aquatic plants provide sufficient cylinders photosynthesis. Make water more transparent, rendering plants and tropical fish color. Plenty of light, so the aquarium more beautiful ecology more healthy. At night, the better to help you enjoy the blue fish. Restore the natural color, is more suitable for fish and plants to survive. Low energy, long service life. LED lights have a high transparent acrylic sheet surface flap and safer.</p>
 
-                                <p>LD-300 , LD-360 ,LD-400 , LD-460，LD-600，LD-800 一共6个型号以满足您不同的需求。</p>
+                                <p>LD-300 , LD-360 ,LD-400 , LD-460，LD-600，LD-800 a total of six models to meet your needs.</p>
                             </div>
 
 
@@ -162,12 +162,12 @@
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
                                         <td class="topic">Product name</td>
-                                        <td>LD-300灯具</td>
+                                        <td>LD-300  lamp</td>
                                     </tr>
                                     <tr>
                                         <td class="icon lichtfarbe">&nbsp;</td>
-                                        <td class="topic">可选灯光</td>
-                                        <td>双白光<br/>蓝白光<br/>双红光</td>
+                                        <td class="topic">LED color</td>
+                                        <td>White<br/>Blue and white<br/>Red</td>
                                     </tr>
                                     <tr>
                                         <td class="icon energieverbrauch">&nbsp;</td>
@@ -176,12 +176,12 @@
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic">装箱数</td>
+                                        <td class="topic">PCS/CTN</td>
                                         <td>12 PCS</td>
                                     </tr>
                                     <tr>
                                         <td class="icon measure">&nbsp;</td>
-                                        <td class="topic">长度调节</td>
+                                        <td class="topic">Length adjustment</td>
                                         <td>310-350 mm</td>
                                     </tr>
                                     </tbody>

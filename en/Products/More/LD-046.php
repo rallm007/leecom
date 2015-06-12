@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">LED series</h1>
 
-            <p>LED时代的来临！</p>
+            <p>LED are coming!</p>
         </div>
     </div>
 
@@ -132,7 +132,7 @@
 
                         <h2 class="tk-myriad-pro tk-light">LD-046 </h2>
 
-                        <p class="desc">可微调节长度塑胶支架，使用安全可靠的低压输入适配器，操作方便。</p>
+                        <p class="desc">Differentiable adjustable length plastic stents, the use of safe and reliable low voltage input adapter, easy to operate.</p>
                     </div>
                 </div>
                 <!-- ende -> oberer Bereich-->
@@ -147,11 +147,11 @@
                         <div id="tabs-1">
 
 
-                            <p class="tab-teaser accessories_detail-prod_detail">
+                            <div class="tab-teaser accessories_detail-prod_detail">
                                 <h3>LD-046</h3>
 
-                                <p>可微调节长度塑胶支架，使用安全可靠的低压输入适配器，操作方便。全新LED light照明完美升级，三条灯条，呼醒光合作用。色温极稳定，为水草提供一个优质的环境。</p>
-                                <p>LD-030 , LD-036 ,LD-040 , LD-046，LD-060，LD-080 一共6个型号以满足您不同的需求。</p>
+                                <p>Differentiable adjustable length plastic stents, the use of safe and reliable low voltage input adapter, easy to operate.The new LED lighting perfect upgrade, three lights, wake up call photosynthesis. Very stable color temperature for aquatic plants provide a quality environment.</p>
+                                <p>LD-030 , LD-036 ,LD-040 , LD-046，LD-060，LD-080 a total of six models to meet your needs.</p>
                             </div>
 
                         </div>
@@ -162,12 +162,12 @@
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
                                         <td class="topic">Product name</td>
-                                        <td>LD-046灯具</td>
+                                        <td>LD-046  lamp</td>
                                     </tr>
                                     <tr>
                                         <td class="icon lichtfarbe">&nbsp;</td>
-                                        <td class="topic">可选灯光</td>
-                                        <td>双白光<br/>蓝白光<br/>双红光</td>
+                                        <td class="topic">LED color</td>
+                                        <td>White<br/>Blue and white<br/>Red</td>
                                     </tr>
                                     <tr>
                                         <td class="icon energieverbrauch">&nbsp;</td>
@@ -176,12 +176,12 @@
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic">装箱数</td>
+                                        <td class="topic">PCS/CTN</td>
                                         <td>12 PCS</td>
                                     </tr>
                                     <tr>
                                         <td class="icon measure">&nbsp;</td>
-                                        <td class="topic">长度调节</td>
+                                        <td class="topic">Length adjustment</td>
                                         <td>450-490 mm</td>
                                     </tr>
                                     </tbody>

@@ -143,7 +143,7 @@
                                     <tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic">装箱数</td>
+                                        <td class="topic">PCS/CTN</td>
                                         <td>12</td>
                                     </tr>
                                     <tr>
