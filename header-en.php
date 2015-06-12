@@ -65,7 +65,7 @@
             // }
 
             function goto_cn() {
-                var _url = (this.location.href).replace('en', 'cn');
+                var _url = (this.location.href).replace('/en', '/cn');
                 this.location.href = _url.replace('_us', '');
             }
 
@@ -73,7 +73,7 @@
                 if(this.location.href == '<?php echo $site_url; ?>'+'index.php' || this.location.href == '<?php echo $site_url; ?>') {
                     this.location.href = '<?php echo $site_url; ?>'+'index_us.php';
                 } else {
-                    this.location.href = (this.location.href).replace('cn', 'en');
+                    this.location.href = (this.location.href).replace('/cn', '/en');
                 }
             }
         </script>
