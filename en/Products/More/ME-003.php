@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">Accessories series</h1>
 
-            <p>您不可或缺的鱼缸伴侣</p>
+            <p>Indispensable aquarium accessories series: your partner</p>
         </div>
     </div>
 
@@ -19,7 +19,7 @@
                     <li>You are here:</li>
                     <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Accessories series">Accessories series</a></li>
-                    <li>ME-003 气管接头直通</li>
+                    <li>ME-003 air pipe connector</li>
                 </ul>
             </div>
             <!-- Links - Navigation und Teaser-Content -->
@@ -41,37 +41,37 @@
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-201.php">MR-201生化球 </a>
+                                        <a href="MR-201.php">MR-201 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-202.php">MR-202生化球 </a>
+                                        <a href="MR-202.php">MR-202 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-301.php">MR-301生化球 </a>
+                                        <a href="MR-301.php">MR-301 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-302.php">MR-302生化球 </a>
+                                        <a href="MR-302.php">MR-302 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="ME-001.php">ME-001 L型气管接头 </a>
+                                        <a href="ME-001.php">ME-001 L shape air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="ME-002.php">ME-002 Y型气管三通 </a>
+                                        <a href="ME-002.php">ME-002 Y shape air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li class="active">
-                                        <a href="ME-003.php">ME-003 气管接头直通 </a>
+                                        <a href="ME-003.php">ME-003 air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
@@ -81,7 +81,7 @@
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="QPS.php">Air stone </a>
+                                        <a href="QPS.php">Bubble stone </a>
                                     </li>
                                 </ul>
                             </li>
@@ -111,7 +111,7 @@
 
                     <div class="grid_4 omega accessories_detail_right" style="margin-top: 100px;">
 
-                        <h2 class="tk-myriad-pro tk-light">ME-003 气管接头直通 </h2>
+                        <h2 class="tk-myriad-pro tk-light">ME-003 air pipe connector </h2>
 
                         <p class="desc"></p>
                     </div>
@@ -129,9 +129,9 @@
 
 
                             <div class="tab-teaser accessories_detail-prod_detail">
-                                <h3>ME-003 气管接头直通</h3>
+                                <h3>ME-003 air pipe connector</h3>
 
-                                <p>透明无毒、环保优质PVC材质，在需要把现有的气管接驳得更长的时候气管接头将是您不二的选择。</p>
+                                <p>Transparent, non-toxic, environmental protection high quality PVC material, in the existing need longer tracheal tubing when tracheal joint will be your second choice.</p>
 
                                 <p><br/><br/><br/>
                                 </p>
@@ -148,7 +148,7 @@
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
                                         <td class="topic">Product name</td>
-                                        <td>ME-003 气管接头直通</td>
+                                        <td>ME-003 air pipe connector</td>
                                     </tr>
                                     <tr>
                                         <td class="icon dekore">&nbsp;</td>
@@ -157,7 +157,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic">每包数量</td>
+                                        <td class="topic">Pcs/bag</td>
                                         <td>100 PCS</td>
                                     </tr>
                                     </tbody>
@@ -205,7 +205,7 @@
         <ul>
             <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Accessories series">Accessories series</a></li>
-            <li><a href="#">ME-003 气管接头直通 </a></li>
+            <li><a href="#">ME-003 air pipe connector </a></li>
         </ul>
     </div>
 </div>

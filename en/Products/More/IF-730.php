@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">Filter air series</h1>
 
-            <p>培养高密度硝化菌的专家</p>
+            <p>Expert at cultivating high nitrifying bacteria</p>
         </div>
     </div>
 
@@ -102,7 +102,7 @@
 
                         <h2 class="tk-myriad-pro tk-light">IF-730 </h2>
 
-                        <p class="desc">我的硝化菌培养专家</p>
+                        <p class="desc">I denitrifying bacteria cultivation expert</p>
                     </div>
                 </div>
                 <!-- ende -> oberer Bereich-->
@@ -121,10 +121,10 @@
                                 <h3>IF-730</h3>
 
                                 <p>
-                                    采用高级环保海棉作为滤材，该生化棉有多层原理设计制造而成，拥有最大的表面积，并没有任何对水流的障碍，与气泵联用可达到增氧与过滤的双重功效。易于清洗，无噪音，大大增加氧气在水中的溶解度，达到洁净、稳定水质的的功效。产品衔街处均可360度旋转，可根据空间需求自由调节，生化棉可拆式设计，清洗更便利。超大吸盘，吸力更强，更稳固，更牢靠。</p>
+                                    Using advanced environmental protection sponge as filter material, design and manufacture the biochemical cotton have multilayer principle and become, has the largest surface area, and without any obstacle to water flow, and increases oxygen pump combination can achieve the effect of the filter.Easy to clean, no noise, greatly increase the solubility of oxygen in the water, achieve clean effect, stable water quality.Product bit street where all can rotate 360 degrees, can adjust freely according to space requirements, biochemical cotton detachable design, cleaning more convenient.Super suction cups, suction stronger, more stable, more reliable.</p>
 
-                                <p><br/><br/>IF-730,731,732,733,734五个型号，单头、双头可依据您不同的需求订制。<br/>
-                                    替换滤材型号：SI-30,SI-32,SI-34</p>
+                                <p><br/><br/>IF - 730731732733734 five models, single head, double head can be made according to your different needs.<br/>
+                                    Replace filter material type: SI - 30, SI - 32, SI - 34</p>
 
                                 <p><br/>
                             </div>
@@ -137,7 +137,7 @@
                                     <tbody>
                                     <tr>
                                         <td class="icon volumen">&nbsp;</td>
-                                        <td class="topic">适用鱼缸</td>
+                                        <td class="topic">Suitable for fish tank size</td>
                                         <td>14 L</td>
                                     </tr>
                                     <tr>
@@ -147,17 +147,17 @@
                                     </tr>
                                     <tr>
                                         <td class="icon filtervolumen">&nbsp;</td>
-                                        <td class="topic"> Carbon cartridge replacement号</td>
+                                        <td class="topic"> Carbon cartridge replacement item</td>
                                         <td>SI-30</td>
                                     </tr>
                                     <tr>
                                         <td class="icon kabellaenge">&nbsp;</td>
-                                        <td class="topic">毛重/箱</td>
+                                        <td class="topic">Weiht/CTN</td>
                                         <td>4.7</td>
                                     </tr>
                                     <tr>
                                         <td class="icon measure">&nbsp;</td>
-                                        <td class="topic">体积/箱</td>
+                                        <td class="topic">Volume/box</td>
                                         <td>0.082</td>
                                     </tr>
                                     </tbody>

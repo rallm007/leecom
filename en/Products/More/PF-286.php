@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">Internal filter series</h1>
 
-            <p>还您一个宁静的世界</p>
+            <p>Give you a peaceful world</p>
         </div>
     </div>
 
@@ -136,11 +136,11 @@
                                 <h3>PF-286</h3>
 
                                 <p>
-                                    过滤、增氧、造浪于一体的三合一过滤器，外壳采用顶级加强型ABS塑料制造而成，过滤泵头主体部份全部采用进口铜线，性能更高，更有效省电，顶部灌胶密封，杜绝漏电安全隐患。多种Filter material item配置在内，起到更好的过滤功能。当中的高效活性炭有效净化水质，令水质更清澈；超大生化棉加大了被过滤面积，从而起到更好的过滤作用。过滤盒可拆卸，可以随时替换滤材以永保水质洁净。特别配置雨淋管和加氧管出水，接法多种多样，可以根据自己需求随意调节流量大小。</p>
+                                    Filtering, add oxygen, made waves in the integration of triad filters, shell top reinforced ABS plastic manufacturing, filter pump head body parts are all made of imported copper wire, higher performance and more effectively and save electricity, at the top of the glue sealing, prevent leakage safety hidden trouble.A variety of filter material configuration, a better filtering capabilities.High efficiency of activated carbon to purify the water quality effectively, make water quality more clear;Large biochemical cotton increased by filter area, so as to have a better filtering effect.Removable filter box, can at any time to replace filter material to keep the water clean forever.Special configuration of the rain pipe and oxygen water, connection is varied, can adjust the flow freely according to his needs.</p>
 
-                                <p><br/><br/>PF-282,283,284,285,286五个型号满足您不同鱼缸的需求。
-                                    活性炭替换滤材型号：SP-22,SP-23,SP-24,SP-25,SP-26
-                                    生化棉替换滤材型号：SP-82，SP-83,SP-84,SP-85,SP-86<br/>
+                                <p><br/><br/>PF - 282283284285286 five models satisfy you the demand of different fish tank.<br/>
+Activated carbon filtration material substitution model: SP - 22, 23, SP - SP - 24, 25, SP - SP - 26<br/>
+Biochemical cotton to replace the filter material models: SP - 82, SP - 83, SP - 84-85 - SP, SP - 86<br/><br/>
                                 </p>
 
                                 <p><br/>
@@ -169,22 +169,22 @@
                                     </tr>
                                     <tr>
                                         <td class="icon filtervolumen">&nbsp;</td>
-                                        <td class="topic"> Carbon cartridge replacement号</td>
+                                        <td class="topic"> Carbon cartridge replacement item</td>
                                         <td>SH-26</td>
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic"> Bio-sponge replacement号</td>
+                                        <td class="topic"> Bio-sponge replacement item</td>
                                         <td>SH-86</td>
                                     </tr>
                                     <tr>
                                         <td class="icon kabellaenge">&nbsp;</td>
-                                        <td class="topic">毛重/箱</td>
+                                        <td class="topic">Weiht/CTN</td>
                                         <td>30</td>
                                     </tr>
                                     <tr>
                                         <td class="icon measure">&nbsp;</td>
-                                        <td class="topic">体积/箱</td>
+                                        <td class="topic">Volume/box</td>
                                         <td>0.074</td>
                                     </tr>
                                     <tr>

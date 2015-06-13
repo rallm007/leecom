@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">Accessories series</h1>
 
-            <p>您不可或缺的鱼缸伴侣</p>
+            <p>Indispensable aquarium accessories series: your partner</p>
         </div>
     </div>
 
@@ -41,37 +41,37 @@
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-201.php">MR-201生化球 </a>
+                                        <a href="MR-201.php">MR-201 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-202.php">MR-202生化球 </a>
+                                        <a href="MR-202.php">MR-202 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-301.php">MR-301生化球 </a>
+                                        <a href="MR-301.php">MR-301 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-302.php">MR-302生化球 </a>
+                                        <a href="MR-302.php">MR-302 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="ME-001.php">ME-001 L型气管接头 </a>
+                                        <a href="ME-001.php">ME-001 L shape air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="ME-002.php">ME-002 Y型气管三通 </a>
+                                        <a href="ME-002.php">ME-002 Y shape air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="ME-003.php">ME-003 气管接头直通 </a>
+                                        <a href="ME-003.php">ME-003 air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
@@ -81,7 +81,7 @@
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="QPS.php">Air stone </a>
+                                        <a href="QPS.php">Bubble stone </a>
                                     </li>
                                 </ul>
                             </li>
@@ -130,7 +130,7 @@
                             <div class="tab-teaser accessories_detail-prod_detail">
                                 <h3>MQ-100 Air pipe regulator</h3>
 
-                                <p>外观时尚，做工精致，独特的设计使气管在使用过程中不易脱落，将气管一分为二，两头用空气The regulator重新连接上，然后通过控制旋扭来自由调节气流流通的大小。</p>
+                                <p>Appearance fashion, workmanship, unique design make the trachea in use process is not easy to fall off, the trachea in two, two head on the regulator to reconnect with air, and then through the control knob and from by adjusting the size of the air circulation.</p>
 
                                 <p><br/><br/><br/>
                                 </p>
@@ -156,7 +156,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic">每包数量</td>
+                                        <td class="topic">Pcs/bag</td>
                                         <td>100 PCS</td>
                                     </tr>
                                     </tbody>

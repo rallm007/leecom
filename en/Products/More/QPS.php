@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">Accessories series</h1>
 
-            <p>您不可或缺的鱼缸伴侣</p>
+            <p>Indispensable aquarium accessories series: your partner</p>
         </div>
     </div>
     <div class="page_margins">
@@ -18,7 +18,7 @@
                     <li>You are here:</li>
                     <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Accessories series">Accessories series</a></li>
-                    <li>Air stone</li>
+                    <li>Bubble stone</li>
                 </ul>
             </div>
             <!-- Links - Navigation und Teaser-Content -->
@@ -40,37 +40,37 @@
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-201.php">MR-201生化球 </a>
+                                        <a href="MR-201.php">MR-201 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-202.php">MR-202生化球 </a>
+                                        <a href="MR-202.php">MR-202 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-301.php">MR-301生化球 </a>
+                                        <a href="MR-301.php">MR-301 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-302.php">MR-302生化球 </a>
+                                        <a href="MR-302.php">MR-302 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="ME-001.php">ME-001 L型气管接头 </a>
+                                        <a href="ME-001.php">ME-001 L shape air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="ME-002.php">ME-002 Y型气管三通 </a>
+                                        <a href="ME-002.php">ME-002 Y shape air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="ME-003.php">ME-003 气管接头直通 </a>
+                                        <a href="ME-003.php">ME-003 air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
@@ -80,7 +80,7 @@
                                 </ul>
                                 <ul>
                                     <li class="active">
-                                        <a href="QPS.php">Air stone </a>
+                                        <a href="QPS.php">Bubble stone </a>
                                     </li>
                                 </ul>
                             </li>
@@ -110,7 +110,7 @@
 
                     <div class="grid_4 omega accessories_detail_right" style="margin-top: 100px;">
 
-                        <h2 class="tk-myriad-pro tk-light">Air stone </h2>
+                        <h2 class="tk-myriad-pro tk-light">Bubble stone </h2>
 
                         <p class="desc"></p>
                     </div>
@@ -128,9 +128,9 @@
 
 
                             <div class="tab-teaser accessories_detail-prod_detail">
-                                <h3>Air stone</h3>
+                                <h3>Bubble stone</h3>
 
-                                <p>高温烧结的Air stone，散气性能更优、过滤性更佳，是净化、过滤和水质臭氧杀菌和增氧的不二选择。接上氣泡石後，可以使氧氣在水中更有效擴散，增加水中含氧量。</p>
+                                <p>High temperature sintering bubble stone, perforated better, filterability, better performance, is the purification, filtration and water quality of ozone sterilization and increasing oxygen.When bubbles stone is connected, can spread the oxygen in the water more effectively, increase the oxygen content in water.</p>
 
                                 <p><br/><br/><br/>
                                 </p>
@@ -147,7 +147,7 @@
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
                                         <td class="topic">Product name</td>
-                                        <td>Air stone</td>
+                                        <td>Bubble stone</td>
                                     </tr>
                                     <tr>
                                         <td class="icon dekore">&nbsp;</td>
@@ -156,7 +156,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic">每包数量</td>
+                                        <td class="topic">Pcs/bag</td>
                                         <td>100 PCS</td>
                                     </tr>
                                     </tbody>
@@ -204,7 +204,7 @@
         <ul>
             <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Accessories series">Accessories series</a></li>
-            <li><a href="#">Air stone </a></li>
+            <li><a href="#">Bubble stone </a></li>
         </ul>
     </div>
 </div>

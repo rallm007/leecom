@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">Top filter series</h1>
 
-            <p>养鱼、养草更轻松，生活乐无忧</p>
+            <p>Fish farming, raising grass more relaxed, happy easy life</p>
         </div>
     </div>
 
@@ -92,11 +92,11 @@
                                 <h3>CF-600 top filter</h3>
 
                                 <p>
-                                    CF Series上部过滤是一个高效过滤和抽水、增氧完美融合于一体的系统，外壳采用优质增强型ABS原材料，坚固耐用，防腐蚀、耐酸碱、经久耐用，性能更卓越，过滤泵头主体部份全部采用进口铜线，性能更高，更有效省电，顶部灌胶密封，杜绝漏电安全隐患。三重过滤的 Carbon cartridge replacement，不但替换方便，性能更出色，当中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附Aquariums内残留的鱼铒、鱼烘等杂质，和高效生化棉最大程度保证水质的洁净。</p>
+                                    CF series upper filter is a highly efficient and pumping, the perfect fusion of increasing oxygen in the integration of system, the shell is made of high quality enhanced ABS raw materials, durable, corrosion resistance, acid and alkali resistance, durability, performance is more outstanding, filter pump head body parts are all made of imported copper wire, higher performance and more effectively and save electricity, at the top of the glue sealing, to eliminate leakage safety concerns.Triple filter filtration material charcoal wool board, not only convenient replacement, more excellent performance, high efficiency of activated carbon to purify water quality effectively, make water quality more clear;High density filtering cotton adsorption tank of residual impurities such as fish erbium, baking, and efficient biochemical cotton maintain clean water quality to the greatest extent.</p>
 
                                 <p><br/><br/>
-                                    CF-300,360,400,460,600,800六个型号满足您不同尺寸的鱼缸需求。<br/>
-                                    换滤材型号：SC-30,SC-40,SC-60,SC-80<br/>
+                                    CF - 300360400460600800 six types meet your needs different size of the fish tank.<br/>
+                                    Change the filter material models: SC - 30, 40, SC - SC - 60, SC - 80<br/>
                                 </p>
 
                                 <p><br/>
@@ -115,7 +115,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon energieverbrauch">&nbsp;</td>
-                                        <td class="topic">颜色</td>
+                                        <td class="topic">Colour</td>
                                         <td>Black</td>
                                     </tr>
                                     <tr>
@@ -148,12 +148,12 @@
                                     </tr>
                                     <tr>
                                         <td class="icon gewicht">&nbsp;</td>
-                                        <td class="topic">毛重/箱</td>
+                                        <td class="topic">Weiht/CTN</td>
                                         <td>16.8</td>
                                     </tr>
                                     <tr>
                                         <td class="icon volumen">&nbsp;</td>
-                                        <td class="topic">体积/箱</td>
+                                        <td class="topic">Volume/box</td>
                                         <td>0.093</td>
                                     </tr>
                                     </tbody>

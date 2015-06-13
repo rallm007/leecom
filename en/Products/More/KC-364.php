@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">Heater series</h1>
 
-            <p>给鱼儿一个温暖的家</p>
+            <p>To give the fish a warm home</p>
         </div>
     </div>
 
@@ -110,10 +110,11 @@
                                 <h3>KC-364</h3>
 
                                 <p>
-                                    采用防爆石英玻璃管，高效率的加强型陶瓷芯，具有双重绝缘功能、加热速度快，可承受极大的温差，具有安全保护系统。温控器精准，可靠，操作简易，方便安全，硅胶防磁撞保护，淡海水两用。温控区间18℃到32℃，完全潜水，可根据您的不同需要随意调节，超强密封性，防水效果极好。优质橡胶吸盘，摆放灵活。</p>
+                                    Use explosion-proof quartz glass tube, high efficient reinforced ceramic core, with functions of double insulation, heating speed, can withstand a great deal of difference in temperature, with safety protection system.Thermostat accurate, reliable, easy to operate, convenient and safe, silicone magnetic impact protection, brackish water.18 ℃ to 32 ℃ temperature control range, diving completely, can adjust at will according to your different need, strong sealing, excellent waterproof effect.High quality rubber suction cups, flexible.</p>
 
                                 <p><br/><br/>
-                                    6种型号供你选择，总有一款适合你。<br/>
+                                    
+6 kinds of models to choose, there is always a suitable for you.<br/>
                                 </p>
 
                                 <p><br/>
@@ -137,7 +138,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon filtervolumen">&nbsp;</td>
-                                        <td class="topic">长度</td>
+                                        <td class="topic">Length</td>
                                         <td>321 m</td>
                                     </tr>
                                     <tr>
@@ -152,12 +153,12 @@
                                     </tr>
                                     <tr>
                                         <td class="icon kabellaenge">&nbsp;</td>
-                                        <td class="topic">毛重/箱</td>
+                                        <td class="topic">Weiht/CTN</td>
                                         <td>11.7</td>
                                     </tr>
                                     <tr>
                                         <td class="icon measure">&nbsp;</td>
-                                        <td class="topic">体积/箱</td>
+                                        <td class="topic">Volume/box</td>
                                         <td>0.074</td>
                                     </tr>
                                     <tr>
@@ -167,7 +168,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon pumpenleistung">&nbsp;</td>
-                                        <td class="topic">温控范围</td>
+                                        <td class="topic">Temperature control range</td>
                                         <td>18℃-32℃</td>
                                     </tr>
                                     <tr>

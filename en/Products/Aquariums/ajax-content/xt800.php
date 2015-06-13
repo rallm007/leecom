@@ -279,9 +279,9 @@ Three gears switch give you different visual feeling, light and shade to form di
 
                 <a class="fl-block"
                    href="javascript:void(0)"
-                   original-title="Air stone" style="margin-right: 873px;"><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="Air stone"
-                        title="Air stone"></a>
+                   original-title="Bubble stone" style="margin-right: 873px;"><img
+                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="Bubble stone"
+                        title="Bubble stone"></a>
             </div>
         </div>
         <a class="accessories-nav accessories-prev disabled"

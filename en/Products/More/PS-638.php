@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">Internal filter series</h1>
 
-            <p>还您一个宁静的世界</p>
+            <p>Give you a peaceful world</p>
         </div>
     </div>
 
@@ -131,10 +131,11 @@
                                 <h3>PS-638</h3>
 
                                 <p>
-                                    容增氧、过滤、培养硝化菌功能于一体的神器。外壳采用优质增强型ABS原材料，坚固耐用，防腐蚀、耐酸碱、经久耐用，性能更卓越，过滤泵头主体部份全部采用进口铜线，性能更高，更有效省电，顶部灌胶密封，杜绝漏电安全隐患。配有超大面积生过过滤棉，同时可在过滤棉上加入硝化细菌，以促使硝化系统的快速生成，分解爱鱼的粪便以及残留的食物，过滤盒可拆卸，可以随时替换滤材以永保水质洁净。</p>
+                                    Capacity increasing oxygen, filtering, cultivating function of nitrifying bacteria in an artifact.The shell is made of high quality enhanced ABS raw materials, durable, corrosion resistance, acid and alkali resistance, durability, performance is more outstanding, filter pump head body parts are all made of imported copper wire, higher performance and more effective energy saving, the top of the glue sealing, prevent leakage safety hidden trouble.Is equipped with a large area of bore filter cotton, nitrifying bacteria can be added on the filter cotton at the same time, to promote nitrification system quickly generate, decompose love fish waste and residue of food, removable filter box, can at any time to replace filter material to keep the water clean forever.</p>
 
-                                <p><br/><br/>PS-618,628,638三个型号满足您不同的需求
-                                    生化棉替换滤材型号：SP-68<br/>
+                                <p><br/><br/>
+PS - 618628638 three models to meet your different needs<br/>
+                                    Biochemical cotton to replace the filter material models: SP - 68<br/>
                                 </p>
 
                                 <p><br/>
@@ -163,17 +164,17 @@
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic"> Bio-sponge replacement号</td>
+                                        <td class="topic"> Bio-sponge replacement item</td>
                                         <td>SP-68</td>
                                     </tr>
                                     <tr>
                                         <td class="icon kabellaenge">&nbsp;</td>
-                                        <td class="topic">毛重/箱</td>
+                                        <td class="topic">Weiht/CTN</td>
                                         <td>13.4</td>
                                     </tr>
                                     <tr>
                                         <td class="icon measure">&nbsp;</td>
-                                        <td class="topic">体积/箱</td>
+                                        <td class="topic">Volume/box</td>
                                         <td>0.064</td>
                                     </tr>
                                     <tr>

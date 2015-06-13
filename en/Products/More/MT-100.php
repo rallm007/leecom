@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">Accessories series</h1>
 
-            <p>您不可或缺的鱼缸伴侣</p>
+            <p>Indispensable aquarium accessories series: your partner</p>
         </div>
     </div>
 
@@ -41,37 +41,37 @@
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-201.php">MR-201生化球 </a>
+                                        <a href="MR-201.php">MR-201 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-202.php">MR-202生化球 </a>
+                                        <a href="MR-202.php">MR-202 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-301.php">MR-301生化球 </a>
+                                        <a href="MR-301.php">MR-301 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-302.php">MR-302生化球 </a>
+                                        <a href="MR-302.php">MR-302 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="ME-001.php">ME-001 L型气管接头 </a>
+                                        <a href="ME-001.php">ME-001 L shape air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="ME-002.php">ME-002 Y型气管三通 </a>
+                                        <a href="ME-002.php">ME-002 Y shape air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="ME-003.php">ME-003 气管接头直通 </a>
+                                        <a href="ME-003.php">ME-003 air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
@@ -81,7 +81,7 @@
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="QPS.php">Air stone </a>
+                                        <a href="QPS.php">Bubble stone </a>
                                     </li>
                                 </ul>
                             </li>
@@ -131,10 +131,10 @@
                                 <h3>MT-100 Check Valve</h3>
 
                                 <p>
-                                    当气泵摆放的位置低于鱼缸水位时，由于突然停电或其他原因导致气泵停止工作时，可能会导致鱼缸内的水倒流入气泵，致使气泵进水损坏或烧坏，甚至会水漫地板。而配套使用Check Valve即可轻松解决此问题，令您无后顾之忧，尽享美景。</p>
+                                    When the location of pump is lower than the water pump stop working due to sudden power failure or other reasons, may result in an aquarium water to pour into the air pump, the pump into the water damage or burn out, even the water flood the floor.And supporting the use of check valve can easily solve this problem, which makes you no trouble back at home, enjoy the beautiful scenery.</p>
 
-                                <p><br/><br/>Black、White、橙色、红色满足您对色彩不同的需求
-                                    100个的大包装，单个独立包装或是2个包装应对您不同的包装需要。<br/>
+                                <p><br/><br/>Black, white, orange, red meet your demand for different color
+                                    100 large packaging, a single independent packing or two to deal with different packing you need.<br/>
                                 </p>
 
                                 <p><br/>
@@ -153,12 +153,12 @@
                                     </tr>
                                     <tr>
                                         <td class="icon dekore">&nbsp;</td>
-                                        <td class="topic">颜色</td>
-                                        <td>Black/White/橙色/红色</td>
+                                        <td class="topic">Colour</td>
+                                        <td>Black/White/Orange/Red</td>
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic">每包数量</td>
+                                        <td class="topic">Pcs/bag</td>
                                         <td>100 PCS</td>
                                     </tr>
                                     </tbody>

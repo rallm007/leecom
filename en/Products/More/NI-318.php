@@ -178,7 +178,7 @@
 
 								<p>3. IFFilter air series</p>
 
-								<p>4. Air stone</p>
+								<p>4. Bubble stone</p>
 
 								<p>5. The regulator</p>
 

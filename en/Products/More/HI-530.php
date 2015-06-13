@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">Hang-on filter series</h1>
 
-            <p>从未体验过的水族精品</p>
+            <p>Never experience of aquatic products</p>
         </div>
     </div>
 
@@ -100,11 +100,11 @@
                                 <h3>HI-530</h3>
 
                                 <p>
-                                    时尚美观，瀑布式流水设计，高仿大自然的流水规律，超静，仅听见潺潺流水的声音，为鱼儿提供充足的氧气，令鱼儿更活跃，水族世界更精彩。外壳采用优质增强型ABS原材料，坚固耐用，防腐蚀、耐酸碱、经久耐用，性能更卓越，过滤泵头主体部份全部采用进口铜线，性能更高，更有效省电，顶部灌胶密封，杜绝漏电安全隐患。三重过滤的 Carbon cartridge replacement，不但替换方便，性能更出色，当中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附Aquariums内残留的鱼铒、鱼烘等杂质，和高效生化棉最大程度保证水质的洁净。可调试流量的The regulator，自由调节最适合水流量及溶氧量以供生物生长，专业油膜处理技术，独特的油膜吸头设计，使之高效快速吸收水面油膜，以给您的爱鱼一个最洁净而温馨的家。</p>
+                                    Fashion and beautiful, the waterfall water design, high copy the flowing law of nature, super quiet, only hear the voice of gurgling water, to provide enough oxygen to the fish, fish will be more active, aquatic animals the world more wonderful.The shell is made of high quality enhanced ABS raw materials, durable, corrosion resistance, acid and alkali resistance, durability, performance is more outstanding, filter pump head body parts are all made of imported copper wire, higher performance and more effective energy saving, the top of the glue sealing, prevent leakage safety hidden trouble.Triple filter filtration material charcoal wool board, not only convenient replacement, more excellent performance, high efficiency of activated carbon to purify water quality effectively, make water quality more clear;High density filtering cotton adsorption tank of residual impurities such as fish erbium, baking, and efficient biochemical cotton maintain clean water quality to the greatest extent.Can adjust freely debugging flow regulating valve, the most suitable for water flow and oxygen for biological growth, professional film processing technology, unique design of the oil film suction head to make it efficient rapid absorption of water surface oil film, to give you love fish is one of the most clean and sweet home.</p>
 
                                 <p><br/><br/>
-                                    炭棉板替换滤材型号：SH-10<br/>
-                                    生化棉替换滤材型号：SH-20<br/>
+                                    Charcoal wool board to replace the filter material models: SH - 10<br/>
+                                    Biochemical cotton to replace the filter material models: SH - 20<br/>
                                 </p>
 
                                 <p><br/>
@@ -133,22 +133,22 @@
                                     </tr>
                                     <tr>
                                         <td class="icon filtervolumen">&nbsp;</td>
-                                        <td class="topic"> Carbon cartridge replacement号</td>
+                                        <td class="topic"> Carbon cartridge replacement item</td>
                                         <td>SH-10</td>
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic"> Bio-sponge replacement号</td>
+                                        <td class="topic"> Bio-sponge replacement item</td>
                                         <td>SH-20</td>
                                     </tr>
                                     <tr>
                                         <td class="icon kabellaenge">&nbsp;</td>
-                                        <td class="topic">毛重/箱</td>
+                                        <td class="topic">Weiht/CTN</td>
                                         <td>9</td>
                                     </tr>
                                     <tr>
                                         <td class="icon measure">&nbsp;</td>
-                                        <td class="topic">体积/箱</td>
+                                        <td class="topic">Volume/box</td>
                                         <td>0.061</td>
                                     </tr>
                                     <tr>

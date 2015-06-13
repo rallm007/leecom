@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">Accessories series</h1>
 
-            <p>您不可或缺的鱼缸伴侣</p>
+            <p>Indispensable aquarium accessories series: your partner</p>
         </div>
     </div>
 
@@ -19,7 +19,7 @@
                     <li>You are here:</li>
                     <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Accessories series">Accessories series</a></li>
-                    <li>MR-202生化球</li>
+                    <li>MR-202 Bio-ball</li>
                 </ul>
             </div>
             <!-- Links - Navigation und Teaser-Content -->
@@ -41,37 +41,37 @@
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-201.php">MR-201生化球 </a>
+                                        <a href="MR-201.php">MR-201 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li class="active">
-                                        <a href="MR-202.php">MR-202生化球 </a>
+                                        <a href="MR-202.php">MR-202 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-301.php">MR-301生化球 </a>
+                                        <a href="MR-301.php">MR-301 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="MR-302.php">MR-302生化球 </a>
+                                        <a href="MR-302.php">MR-302 Bio-ball </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="ME-001.php">ME-001 L型气管接头 </a>
+                                        <a href="ME-001.php">ME-001 L shape air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="ME-002.php">ME-002 Y型气管三通 </a>
+                                        <a href="ME-002.php">ME-002 Y shape air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="ME-003.php">ME-003 气管接头直通 </a>
+                                        <a href="ME-003.php">ME-003 air pipe connector </a>
                                     </li>
                                 </ul>
                                 <ul>
@@ -81,7 +81,7 @@
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="QPS.php">Air stone </a>
+                                        <a href="QPS.php">Bubble stone </a>
                                     </li>
                                 </ul>
                             </li>
@@ -118,7 +118,7 @@
                         </script>
 
                         <div id="fb-root"></div>
-                        <h2 class="tk-myriad-pro tk-light">MR-202生化球 </h2>
+                        <h2 class="tk-myriad-pro tk-light">MR-202 Bio-ball </h2>
 
                         <p class="desc"></p>
                     </div>
@@ -136,10 +136,10 @@
 
 
                             <div class="tab-teaser accessories_detail-prod_detail">
-                                <h3>MR-202生化球</h3>
+                                <h3>MR-202 Bio-ball</h3>
 
                                 <p>
-                                    滤材中净化水质的利器，结合生化球及生化棉块双重结构，具有多重塑料骨架，可提供巨大表面积硝化细菌繁殖生长，并可防止因相互重叠而造成水流黑死区，透氧性更强。生化球的网孔结构，内部的多孔为硝化细菌的繁殖生长提供了巨大的生化表面积，内部生化棉加速细菌成熟，进一步提高了生化球的生化能力。</p>
+                                    Filter material of purifying water quality, combined with the biochemical ball and biochemical cotton piece of dual structure, with multiple plastic skeleton, can provide huge surface area of nitrifying bacteria breeding, and can prevent the water black death caused by overlapping zone, oxygen permeability and stronger.Biochemical ball mesh structure, internal porous provides the reproductive growth of nitrifying bacteria biochemical surface area, large internal biochemical cotton bacterial mature faster, further improve the biochemical capacity of biochemical ball.</p>
 
                                 <p><br/><br/><br/>
                                 </p>
@@ -156,7 +156,7 @@
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
                                         <td class="topic">Product name</td>
-                                        <td>MR-202生化球</td>
+                                        <td>MR-202 Bio-ball</td>
                                     </tr>
                                     <tr>
                                         <td class="icon dekore">&nbsp;</td>
@@ -165,7 +165,7 @@
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
-                                        <td class="topic">每包数量</td>
+                                        <td class="topic">Pcs/bag</td>
                                         <td>100 PCS</td>
                                     </tr>
                                     </tbody>
@@ -213,7 +213,7 @@
         <ul>
             <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Accessories series">Accessories series</a></li>
-            <li><a href="#">MR-202生化球 </a></li>
+            <li><a href="#">MR-202 Bio-ball </a></li>
         </ul>
     </div>
 </div>

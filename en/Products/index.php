@@ -172,7 +172,7 @@
                 <div class="content" style="height: 150px;">
                     <h2>Magnetic series</h2>
 
-                    <p>一切创新是为了给你不一样的体验</p>
+                    <p>Everything is innovation in order to give you a different experience</p>
                     <span class="button ci3">More detail</span>
                 </div>
             </a>

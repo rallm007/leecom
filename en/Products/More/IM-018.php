@@ -8,7 +8,7 @@
              style="background-image:url(<?php echo $site_url ?>out/pictures/master/category/subheader/00000000281.png)">
             <h1 class="tk-myriad-pro tk-light">Filter air series</h1>
 
-            <p>培养高密度硝化菌的专家</p>
+            <p>Expert at cultivating high nitrifying bacteria</p>
         </div>
     </div>
 
@@ -20,7 +20,7 @@
                     <li><a href="../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Filter air series">Filter air series</a></li>
                     <li><a href="IM-018.php" title="IM Series">IM Series</a></li>
-                    <li>IM-018水妖精</li>
+                    <li>IM-018 water goblins</li>
                 </ul>
             </div>
             <!-- Links - Navigation und Teaser-Content -->
@@ -100,9 +100,9 @@
 
                     <div class="grid_4 omega accessories_detail_right" style="margin-top: 100px;">
 
-                        <h2 class="tk-myriad-pro tk-light">IM-018水妖精 </h2>
+                        <h2 class="tk-myriad-pro tk-light">IM-018 water goblins </h2>
 
-                        <p class="desc">只为气泵而存在的高效气动过滤器</p>
+                        <p class="desc">Only for the existence of high efficiency air filter pump</p>
                     </div>
                 </div>
                 <!-- ende -> oberer Bereich-->
@@ -118,13 +118,13 @@
 
 
                             <div class="tab-teaser accessories_detail-prod_detail">
-                                <h3>IM-018水妖精</h3>
+                                <h3>IM-018 water goblins</h3>
 
                                 <p>
-                                    时尚美观，体积小巧，气泵的超级搭档，模拟大自然的过滤系统，滤盒中的高效活性炭有效净化水质，令水质更清澈；高密度过滤棉可吸附Aquariums内残留的鱼铒、鱼烘等杂质，和高效活性炭最大程度保证水质的洁净。而优质的汽泡石则可增加氧气在水中的溶解度，令增氧效果更好；底部的过滤石有效阻挡水中大量的微粒保证水质的洁净。</p>
+                                    Fashionable and beautiful, small size, pump super partner, simulate the filtration system of nature, the efficient activated carbon in the filter box effectively purify water quality, make water quality more clear;High density filtering cotton adsorption tank of residual impurities such as fish erbium, baking, and efficient activated carbon maintain clean water quality to the greatest extent.While high quality bubble stone can increase the solubility of oxygen in the water, increasing oxygen effect is better;Filter stone effectively block the water at the bottom of the large number of particles to ensure that the water clean.</p>
 
-                                <p><br/><br/>透明、粉色、Blue、Green点亮您不同的居家风格。<br/>
-                                    替换滤材型号：SI-18</p>
+                                <p><br/><br/>Transparent, pink, blue, green light you different style that occupy the home.<br/>
+                                    Replace filter material type: SI - 18</p>
 
                                 <p><br/>
                             </div>
@@ -137,7 +137,7 @@
                                     <tbody>
                                     <tr>
                                         <td class="icon volumen">&nbsp;</td>
-                                        <td class="topic">适用鱼缸</td>
+                                        <td class="topic">Suitable for fish tank size</td>
                                         <td></td>
                                     </tr>
                                     <tr>
@@ -147,17 +147,17 @@
                                     </tr>
                                     <tr>
                                         <td class="icon filtervolumen">&nbsp;</td>
-                                        <td class="topic"> Carbon cartridge replacement号</td>
+                                        <td class="topic"> Carbon cartridge replacement item</td>
                                         <td>SI-18</td>
                                     </tr>
                                     <tr>
                                         <td class="icon kabellaenge">&nbsp;</td>
-                                        <td class="topic">毛重/箱</td>
+                                        <td class="topic">Weiht/CTN</td>
                                         <td>13</td>
                                     </tr>
                                     <tr>
                                         <td class="icon measure">&nbsp;</td>
-                                        <td class="topic">体积/箱</td>
+                                        <td class="topic">Volume/box</td>
                                         <td>0.052</td>
                                     </tr>
                                     </tbody>
