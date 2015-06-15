@@ -246,8 +246,8 @@
     </div>
 
     <!-- CROSSSELLING / ACCESSORIES -->
-        <div class="accessories clearfix">
-        <h4>Matching accessories</h4>
+    <div class="accessories clearfix">
+        <h4>搭配零配件</h4>
 
         <div class="accessories_slider">
 
