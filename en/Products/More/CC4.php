@@ -78,7 +78,7 @@
                                 </ul>
                                 <ul>
                                     <li>
-                                        <a href="CC9.php">海螺磁擦 </a>
+                                        <a href="CC9.php">Conch magnetic brush </a>
                                     </li>
                                 </ul>
                             </li>

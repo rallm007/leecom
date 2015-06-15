@@ -19,7 +19,7 @@
                     <li>You are here:</li>
                     <li><a href="../../index.php" title="PRODUCTS">PRODUCTS</a></li>
                     <li><a href="../index.php" title="Magnetic series">Magnetic series</a></li>
-                    <li>海螺磁擦</li>
+                    <li>Conch magnetic brush</li>
                 </ul>
             </div>
             <!-- Links - Navigation und Teaser-Content -->
@@ -76,7 +76,7 @@
                                 </ul>
                                 <ul>
                                     <li class="active">
-                                        <a href="CC9.php">海螺磁擦 </a>
+                                        <a href="CC9.php">Conch magnetic brush </a>
                                     </li>
                                 </ul>
                             </li>
@@ -105,7 +105,7 @@
 
                     <div class="grid_4 omega accessories_detail_right" style="margin-top: 100px;">
 
-                        <h2 class="tk-myriad-pro tk-light">海螺磁擦 </h2>
+                        <h2 class="tk-myriad-pro tk-light">Conch magnetic brush </h2>
 
                         <p class="desc">Shell adopts reinforced ABS new raw materials, corrosion resistance, acid and alkali resistance, use for a long time also won't pollution water quality.</p>
                     </div>
@@ -123,7 +123,7 @@
 
 
                             <div class="tab-teaser accessories_detail-prod_detail">
-                                <h3>海螺磁擦</h3>
+                                <h3>Conch magnetic brush</h3>
 
                                 <p>
                                     Made of high-quality resin higher quality, feel more comfortable, super rare earth neodymium magnets, magnetic super.New animal model, and active hippo to star named starfish, is stabbing stone fish, lifelong sleepless dolphin, ferocious shark, domineering crabs, pot-bellied fish delicious mosquitoes, further conch, attractive the tortoise.Put a piece in a tank, when using another piece can be placed outside the cylinder adsorption, moving outside a drive to a casual activity inside, like a vivid sea animals happily playing within the cylinder.For your fish tank more add a ornament and authentic flavor.</p>
@@ -143,7 +143,7 @@
                                     <tr>
                                         <td class="icon produkt">&nbsp;</td>
                                         <td class="topic">Product name</td>
-                                        <td>海螺磁擦</td>
+                                        <td>Conch magnetic brush</td>
                                     </tr>
                                     <tr>
                                         <td class="icon measure">&nbsp;</td>
@@ -215,7 +215,7 @@
         <ul>
             <li><a href="../../../index.php" title="PRODUCTS">PRODUCTS</a></li>
             <li><a href="../index.php" title="Magnetic series">Magnetic series</a></li>
-            <li><a href="#">海螺磁擦 </a></li>
+            <li><a href="#">Conch magnetic brush </a></li>
         </ul>
     </div>
 </div>
