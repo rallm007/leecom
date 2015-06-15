@@ -246,49 +246,45 @@
     </div>
 
     <!-- CROSSSELLING / ACCESSORIES -->
-    <div class="accessories clearfix">
-        <h4>搭配零配件</h4>
+        <div class="accessories clearfix">
+        <h4>Matching accessories</h4>
 
-        <div class="caroufredsel_wrapper"
-             style="float: none; position: relative; top: auto; right: auto; bottom: auto; left: auto; width: 873px; height: 124px; margin: 30px 0px 0px 34px; overflow: hidden;">
-            <div class="accessories_slider"
-                 style="float: none; position: absolute; top: 0px; left: 0px; margin: 0px; width: 873px; height: 124px;">
+        <div class="accessories_slider">
 
-                <a class="fl-block"
-                   href="javascript:void(0)"
-                   original-title="MT-100 止逆阀2个装" style=""><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86930.png"
-                        alt="MT-100 止逆阀2个装" title="MT-100 止逆阀2个装"></a>
+            <a class="fl-block" href="../../More/MT-100.php" original-title="止逆阀 2 个装">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86930.png" alt="止逆阀 2 个装" title="止逆阀 2 个装">
+            </a>
+           
+            <a class="fl-block" href="../../More/MT-100.php" original-title="MT-100 止逆阀 1 个装">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86941.png" alt="止逆阀 1 个装" title="止逆阀 1 个装">
+            </a>
 
-                <a class="fl-block"
-                   href="javascript:void(0)"
-                   original-title="MQ-100气管调节阀" style=""><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86262.png" alt="MQ-100气管调节阀"
-                        title="MQ-100气管调节阀"></a>
+            <a class="fl-block" href="../../More/MQ-100.php" original-title="气管调节阀">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86262.png" alt="气管调节阀" title="气管调节阀">
+            </a>
 
-                <a class="fl-block"
-                   href="javascript:void(0)"
-                   original-title="MT-100 止逆阀" style=""><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86923.png"
-                        alt="MT-100 止逆阀" title="MT-100 止逆阀"></a>
+            <a class="fl-block" href="../../More/ME-001.php" original-title="L型气管接头">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86923.png" alt="L型气管接头" title="L型气管接头">
+            </a>
 
-                <a class="fl-block"
-                   href="javascript:void(0)"
-                   original-title="黄粉" style=""><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86944.png"
-                        alt="D黄粉" title="黄粉"></a>
+            <a class="fl-block" href="../../More/MR-202.php" original-title="生化球">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86950.png" alt="生化球" title="生化球">
+            </a>
 
-                <a class="fl-block"
-                   href="javascript:void(0)"
-                   original-title="气泡石" style="margin-right: 873px;"><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="气泡石"
-                        title="气泡石"></a>
-            </div>
+            <a class="fl-block" href="../../More/QPS.php" original-title="气泡石">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="气泡石" title="气泡石">
+            </a>
+
+            <a class="fl-block" href="../../More/ME-002.php" original-title="Y型气管三通">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86970.png" alt="Y型气管三通" title="Y型气管三通">
+            </a>
+
+             <a class="fl-block" href="../../More/ME-003.php" original-title="气管接头直通">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86980.png" alt="气管接头直通" title="气管接头直通">
+            </a>            
         </div>
-        <a class="accessories-nav accessories-prev disabled"
-           href="../../../../out/pictures/generated/srcms/1/618_342_80/#" style="display: block;"></a>
-        <a class="accessories-nav accessories-next" href="../../../../out/pictures/generated/srcms/1/618_342_80/#"
-           style="display: block;"></a>
+        <a class="accessories-nav accessories-prev" href="#"></a>
+        <a class="accessories-nav accessories-next" href="#"></a>
     </div>
     <!-- /CROSSSELLING / ACCESSORIES -->
 </div>

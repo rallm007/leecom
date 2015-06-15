@@ -241,48 +241,44 @@ Three gears switch give you different visual feeling, light and shade to form di
 
     <!-- CROSSSELLING / ACCESSORIES -->
     <div class="accessories clearfix">
-        <h4>Recommend spare part</h4>
+        <h4>Matching accessories</h4>
 
-        <div class="caroufredsel_wrapper"
-             style="float: none; position: relative; top: auto; right: auto; bottom: auto; left: auto; width: 873px; height: 124px; margin: 30px 0px 0px 34px; overflow: hidden;">
-            <div class="accessories_slider"
-                 style="float: none; position: absolute; top: 0px; left: 0px; margin: 0px; width: 873px; height: 124px;">
+        <div class="accessories_slider">
 
-                <a class="fl-block"
-                   href="javascript:void(0)"
-                   original-title="MT-100 Check Valve 2 Pack" style=""><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86930.png"
-                        alt="MT-100 Check Valve 2 Pack" title="MT-100 Check Valve 2 Pack"></a>
+            <a class="fl-block" href="../../More/MT-100.php" original-title="MT-100 Check Valve 2 Pack">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86930.png" alt="MT-100 Check Valve 2 Pack" title="MT-100 Check Valve 2 Pack">
+            </a>
+           
+            <a class="fl-block" href="../../More/MT-100.php" original-title="MT-100 Check Valve 1 Pack">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86941.png" alt="MT-100 Check Valve 1 Pack" title="MT-100 Check Valve 1 Pack">
+            </a>
 
-                <a class="fl-block"
-                   href="javascript:void(0)"
-                   original-title="MQ-100 Air pipe regulator" style=""><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86262.png" alt="MQ-100 Air pipe regulator"
-                        title="MQ-100 Air pipe regulator"></a>
+            <a class="fl-block" href="../../More/MQ-100.php" original-title="MQ-100 Air pipe regulator">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86262.png" alt="MQ-100 Air pipe regulator" title="MQ-100 Air pipe regulator">
+            </a>
 
-                <a class="fl-block"
-                   href="javascript:void(0)"
-                   original-title="MT-100 Check Valve" style=""><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86923.png"
-                        alt="MT-100 Check Valve" title="MT-100 Check Valve"></a>
+            <a class="fl-block" href="../../More/ME-001.php" original-title="MT-100 Check Valve">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86923.png" alt="MT-100 Check Valve" title="MT-100 Check Valve">
+            </a>
 
-                <a class="fl-block"
-                   href="javascript:void(0)"
-                   original-title="Yellow Powder" style=""><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86944.png"
-                        alt="DYellow Powder" title="Yellow Powder"></a>
+            <a class="fl-block" href="../../More/MR-202.php" original-title="MR-202 Bio-ball">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86950.png" alt="MR-202 Bio-ball" title="MR-202 Bio-ball">
+            </a>
 
-                <a class="fl-block"
-                   href="javascript:void(0)"
-                   original-title="Bubble stone" style="margin-right: 873px;"><img
-                        src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="Bubble stone"
-                        title="Bubble stone"></a>
-            </div>
+            <a class="fl-block" href="../../More/QPS.php" original-title="Bubble stone">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="Bubble stone" title="Bubble stone">
+            </a>
+
+            <a class="fl-block" href="../../More/ME-002.php" original-title="ME-002 Y shape air pipe connector">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86970.png" alt="ME-002 Y shape air pipe connector" title="ME-002 Y shape air pipe connector">
+            </a>
+
+             <a class="fl-block" href="../../More/ME-003.php" original-title="ME-003 air pipe connector">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86980.png" alt="ME-003 air pipe connector" title="ME-003 air pipe connector">
+            </a>            
         </div>
-        <a class="accessories-nav accessories-prev disabled"
-           href="../../../../out/pictures/generated/srcms/1/618_342_80/#" style="display: block;"></a>
-        <a class="accessories-nav accessories-next" href="../../../../out/pictures/generated/srcms/1/618_342_80/#"
-           style="display: block;"></a>
+        <a class="accessories-nav accessories-prev" href="#"></a>
+        <a class="accessories-nav accessories-next" href="#"></a>
     </div>
     <!-- /CROSSSELLING / ACCESSORIES -->
 </div>
