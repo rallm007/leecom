@@ -117,7 +117,7 @@
                     </div>
 
                     <div class="grid_4 omega accessories_detail_right" style="margin-top: 100px;">
-                        <h2 class="tk-myriad-pro tk-light">AQ-204 </h2>
+                        <h2 class="tk-myriad-pro tk-light">AQ-205 </h2>
 
                         <p class="desc">Our production is not a product of the accessories or simple, but the quality and fun.</p>
                     </div>

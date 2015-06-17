@@ -117,7 +117,7 @@
                     </div>
 
                     <div class="grid_4 omega accessories_detail_right" style="margin-top: 100px;">
-                        <h2 class="tk-myriad-pro tk-light">AQ-204 </h2>
+                        <h2 class="tk-myriad-pro tk-light">AQ-205 </h2>
 
                         <p class="desc">我们生产的不是配件或简单的产品，而是品质与乐趣。</p>
                     </div>
