@@ -195,8 +195,44 @@ Biochemical cotton to replace the filter material models: SP - 82, SP - 83, SP -
                     </div>
                 </div>
                 <!-- ende -> Tab-Content Bereich -->
-                <!-- CROSSSELLING / ACCESSORIES -->
-                <!-- /CROSSSELLING / ACCESSORIES -->
+                <div class="accessories clearfix">
+        <h4>Matching accessories</h4>
+
+        <div class="accessories_slider">
+
+            <a class="fl-block" href="../../Products/More/MT-100.php" original-title="MT-100 Check Valve 2 Pack">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86930.png" alt="MT-100 Check Valve 2 Pack" title="MT-100 Check Valve 2 Pack">
+            </a>
+            <a class="fl-block" href="../../Products/More/MQ-100.php" original-title="MQ-100 Air pipe regulator">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86262.png" alt="MQ-100 Air pipe regulator" title="MQ-100 Air pipe regulator">
+            </a>
+
+            <a class="fl-block" href="../../Products/More/ME-001.php" original-title="MT-100 Check Valve">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86923.png" alt="MT-100 Check Valve" title="MT-100 Check Valve">
+            </a>
+
+            <a class="fl-block" href="../../Products/More/MR-202.php" original-title="MR-202 Bio-ball">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86950.png" alt="MR-202 Bio-ball" title="MR-202 Bio-ball">
+            </a>
+
+            <a class="fl-block" href="../../Products/More/QPS.php" original-title="Bubble stone">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="Bubble stone" title="Bubble stone">
+            </a>
+
+            <a class="fl-block" href="../../Products/More/ME-002.php" original-title="ME-002 Y shape air pipe connector">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86970.png" alt="ME-002 Y shape air pipe connector" title="ME-002 Y shape air pipe connector">
+            </a>
+
+             <a class="fl-block" href="../../Products/More/ME-003.php" original-title="ME-003 air pipe connector">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86980.png" alt="ME-003 air pipe connector" title="ME-003 air pipe connector">
+            </a>
+			<a class="fl-block" href="../../Products/More/MT-100.php" original-title="MT-100 Check Valve 1 Pack">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86941.png" alt="MT-100 Check Valve 1 Pack" title="MT-100 Check Valve 1 Pack">
+            </a>			
+        </div>
+        <a class="accessories-nav accessories-prev" href="#"></a>
+        <a class="accessories-nav accessories-next" href="#"></a>
+    </div>
             </div>
             <!-- ende -> rechte Hauptspalte -->     </div>
     </div>

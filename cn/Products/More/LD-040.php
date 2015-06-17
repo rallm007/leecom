@@ -12,9 +12,6 @@
         </div>
     </div>
 
-    <script>
-
-    </script>
 
     <div class="page_margins">
         <div class="content clearfix accessories_detail">
@@ -147,7 +144,7 @@
                         <div id="tabs-1">
 
 
-                            <p class="tab-teaser accessories_detail-prod_detail">
+                            <div class="tab-teaser accessories_detail-prod_detail">
                                 <h3>LD-030</h3>
 
                                 <p>可微调节长度塑胶支架，使用安全可靠的低压输入适配器，操作方便。全新LED灯照明完美升级，三条灯条，呼醒光合作用。色温极稳定，为水草提供一个优质的环境。</p>
@@ -194,9 +191,50 @@
                 </div>
                 <!-- ende -> Tab-Content Bereich -->
                 <!-- CROSSSELLING / ACCESSORIES -->
+                <div class="accessories clearfix">
+   
+        <h4>搭配零配件</h4>
+
+        <div class="accessories_slider">
+
+            <a class="fl-block" href="../../Products/More/MT-100.php" original-title="止逆阀 2 个装">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86930.png" alt="止逆阀 2 个装" title="止逆阀 2 个装">
+            </a>
+           
+            <a class="fl-block" href="../../Products/More/ME-003.php" original-title="气管接头直通">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86980.png" alt="气管接头直通" title="气管接头直通">
+            </a>
+
+            <a class="fl-block" href="../../Products/More/MQ-100.php" original-title="气管调节阀">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86262.png" alt="气管调节阀" title="气管调节阀">
+            </a>
+
+            <a class="fl-block" href="../../Products/More/ME-001.php" original-title="L型气管接头">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86923.png" alt="L型气管接头" title="L型气管接头">
+            </a>
+
+            <a class="fl-block" href="../../Products/More/MR-202.php" original-title="生化球">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86950.png" alt="生化球" title="生化球">
+            </a>
+
+            <a class="fl-block" href="../../Products/More/QPS.php" original-title="气泡石">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86960.png" alt="气泡石" title="气泡石">
+            </a>
+
+            <a class="fl-block" href="../../Products/More/ME-002.php" original-title="Y型气管三通">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86970.png" alt="Y型气管三通" title="Y型气管三通">
+            </a>
+
+              <a class="fl-block" href="../../Products/More/MT-100.php" original-title="MT-100 止逆阀 1 个装">
+                <img src="../../../../out/pictures/generated/srcms/1/618_342_80/86941.png" alt="止逆阀 1 个装" title="止逆阀 1 个装">
+            </a>
+			</div>
+        <a class="accessories-nav accessories-prev" href="#"></a>
+        <a class="accessories-nav accessories-next" href="#"></a>
+    </div>
                 <!-- /CROSSSELLING / ACCESSORIES -->
             </div>
-            <!-- ende -> rechte Hauptspalte -->        </div>
+        </div>
     </div>
 
     <script>
