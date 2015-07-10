@@ -11,12 +11,12 @@
 <!--[if (gt IE 9)|!(IE)]><!-->
 <html> <!--<![endif]-->
 <head>
-    <title>LEECOM</title>
+    <title>广州日创橡塑电器有限公司 -官网</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=1024"/>
-    <meta name="description" content="XP-300">
-    <meta name="keywords" content="xp-300, 125, black, products, aquariums, line">
+    <meta name="description" content="LEECOM 一个专业的水族公司，自主品牌，拥有专利的新型产品, 以制造高科技、高精度和高技术的水族产品享誉于业界。">
+    <meta name="keywords" content="广州日创, 水族, Leecom, aquariums, richuang">
     <meta property="og:locale" content="fr_FR"/>
     <meta property="fb:app_id" content="532575290153827"/>
     <meta property="og:title" content="LEECOM"/>

@@ -11,12 +11,12 @@
 <!--[if (gt IE 9)|!(IE)]><!-->
 <html> <!--<![endif]-->
 <head>
-    <title>LEECOM</title>
+    <title>LEECOM -RiChuang rubber and plastic eletric</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=1024"/>
-    <meta name="description" content="XP-300">
-    <meta name="keywords" content="xp-300, 125, black, products, aquariums, line">
+    <meta name="description" content="A professional aquarium company, independent brand LEECOM, patent new products, to create high-tech, high precision and high technology of aquatic products enjoys a good reputation in the industry.">
+    <meta name="keywords" content="广州日创, 水族, Leecom, aquariums, richuang">
     <meta property="og:locale" content="fr_FR"/>
     <meta property="fb:app_id" content="532575290153827"/>
     <meta property="og:title" content="LEECOM"/>
