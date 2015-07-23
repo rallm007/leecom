@@ -291,14 +291,12 @@
                     <!-- Produkt-Bilder (einzelne Dekore eines Aquariums) -->
                     <div class="product-image">
                         <div class="product-image-wrapper" data-id="leecom-xe460b" title="LEECOM | XE-460 黑色">
-                            <a href="<?php echo $site_url; ?>out/img/xe/xe460_1173_b.jpg" class="cloud-zoom">
-                                <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
-                                <img data-src="<?php echo $site_url; ?>out/img/xe/xe460_378_b.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
+                            <a href="<?php echo $site_url; ?>out/img/xe/xe460_1173_b.jpg" class="cloud-zoom">                                
+                                <img data-src="<?php echo $site_url; ?>out/img/xe/xe460_378_b.png" alt="">
                             </a>
                         </div>
                         <div class="product-image-wrapper" data-id="leecom-xe460w" title="LEECOM | XE-460 白色">
-                            <a href="<?php echo $site_url; ?>out/img/xe/xe460_1173_w.jpg" class="cloud-zoom">
-                                <!-- großes Bild für Zoom (wird im Zoom-Fenster angezeigt) im 'href' (gleiche Proportion, wie das "kleine Vorschaubild")  -->
+                            <a href="<?php echo $site_url; ?>out/img/xe/xe460_1173_w.jpg" class="cloud-zoom">                               
                                 <img data-src="<?php echo $site_url; ?>out/img/xe/xe460_378_w.png" alt=""><!-- auf der Seite sichtbares "Vorschaubild" des Produktes -->
                             </a>
                         </div>
@@ -332,8 +330,8 @@
                     </div>
                 </div>
                 <!-- versteckte Elemente -->
-                <div class="hidden"><img class="nav-product-preview-image"
-                                         src="<?php echo $site_url; ?>out/b/54/xp300.png" alt="XE-460 "></div>
+                <!-- <div class="hidden"><img class="nav-product-preview-image"
+                                         src="<?php echo $site_url; ?>out/b/54/xp300.png" alt="XE-460 "></div> -->
                 <!-- ende-> versteckte Elemente -->
             </div>
             <!-- ende-> Slider-Item (Produkt-Variante) -->

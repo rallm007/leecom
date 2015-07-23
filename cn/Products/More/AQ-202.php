@@ -102,11 +102,9 @@
                     <div class="grid_4 alpha accessories_detail_images">
 
                         <div class="tabs product-images">
-                            <div id="image-1">
-                                <a href="<?php echo $site_url; ?>out/img/detail/2/aq202_863.jpg" class="cloud-zoom">
-                                    <img src="<?php echo $site_url; ?>out/img/detail/2/aq202_278.png" alt="" width="278"
+                            <div id="image-1">                                
+                                <img src="<?php echo $site_url; ?>out/img/detail/2/aq202_278.png" alt="" width="278"
                                          height="278">
-                                </a>
                             </div>
                         </div>
                     </div>

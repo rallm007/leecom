@@ -141,8 +141,8 @@
                     </div>
                 </div>
                 <!-- versteckte Elemente -->
-                <div class="hidden"><img class="nav-product-preview-image"
-                                         src="<?php echo $site_url; ?>out/img/54/xp300.png" alt="XC-300 "></div>
+               <!--  <div class="hidden"><img class="nav-product-preview-image"
+                                         src="<?php echo $site_url; ?>out/img/54/xp300.png" alt="XC-300 "></div> -->
                 <!-- ende-> versteckte Elemente -->
             </div>
             <!-- ende-> Slider-Item (Produkt-Variante) -->

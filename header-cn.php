@@ -11,7 +11,7 @@
 <!--[if (gt IE 9)|!(IE)]><!-->
 <html> <!--<![endif]-->
 <head>
-    <title>广州日创橡塑电器有限公司 -官网</title>
+    <title>广州日创橡塑电器有限公司</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=1024"/>
@@ -24,8 +24,7 @@
     <meta property="og:type" content="og:product"/>
     <meta property="og:image" content="<?php echo $site_url; ?>out/pictures/master/product/1/xp300.png"/>
     <link rel="shortcut icon" href="<?php echo $site_url; ?>out/pictures/master/global/1/favicon.ico">
-    <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/styles.css">
-    <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/en-GB.css">
+    <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/styles.css">   
     <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/colorbox.css">
     <link rel="stylesheet" href="<?php echo $site_url; ?>out/leecom/src/css/jquery.jscrollpane.css">
     <script src="<?php echo $site_url; ?>out/leecom/src/js/libs/jquery.min.js"></script>

@@ -1,27 +1,7 @@
 <?php include($_SERVER['DOCUMENT_ROOT'] . "/header-cn.php"); ?>
 
 <!-- Main-Area -->
-<div id="main">
-    <div id="fb-root"></div>
-    <script>
-        window.fbAsyncInit = function () {
-            FB.init({
-                appId: '532575290153827',                        // App ID from the app dashboard
-                status: true,                                 // Check Facebook Login status
-                xfbml: true                                  // Look for social plugins on the page
-            });
-        };
-        (function (d, s, id) {
-            var js, fjs = d.getElementsByTagName(s)[0];
-            if (d.getElementById(id)) {
-                return;
-            }
-            js = d.createElement(s);
-            js.id = id;
-            js.src = "../../../../../connect.facebook.net/en_GB/all.js";
-            fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));
-    </script>
+<div id="main"> 
 
 
     <div class="product-thumbnail-navi clearfix closed">
@@ -141,8 +121,8 @@
                     </div>
                 </div>
                 <!-- versteckte Elemente -->
-                <div class="hidden"><img class="nav-product-preview-image"
-                                         src="<?php echo $site_url; ?>out/img/54/xp300.png" alt="XC-300 "></div>
+                <!-- <div class="hidden"><img class="nav-product-preview-image"
+                                         src="<?php echo $site_url; ?>out/img/54/xp300.png" alt="XC-300 "></div> -->
                 <!-- ende-> versteckte Elemente -->
             </div>
             <!-- ende-> Slider-Item (Produkt-Variante) -->

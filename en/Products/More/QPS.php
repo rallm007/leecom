@@ -152,7 +152,7 @@
                                     <tr>
                                         <td class="icon dekore">&nbsp;</td>
                                         <td class="topic">Specification</td>
-                                        <td>ø12*32mm</td>
+                                        <td>ø20*32mm</td>
                                     </tr>
                                     <tr>
                                         <td class="icon lieferumfang">&nbsp;</td>
