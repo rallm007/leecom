@@ -103,10 +103,10 @@
 
                         <div class="tabs product-images">
                             <div id="image-1">
-                                <a href="<?php echo $site_url; ?>out/img/detail/3/pf_863.jpg" class="cloud-zoom">
+                              
                                     <img src="<?php echo $site_url; ?>out/img/detail/3/pf_120.jpg" alt="" width="278"
                                          height="278">
-                                </a>
+                               
                             </div>
                         </div>
                     </div>

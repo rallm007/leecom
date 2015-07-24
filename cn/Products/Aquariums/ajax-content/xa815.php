@@ -27,10 +27,7 @@
                     选用高亮度优质环保节能LED灯珠，色温高达8000K，具有强烈的渗透性，使您的爱鱼色彩更加艳丽夺目。最接近光合作用的光谱使水体清澈、透明，即便在光线极弱的夜间也照得您的鱼缸如此晶莹通透，给您无与伦比奇妙的视觉感受。<br>
                 </p>
 
-            </div>
-            <!--  <div class="grid_4">
-                 <img src="../../../../out/pictures/generated/srcms/1/618_342_80/t5_2.png" alt="">
-             </div> -->
+            </div>            
         </div>
 
         <div id="filter" class="tab-teaser-prod_details clearfix left">

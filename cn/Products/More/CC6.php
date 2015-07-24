@@ -93,10 +93,10 @@
                     <div class="grid_4 alpha accessories_detail_images">
 
                         <div class="tabs product-images">
-                            <a href="<?php echo $site_url; ?>out/img/detail/4/xiaoxie_863.jpg" class="cloud-zoom">
+                          
                                 <img src="<?php echo $site_url; ?>out/img/detail/4/xiaoxie_278.png" alt=""
                                      width="278">
-                            </a>
+                           
                         </div>
                     </div>
 
